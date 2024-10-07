@@ -1,0 +1,29 @@
+study_id,coder,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+a000026,aniruddah,2020-05-01,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"This article has cited several webpages from where it referenced data, but these weren't necessarily data repositories, so were not considered."
+a000026,michelle,2020-05-12,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No data availability statement or open data links
+a000026,sophia,2020-04-20,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000233,michelle,2020-04-03,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000233,steve,2020-05-21,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Could not find a link to shared data in paper or on website
+a000525,matthew,2020-04-23,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,The mention of open data and no link provided
+a000525,phuong,2020-04-17,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000525,steve,2020-08-08,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No mention of open data or links on website or in PDF
+a000540,sophia,2020-04-26,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000540,steve,2020-07-24,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,This is Stage 1 of a registered report (stage 2 published in 2020) - data is not applicable for this article
+a000597,evelyn,2020-05-22,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Data badge and availability was not found
+a000597,matthew,2020-04-15,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Page did not contain any relevance to open data
+a000597,sophia,2020-04-26,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000597,steve,2020-08-08,yes,NA,no,NA,other,"Link on article website, not in PDF",1,1,https://aisel.aisnet.org/trr/vol2/iss1/4/,yes,NA,https://aisel.aisnet.org/trr/vol2/iss1/4/,no,NA,NA,yes,NA,yes,NA,Data source was another article in the same journal
+a000773,adrian,2020-04-14,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Article has data badge but no statement or any links given. The following disclaimer was found in the footnotes: ""Given the potentially identifying information inherent in personal narratives, the
+transcripts cannot be made public, though interested scholars should contact Dan
+McAdams (dmca@northwestern.edu) to discuss access"
+a000773,sophia,2020-04-27,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000839,steve,2020-07-09,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,This is a theoretical paper; techinically all data and materials are supplied in the text?
+a000980,evelyn,2020-04-10,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No data availability statement or data link available, despite the paper receiving data badges"
+a000980,sophia,2020-04-08,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,couldn't find any reference to open data
+a001130,aniruddah,2020-04-22,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"This article has no mention of open practices or data availability, rather the author has quoted several websites from which he referenced the data used in his article."
+a001130,michelle,2020-04-29,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No data availability statement or open data links
+a001265,steve,2020-07-10,yes,NA,no,NA,other,Online article has direct links to files,2,1,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.xlsx,yes,NA,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.xlsx,no,NA,NA,yes,NA,yes,NA,"Online article, data files were hosted on journal website itself"
+a001265,steve,2020-07-10,yes,NA,no,NA,other,Online article has direct links to files,2,2,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.csv,yes,NA,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.csv,no,NA,NA,yes,NA,yes,NA,"Online article, data files were hosted on journal website itself"
+a001356,steve,2020-07-10,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No link to data, repository found in online version or in PDF version"
+a001600,evelyn,2020-05-08,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Article did not have data availability statement or link
+a001600,phuong,2020-04-10,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,There weren't data statement and link

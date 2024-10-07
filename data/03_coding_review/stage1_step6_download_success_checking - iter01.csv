@@ -1,0 +1,105 @@
+study_id,resolved_url_cleaned,old_download_success,old_download_success_other,download_success,download_success_other,use_code,review_date,review_notes,,
+a000039,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7EWDRF,other,The total data file size was greater than 100MB,yes,,TRUE,2020-12-01,"Total download 3.6GB, could be downloaded OK",3.6GB,
+a000046,osf.io/dkqfn,other,files are larger than 100MB,yes,,TRUE,2020-12-01,,7.0GB,
+a000072,osf.io/56yz7,other,File > 100MB,yes,,TRUE,2020-12-01,,1.5GB,
+a000147,osf.io/cwenz,other,1 out of the 4 files was 100MB,yes,,TRUE,2020-12-01,The OSF links to a Github repo,443MB,
+a000164,osf.io/28gxz,other,File >100 MB,yes,,TRUE,2020-12-01,The OSF links to a Github repo,214MB,
+a000221,osf.io/syjhd,other,data file over 100MB,yes,,TRUE,2020-12-01,,4.3GB,
+a000231,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9SF3TI,other,Files were not downloading even after > 15 minutes so did not continue,yes,,TRUE,2020-12-01,,544MB,
+a000293,osf.io/rt6w2,other,files are larger than 100MB,yes,,TRUE,2020-12-01,,1.1GB,
+a000311,osf.io/du5jc,other,1/2 of the files exceed 100MB,yes,,TRUE,2020-12-01,The OSF links to a Github repo,431MB,
+a000318,github.com/langcog/KTE,other,file over 100MB,yes,,TRUE,2020-12-01,,258MB,
+a000340,osf.io/7a9tt,other,files size exceeded 100MB,yes,,TRUE,2020-12-01,,350.7MB,
+a000345,osf.io/rf3ys,other,was able to download one zip file but the second was over 100MB,yes,,TRUE,2020-12-01,The OSF links to a Github repo; lots of simulation data included,3.35GB,
+a000392,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RJAUNW,other,Data files exceed 100MB,yes,,TRUE,2020-12-01,,629.4MB,
+a000407,ore.exeter.ac.uk/repository/handle/10871/24754,other,It took more than 15 minutes to download The data files,yes,,TRUE,2020-12-01,Lots of EEG data,5.188GB,
+a000409,figshare.com/articles/Materials_for_Pupillary_Responses_to_Words_That_Convey_a_Sense_of_Brightness_or_Darkness/4742935/2,other,File >100MB,yes,,TRUE,2020-12-01,"On figshare, but basically a frozen Github repo",375.19MB,
+a000446,osf.io/k3fj6,other,"Extremely large file (approx 5GB). It can be donwloaded within 15 miniutes but it takes hours to upload to Drive, so I do not upload it yet.",yes,,TRUE,2020-12-01,Included eye-tracking data,5.9GB,
+a000475,osf.io/qknug,other,Data files exceed 100MB,yes,,TRUE,2020-12-01,Three separate components,660MB,
+a000527,catalogue.ceda.ac.uk/uuid/7925ded722d743fa8259a93acc7073f2,other,Downloads for some files kept timing out,partial,"There were over 150 files to be downloaded individually, downloaded three successfully just to check",TRUE,2020-12-01,"Lots of individual netcdf files (one per year, 1850-2015) plus some metadata files",10GB+,
+a000539,osf.io/px8h3,other,File size exceeds 100MB,yes,,TRUE,2020-12-01,Large data set - survey maybe,3.2GB,
+a000562,figshare.com/articles/EEG_data_from_Subject_1_to_Subject_15/9225476,other,Total download size exceeded 100MB,yes,,TRUE,2020-12-01,Contains EEG data,2.62GB,
+a000562,figshare.com/articles/EEG_data_from_Subject_16_to_Subject_30_read_me/9227495,other,Total download size exceeded 100MB,yes,,TRUE,2020-12-01,Contains EEG data,2.89GB,
+a000583,osf.io/u8sdh,other,File >100MB,yes,,TRUE,2020-12-02,Contains a docker image,7.0GB,
+a000651,osf.io/sqp6z,other,Data files exceeded 100MB,yes,,TRUE,2020-12-02,Included EEG data,4.1GB,
+a000673,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HI1X4O,other,File size > 100MB,yes,,TRUE,2020-12-01,,674.3MB,
+a000857,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CPVIOF,other,xip file was over 100MB,yes,,TRUE,2020-12-01,,458.1MB,
+a000901,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GZA3GY,other,File size > 100 MB,yes,,TRUE,2020-12-01,,234.9MB,
+a000940,osf.io/ea99d,other,one of the files was over 100MB so only one file was put into the data folder,yes,,TRUE,2020-12-02,One component of OSF project was a GitHub repo,1.5GB,
+a000997,osf.io/xmnyq,other,File >100MB,yes,,TRUE,2020-12-01,,380MB,
+a001007,osf.io/m64ue,other,both of the files were over 100MB,yes,,TRUE,2020-12-04,"Includes EEG data. Technically, second component failed because disk was full, but it was otherwise downloading fine",6.32GB + 11.0+GB,
+a001127,osf.io/pxk8z,other,File >100MB,yes,,TRUE,2020-12-02,,1.4GB,
+a001132,osf.io/9z3nw,other,Data files exceeded 100MB,partial,Files in linked Box repo were in many subfolders (65) - downloaded five of them to check - all OK,TRUE,2020-12-02,Includes a link to a Box repo,1.32GB,
+a001181,osf.io/zpm9t,other,File > 100MB,yes,,TRUE,2020-12-02,Includes EEG data,410.2MB,
+a001185,osf.io/g59s2,other,Data files exceed 100MB,yes,,TRUE,2020-12-02,Two zipped CSVs,101MB,
+a001228,osf.io/6htsx,other,file was over 100MB,yes,,TRUE,2020-12-02,,5.8GB,
+a001239,osf.io/dux3n,other,File size exceeds 100MB,yes,,TRUE,2002-12-02,,9.8GB,
+a001239,osf.io/dux3n/?view_only=452552239590486e8793e573f6e8911a,other,Data files exceeded 100MB,,,FALSE,,This is a redundant link - review and perhaps drop?,9.8GB,
+a001263,osf.io/tfwum/?view_only=0cc13036c196453d940a4dafc35b715c,other,Files >100 MB,yes,,TRUE,2020-12-02,,1.5GB,
+a001326,osf.io/5tus8,other,Data files exceed 100MB,yes,,TRUE,2020-12-02,,263.5MB,
+a001336,osf.io/m6p82,other,Files >100 MB,partial,Total download size 19.2GB across many folders - downloaded only some of them (2.31GB worth),TRUE,2020-12-05,Includes fMRI data,19.2GB,
+a001352,osf.io/kwvu6,other,File >100MB,yes,,TRUE,2020-12-02,,478MB,
+a001358,osf.io/62wn9,other,"Very large files (>2GB), so I cannot upload it on Google Drive",yes,,TRUE,2020-12-02,,3.12GB,
+a001361,osf.io/efjd6,other,Download size exceeded 100MB,yes,,TRUE,2020-12-04,"Single zip, no problems",4.7GB,
+a001522,osf.io/ws3j9,other,all experiment files were over 100MB,partial,The repo contains three subprojects with huge download sizes (80GB+) so only some smaller components downloaded,TRUE,2020-12-04,Huge download sizes for sub-projects,1MB+1.3GB+117.9MB+88.2GB+91.7GB+90.5GB,
+a001577,github.com/martinjpratt/ZoomAntarctica,other,file exceeds 500mb and took longer than 15 minutes,yes,,TRUE,2020-12-01,This is a visualisation app/software,537MB,
+a001577,www.usap-dc.org/view/project/p0010035,other,"some of the files were only available to be downloaded on request, and some of the files were over 100MB, so I downloaded the ones I could :)",other,"The article used RADAR SIR (downloadable) and LiDAR LIS 1.4 (only upon request). Could download the RADAR CSV data, and some of the PNG images (there were many).",TRUE,2020-12-02,"This is a case of mixed results - one open data (many image files so only partial technically), one data upon request",500-1000MB,
+a001585,osf.io/3z8xa,other,File size exceeds 100MB,yes,,TRUE,2020-12-05,"Single zip, no problems",4.1GB,
+a001594,osf.io/nkgza,other,files are larger than 100MB,yes,,TRUE,2020-12-02,,960.1MB,
+a001601,osf.io/cjmr7/?view_only=61020c728b0845f7ac94c9d65ae9b6e3,other,Data files exceeded 100MB,yes,,TRUE,2020-12-05,Contains videos and EEG data,5.7GB + 803KB + 14.6KB,
+a001633,osf.io/xz3ap,other,files are larger than 100MB,partial,Total repo size 39GB - fMRI data for 16 subjects. Downloaded data for 1 subject and code/metadata (1.82GB),TRUE,2020-12-05,fMRI data in one folder per subject (16 subjects). Just downloaded one subject,39.1GB,
+a001659,osf.io/yedsz,other,Data files exceeded 100MB,yes,,TRUE,2020-12-02,"This wasn't greater than 100MB - just 5MB, across 6 OSF components",5.59MB,
+a000242,osf.io/adrwv,other,3/4 of the zip files could not be downloaded as they exceeded 100MB,partial,Multiple projects totalling 12GB - downloaded some components to check,TRUE,2020-12-07,Some small components and some big ones,~12GB,from iter01 disagree
+a000250,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TZRNKD,other,zip file was over 100MB,other,Could download from the Dataverse site but other unaccessible sources were mentioned,FALSE,2020-12-07,See data log - this case needs recoding,3.6GB (140MB zipped),from iter01 disagree
+a000257,osf.io/f23tn/?view_only=eb1aad8f01004d02934d872717bf9db1,other,files are larger than 100MB,partial,Large MRI data repo - downloaded scripts & metadata & data for one subject to check,TRUE,2020-12-07,fMRI study - subjects in separate subfolders,17.6GB,from iter01 disagree
+a000309,espace.library.uq.edu.au/view/UQ:21a02ec,other,Total download size breaches the 100MB threshold.,partial,Large MRI data repo - downloaded scripts & metadata & one MRI data component to check,TRUE,2020-12-07,MRI study,40GB,from iter01 disagree
+a000352,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RLLL1V,other,file over 100MB,yes,,TRUE,2020-12-07,Large Twitter corpus analysis,5.1GB,from iter01 disagree
+a000361,osf.io/ft462,other,files are larger than 100MB,yes,,TRUE,2020-12-07,EEG data,4.7GB,from iter01 disagree
+a000399,datadryad.org/stash/dataset/doi:10.5061/dryad.5t0b8,other,Download size exceeded 100MB,yes,,TRUE,2020-12-07,wasn't much larger than 100MB,141MB,from iter01 disagree
+a000421,osf.io/b8c7z,other,File size > 100 MB,partial,"Large EEG data repo - did not download all raw/processed EEG data files for each participant, just for one participant",TRUE,2021-02-14,"Large EEG dataset, most large files were raw EEG data files, actual files likely used for analyses/results were much smaller and easily downloaded",55.2GB,from iter01 disagree
+a000448,osf.io/m573q,other,File size > 100 MB,yes,,TRUE,2020-12-07,straightforward single archive to download,3.6GB,from iter01 disagree
+a000452,osf.io/arqp8,other,Download size exceeded 100MB,partial,Large fMRI data report - did not download all preprocessed fMRI data files in Rocchi_Oya_et_al_2020_Neuron/Human es-fMRI data/Preprocessed/. Could download all other files.,TRUE,2021-02-14,"Large fMRI data files, only one was downloaded to test. All other files could be downloaded.",14.5GB,from iter01 disagree
+a000465,nyu.databrary.org/volume/79,no,NA,yes,,TRUE,2020-12-07,"The ""something went wrong"" message could be replicated, but downloading the CSVs individually seemed to get around that - a poorly designed interface maybe?",,from iter01 disagree
+a000477,osf.io/yf3da,other,File >100MB,yes,,TRUE,2021-02-11,"Single zip, no problems",711MB,from iter01 disagree
+a000495,openneuro.org/datasets/ds000223/versions/00001,other,Download took over five minutes,yes,,TRUE,2021-02-14,Straightforward,5GB,from iter01 disagree
+a000523,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FPYKTP,other,File was over 100MB,yes,,TRUE,2020-12-07,Straightforward,1.2GB (309MB zipped),from iter01 disagree
+a000557,osf.io/8cd4r,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",yes,,TRUE,2021-02-11,"Data and analysis scripts spread across sub-projects. Was able to download all ""data"" files, did not download study materials which were in their own explicitly labelled sub-projects",,from iter01 disagree
+a000608,osf.io/9ungb,other,Data files exceed 100MB,yes,,TRUE,2020-12-07,Not too much bigger than 100MB,133MB,from iter01 disagree
+a000646,osf.io/zcbp7,other,Download >15mins,yes,,TRUE,2021-02-11,"Single zip, no problems",24.6MB,from iter01 disagree
+a000649,osf.io/3qskj,other,Download took longer than 5 minutes,,,FALSE,2021-02-11,"Recode to get the ""correct"" resolved_url - there is a registered version of the project. OSF project links (i) to a registered version of the OSF project and (ii) directly to Github repo.",,from iter01 disagree
+a000698,catalogue.ceda.ac.uk/uuid/8e6cbb111cfd41a19c92aadcb2d040fd,partial,Total download size exceeded 100MB,yes,,TRUE,2021-02-11,"Had to download files individually, but no problems otherwise. Also, technically this is an ongoing data collection project, files are added annually.",,from iter01 disagree
+a000713,osf.io/emf9h,other,Data files exceeded 100MB,partial,Study repo contains many large EEG data files - only some were downloaded to verify,TRUE,2021-02-14,"Study with EEG data, only small number of files downloaded to check/confirm",54.7GB,from iter01 disagree
+a000746,osf.io/ys8ct/wiki/home,other,Data files exceeded 100MB,yes,,TRUE,2021-02-11,Straightforward,3.1GB,from iter01 disagree
+a000759,osf.io/my6te,partial,Total download size is over 3G - only two of three study folders were downloaded,partial,Study repo contains MEG data (large data files) - only two out of three folders downloaded to check/confirm,TRUE,2021-02-14,"SK already coded this article; changed partial comment text slightly, so use this updated version",24GB,from iter01 disagree
+a000801,osf.io/28ejf,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",yes,,TRUE,2021-02-11,"Data files spread across sub-projects, but otherwise straightforward",<1MB,from iter01 disagree
+a000810,osf.io/bqzpt,other,3/4 of the zip files could be downloaded. One of them (data zip file) > 100 MB,,,FALSE,,Recode - link is to a user's home page not a particular project,,from iter01 disagree
+a000840,osf.io/jqkg7,other,File size exceeds 100MB,yes,,TRUE,2021-02-11,Straightforward,359MB,from iter01 disagree
+a000842,osf.io/crsiz,other,Data files exceeded 100MB,yes,,TRUE,2021-02-11,"Files spread over multiple sub-projects, but straightforward",572MB,from iter01 disagree
+a000878,osf.io/uqmh4,other,File >100MB,yes,,TRUE,2021-02-11,Straightforward,3.0GB,from iter01 disagree
+a000886,zenodo.org/record/2591594,other,files are larger than 100MB,yes,,TRUE,2021-02-11,"Annoying, had to download 31 files individually",168.9MB,from iter01 disagree
+a000937,osf.io/7p896,other,"Lots of stratified files.Tested 1 single file - connection to host was successful, documents downloaded.",yes,,TRUE,2021-02-11,"This was a single file within the first authors ""quick files"" on OSF - interestingly there were other files in this quick files folder which looked to be for other, unrelated studies",2.5MB,from iter01 disagree
+a000966,osf.io/hr7vx,other,File >100MB,yes,,TRUE,2021-02-11,Straightforward,106.6MB,from iter01 disagree
+a001033,osf.io/bpj7m,other,Data files exceeded 100MB,yes,,TRUE,2021-02-11,Straightforward,120.6MB,from iter01 disagree
+a001044,osf.io/qwa42,partial,Total download size exceeded 100MB,yes,,TRUE,2021-02-11,Straightforward,1.2GB,from iter01 disagree
+a001100,madata.bib.uni-mannheim.de/266,other,"When I clicked on the files, they opened the data on a blank webpage, but I wasn't able to download the data as a separate file.",yes,,TRUE,2021-02-11,"Had to right-click and select ""save as"" to download two CSVs - fairly straightforward",<1MB,from iter01 disagree
+a001109,osf.io/mcvt7/wiki/home,other,Data files exceeded 100MB,yes,,TRUE,2021-02-11,"Link goes to wiki, but simple to go to files subfolder from there",128.1MB,from iter01 disagree
+a001135,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26134,other,"Most files were downloaded, however some could not be downloaded because access needs to be granted",other,"Some files required permission to access, others could be downloaded freely",TRUE,2021-02-11,Some data files are restricted; others could be downloaded,,from iter01 disagree
+a001148,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WKJJ3Z,no,"Tried downloading, but it gets to around 866KB and doesn't download any further",yes,,TRUE,2021-02-11,"Straightforward, problem mentioned not encountered",83.1MB,from iter01 disagree
+a001190,osf.io/98ta4,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",yes,,TRUE,2021-02-11,"Multiple sub-projects, including link to GitHub. All straightforward",,from iter01 disagree
+a001248,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STXADQ,other,Data files exceeded 100MB,yes,,TRUE,2021-02-14,Straightforward,1.3GB,from iter01 disagree
+a001274,psy.fsu.edu/~catlab/alienssoa_pub/index.php,other,"2 out of the 3 files were able to be downloaded, but I was not allowed access to one zip file",,,FALSE,2021-02-11,Needs re-coding? Website not accessible in 2021,,from iter01 disagree
+a001278,osf.io/bifc7,other,"Very large file (>2GB), so I did not download it yet.",partial,"Study repo contains large fMRI data files, only a couple were downloaded to check/confirm",TRUE,2021-02-14,Repo with many large fMRI files - only a couple downloaded to check,24.7GB,from iter01 disagree
+a001288,edmond.mpdl.mpg.de/imeji/collection/64vBL2yNY36dYZQv,other,Data files exceeded 100MB,yes,,TRUE,2021-02-14,"This was slightly tricky - downloading from the main page resulted in timeouts/errors, but clicking the single ZIP file on the main page led to a dedicated page for that file, from which the file could be downloaded without problems.",876MB,from iter01 disagree
+a001289,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQEUBQ,other,There were 6 files that were not downloaded as access was needed to be granted to download,other,"There were 6 files (documents) that were restricted due to copyright, all other files could be downloaded. For the restricted documents, there were links to where the original documents could be accessed separately, although three were paywalled (journal articles)",TRUE,2021-02-14,"Downloading the public files was straightforward, there were links to where the 6 restricted files could theoretically be downloaded (if you had access, etc.). It looks like all files were actually documents/articles.",,from iter01 disagree
+a001328,osf.io/mgbck,other,Files >100 MB,yes,,TRUE,2021-02-14,Straightforward,610.1MB,from iter01 disagree
+a001404,osf.io/hw2ac,no,File download is taking too long.,yes,,TRUE,2021-02-11,"It did download very slowly, but was eventually successful",222.4MB,from iter01 disagree
+a001431,osf.io/dbgh6,other,File >100MB,yes,,TRUE,2021-02-14,Straightforward,1.5GB,from iter01 disagree
+a001472,openneuro.org/datasets/ds001838/versions/1.0.0,partial,Total download size is over 27G - only some small metadata files were downloaded to check,partial,Study repo contains large fMRI data files for many subjects. Just downloaded files for one subject to check/confirm.,TRUE,2021-02-14,"Already coded as partial, but try a data component if possible (done)",27.12GB,from iter01 disagree
+a001517,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUM3K8,other,"Lots of stratified files.Tested 1 file - connection to host was successful, documents downloaded.",yes,,TRUE,2021-02-14,Straightforward,3MB,from iter01 disagree
+a001525,osf.io/yjer4,other,file couln't be unzipped,,,FALSE,2021-02-11,See log - it looks like link information needs elaboration,,from iter01 disagree
+a001572,osf.io/vq49b,other,file was over 100MB,yes,,TRUE,2021-02-14,Straightforward,2.0GB,from iter01 disagree
+a001582,osf.io/kcp9z,other,2/3 zip files successfully downloaded. One of the zip files exceeded 100MB,,,FALSE,2021-02-11,Recode because data was registered?,345.7MB,from iter01 disagree
+a001609,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AGIMGY,other,file was over 100MB,yes,,TRUE,2021-02-14,Straightforward,100MB,from iter01 disagree
+a001624,osf.io/xqvkb,other,Data files exceeded 100MB,yes,,TRUE,2021-02-11,Straightforward,1.5GB,from iter01 disagree
+a001649,osf.io/5qd94,other,File > 100MB,yes,,TRUE,2021-02-14,Straightforward,9.9GB,from iter01 disagree
+a001651,osf.io/mw3rb,other,was able to download 2/3 files. The other was over 100MB.,yes,,TRUE,2021-02-11,"Files spread across sub-projects, straightforward",715MB,from iter01 disagree

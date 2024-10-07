@@ -1,0 +1,31 @@
+study_id,coder,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes,use_code
+a000140,evelyn,2020-04-16,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4fpkn/,yes,NA,https://osf.io/4fpkn/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000140,oliver,2020-04-22,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000211,oliver,2020-04-28,other,(see notes field),other,(not completed by coder),no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000211,sophia,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8gyns/,yes,NA,https://osf.io/8gyns/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000502,evelyn,2020-05-30,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8q769/,yes,NA,https://osf.io/8q769/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000502,michelle,2020-04-07,yes,NA,yes,NA,yes,NA,2,1,http://osf.io/5itqa,yes,NA,https://osf.io/5itqa,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000502,michelle,2020-04-07,yes,NA,yes,NA,yes,NA,2,2,http://osf.io/8q769,yes,NA,https://osf.io/8q769,yes,NA,OSF,yes,NA,yes,NA,NA,NA
+a000502,oliver,2020-04-25,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000595,matthew,2020-04-22,no,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17632/42djnzsw8f,yes,NA,https://data.mendeley.com/datasets/42djnzsw8f/2,yes,NA,Mendeley Data,yes,NA,yes,NA,No problems with this article,NA
+a000595,oliver,2020-04-04,other,"No graphical badge, but awarded badges are listed, as text",yes,NA,yes,NA,1,1,osf.io/yn7bm,yes,NA,https://osf.io/yn7bm,yes,NA,OSF,yes,NA,yes,NA,NA,NA
+a000596,adrian,2020-04-14,other,Data badge was a small logo in the appendix at the end,yes,NA,yes,NA,1,1,https://osf.io/ge2d5/,yes,NA,https://osf.io/ge2d5/,yes,NA,OSF,yes,NA,yes,NA,"Data badge hidden at the end. 2 links were given, but they were the same URL",NA
+a000596,evelyn,2020-04-08,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/ge2d5/,yes,NA,https://osf.io/ge2d5/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000596,evelyn,2020-04-08,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/ge2d5/,other,same link provided twice,https://osf.io/ge2d5/,yes,NA,OSF,yes,NA,yes,NA,Same link provided twice,NA
+a000597,evelyn,2020-05-22,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Data badge and availability was not found,NA
+a000597,matthew,2020-04-15,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Page did not contain any relevance to open data,NA
+a000597,sophia,2020-04-26,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000672,oliver,2020-04-27,no,NA,other,"""Supplemental material"" at bottom - but no mention of ""open"" data/pratices. Link itself does not lead to a data file.",no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000672,sophia,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/73puw/,yes,NA,https://osf.io/73puw/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000750,evelyn,2020-04-16,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4fb7d,yes,NA,https://osf.io/4fb7d,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000750,oliver,2020-04-28,other,(see notes field),other,(not completed by coder),no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000787,adrian,2020-04-06,no,NA,yes,NA,yes,NA,1,1,http://osf.io/gm5j6,yes,NA,http://osf.io/gm5j6,yes,NA,OSF,yes,NA,yes,NA,Article didn't have data badge. Data statement and links were buried in footnotes and hard to find,NA
+a000787,evelyn,2020-05-25,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gm5j6/,yes,NA,https://osf.io/gm5j6/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000787,sophia,2020-04-24,no,NA,yes,NA,yes,NA,1,1,https://osf.io/gm5j6/,yes,NA,https://osf.io/gm5j6/,yes,NA,OSF,yes,NA,yes,NA,I didn't have any problems with this article,NA
+a000799,adrian,2020-04-14,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6s8tc/,yes,NA,https://osf.io/6s8tc/,yes,NA,OSF,yes,NA,yes,NA,Data badge not prominent,NA
+a000799,oliver,2020-04-21,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a001035,michelle,2020-04-29,no,NA,yes,NA,yes,NA,1,1,https://osf.io/g3dfy/,yes,NA,https://osf.io/g3dfy,yes,NA,OSF,yes,NA,yes,NA,No Open Data badge,NA
+a001035,sophia,2020-04-11,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/g3dfy/,no,OSF page not found' error,NA,NA,NA,NA,NA,NA,NA,NA,page not found,NA
+a001526,aniruddah,2020-05-15,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Article mentions data files available in Harvard Dataverse, but no link to repository.",NA
+a001526,oliver,2020-04-07,no,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a001526,phuong,2020-04-23,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

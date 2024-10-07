@@ -1,0 +1,139 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+intro01,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,http://dx.doi.org/10.1037/com0000191.supp,yes,NA,https://osf.io/n6pfz/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+intro02,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,https://nyu.databrary.org/volume/79,yes,NA,https://nyu.databrary.org/volume/79,yes,NA,Databrary,yes,NA,no,NA,"Tried to download as zip, failed, download as csv succeeded, however, csv file had no data available"
+intro03,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9w8pg/.,yes,NA,https://osf.io/9w8pg/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+intro04,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,http://dx.doi.org/10.5061/dryad.d2441,yes,NA,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,NA,Dryad,yes,NA,yes,NA,No problems with this article
+intro05,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,http://thedata.harvard.edu/dvn/dv/PainData,yes,NA,https://dataverse.harvard.edu/dataverse/PainData,yes,NA,Havard Dataverse,yes,NA,yes,NA,"Linkes to two sets of data, both were included in the 'data' file of the google docs"
+intro06,matthew,2020-04-10,yes,NA,other,No specific mention of availability of data. They say they have registered their procedure on the OSF.,yes,NA,1,1,osf.io/zw6jg/,yes,NA,https://osf.io/zw6jg/,yes,NA,OSF,yes,NA,yes,NA,Availability of data not specifically mentioned.
+intro07,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,osf.io/8jxsr/,yes,NA,https://osf.io/8jxsr/,yes,NA,OSF,yes,NA,partial,Download started but took longer than 15 minutes,Download took too long
+intro08,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,2,1,http://doi.org/10.3886/ICPSR04652.v6,yes,NA,https://www.icpsr.umich.edu/web/NACDA/studies/4652/version/6,other,NACDA,NA,other,"Link gave me another link, saying data has been updated since the research, however, this link did not work",no,NA,Link did not lead to data
+intro08,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,2,2,http://midus.colectica.org/,yes,NA,https://midus.colectica.org/Account/Login,no,NA,NA,other,Requires login,no,NA,Link required login
+intro09,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xehfu/,yes,NA,https://osf.io/xehfu/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+intro10,matthew,2020-04-10,yes,NA,yes,NA,yes,NA,1,1,http://pisa2006.acer.edu.au/downloads.php,no,The link provided does not work,NA,NA,NA,NA,NA,NA,NA,NA,The link provided does not work
+a000019,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/YVE8F,yes,NA,https://osf.io/yve8f/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000165,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uwzsb/,yes,NA,https://osf.io/uwzsb/,yes,NA,OSF,yes,NA,yes,NA,"There were two links available, but both were the same link. Data was separated into two files"
+a000185,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/38apk/?view_only=66833d11e36f4af8a17e56d45ac5e379,yes,NA,https://osf.io/38apk/?view_only=66833d11e36f4af8a17e56d45ac5e379,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000281,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rf28u/,yes,NA,https://osf.io/rf28u/files/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000389,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kq897,yes,NA,https://osf.io/kq897,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000427,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wcrd2/,yes,NA,https://osf.io/wcrd2/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000442,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hkzsm/,yes,NA,https://osf.io/hkzsm/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000522,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ajvgt/,yes,NA,https://osf.io/ajvgt,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000543,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/daj2p/.,yes,NA,https://osf.io/daj2p/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000588,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HMCRD7.,no,Link did not lead to an unreachable site,NA,NA,NA,NA,NA,NA,NA,NA,Link did not lead to an unreachable site
+a000597,matthew,2020-04-15,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Page did not contain any relevance to open data
+a000637,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/35pf6,yes,NA,https://osf.io/35pf6/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000660,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/t86zx/,yes,NA,https://osf.io/t86zx,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000754,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8bqaj/,yes,NA,https://osf.io/8bqaj/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000788,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,osf.io/z4dxa,yes,NA,https://osf.io/z4dxa/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000846,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/nfqb9/,yes,NA,https://osf.io/nfqb9/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000867,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/dw5fm/,yes,NA,https://osf.io/dw5fm/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000991,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4rmnv/,yes,NA,https://osf.io/4rmnv/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001014,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/j7hdm,yes,NA,https://osf.io/j7hdm,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001043,matthew,2020-04-15,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4vk5x/,yes,NA,https://osf.io/4vk5x,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001070,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/q6gbw/,yes,NA,https://osf.io/q6gbw/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001122,matthew,2020-04-17,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mentions an availability to data in the online version of the article, but no access to data in the document itself"
+a001196,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rdfm3/,yes,NA,https://osf.io/rdfm3/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001224,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2ngs9/registrations/,yes,NA,https://osf.io/2ngs9/registrations,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001296,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://iris-database.org,yes,NA,https://iris-database.org/iris/app/home/index;jsessionid=632B272BDB4F94B4BF3CA11D342DE014,yes,NA,IRIS,other,"The link lead to the homepage of the repository, and I had to find the data of the document myself",yes,NA,"The link lead to the homepage of the repository, which made the user manually find the data to the document, also, to download, they collected information of the downloader."
+a001297,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OE9BNP,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OE9BNP,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a001372,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rydzg/.,yes,NA,https://osf.io/rydzg/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001379,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wkjp6,yes,NA,https://osf.io/wkjp6/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001448,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/yfc5m/,yes,NA,https://osf.io/yfc5m/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001460,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/b4nvf/,yes,NA,https://osf.io/b4nvf/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001475,matthew,2020-04-17,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mentions an availability to data in the online version of the article, but no access to data in the document itself"
+a001517,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/YUM3K8.,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUM3K8,yes,NA,Havard Dataverse,yes,NA,yes,NA,No problems with this article
+a001524,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/XRJ43D.,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XRJ43D,yes,NA,Havard Dataverse,yes,NA,yes,NA,No problems with this article
+a001571,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4ef6t/?view_only=b6f868173bd14b81ad8e9bb73b71014d,yes,NA,https://osf.io/4ef6t/?view_only=b6f868173bd14b81ad8e9bb73b71014d,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001577,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,2,1,https://www.usap-dc.org/view/project/p0010035,yes,NA,https://www.usap-dc.org/view/project/p0010035,no,NA,NA,yes,NA,other,file exceeds 500mb,"The process to download all data is complicated, with files seperates over 4 pages (leading from this page) and some data required a request to the website for download"
+a001577,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,2,2,https://github.com/martinjpratt/ZoomAntarctica,yes,NA,https://github.com/martinjpratt/ZoomAntarctica,yes,NA,Github,yes,NA,other,file exceeds 500mb and took longer than 15 minutes,"Download took too long, however, there were diagrams and descriptions of the data below the file which was interesting."
+a001584,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/8KNF3I,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8KNF3I,yes,NA,Havard Dataverse,yes,NA,yes,NA,No problems with this article
+a001623,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vjwsg/,yes,NA,https://osf.io/vjwsg/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001627,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/QSXDUN,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSXDUN,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a001628,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tvyxz/wiki,yes,NA,https://osf.io/bxj9d/,yes,NA,OSF,yes,NA,yes,NA,"Had two links (other was : https://osf.io/7gy85), they ultimately lead to the same page. No problems with this article"
+a001637,matthew,2020-04-17,yes,NA,yes,NA,yes,NA,1,1,http://doi.org/10.7910/DVN/KYI9AR,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KYI9AR,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000054,matthew,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hgcet/,yes,NA,https://osf.io/hgcet/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000083,matthew,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rmjtg,yes,NA,https://osf.io/rmjtg/,yes,NA,OSF,yes,NA,other,download took longer than 15 min,Download took too long
+a000136,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9d6t4/,no,The provided link does not work,NA,NA,NA,NA,NA,NA,NA,NA,The provided link does not work
+a000149,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,http://dx.doi.org/10.7910/DVN/7TA47E,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7TA47E,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000170,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/23gc4/,yes,NA,https://osf.io/23gc4/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000205,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https//osf.io/g6tnd/,yes,NA,https://osf.io/g6tnd,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000213,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/aj98f,yes,NA,https://osf.io/aj98f,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000230,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gq7z2,yes,NA,https://osf.io/gq7z2,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000309,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.14264/uql.2019.12,yes,NA,https://espace.library.uq.edu.au/view/UQ:21a02ec,yes,NA,UQ eSpace,yes,NA,partial,Some files were over 10GB,Files were too big
+a000325,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/rt6un,yes,NA,https://osf.io/rt6un/,yes,NA,OSF,yes,NA,yes,NA,"Many of the folders downloaded were empty. However, the results and data file was not empty."
+a000325,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/kzmr5/,yes,NA,https://osf.io/kzmr5/,yes,NA,OSF,yes,NA,yes,NA,"Many of the folders downloaded were empty. However, the results and data file was not empty."
+a000336,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/nydsz/,yes,NA,https://osf.io/nydsz/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000344,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/8dv5z,yes,NA,https://osf.io/8dv5z,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000350,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5gtyv/,yes,NA,https://osf.io/5gtyv/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000393,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/9ge7n,yes,NA,https://osf.io/9ge7n,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000535,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rkf9p/,yes,NA,https://osf.io/rkf9p/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000550,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,http://dx.doi.org/10.23668/psycharchives.2367,yes,NA,https://www.psycharchives.org/handle/20.500.12034/1999,yes,NA,PsychArchives,yes,NA,yes,NA,No problems with this article
+a000570,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,http://doi.org/10.7910/DVN/WGWMAV,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WGWMAV,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000595,matthew,2020-04-22,no,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17632/42djnzsw8f,yes,NA,https://data.mendeley.com/datasets/42djnzsw8f/2,yes,NA,Mendeley Data,yes,NA,yes,NA,No problems with this article
+a000635,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/XU8ZWB,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XU8ZWB,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000826,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/dc5t8,yes,NA,https://osf.io/dc5t8/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000911,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kxdm9/,yes,NA,https://osf.io/kxdm9/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000950,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/32tsq/,yes,NA,https://osf.io/32tsq/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000988,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/n8wg4/?view_only=55de4fda913d450899e95c3052dcf79b,yes,NA,https://osf.io/n8wg4/?view_only=55de4fda913d450899e95c3052dcf79b,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001052,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/735ru/,yes,NA,https://osf.io/735ru/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001067,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/yuv2m/,yes,NA,https://osf.io/yuv2m/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001086,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://figshare.com/articles/Fictional_First_Memories/6115676,yes,NA,https://figshare.com/articles/Fictional_First_Memories/6115676,yes,NA,figshare,yes,NA,yes,NA,No problems with this article
+a001109,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mcvt7/wiki/home/,yes,NA,https://osf.io/mcvt7/wiki/home/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001114,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/axphc/,yes,NA,https://osf.io/axphc,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001179,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9mdxw/?view_only=976405fbcdb94ba4bdf1988684ad92bf,yes,NA,https://osf.io/9mdxw/?view_only=976405fbcdb94ba4bdf1988684ad92bf,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001219,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ngm4h,yes,NA,https://osf.io/ngm4h/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001238,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ut382/,yes,NA,https://osf.io/ut382/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001390,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/93cvs,yes,NA,https://osf.io/93cvs/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001392,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jxf5q/,yes,NA,https://osf.io/jxf5q/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001482,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7h6cy/,yes,NA,https://osf.io/7h6cy/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001500,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/mpf64,yes,NA,https://osf.io/mpf64/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001502,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/c6wm5/,yes,NA,https://osf.io/c6wm5/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001502,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/3uqx6/,yes,NA,https://osf.io/3uqx6/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001520,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/84xut/,yes,NA,https://osf.io/84xut/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001525,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/yjer4/,yes,NA,https://osf.io/yjer4/,yes,NA,OSF,yes,NA,yes,NA,Repository contained no data
+a001525,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/d2wur/files/,yes,NA,https://osf.io/d2wur/files/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001551,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/dnxfz/,yes,NA,https://osf.io/dnxfz/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001605,matthew,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,http://dx.doi.org/10.7910/DVN/STOQ1Q,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STOQ1Q,yes,NA,Harvard Dataverse,yes,NA,yes,NA,"The repository only contained the Open Materials badge, and not the Open Data badge."
+a000049,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,http://dx.doi.org/10.7910/DVN/DTFR60,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DTFR60,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000107,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4bsw8/,yes,NA,https://osf.io/4bsw8/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000127,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/ezqft/,no,Link was invalid (lead to Page not found),NA,NA,NA,NA,NA,NA,NA,NA,Link was invalid (lead to Page not found) - apparently resolved to https://osf.io/ezqft/%20and%20https://osf.io/6rfmv/
+a000127,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/6rfmv/,no,Link was invalid (lead to Page not found),NA,NA,NA,NA,NA,NA,NA,NA,Link was invalid (lead to Page not found) - apparently resolved to https://osf.io/ezqft/%20and%20https://osf.io/6rfmv/
+a000160,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,http://childes.talkbank.org/,yes,NA,https://childes.talkbank.org/,other,"Not a familiar page, i don't know if it is a repository",CHILDES,other,The link lead to the homepage of CHILDES and the user interface was not friendly in locating the file,no,NA,"The link lead to the homepage of the repository, which made the user manually find the data to the document, after looking for it for 10 minutes, I could not locate the file"
+a000206,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/afdkq/,yes,NA,https://osf.io/afdkq/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000219,matthew,2020-04-23,yes,NA,yes,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,The page said that the data is available in the online supplement of the article.
+a000303,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/WZV20D,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WZV20D,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000347,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ha28n/,yes,NA,https://osf.io/ha28n,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000378,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/b9mnr,yes,NA,https://osf.io/b9mnr/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000379,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/d7w8a/,yes,NA,https://osf.io/d7w8a,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000423,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,http://doi.org/10.7910/DVN/D5DEHM,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D5DEHM,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a000525,matthew,2020-04-23,yes,NA,no,NA,no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,The mention of open data and no link provided
+a000554,matthew,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/u9ac3/,yes,NA,https://osf.io/u9ac3/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000579,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/gytpn/,yes,NA,https://osf.io/gytpn/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000579,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/x6ehp/,yes,NA,https://osf.io/x6ehp/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000615,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vy62h/,yes,NA,https://osf.io/vy62h/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000621,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6xgfn/,yes,NA,https://osf.io/6xgfn/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000674,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://bit.ly/2JI8RlP,yes,NA,https://osf.io/jqpnm/?view_only=c20b81f66ad34e2ea0361574002e0bce,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000678,matthew,2020-04-26,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"There was a visible hyperlink in the document, however it was unclickable."
+a000700,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8y2ga/,yes,NA,https://osf.io/8y2ga/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000708,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vkmep/,yes,NA,https://osf.io/vkmep/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000709,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/n8spz/,yes,NA,https://osf.io/n8spz/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000713,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/EMF9H,yes,NA,https://osf.io/emf9h/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000753,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8w4vq/,yes,NA,https://osf.io/8w4vq/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000785,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://iris-database.org,yes,NA,https://iris-database.org/iris/app/home/session-timeout,yes,NA,IRIS Database,no,NA,NA,NA,Required a login.
+a000797,matthew,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hymkc/,yes,NA,https://osf.io/hymkc/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000885,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/w59au/,yes,NA,https://osf.io/w59au/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000914,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/96cx7/,yes,NA,https://osf.io/96cx7/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000924,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/j8zge/,yes,NA,https://osf.io/j8zge/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a000939,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gdyu4,yes,NA,https://osf.io/gdyu4,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001047,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tyjpc/,yes,NA,https://osf.io/tyjpc/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001053,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/JNEQYJ,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNEQYJ,yes,NA,Harvard Dataverse,yes,NA,yes,NA,No problems with this article
+a001057,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,http://doi:10.7910/DVN/FMJDCD,no,The urls is invalid,NA,NA,NA,NA,NA,NA,NA,NA,The url provided in the article is invalid
+a001081,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ptmqx/,yes,NA,https://osf.io/ptmqx/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001115,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/g2t36/,yes,NA,https://osf.io/g2t36/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001280,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/cxc6f/,no,Invalid link,NA,NA,NA,NA,NA,NA,NA,NA,Invalid link
+a001280,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/y3zcn/,no,Invalid link,NA,NA,NA,NA,NA,NA,NA,NA,Invalid link
+a001302,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi:10.7910/DVN/BXXWWW.,other,"It is not a URL, the first link of a google search of this leads to the data",https://www.google.com/search?q=doi%3A10.7910%2FDVN%2FBXXWWW&rlz=1C1CHBF_en-GBAU890AU890&oq=doi%3A10.7910%2FDVN%2FBXXWWW&aqs=chrome..69i57j69i58.817j0j9&sourceid=chrome&ie=UTF-8,yes,NA,Harvard Dataverse,yes,NA,yes,NA,"The link was invalid, however, data is able to be found from a google search of the 'link' provided"
+a001303,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4exy7,yes,NA,https://osf.io/4exy7,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001534,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/aqkgt/,yes,NA,https://osf.io/aqkgt/,yes,NA,OSF,yes,NA,yes,NA,No problems with this article
+a001621,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://dx.doi.org/10.6084/m9.figshare.c.3468495.v2,yes,NA,https://figshare.com/collections/Mental_Representations_of_Welfare_Recipients/3468495/2,yes,NA,figshare,yes,NA,yes,NA,"The downloading of data was not very user friendly, you couldn't download it all in one like OSF or Harvard. Regardless, the data was available."
+a001645,matthew,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bpwf8,yes,NA,https://osf.io/bpwf8,yes,NA,OSF,yes,NA,yes,NA,No problems with this article

@@ -1,0 +1,337 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+intro01,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,osf.io/n6pfz/,yes,NA,https://osf.io/n6pfz/,yes,NA,OSF,yes,NA,yes,NA,NA
+intro02,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,nyu.databrary.org/volume/79,yes,NA,https://nyu.databrary.org/volume/79,yes,NA,Databrary,yes,NA,other,">1GB file, did not attempt",NA
+intro03,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,osf.io/9w8pg/,yes,NA,https://osf.io/9w8pg/,yes,NA,OSF,yes,NA,yes,NA,NA
+intro04,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,NA,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,NA,DRYAD,yes,NA,yes,NA,NA
+intro05,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,thedata.harvard.edu/dvn/dv/PainData,yes,NA,http://thedata.harvard.edu/dvn/dv/PainData,other,Harvard version of Dataverse,Dataverse,other,Yes. Replication data also present.,yes,NA,NA
+intro06,oliver,2020-04-02,yes,NA,no,NA,yes,NA,1,1,osf.io/zw6jg/,yes,NA,https://osf.io/zw6jg/,yes,NA,OSF,yes,NA,yes,NA,NA
+intro07,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,osf.io/8jxsr/,yes,NA,https://osf.io/8jxsr/,yes,NA,OSF,yes,NA,yes,NA,NA
+intro08,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.3886/ICPSR04652.v6,other,"Outdated link. Redirects you to landing page where you click ""V7""",https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4652/versions/V7,other,"Seems to be repository - however, is specialised/obscure. UMich version of NACDA, which is tied to ICPSR. TBC",NACDA,yes,NA,other,Highly stratified files. Need NACDA membership to download.,NA
+intro09,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,osf.io/xehfu/,yes,NA,https://osf.io/xehfu/,yes,NA,OSF,yes,NA,partial,"Many files. Tested one. Was successful, able to download from host.",NA
+intro10,oliver,2020-04-02,yes,NA,yes,NA,yes,NA,1,1,pisa2006.acer.edu.au/downloads.php,no,Dead link. Server could not be found.,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000045,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/u2xct/,yes,NA,https://osf.io/u2xct/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000050,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/2wjgn,yes,NA,https://osf.io/2wjgn/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000074,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/t9c52/,yes,NA,https://osf.io/t9c52,yes,NA,OSF,yes,NA,yes,NA,NA
+a000077,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/ygy5e/,yes,NA,https://osf.io/ygy5e/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000083,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/rmjtg,yes,NA,http://osf.io/rmjtg,yes,NA,OSF,yes,NA,yes,NA,NA
+a000145,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/cwq75/,yes,NA,http://osf.io/cwq75/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000176,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/5ybhd/,yes,NA,https://osf.io/5ybhd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000214,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/8aw9r/,yes,NA,https://osf.io/8aw9r/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000323,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/we7aj/,yes,NA,http://osf.io/we7aj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000371,oliver,2020-04-04,yes,NA,other,"Mentions ""replication materials"" on Dataverse (Harvard specific version) but they seem to have omitted references to a source such as a link",no,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000376,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/r96hg/,yes,NA,http://osf.io/r96hg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000448,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/m573q/,yes,NA,https://osf.io/m573q/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000530,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/zf4tj/,yes,NA,https://osf.io/zf4tj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000563,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/4x8mu,yes,NA,https://osf.io/4x8mu/,yes,NA,OSF,yes,NA,other,"Zip file did download, but computer could not extract zip file",NA
+a000595,oliver,2020-04-04,other,"No graphical badge, but awarded badges are listed, as text",yes,NA,yes,NA,1,1,osf.io/yn7bm,yes,NA,https://osf.io/yn7bm,yes,NA,OSF,yes,NA,yes,NA,NA
+a000653,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/8jy6r/,yes,NA,https://osf.io/8jy6r/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000703,oliver,2020-04-04,yes,NA,yes,NA,yes,NA,1,1,osf.io/79gn4/,yes,NA,https://osf.io/79gn4/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 2 batches of zip files - connection to host was successful, documents downloaded.",NA
+a000706,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/bmpj9/,yes,NA,https://osf.io/bmpj9,yes,NA,OSF,yes,NA,yes,NA,NA
+a000761,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/qe5nw/,yes,NA,https://osf.io/qe5nw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000817,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/z9ikh/,yes,NA,https://osf.io/z9ikh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000893,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/9djq5/,yes,NA,https://osf.io/9djq5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000997,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/xmnyq,yes,NA,https://osf.io/xmnyq,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a001036,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/zxp9k/,yes,NA,https://osf.io/zxp9k/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001044,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/qwa42/,yes,NA,https://osf.io/qwa42,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a001048,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/uw2t2,yes,NA,https://osf.io/uw2t2,yes,NA,OSF,yes,NA,yes,NA,NA
+a001052,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/735ru/,yes,NA,https://osf.io/735ru/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001119,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/bbf3c/,yes,NA,https://osf.io/bbf3c/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001198,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/qqq82,yes,NA,https://osf.io/qqq82/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001291,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz,yes,NA,https://osf.io/tvyxz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001305,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/q4n2b,yes,NA,https://osf.io/q4n2b,yes,NA,OSF,yes,NA,yes,NA,NA
+a001317,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/j25fh/,yes,NA,https://osf.io/j25fh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001352,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/kwvu6,yes,NA,https://osf.io/kwvu6,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a001368,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.7910/DVN/K6ZOOW,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K6ZOOW,other,Harvard version of Dataverse,NA,yes,NA,yes,NA,NA
+a001454,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz,yes,NA,https://osf.io/tvyxz/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a001489,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/akbfj,yes,NA,https://osf.io/akbfj/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001497,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/fitgz,yes,NA,https://osf.io/fitgz/,yes,NA,OSF,yes,NA,other,"Downloaded successfully. Lots of stratified files, did partial download. Zip files could not be extracted",NA
+a001523,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,osf.io/5bpr7,yes,NA,https://osf.io/5bpr7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001526,oliver,2020-04-07,no,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a001528,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/VJLVYU,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VJLVYU,other,Harvard version of Dataverse,NA,yes,NA,yes,NA,NA
+a001608,oliver,2020-04-07,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/BZ9Z2D,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BZ9Z2D,other,Harvard version of Dataverse,NA,yes,NA,yes,NA,NA
+a000025,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,osf.io/kz53g/,yes,NA,https://osf.io/kz53g/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000071,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,osf.io/856cs/,yes,NA,https://osf.io/856cs/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000084,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,osf.io/54yzr/,yes,NA,https://osf.io/54yzr/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000093,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,osf.io/uyadw/,yes,NA,https://osf.io/uyadw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000134,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,osf.io/b8zft/,yes,NA,https://osf.io/b8zft/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000216,oliver,2020-04-09,yes,NA,other,Footnote,yes,NA,1,1,osf.io/9nq3c/,yes,NA,https://osf.io/9nq3c/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000242,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,osf.io/adrwv/,yes,NA,https://osf.io/adrwv/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000259,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZ9YXZ,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZ9YXZ,other,Harvard version of Dataverse,NA,yes,NA,partial,"Tried to download all files as part of 1 zip. Site didn't allow me to download all 12 files as 3 files had restricted access. Proceeded to download without those 3 files which was a success (host ok, files ok)",NA
+a000299,oliver,2020-04-09,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.1016/j.jesp.2019.04.008,other,Recursive loop,Not resolved,other,Not resolved,NA,other,Recursive loop,no,NA,NA
+a000300,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/4rs5x/,yes,NA,https://osf.io/4rs5x/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000324,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/bmaf2/,yes,NA,https://osf.io/bmaf2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000363,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/6akvt/files/,yes,NA,https://osf.io/6akvt/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000414,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/eujyn/,yes,NA,https://osf.io/eujyn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000501,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,iris-database.org/iris/app/home/search?query=Jung+in+press,other,Link did not lead to dataset,https://www.iris-database.org/iris/app/home/search?query=Jung+in+press,yes,NA,IRIS,no,NA,NA,NA,NA
+a000557,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/8cd4r/,yes,NA,https://osf.io/8cd4r/,yes,NA,OSF,yes,NA,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000581,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/n8v3c/,other,Link led to sign-in page requiring OSF membership,(resolved url not entered by coder),yes,NA,OSF,other,Link led to sign-in page requiring OSF membership,no,NA,NA
+a000585,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/j9aa7/,yes,NA,https://osf.io/j9aa7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000732,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/xp6r7/,yes,NA,https://osf.io/xp6r7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000775,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/ef78n/,yes,NA,https://osf.io/ef78n/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000799,oliver,2020-04-21,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000828,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/sgqsx/,yes,NA,https://osf.io/sgqsx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000920,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/zpjbg,other,"Link withdrawn - registration removed due to containing sensitive user info. Link redirected to landing page containing new link that lead to original dateset, but without the sensitive user info.",https://osf.io/q82nf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000930,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/ujpyn/,yes,NA,https://osf.io/ujpyn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000976,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/3jhr7/,yes,NA,https://osf.io/3jhr7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001010,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/EKV2D/,yes,NA,https://osf.io/EKV2D/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001016,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/cgzav/,yes,NA,https://osf.io/srcfa/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001087,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/uxtq2/,yes,NA,https://osf.io/uxtq2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001194,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/zucn5/,yes,NA,https://osf.io/zucn5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001278,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/bifc7/,yes,NA,https://osf.io/bifc7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001332,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/68MES/,yes,NA,https://osf.io/68MES/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001380,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,NA,https://www.iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,NA,IRIS,yes,NA,yes,NA,NA
+a001408,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/rgsbj/,yes,NA,https://osf.io/rgsbj/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001416,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/24kvu/,yes,NA,https://osf.io/24kvu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001417,oliver,2020-04-21,yes,NA,other,"Mentioned incidentally, not explicit standalone statement",yes,NA,1,1,osf.io/r2ujq,yes,NA,https://osf.io/r2ujq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001429,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,tessexperiments.org/data/ferrer825.html,other,"Link does work, but when you click ""download"" it leads you to OSF link - see resolved URL",https://osf.io/a42yg/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001434,oliver,2020-04-21,yes,NA,other,"Contained within ""notes"", not standalone statement",yes,NA,1,1,osf.io/njaxk,yes,NA,https://osf.io/njaxk/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001444,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/cd893,yes,NA,https://osf.io/cd893,yes,NA,OSF,yes,NA,yes,NA,NA
+a001477,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/wqnnx,yes,NA,https://osf.io/wqnnx,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001480,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/qtb5u/,yes,NA,https://osf.io/qtb5u/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001591,oliver,2020-04-21,yes,NA,yes,NA,yes,NA,1,1,osf.io/5vy69,yes,NA,https://osf.io/5vy69/?view_only=23a8c0762ef64333b1eb605010d68934,yes,NA,OSF,yes,NA,yes,NA,NA
+a000007,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/wds5y/,yes,NA,https://osf.io/wds5y/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000101,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/etrcd/,yes,NA,https://osf.io/etrcd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000130,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/pr39h/,yes,NA,https://osf.io/pr39h/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000140,oliver,2020-04-22,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000188,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/zg427/,yes,NA,https://osf.io/zg427/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000280,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,icpsr.umich.edu/icpsrweb/ICPSR/series/203,yes,NA,https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36346,yes,NA,ICPSR,yes,NA,yes,NA,NA
+a000288,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/3hu8m/,yes,NA,https://osf.io/3hu8m/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000329,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/gw9jh/,yes,NA,https://osf.io/gw9jh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000342,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/xyh24/,yes,NA,https://osf.io/xyh24/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000355,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/7d5b5,no,"""Page not found""",NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000364,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/pa8jw/,yes,NA,https://osf.io/pa8jw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000560,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/ck22q/,yes,NA,https://osf.io/ck22q/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000582,oliver,2020-04-22,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000583,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/u8sdh/,yes,NA,https://osf.io/u8sdh/,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a000728,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/r8a24/,yes,NA,https://osf.io/r8a24/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000742,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/tn3y5/,yes,NA,https://osf.io/tn3y5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000769,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.1016/j.jesp.2017.12.003.,yes,NA,https://data.mendeley.com/datasets/snkgkt9t4c/1,yes,NA,DOI,yes,NA,yes,NA,NA
+a000831,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.1016/j.jesp.2017.09.002,other,Redirects,https://www.sciencedirect.com/science/article/abs/pii/S0022103117302135?via%3Dihub,yes,NA,DOI / ScienceDirect,other,"Makes reference to ""supplementary"" data but cannot be found",no,NA,NA
+a000931,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/9bsa7/,yes,NA,https://osf.io/9bsa7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000970,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/zgq7m,yes,NA,https://osf.io/zgq7m/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001034,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/9mjtz/,yes,NA,https://osf.io/9mjtz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001043,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,1,1,osf.io/4vk5x,yes,NA,https://osf.io/4vk5x/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001056,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/9fdhb/,yes,NA,https://osf.io/9fdhb/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001118,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/x6t4e/,yes,NA,https://osf.io/x6t4e/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001180,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/he8s7/,yes,NA,https://osf.io/he8s7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001186,oliver,2020-04-23,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No direct link to dataset, only general landing pages on OSF and Sagepub. Dataset could possibly be found if you manually searched title on Sagepub - however, beyond remit of UoM student account"
+a001187,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/bw8sz/,yes,NA,https://osf.io/bw8sz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001200,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/5ybej/,yes,NA,https://osf.io/5ybej/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001246,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/e5bvj,yes,NA,https://osf.io/e5bvj,yes,NA,OSF,yes,NA,yes,NA,NA
+a001258,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/c5bmm/,yes,NA,https://osf.io/c5bmm/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001327,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/fgn9y,yes,NA,https://osf.io/fgn9y/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001360,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/e3afr/,yes,NA,https://osf.io/e3afr/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001377,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/j2g7t/,yes,NA,https://osf.io/j2g7t/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001378,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/cbjps,yes,NA,https://osf.io/cbjps/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001397,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/2x3ju/,yes,NA,https://osf.io/2x3ju/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001423,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/6d3ry/,yes,NA,https://osf.io/6d3ry/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001463,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/KZ483/,yes,NA,https://osf.io/KZ483/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001564,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/n9sd6/,yes,NA,https://osf.io/n9sd6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001649,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/5qd94/,yes,NA,https://osf.io/5qd94/,yes,NA,OSF,yes,NA,other,File > 100MB,NA
+a000041,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,OSF.IO/GDTPM,yes,NA,https://osf.io/gdtpm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000067,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/nm8vf/,yes,NA,https://osf.io/nm8vf/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000072,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/56yz7/,yes,NA,https://osf.io/56yz7/,yes,NA,OSF,yes,NA,other,File > 100MB,NA
+a000208,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/3c4ue/,yes,NA,https://osf.io/3c4ue/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000231,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/9SF3TI,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9SF3TI,yes,NA,Harvard version of Dataverse,yes,NA,other,File > 100MB,NA
+a000245,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/29ytr,yes,NA,https://osf.io/29ytr/files,yes,NA,OSF,yes,NA,yes,NA,NA
+a000294,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,journals.sagepub.com/doi/%20suppl/10.1177/0956797619826972,yes,NA,https://journals.sagepub.com/doi/suppl/10.1177/0956797619826972,yes,NA,SAGE,no,NA,NA,NA,NA
+a000368,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/akp9n/,yes,NA,https://osf.io/akp9n/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000492,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/2zbvs,yes,NA,https://osf.io/2zbvs/?view_only=8b56bf1e32d147a5a673f0c3494d25ff,yes,NA,OSF,yes,NA,yes,NA,NA
+a000547,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,hdl.handle.net/1902.29/11793,yes,NA,https://dataverse.unc.edu/dataset.xhtml?persistentId=hdl:1902.29/11793,yes,NA,Dataverse,yes,NA,yes,NA,NA
+a000559,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,iris-database.org/iris/app/home/detail?id=york:932233,yes,NA,https://www.iris-database.org/iris/app/home/detail?id=york:932233,yes,NA,IRIS,yes,NA,yes,NA,NA
+a000594,oliver,2020-04-23,yes,NA,yes,NA,yes,NA,1,1,osf.io/xzp9s/,yes,NA,https://osf.io/xzp9s/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000631,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/k8nur/,yes,NA,https://osf.io/k8nur/,yes,NA,OSF,yes,NA,other,File > 100MB,NA
+a000719,oliver,2020-04-24,yes,NA,other,"Mentioned incidentally, not explicit standalone data",yes,NA,1,1,osf.io/ah54c/,yes,NA,https://osf.io/ah54c/,yes,NA,OSF,yes,NA,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000730,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/hzpgy/,yes,NA,https://osf.io/hzpgy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000755,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/hguz4/,yes,NA,https://osf.io/hguz4,yes,NA,OSF,yes,NA,yes,NA,NA
+a000801,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/28ejf/,yes,NA,https://osf.io/28ejf/,yes,NA,OSF,yes,NA,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000899,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/h2xpu,yes,NA,https://osf.io/h2xpu,yes,NA,OSF,yes,NA,yes,NA,NA
+a000906,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.7910/DVN/NS3NMH,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NS3NMH,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001013,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/ebhku/,yes,NA,https://osf.io/ebhku/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001041,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/bvjny/,yes,NA,https://osf.io/bvjny/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001063,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/KGIBK5.,yes,NA,https://doi.org/10.7910/DVN/KGIBK5.,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001082,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/m3x2b,yes,NA,https://osf.io/m3x2b,yes,NA,OSF,yes,NA,yes,NA,NA
+a001093,oliver,2020-04-24,yes,NA,other,"Under ""methods"" OSF dataset is discussed as ""registered"", but does not specifically mention data availability or give explicit permission",yes,NA,1,1,osf.io/nmydf,yes,NA,https://osf.io/nmydf/,yes,NA,OSF,yes,NA,other,File > 100MB,NA
+a001181,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,1,1,osf.io/zpm9t/,yes,NA,https://osf.io/zpm9t/,yes,NA,OSF,yes,NA,other,File > 100MB,NA
+a001226,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/nzp8t/,yes,NA,https://osf.io/nzp8t,yes,NA,OSF,yes,NA,yes,NA,NA
+a001249,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz,yes,NA,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001286,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/4vx3z/,yes,NA,https://osf.io/4vx3z/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001406,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.17632/7tj8hpmnmt.1,yes,NA,https://data.mendeley.com/datasets/7tj8hpmnmt/1,yes,NA,Mendeley,yes,NA,yes,NA,NA
+a001431,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/dbgh6/,yes,NA,https://osf.io/dbgh6/,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a001448,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/yfc5m/,yes,NA,https://osf.io/yfc5m/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001487,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/LNUYXZ,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LNUYXZ,yes,NA,Harvard version of Dataverse,yes,NA,other,"Lots of stratified files.Tested 1 file - connection to host was successful, documents downloaded.",NA
+a001517,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/YUM3K8,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUM3K8,yes,NA,Harvard version of Dataverse,yes,NA,other,"Lots of stratified files.Tested 1 file - connection to host was successful, documents downloaded.",NA
+a001594,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/nkgza,yes,NA,https://osf.io/nkgza/files/,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a001611,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/bdnqr/,yes,NA,https://osf.io/bdnqr/ and https://crumplab.github.io/EntropyTyping/,other,(no comment from orginal coder),OSF,yes,NA,yes,NA,"(resolved_url contains two distinct URLs, not clear where second URL comes from)"
+a001637,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/KYI9AR,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KYI9AR,yes,NA,Harvard version of Dataverse,yes,NA,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a001653,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/5t0b7/,yes,NA,https://osf.io/5t0b7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001663,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/ceqth/,yes,NA,https://osf.io/ceqth/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000001,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/d2jwb/,yes,NA,https://osf.io/d2jwb/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000013,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,thedata.harvard.edu/dvn/dv/lzav/faces/study/StudyPage.xhtml?globalId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000015,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/f3dh6/,yes,NA,https://osf.io/f3dh6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000143,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/8cq5f/,yes,NA,https://osf.io/8cq5f/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000182,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/emk5j/,yes,NA,https://osf.io/emk5j/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000229,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/7c9bw/,yes,NA,https://osf.io/7c9bw/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000239,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.7910/DVN/I4KVD1,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I4KVD1,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000260,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,fcon_1000.projects.nitrc.org/indi/enhanced/access.html,yes,NA,http://fcon_1000.projects.nitrc.org/indi/enhanced/access.html,no,NA,NA,other,"Article claims data is accessible in given link, but I could not see any clear links to download data. Hyperlinks that could lead to such data has a paywall - beyond remit of UoM student account.",no,NA,NA
+a000390,oliver,2020-04-25,yes,NA,yes,NA,other,Article gave DOI number. I found link via Googling DOI number.,1,1,doi:10.7910/DVN/SURSEO,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SURSEO,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000430,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/nmabe/,yes,NA,https://osf.io/nmabe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000500,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,osf.io/rstc5/,yes,NA,https://osf.io/rstc5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000502,oliver,2020-04-25,no,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000533,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,1,1,github.com/alexlwhite/WhiteBoyntonYeatman2019_Repository,yes,NA,https://github.com/alexlwhite/WhiteBoyntonYeatman2019_Repository,no,NA,NA,yes,NA,yes,NA,NA
+a000605,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,openicpsr.org/openicpsr/project/101920/,yes,NA,https://www.openicpsr.org/openicpsr/project/101920/version/V3/view;jsessionid=8880F94EFA229911DF631AB6B1249B04,yes,NA,ICPSR,yes,NA,other,Download requires account,NA
+a000636,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz/,yes,NA,https://osf.io/tvyxz/wiki/home/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000783,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz/,yes,NA,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000806,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/48kyp/,yes,NA,https://osf.io/48kyp/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000823,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000876,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/uane6/,yes,NA,https://osf.io/uane6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000902,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/xq28a/,yes,NA,https://osf.io/xq28a/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000932,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,dataverse.harvard.edu/dataverse/laughterperception,yes,NA,https://dataverse.harvard.edu/dataverse/laughterperception,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000944,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/hp2wx/,yes,NA,https://osf.io/hp2wx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001007,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/m64ue,yes,NA,https://osf.io/m64ue/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001011,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/SBOMZD,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SBOMZD,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001107,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/FTFJTV,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FTFJTV,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001144,oliver,2020-04-26,yes,NA,other,"Page mentions ""open data"" under ""supplements""",other,Open data badge icon is hyperlink,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QG1DCI,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QG1DCI,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001147,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,https://dataverse.harvard.edu/dataset.xhtml?id=3037337,no,"Could not resolve URL as outside remit of UoM student account, but this may be a way of finding it via manually searching Harvard Dataverse:  |  doi:10.1177/0956797617728270",NA,NA,NA,NA,NA,NA,NA,NA,NA
+a001190,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/98ta4/,yes,NA,https://osf.io/98ta4/,yes,NA,OSF,yes,NA,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a001223,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/tde3r/,yes,NA,https://osf.io/tde3r/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001247,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz/,yes,NA,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001263,oliver,2020-04-26,yes,NA,other,"Yes there is a data availability statement, but it says permission is limited due to privacy reasons as it involves photos of participants, hence files are limited",yes,NA,1,1,osf.io/tfwum/,yes,NA,osf.io/tfwum/? view_only¼0cc13036c196453d940a4dafc35b715c,yes,NA,OSF,yes,NA,other,Files >100 MB,NA
+a001326,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/5tus8/,yes,NA,https://osf.io/5tus8/files/,yes,NA,OSF,yes,NA,other,Files >100 MB,NA
+a001411,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,osf.io/bqyhd/,yes,NA,https://osf.io/bqyhd/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001455,oliver,2020-04-26,yes,NA,other,"Page mentions ""open data"" under ""supplements""",yes,NA,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001458,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.23668/psycharchives.790,yes,NA,https://www.psycharchives.org/handle/20.500.12034/584,yes,NA,PsychArchives,yes,NA,yes,NA,NA
+a001485,oliver,2020-04-26,yes,NA,other,"""To find data"" in footnote, no mention of open practices",yes,NA,1,1,osf.io/xrk6j/,yes,NA,https://osf.io/xrk6j/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001635,oliver,2020-04-26,yes,NA,no,NA,yes,NA,1,1,osf.io/psfwz/,yes,NA,https://osf.io/psfwz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000003,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/myqn9/,yes,NA,https://osf.io/myqn9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000121,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/cgydx/,yes,NA,https://osf.io/cgydx/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000122,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/j5zyf/,yes,NA,https://osf.io/j5zyf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000221,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/syjhd/,yes,NA,https://osf.io/syjhd/,yes,NA,OSF,yes,NA,other,Files >100 MB,NA
+a000235,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/8rbvz/,yes,NA,https://osf.io/8rbvz/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000281,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/rf28u/,yes,NA,https://osf.io/rf28u/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000330,oliver,2020-04-27,yes,NA,no,NA,yes,NA,1,1,doi.org/10.7910/DVN/WD3IUA,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WD3IUA,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000365,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.7910/DVN/IXWZZO,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXWZZO,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000372,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,journals.sagepub.com/doi/suppl/10.1177/0956797618822798,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9KSHOE,yes,NA,Harvard version of Dataverse,yes,NA,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000411,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/8R3LTP,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8R3LTP,yes,NA,Harvard version of Dataverse,yes,NA,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",NA
+a000419,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.5281/zenodo.18545,yes,NA,https://zenodo.org/record/18545,no,NA,NA,yes,NA,yes,NA,NA
+a000458,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/huc2k/,yes,NA,https://osf.io/huc2k/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000545,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/XZ0IZE,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XZ0IZE,yes,NA,OSF,yes,NA,yes,NA,NA
+a000558,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/zuwxt/,yes,NA,https://osf.io/zuwxt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000637,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/35pf6/,yes,NA,https://osf.io/35pf6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000672,oliver,2020-04-27,no,NA,other,"""Supplemental material"" at bottom - but no mention of ""open"" data/pratices. Link itself does not lead to a data file.",no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000684,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/DZ1NFG,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DZ1NFG,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000720,oliver,2020-04-27,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000759,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/my6te,yes,NA,https://osf.io/my6te/files/?view_only=3b4129763e4f4de58ef783a85ae30842,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000771,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/ycx49/,yes,NA,https://osf.io/ycx49/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000789,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/fq7mb/,yes,NA,https://osf.io/fq7mb/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000796,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/pszjz/,yes,NA,https://osf.io/pszjz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000827,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/w24dm/,yes,NA,https://osf.io/w24dm/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000925,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/TJ1ZXX,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJ1ZXX,yes,NA,Harvard version of Dataverse,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000937,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/7p896,yes,NA,https://osf.io/7p896,yes,NA,OSF,yes,NA,other,"Lots of stratified files.Tested 1 single file - connection to host was successful, documents downloaded.",NA
+a000948,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/677jr/,other,"Leads to ""public profile"" page with multiple sets of data for multiple studies. No direct link to data associated with study.","Not clear which sets are related to study, as they share overlapping characteristics",yes,NA,OSF,other,"Leads to ""public profile"" page with multiple sets of data for multiple studies. No direct link to data associated with study.",no,NA,NA
+a000998,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,github.com/connorjmccabe/InterActive,yes,NA,(resolved url not entered by coder),no,NA,NA,yes,NA,yes,NA,NA
+a001062,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,datadryad.org/resource/doi:10.5061/dryad.g7b40,yes,NA,https://datadryad.org/stash/dataset/doi:10.5061/dryad.g7b40,yes,NA,DRYAD,yes,NA,yes,NA,NA
+a001148,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/WKJJ3Z,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WKJJ3Z,yes,NA,Harvard version of Dataverse,yes,NA,other,"Lots of stratified files.Tested 1 single file - connection to host was successful, documents downloaded.",NA
+a001227,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/atx26/,yes,NA,https://osf.io/atx26/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001328,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/mgbck/,yes,NA,https://osf.io/mgbck/,yes,NA,OSF,yes,NA,other,Files >100 MB,NA
+a001336,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/m6p82/,yes,NA,https://osf.io/m6p82/,yes,NA,OSF,yes,NA,other,Files >100 MB,NA
+a001394,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.1016/j.jrp.2017.11.003,other,Leads to main page on ScienceDirect,(resolved url not entered by coder),yes,NA,ScienceDirect,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001405,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/a58tk/,yes,NA,https://osf.io/a58tk/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001432,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/fkn8m/,yes,NA,https://osf.io/fkn8m/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001440,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.7910/DVN/EBF7XW,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBF7XW,yes,NA,OSF,yes,NA,yes,NA,NA
+a001465,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/enuv3/,yes,NA,https://osf.io/enuv3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001538,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,1,1,osf.io/ygzx3/,yes,NA,https://osf.io/ygzx3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000016,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/cp76s/,yes,NA,osf.io/cp76s/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000047,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/tvyxz/,yes,NA,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000119,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/3ymbu/,yes,NA,https://osf.io/3ymbu/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000146,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/j8wdv,yes,NA,https://osf.io/j8wdv,yes,NA,OSF,yes,NA,yes,NA,NA
+a000152,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org//10.17632/948rskffhd.2,yes,NA,https://data.mendeley.com/datasets/948rskffhd/2,yes,NA,Mendeley,yes,NA,yes,NA,NA
+a000211,oliver,2020-04-28,other,(see notes field),other,(not completed by coder),no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000273,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tqmeh/ and https://osf.io/37u8s/,yes,NA,https://osf.io/tqmeh/ and https://osf.io/37u8s/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000388,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.6084/m9.figshare.4743547.v1,yes,NA,https://figshare.com/articles/Stats_-_In_an_Absolute_State_xlsx/4743547/1,yes,NA,OSF,yes,NA,yes,NA,NA
+a000449,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/krshq/,yes,NA,https://osf.io/krshq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000489,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/x8q4j,yes,NA,https://osf.io/x8q4j,yes,NA,OSF,yes,NA,yes,NA,NA
+a000529,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/SSEN5A,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SSEN5A,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000650,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/tcuap/,yes,NA,https://osf.io/tcuap/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000658,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/9cxwb/,yes,NA,https://osf.io/9cxwb/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000676,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/fd6ue/,yes,NA,https://osf.io/fd6ue/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000743,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/7ugsk/,yes,NA,https://osf.io/7ugsk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000748,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/aegr4/,yes,NA,https://osf.io/aegr4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000750,oliver,2020-04-28,other,(see notes field),other,(not completed by coder),no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000777,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.7910/DVN/LWED0F,no,Could not resolve,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a000846,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/nfqb9,yes,NA,https://osf.io/nfqb9,yes,NA,OSF,yes,NA,yes,NA,NA
+a001004,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/d3xb7/,yes,NA,https://osf.io/d3xb7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001050,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/6yhmp/,yes,NA,https://osf.io/6yhmp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001125,oliver,2020-04-28,yes,NA,yes,NA,other,Only link with data statement leads to general page - not data linked to study,1,1,elsevier.com/journals/journal-of-experimental-social-psychology/ 0022-1031/guide-for-authors.,other,"Works, but does not lead to data",Could not resolve,other,Could not resolve,NA,no,NA,NA,NA,NA
+a001127,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/pxk8z/,yes,NA,https://osf.io/pxk8z/,yes,NA,OSF,yes,NA,other,File >100MB,NA
+a001140,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/t28bw/,yes,NA,https://osf.io/t28bw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001151,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/79sqe/,yes,NA,https://osf.io/79sqe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001183,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/3nkeh/,yes,NA,https://osf.io/3nkeh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001420,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.1016/j.jesp.2019.03.009,yes,NA,https://www.sciencedirect.com/science/article/abs/pii/S0022103118305997?via%3Dihub,yes,NA,Science Direct,no,NA,NA,NA,NA
+a001449,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/34cd8,yes,NA,https://osf.io/34cd8/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001450,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/u9tk8/,yes,NA,https://osf.io/u9tk8/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001470,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/waeqn/,yes,NA,https://osf.io/waeqn/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001524,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/XRJ43D,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XRJ43D,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001556,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/WPVSMH,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPVSMH,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001586,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/4e7hr/,yes,NA,https://osf.io/4e7hr/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001602,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/PGGBB4,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGGBB4,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a001606,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/d2ytu/,yes,NA,https://osf.io/d2ytu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001607,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/bx59f/,yes,NA,https://osf.io/bx59f/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001644,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/f54qe,yes,NA,https://osf.io/f54qe,yes,NA,OSF,yes,NA,yes,NA,NA
+a001648,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,1,1,osf.io/2qncf/,yes,NA,https://osf.io/2qncf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000073,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/6zdnh/,yes,NA,https://osf.io/6zdnh/files/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000082,oliver,2020-04-29,yes,NA,other,"Embedded within ""notes""",yes,NA,1,1,osf.io/anc5m/,yes,NA,https://osf.io/anc5m/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a000103,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/VEPHLS,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VEPHLS,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000104,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,thedata.harvard.edu/dvn/dv/kenswan.,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28095,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000154,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/usdq8,yes,NA,https://osf.io/usdq8/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000164,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/28gxz/,yes,NA,https://osf.io/28gxz/files/,yes,NA,OSF,yes,NA,other,File >100 MB,NA
+a000181,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/jkbm9/,yes,NA,https://osf.io/jkbm9/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000196,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/9v34x,yes,NA,https://osf.io/9v34x,yes,NA,OSF,yes,NA,yes,NA,NA
+a000197,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/946vb/,yes,NA,https://osf.io/946vb/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000238,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/7190MT,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7190MT,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000334,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,dx.doi.org/10.7910,yes,NA,https://dx.doi.org/10.7910,yes,NA,DOI,other,"No visible ""download button"". Just hyperlinks that display data on internet page itself. Not clear that it is associated with study either.",no,NA,NA
+a000337,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/RW10GZ,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RW10GZ,yes,NA,Harvard version of Dataverse,yes,NA,yes,NA,NA
+a000460,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/92vfw/,yes,NA,https://osf.io/92vfw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000470,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/h5nbu/,yes,NA,https://osf.io/h5nbu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000518,oliver,2020-04-29,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No OSF link to data. Only has one OSF link - but is the general homepage at osf.io/tvyxz/
+a000532,oliver,2020-04-29,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No OSF link to data. Same as above - but they are separate studies with same issue - just a coincidence. Only has one OSF link - but is the general homepage at osf.io/tvyxz/
+a000539,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/px8h3/,yes,NA,https://osf.io/px8h3/,yes,NA,OSF,yes,NA,other,File >100 MB,NA
+a000617,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,figshare.com/s/cccac39f891998509c85,other,"Error message - file can't be previewed, but can download directly",https://figshare.com/s/cccac39f891998509c85,other,Figshare,NA,yes,NA,yes,NA,NA
+a000714,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/7wazk/,yes,NA,https://osf.io/7wazk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000721,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/4ufvz/,yes,NA,https://osf.io/4ufvz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000864,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/m6vkg/,yes,NA,https://osf.io/m6vkg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000918,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,doi.org/10.7910/DVN/ACYZIC,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ACYZIC,yes,NA,OSF,yes,NA,yes,NA,NA
+a001018,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/8xg6m/,yes,NA,https://osf.io/8xg6m/,yes,NA,OSF,yes,NA,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",NA
+a001026,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/wc3sj/,yes,NA,https://osf.io/wc3sj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001059,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/8j7ub/,yes,NA,https://osf.io/8j7ub/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001060,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,figshare.com/s/18a543c101a17a1d5560,yes,NA,https://figshare.com/s/18a543c101a17a1d5560,yes,NA,OSF,yes,NA,yes,NA,NA
+a001178,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,1,1,osf.io/t2856/,yes,NA,https://osf.io/t2856/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000063,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,2,1,osf.io/ucn6q/,yes,NA,https://osf.io/ucn6q/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000063,oliver,2020-04-22,yes,NA,yes,NA,yes,NA,2,2,osf.io/wb2yv/,yes,NA,https://osf.io/wb2yv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000689,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,2,1,osf.io/6myfj/,yes,NA,osf.io/6myfj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000689,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,2,2,osf.io/tk67x/,yes,NA,osf.io/tk67x/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000969,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,3,1,osf.io/dteh2,yes,NA,"Refer to L154, cannot paste 3x http link and keep them separate",yes,NA,OSF,yes,NA,yes,NA,NA
+a000969,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,3,2,osf.io/dp2u7,yes,NA,"Refer to L154, cannot paste 3x http link and keep them separate",yes,NA,OSF,yes,NA,yes,NA,NA
+a000969,oliver,2020-04-24,yes,NA,yes,NA,yes,NA,3,3,osf.io/spqbw,yes,NA,"Refer to L154, cannot paste 3x http link and keep them separate",yes,NA,OSF,yes,NA,yes,NA,NA
+a000031,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,3,1,osf.io/tvyxz/files,other,OSF files page found indirectly after searching. Dartmouth requires signup. Unimelb DOI redirects to NUS.,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000031,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,3,2,five.dartmouth.edu/datasets,other,OSF files page found indirectly after searching. Dartmouth requires signup. Unimelb DOI redirects to NUS.,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000031,oliver,2020-04-25,yes,NA,yes,NA,yes,NA,3,3,doi-org.ezp.lib.unimelb.edu.au/10.25540/3wd8-dffw,other,OSF files page found indirectly after searching. Dartmouth requires signup. Unimelb DOI redirects to NUS.,https://osf.io/tvyxz/files/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000629,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,2,1,osf.io/d2ncs,yes,NA,osf.io/d2ncs,yes,NA,OSF,yes,NA,yes,NA,NA
+a000629,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,2,2,osf.io/473gq,yes,NA,osf.io/473gq,yes,NA,OSF,yes,NA,yes,NA,NA
+a001395,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,2,1,osf.io/2pnu6/,yes,NA,osf.io/2pnu6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001395,oliver,2020-04-26,yes,NA,yes,NA,yes,NA,2,2,osf.io/arphg/,yes,NA,osf.io/arphg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000718,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,4,1,osf.io/cdyf9,yes,NA,http://osf.io/cdyf9,yes,NA,OSF,yes,NA,other,"Mixed. Some zip files opened, others ""operation not permitted""",NA
+a000718,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,4,2,osf.io/djxyg,yes,NA,http://osf.io/djxyg,yes,NA,OSF,yes,NA,other,"Mixed. Some zip files opened, others ""operation not permitted""",NA
+a000718,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,4,3,osf.io/df74g,yes,NA,http://osf.io/df74g,yes,NA,OSF,yes,NA,other,"Mixed. Some zip files opened, others ""operation not permitted""",NA
+a000718,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,4,4,osf.io/v9b7j,yes,NA,http://osf.io/v9b7j,yes,NA,OSF,yes,NA,other,"Mixed. Some zip files opened, others ""operation not permitted""",NA
+a001217,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/hd42c/,yes,NA,https://osf.io/hd42c/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001217,oliver,2020-04-27,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/hd42c/,yes,NA,https://osf.io/hd42c/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000580,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,5,1,https://osf.io/jckvq/,yes,NA,https://osf.io/jckvq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000580,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,5,2,https://osf.io/6n3yq/,yes,NA,https://osf.io/6n3yq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000580,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,5,3,https://osf.io/5zuq7/,yes,NA,https://osf.io/5zuq7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000580,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,5,4,https://osf.io/g5cxj/,yes,NA,https://osf.io/g5cxj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000580,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,5,5,https://osf.io/siqyz/,yes,NA,https://osf.io/siqyz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000814,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,2,1,beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200001,yes,NA,(resolved url not entered by coder),yes,NA,UK Data Service,yes,NA,other,"Required signin. Is also file by file, not bundled into zip",NA
+a000814,oliver,2020-04-28,yes,NA,yes,NA,yes,NA,2,2,beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000032,yes,NA,(resolved url not entered by coder),yes,NA,UK Data Service,yes,NA,other,"Required signin. Is also file by file, not bundled into zip",NA
+a000811,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,2,1,osf.io/u3byh,yes,NA,osf.io/u3byh,yes,NA,OSF,yes,NA,yes,NA,NA
+a000811,oliver,2020-04-29,yes,NA,yes,NA,yes,NA,2,2,osf.io/h49y7,yes,NA,osf.io/h49y7,yes,NA,OSF,yes,NA,yes,NA,NA

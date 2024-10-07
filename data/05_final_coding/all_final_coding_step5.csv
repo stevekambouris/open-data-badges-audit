@@ -1,0 +1,1342 @@
+study_id,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,link_url_cleaned,link_work,link_work_noother,resolved_url_cleaned,files_exist,files_exist_other
+a000001,yes,NA,yes,NA,yes,NA,osf.io/d2jwb,yes,NA,osf.io/d2jwb,yes,NA
+a000003,yes,NA,yes,NA,yes,NA,osf.io/myqn9,yes,NA,osf.io/myqn9,yes,NA
+a000004,yes,NA,yes,NA,yes,NA,osf.io/4sqn3,yes,NA,osf.io/4sqn3,yes,NA
+a000005,yes,NA,yes,NA,yes,NA,osf.io/h7av3/?view_only=64a45a1b7def4d95b1231e35df6a2c78,yes,NA,osf.io/h7av3/?view_only=64a45a1b7def4d95b1231e35df6a2c78,yes,NA
+a000007,yes,NA,yes,NA,yes,NA,osf.io/wds5y,yes,NA,osf.io/wds5y,yes,NA
+a000009,yes,NA,yes,NA,yes,NA,osf.io/x3ypv,yes,NA,osf.io/x3ypv,yes,NA
+a000010,yes,NA,yes,NA,yes,NA,osf.io/6yhmp,yes,NA,osf.io/6yhmp,yes,NA
+a000011,yes,NA,yes,NA,yes,NA,osf.io/x8rnq,yes,NA,osf.io/x8rnq,other,"One code file was downloadable, but ""checked out"" which means that it was not clear whether it was the final version of the file or not."
+a000011,yes,NA,yes,NA,yes,NA,www.ukbiobank.ac.uk,other,"link works, but is to the generic homepage. More detail needed in order to find the actual data used.",www.ukbiobank.ac.uk,other,Registration and approval is required to access any data files
+a000012,yes,NA,yes,NA,yes,NA,osf.io/njea2,yes,NA,osf.io/njea2,yes,NA
+a000013,yes,NA,yes,NA,yes,NA,thedata.harvard.edu/dvn/dv/lzav/faces/study/StudyPage.xhtml?globalId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,NA
+a000015,yes,NA,yes,NA,yes,NA,osf.io/f3dh6,yes,NA,osf.io/f3dh6,yes,NA
+a000016,yes,NA,yes,NA,yes,NA,osf.io/cp76s,yes,NA,osf.io/cp76s,yes,NA
+a000017,yes,NA,yes,NA,yes,NA,osf.io/yw9us,yes,NA,osf.io/yw9us,yes,NA
+a000018,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLWQY9,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLWQY9,yes,NA
+a000019,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/YVE8F,yes,NA,osf.io/yve8f,yes,NA
+a000020,yes,NA,yes,NA,yes,NA,reshare.ukdataservice.ac.uk/852658,yes,NA,reshare.ukdataservice.ac.uk/852658,yes,NA
+a000022,yes,NA,yes,NA,yes,NA,osf.io/cwqsu/?view_only=Noneandhttps://osf.io/cwqsu/?view_only=None,yes,NA,osf.io/cwqsu/?view_only=Noneandhttps://osf.io/cwqsu/?view_only=None,yes,NA
+a000023,yes,NA,yes,NA,yes,NA,osf.io/jbq9v,yes,NA,osf.io/jbq9v,yes,NA
+a000024,yes,NA,yes,NA,yes,NA,osf.io/jrmk4,yes,NA,osf.io/jrmk4,yes,NA
+a000024,yes,NA,yes,NA,yes,NA,osf.io/z68ku,yes,NA,osf.io/z68ku,yes,NA
+a000025,yes,NA,yes,NA,yes,NA,osf.io/kz53g,yes,NA,osf.io/kz53g,yes,NA
+a000029,yes,NA,yes,NA,yes,NA,osf.io/k67ba,yes,NA,osf.io/k67ba,yes,NA
+a000030,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/ZSYWHO,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSYWHO,yes,NA
+a000031,yes,NA,yes,NA,yes,NA,doi.org/10.25540/3wd8-dffw,yes,NA,scholarbank.nus.edu.sg/handle/10635/150104,other,Need to fill out a 'guestbook' and accept terms of use before being allowed to download
+a000031,yes,NA,yes,NA,yes,NA,five.dartmouth.edu/datasets,other,The link is to the repo home page; further searching on website (and acceptance of conditions of use) required to locate the specific dataset,five.dartmouth.edu/view/7?,other,Need to be logged in to the FIVES site to view/download data files
+a000032,yes,NA,yes,NA,yes,NA,doi.org/10.6096/MISTRALS-HyMeX.1406,yes,NA,mistrals.sedoo.fr/HyMeX/?editDatsId=1406,other,Account registration required
+a000033,yes,NA,yes,NA,yes,NA,osf.io/h67mx,yes,NA,osf.io/h67mx,yes,NA
+a000035,yes,NA,yes,NA,yes,NA,osf.io/9tu5r,yes,NA,osf.io/9tu5r,yes,NA
+a000036,yes,NA,yes,NA,yes,NA,osf.io/g9yrc,yes,NA,osf.io/g9yrc,yes,NA
+a000037,yes,NA,yes,NA,yes,NA,hdl.handle.net/11633/aabxbkd7,yes,NA,data.donders.ru.nl/collections/di/dccn/DSC_3018026.01_234,yes,NA
+a000038,yes,NA,yes,NA,yes,NA,osf.io/6ayhs,yes,NA,osf.io/6ayhs,yes,NA
+a000039,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/7EWDRF,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7EWDRF,yes,NA
+a000040,yes,NA,yes,NA,yes,NA,osf.io/fkmbh,yes,NA,osf.io/fkmbh,yes,NA
+a000041,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/GDTPM,yes,NA,osf.io/gdtpm,yes,NA
+a000042,yes,NA,yes,NA,yes,NA,osf.io/a8sv7/?view_only=cf0e445e30354e22bb53b82242fd94d8,yes,NA,osf.io/a8sv7/?view_only=cf0e445e30354e22bb53b82242fd94d8,yes,NA
+a000043,yes,NA,yes,NA,yes,NA,osf.io/tmdvn,yes,NA,osf.io/tmdvn,yes,NA
+a000044,yes,NA,yes,NA,yes,NA,osf.io/2pgtj,yes,NA,osf.io/2pgtj,yes,NA
+a000045,yes,NA,yes,NA,yes,NA,osf.io/u2xct,yes,NA,osf.io/u2xct,yes,NA
+a000046,yes,NA,yes,NA,yes,NA,osf.io/dkqfn,yes,NA,osf.io/dkqfn,yes,NA
+a000047,yes,NA,yes,NA,yes,NA,osf.io/g3rnt,yes,NA,osf.io/g3rnt,yes,NA
+a000048,yes,NA,yes,NA,yes,NA,osf.io/cpmfk,yes,NA,osf.io/cpmfk,yes,NA
+a000049,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/DTFR60,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DTFR60,yes,NA
+a000050,yes,NA,yes,NA,yes,NA,osf.io/2wjgn,yes,NA,osf.io/2wjgn,yes,NA
+a000051,yes,NA,yes,NA,yes,NA,ckan-rdm.up.pt/dataset/i3s-2019-001,yes,NA,ckan-rdm.up.pt/dataset/i3s-2019-001,yes,NA
+a000054,yes,NA,yes,NA,yes,NA,osf.io/hgcet,yes,NA,osf.io/hgcet,yes,NA
+a000056,yes,NA,yes,NA,yes,NA,osf.io/2b9hn,yes,NA,osf.io/2b9hn,yes,NA
+a000057,yes,NA,yes,NA,yes,NA,osf.io/pqf9r,yes,NA,osf.io/pqf9r,yes,NA
+a000061,yes,NA,yes,NA,yes,NA,osf.io/w2xsr,yes,NA,osf.io/w2xsr,yes,NA
+a000062,yes,NA,yes,NA,yes,NA,thedata.harvard.edu/dvn/dv/PainData,yes,NA,dataverse.harvard.edu/dataverse/PainData,yes,NA
+a000064,yes,NA,yes,NA,yes,NA,osf.io/jpxat/quickfiles,yes,NA,osf.io/jpxat/quickfiles,yes,NA
+a000066,yes,NA,yes,NA,yes,NA,osf.io/dtgaa,yes,NA,osf.io/dtgaa,yes,NA
+a000067,yes,NA,yes,NA,yes,NA,osf.io/nm8vf,yes,NA,osf.io/nm8vf,yes,NA
+a000071,yes,NA,yes,NA,yes,NA,osf.io/856cs,yes,NA,osf.io/856cs,yes,NA
+a000071,yes,NA,yes,NA,yes,NA,re3data.org,yes,NA,www.re3data.org,no,NA
+a000072,yes,NA,yes,NA,yes,NA,osf.io/56yz7,yes,NA,osf.io/56yz7,yes,NA
+a000073,yes,NA,yes,NA,yes,NA,osf.io/6zdnh,yes,NA,osf.io/6zdnh,yes,NA
+a000074,yes,NA,yes,NA,yes,NA,osf.io/t9c52,yes,NA,osf.io/t9c52,yes,NA
+a000075,yes,NA,yes,NA,yes,NA,osf.io/p8f7w,yes,NA,osf.io/p8f7w,yes,NA
+a000077,yes,NA,yes,NA,yes,NA,bit.ly/2mLcXyu,yes,NA,osf.io/ygy5e/?view_only=eca3d2740b3d4db38e9db0c67083861b,yes,NA
+a000080,yes,NA,yes,NA,yes,NA,osf.io/4x8tn,yes,NA,osf.io/4x8tn,yes,NA
+a000081,yes,NA,yes,NA,yes,NA,osf.io/cdev3,yes,NA,osf.io/cdev3,yes,NA
+a000081,yes,NA,yes,NA,yes,NA,osf.io/q9jy3,yes,NA,osf.io/q9jy3,yes,NA
+a000081,yes,NA,yes,NA,yes,NA,osf.io/uj2dr,yes,NA,osf.io/uj2dr,yes,NA
+a000081,yes,NA,yes,NA,yes,NA,osf.io/x7pgq,yes,NA,osf.io/x7pgq,yes,NA
+a000082,yes,NA,no,NA,yes,NA,osf.io/anc5m,yes,NA,osf.io/anc5m,yes,NA
+a000083,yes,NA,yes,NA,yes,NA,osf.io/rmjtg,yes,NA,osf.io/rmjtg,yes,NA
+a000084,yes,NA,yes,NA,yes,NA,osf.io/54yzr,yes,NA,osf.io/54yzr,yes,NA
+a000085,yes,NA,yes,NA,yes,NA,osf.io/zudxp,yes,NA,osf.io/zudxp,yes,NA
+a000088,yes,NA,yes,NA,yes,NA,osf.io/6u4wh,yes,NA,osf.io/6u4wh,yes,NA
+a000089,yes,NA,yes,NA,yes,NA,osf.io/3htpj,yes,NA,osf.io/3htpj,yes,NA
+a000090,yes,NA,yes,NA,yes,NA,osf.io/e9mhc,yes,NA,osf.io/e9mhc,yes,NA
+a000093,yes,NA,yes,NA,yes,NA,osf.io/uyadw,yes,NA,osf.io/uyadw,yes,NA
+a000096,yes,NA,yes,NA,yes,NA,osf.io/9246v,yes,NA,osf.io/9246v,yes,NA
+a000097,yes,NA,yes,NA,yes,NA,osf.io/tqzkd,yes,NA,osf.io/tqzkd,yes,NA
+a000098,yes,NA,yes,NA,yes,NA,osf.io/nft5c,yes,NA,osf.io/nft5c,yes,NA
+a000099,yes,NA,yes,NA,yes,NA,osf.io/4dau5,yes,NA,osf.io/4dau5,yes,NA
+a000100,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/Z6SDM,yes,NA,osf.io/z6sdm,yes,NA
+a000101,yes,NA,yes,NA,yes,NA,osf.io/etrcd,yes,NA,osf.io/etrcd,yes,NA
+a000103,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/VEPHLS,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VEPHLS,yes,NA
+a000104,yes,NA,yes,NA,yes,NA,thedata.harvard.edu/dvn/dv/kenswan,other,"link works, but is to a list of the user's data projects on the site. Fortunately there is only one data repo in the list, so it is a two-step url hop",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28095,yes,NA
+a000105,yes,NA,yes,NA,yes,NA,osf.io/4zwsd,yes,NA,osf.io/4zwsd,yes,NA
+a000106,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/CQXHTH,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CQXHTH,yes,NA
+a000107,yes,NA,yes,NA,yes,NA,osf.io/4bsw8,yes,NA,osf.io/4bsw8,yes,NA
+a000108,yes,NA,yes,NA,yes,NA,doi.org/10.5061/dryad.cn20jv8,yes,NA,datadryad.org/stash/dataset/doi:10.5061/dryad.cn20jv8,yes,NA
+a000109,yes,NA,yes,NA,yes,NA,osf.io/2ckz9,yes,NA,osf.io/2ckz9,yes,NA
+a000110,yes,NA,yes,NA,yes,NA,osf.io/4d2ve,yes,NA,osf.io/4d2ve,yes,NA
+a000112,yes,NA,no,NA,yes,NA,osf.io/wcuhx,yes,NA,osf.io/wcuhx,yes,NA
+a000115,yes,NA,yes,NA,yes,NA,osf.io/m35b8,yes,NA,osf.io/m35b8,yes,NA
+a000116,yes,NA,yes,NA,yes,NA,osf.io/gzytb,yes,NA,osf.io/gzytb,yes,NA
+a000117,yes,NA,yes,NA,yes,NA,archaeologydataservice.ac.uk/archives/view/greylit,yes,NA,archaeologydataservice.ac.uk/archives/view/greylit,no,NA
+a000118,yes,NA,yes,NA,yes,NA,osf.io/b5sar,yes,NA,osf.io/b5sar,yes,NA
+a000119,yes,NA,yes,NA,yes,NA,osf.io/3ymbu,yes,NA,osf.io/3ymbu,yes,NA
+a000121,yes,NA,yes,NA,yes,NA,osf.io/cgydx,yes,NA,osf.io/cgydx,yes,NA
+a000122,yes,NA,yes,NA,yes,NA,osf.io/j5zyf,yes,NA,osf.io/j5zyf,yes,NA
+a000123,yes,NA,yes,NA,yes,NA,osf.io/x6wcb,yes,NA,osf.io/x6wcb,yes,NA
+a000127,yes,NA,yes,NA,yes,NA,osf.io/ezqft,other,the encoding of the hyperlink in the pdf is garbled but it is still unambiguous what the url to data is,osf.io/ezqft,yes,NA
+a000128,yes,NA,yes,NA,yes,NA,osf.io/dbuh4,yes,NA,osf.io/dbuh4,yes,NA
+a000130,yes,NA,yes,NA,yes,NA,osf.io/pr39h,yes,NA,osf.io/pr39h,yes,NA
+a000131,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26910,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26910,yes,NA
+a000131,yes,NA,yes,NA,yes,NA,osf.io/p97fk,yes,NA,osf.io/p97fk,yes,NA
+a000132,yes,NA,yes,NA,yes,NA,osf.io/z6ryh,yes,NA,osf.io/z6ryh,yes,NA
+a000132,yes,NA,yes,NA,yes,NA,www.pairfam.de/en/data/data-access,other,the url as given automatically redirects to the home page (due to lack of https). Links need to be followed from the main page in order to get to the intended page,www.pairfam.de/en/data/data-access,other,application and approval and possibly payment is required before access to files is possible
+a000133,yes,NA,yes,NA,yes,NA,osf.io/453ds,yes,NA,osf.io/453ds,yes,NA
+a000134,yes,NA,yes,NA,yes,NA,osf.io/b8zft,yes,NA,osf.io/b8zft,yes,NA
+a000136,yes,NA,yes,NA,yes,NA,osf.io/9d6t4,other,the encoding of the hyperlink in the pdf is garbled (line break) but it is still unambiguous what the url to data is,osf.io/9d6t4,yes,NA
+a000138,yes,NA,yes,NA,yes,NA,doi.org/10.21985/N2VR0V,yes,NA,arch.library.northwestern.edu/concern/generic_works/8336h212d,yes,NA
+a000139,yes,NA,yes,NA,yes,NA,osf.io/vsnj3,yes,NA,osf.io/vsnj3,yes,NA
+a000140,yes,NA,yes,NA,yes,NA,osf.io/4fpkn,yes,NA,osf.io/4fpkn,yes,NA
+a000141,yes,NA,yes,NA,yes,NA,osf.io/7tssz,yes,NA,osf.io/7tssz,yes,NA
+a000142,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/WD3IUA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WD3IUA,yes,NA
+a000143,yes,NA,yes,NA,yes,NA,osf.io/8cq5f,yes,NA,osf.io/8cq5f,yes,NA
+a000144,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/EZSJ1S,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EZSJ1S,yes,NA
+a000145,yes,NA,yes,NA,yes,NA,osf.io/cwq75,yes,NA,osf.io/cwq75,yes,NA
+a000146,yes,NA,yes,NA,other,"original article has link to original repo, but there is another repo associated with the corrigendum for the article, which is only accessible from the non-registered version of the original OSF project",osf.io/8x6dw,yes,NA,osf.io/8x6dw,yes,NA
+a000146,yes,NA,yes,NA,other,"original article has link to original repo, but there is another repo associated with the corrigendum for the article, which is only accessible from the non-registered version of the original OSF project",osf.io/j8wdv,yes,NA,osf.io/j8wdv,yes,NA
+a000147,yes,NA,yes,NA,yes,NA,osf.io/cwenz,yes,NA,osf.io/cwenz,yes,NA
+a000148,yes,NA,yes,NA,yes,NA,osf.io/9ncmb/?view_only=bd72d104795542d0b761f664cb8adda6,yes,NA,osf.io/9ncmb/?view_only=bd72d104795542d0b761f664cb8adda6,yes,NA
+a000148,yes,NA,yes,NA,yes,NA,osf.io/hqyzp/?view_only=d3a4b3858088415094e169f65b7d76d7,yes,NA,osf.io/hqyzp/?view_only=d3a4b3858088415094e169f65b7d76d7,yes,NA
+a000149,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/7TA47E,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7TA47E,yes,NA
+a000151,yes,NA,yes,NA,yes,NA,osf.io/ugdcz,yes,NA,osf.io/ugdcz,yes,NA
+a000152,yes,NA,yes,NA,yes,NA,dx.doi.org//10.17632/948rskffhd.2,yes,NA,data.mendeley.com/datasets/948rskffhd/2,yes,NA
+a000153,yes,NA,yes,NA,yes,NA,osf.io/du9ws,yes,NA,osf.io/du9ws,yes,NA
+a000154,yes,NA,yes,NA,yes,NA,osf.io/usdq8,yes,NA,osf.io/usdq8,yes,NA
+a000156,yes,NA,yes,NA,yes,NA,osf.io/3csng,yes,NA,osf.io/3csng,yes,NA
+a000157,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/EWRXPU,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWRXPU,yes,NA
+a000158,yes,NA,yes,NA,yes,NA,doi.org/10.17632/yrpjzfmzpz.3,yes,NA,data.mendeley.com/datasets/yrpjzfmzpz/3,yes,NA
+a000159,yes,NA,yes,NA,yes,NA,osf.io/t6gwf,yes,NA,osf.io/t6gwf,yes,NA
+a000160,yes,NA,yes,NA,yes,NA,childes.talkbank.org,other,"the link is to the repo home page; further searching required to find the datasets actually used (US: 'Brown','Providence','Bloom70','Kuczaj', 'Suppes', 'Sachs', UK: 'Manchester', 'Thomas')",childes.talkbank.org/access/Eng-UK/Manchester.html; https://childes.talkbank.org/access/Eng-UK/Thomas.html; https://childes.talkbank.org/access/Eng-NA/Brown.html; https://childes.talkbank.org/access/Eng-NA/Bloom.html; https://childes.talkbank.org/access/Eng-NA/Suppes.html; https://childes.talkbank.org/access/Eng-NA/Sachs.html; https://childes.talkbank.org/access/Eng-NA/Kuczaj.html; https://phonbank.talkbank.org/access/Eng-NA/Providence.html,yes,NA
+a000160,yes,NA,yes,NA,yes,NA,github.com/smeylan/determiner_learning,yes,NA,github.com/smeylan/determiner_learning,yes,NA
+a000162,yes,NA,yes,NA,yes,NA,doi.pangaea.de/10.1594/PANGAEA.896587,yes,NA,doi.pangaea.de/10.1594/PANGAEA.896587,yes,NA
+a000163,yes,NA,yes,NA,yes,NA,osf.io/d8wvt,yes,NA,osf.io/d8wvt,yes,NA
+a000164,yes,NA,yes,NA,yes,NA,osf.io/28gxz,yes,NA,osf.io/28gxz,yes,NA
+a000165,yes,NA,yes,NA,yes,NA,osf.io/uwzsb,yes,NA,osf.io/uwzsb,yes,NA
+a000167,yes,NA,yes,NA,yes,NA,osf.io/b45vq,yes,NA,osf.io/b45vq,yes,NA
+a000168,yes,NA,yes,NA,yes,NA,doi.org/10.3886/ICPSR21600.v17,yes,NA,www.icpsr.umich.edu/web/DSDR/studies/21600/versions/V17,other,"The v17 of the files is no longer available, superceded by v18-v21. v17 may be available upon request for replication purposes according to note on page."
+a000169,yes,NA,yes,NA,yes,NA,osf.io/4cg2s,yes,NA,osf.io/4cg2s,yes,NA
+a000170,yes,NA,yes,NA,yes,NA,osf.io/23gc4,yes,NA,osf.io/23gc4,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.10b2260a0617627002d437ea6a3df022,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.10b2260a0617627002d437ea6a3df022,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.4a66da6e800423b1a51babcd917805c1,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.4a66da6e800423b1a51babcd917805c1,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.580bf950a46873e44295a7e29d66f077,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.580bf950a46873e44295a7e29d66f077,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.6bbca96b0a7b0a5c3b0be4b4312f837c,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.6bbca96b0a7b0a5c3b0be4b4312f837c,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.93d8a7ad5841c7380c9656779ae3425d,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.93d8a7ad5841c7380c9656779ae3425d,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.b2f9e5768dcc2aa0922f24967920d9ab,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.b2f9e5768dcc2aa0922f24967920d9ab,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.cbbba251c17b55c737836768c8737589,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.cbbba251c17b55c737836768c8737589,yes,NA
+a000171,yes,NA,yes,NA,yes,NA,doi.org/10.6092/SNAP.f56b827cffb9f0e99603c6ef4074de73,yes,NA,snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.f56b827cffb9f0e99603c6ef4074de73,yes,NA
+a000174,yes,NA,yes,NA,yes,NA,osf.io/msphv,yes,NA,osf.io/msphv,yes,NA
+a000174,yes,NA,yes,NA,yes,NA,osf.io/yegrv,yes,NA,osf.io/yegrv,yes,NA
+a000175,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/BPON3K,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BPON3K,yes,NA
+a000176,yes,NA,yes,NA,yes,NA,osf.io/5ybhd,yes,NA,osf.io/5ybhd,yes,NA
+a000177,yes,NA,yes,NA,yes,NA,osf.io/r3eca,yes,NA,osf.io/r3eca,yes,NA
+a000178,yes,NA,yes,NA,yes,NA,osf.io/ydpbf,yes,NA,osf.io/ydpbf,yes,NA
+a000180,yes,NA,yes,NA,yes,NA,osf.io/6krj7,yes,NA,osf.io/6krj7,yes,NA
+a000181,yes,NA,yes,NA,yes,NA,osf.io/jkbm9,yes,NA,osf.io/jkbm9,yes,NA
+a000182,yes,NA,yes,NA,yes,NA,osf.io/emk5j,yes,NA,osf.io/emk5j,yes,NA
+a000183,yes,NA,no,NA,yes,NA,osf.io/h6ckw/?view_only=ca786be8956247acae8ce79343a409a0,yes,NA,osf.io/h6ckw/?view_only=ca786be8956247acae8ce79343a409a0,yes,NA
+a000185,yes,NA,yes,NA,yes,NA,osf.io/38apk/?view_only=66833d11e36f4af8a17e56d45ac5e379,yes,NA,osf.io/38apk/?view_only=66833d11e36f4af8a17e56d45ac5e379,yes,NA
+a000186,yes,NA,yes,NA,yes,NA,osf.io/92ahy,yes,NA,osf.io/92ahy,yes,NA
+a000187,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/C4WN8,yes,NA,osf.io/c4wn8,yes,NA
+a000188,yes,NA,yes,NA,yes,NA,osf.io/zg427,yes,NA,osf.io/zg427,yes,NA
+a000189,yes,NA,yes,NA,yes,NA,osf.io/xv645,yes,NA,osf.io/xv645,yes,NA
+a000191,yes,NA,yes,NA,yes,NA,osf.io/3mftr,yes,NA,osf.io/3mftr,yes,NA
+a000192,yes,NA,yes,NA,yes,NA,osf.io/B2478,yes,NA,osf.io/B2478,yes,NA
+a000192,yes,NA,yes,NA,yes,NA,osf.io/G4C7Z,yes,NA,osf.io/G4C7Z,yes,NA
+a000193,yes,NA,yes,NA,yes,NA,osf.io/seqgd,yes,NA,osf.io/seqgd,yes,NA
+a000194,yes,NA,yes,NA,yes,NA,osf.io/6wxgf,yes,NA,osf.io/6wxgf,yes,NA
+a000195,yes,NA,yes,NA,yes,NA,osf.io/Z5TE6,yes,NA,osf.io/Z5TE6,yes,NA
+a000196,yes,NA,yes,NA,yes,NA,osf.io/9v34x,yes,NA,osf.io/9v34x,yes,NA
+a000197,yes,NA,yes,NA,yes,NA,osf.io/946vb,yes,NA,osf.io/946vb,yes,NA
+a000199,yes,NA,yes,NA,yes,NA,osf.io/p2z8a,yes,NA,osf.io/p2z8a,yes,NA
+a000202,yes,NA,yes,NA,yes,NA,osf.io/dv7ab,yes,NA,osf.io/dv7ab,yes,NA
+a000203,yes,NA,yes,NA,yes,NA,osf.io/c5kme,yes,NA,osf.io/c5kme,yes,NA
+a000205,yes,NA,yes,NA,yes,NA,osf.io/g6tnd,yes,NA,osf.io/g6tnd,yes,NA
+a000206,yes,NA,yes,NA,yes,NA,osf.io/afdkq,yes,NA,osf.io/afdkq,yes,NA
+a000207,yes,NA,yes,NA,yes,NA,osf.io/bx8zv,yes,NA,osf.io/bx8zv,yes,NA
+a000208,yes,NA,yes,NA,yes,NA,osf.io/3c4ue,yes,NA,osf.io/3c4ue,yes,NA
+a000210,yes,NA,yes,NA,yes,NA,doi.pangaea.de/10.1594/PANGAEA.885886,yes,NA,doi.pangaea.de/10.1594/PANGAEA.885886,yes,NA
+a000211,yes,NA,yes,NA,yes,NA,osf.io/8gyns,yes,NA,osf.io/8gyns,yes,NA
+a000212,yes,NA,yes,NA,yes,NA,osf.io/cu8jv,yes,NA,osf.io/cu8jv,yes,NA
+a000213,yes,NA,yes,NA,yes,NA,osf.io/aj98f,yes,NA,osf.io/aj98f,yes,NA
+a000214,yes,NA,yes,NA,yes,NA,osf.io/8aw9r,yes,NA,osf.io/8aw9r,yes,NA
+a000215,yes,NA,yes,NA,yes,NA,osf.io/kfdca,yes,NA,osf.io/kfdca,yes,NA
+a000216,yes,NA,no,NA,yes,NA,osf.io/9nq3c,yes,NA,osf.io/9nq3c,yes,NA
+a000217,yes,NA,yes,NA,yes,NA,osf.io/wk3ve,yes,NA,osf.io/wk3ve,yes,NA
+a000219,yes,NA,yes,NA,yes,NA,dx.doi.org/10.1016/j.jesp.2017.07.005,yes,NA,www.sciencedirect.com/science/article/abs/pii/S0022103116304292?via%3Dihub,yes,NA
+a000221,yes,NA,yes,NA,yes,NA,osf.io/syjhd,yes,NA,osf.io/syjhd,yes,NA
+a000223,yes,NA,yes,NA,yes,NA,osf.io/ybu6r,yes,NA,osf.io/ybu6r,yes,NA
+a000227,yes,NA,yes,NA,yes,NA,doi.org/10.23684/odi-2017-00957,yes,NA,open.canada.ca/data/en/dataset/e7484a20-99fa-4989-945b-3031d670d285,yes,NA
+a000227,yes,NA,yes,NA,yes,NA,doi.org/10.23684/odi-2017-00958,yes,NA,open.canada.ca/data/en/dataset/150566dc-7f3b-4ba7-b65a-16f35b947a57,yes,NA
+a000227,yes,NA,yes,NA,yes,NA,doi.org/10.23684/odi-2017-00959,yes,NA,open.canada.ca/data/en/dataset/c1a63ce9-6b76-414b-937e-135fae08cea2,yes,NA
+a000228,yes,NA,yes,NA,yes,NA,osf.io/7wfxj,yes,NA,osf.io/7wfxj,yes,NA
+a000228,yes,NA,yes,NA,yes,NA,osf.io/8juyc,yes,NA,osf.io/8juyc,yes,NA
+a000229,yes,NA,yes,NA,yes,NA,osf.io/7c9bw,yes,NA,osf.io/7c9bw,yes,NA
+a000230,yes,NA,yes,NA,yes,NA,osf.io/gq7z2,yes,NA,osf.io/gq7z2,yes,NA
+a000231,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/9SF3TI,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9SF3TI,yes,NA
+a000232,yes,NA,yes,NA,yes,NA,osf.io/bfefu,yes,NA,osf.io/bfefu,yes,NA
+a000232,yes,NA,yes,NA,yes,NA,osf.io/rfc6r,yes,NA,osf.io/rfc6r,yes,NA
+a000233,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000235,yes,NA,yes,NA,yes,NA,osf.io/8rbvz,yes,NA,osf.io/8rbvz,yes,NA
+a000236,yes,NA,yes,NA,yes,NA,osf.io/q9kd3,yes,NA,osf.io/q9kd3,yes,NA
+a000238,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/7190MT,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7190MT,yes,NA
+a000239,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/I4KVD1,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I4KVD1,yes,NA
+a000240,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/YJUIBI,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJUIBI,yes,NA
+a000242,yes,NA,yes,NA,yes,NA,osf.io/adrwv,yes,NA,osf.io/adrwv,yes,NA
+a000243,yes,NA,yes,NA,yes,NA,datadryad.org//resource/doi:10.5061/dryad.q88sm,yes,NA,datadryad.org/stash/dataset/doi:10.5061/dryad.q88sm,yes,NA
+a000244,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z5RSKK,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z5RSKK,yes,NA
+a000245,yes,NA,yes,NA,yes,NA,osf.io/29ytr/files/?view_only=d544d23261024c1099d7348de61ee990,yes,NA,osf.io/29ytr/files/?view_only=d544d23261024c1099d7348de61ee990,yes,NA
+a000247,yes,NA,yes,NA,yes,NA,osf.io/47tnc,yes,NA,osf.io/47tnc,yes,NA
+a000247,yes,NA,yes,NA,yes,NA,osf.io/gvm2z,yes,NA,osf.io/gvm2z,yes,NA
+a000250,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/TZRNKD,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TZRNKD,yes,NA
+a000251,yes,NA,yes,NA,yes,NA,osf.io/k5b7a,yes,NA,osf.io/k5b7a,yes,NA
+a000253,yes,NA,yes,NA,yes,NA,osf.io/ev3w5,yes,NA,osf.io/ev3w5,yes,NA
+a000253,yes,NA,yes,NA,yes,NA,osf.io/ewr45,yes,NA,osf.io/ewr45,yes,NA
+a000256,yes,NA,yes,NA,yes,NA,osf.io/39vsg,yes,NA,osf.io/39vsg,yes,NA
+a000257,yes,NA,yes,NA,yes,NA,osf.io/f23tn/?view_only=eb1aad8f01004d02934d872717bf9db1,yes,NA,osf.io/f23tn/?view_only=eb1aad8f01004d02934d872717bf9db1,yes,NA
+a000258,yes,NA,yes,NA,yes,NA,osf.io/9q23j,yes,NA,osf.io/9q23j,yes,NA
+a000259,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/SZ9YXZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZ9YXZ,yes,NA
+a000260,yes,NA,yes,NA,yes,NA,fcon_1000.projects.nitrc.org/indi/enhanced/access.html,other,"The link is to a page with instructions on how to arrange access to the data, not a link to the data per se",fcon_1000.projects.nitrc.org/indi/enhanced/access.html,other,"The full phenotypic release of the data is required, and the site requires a data usage agreement to be approved before allowing access"
+a000264,yes,NA,yes,NA,yes,NA,osf.io/kszge,yes,NA,osf.io/kszge,yes,NA
+a000266,yes,NA,yes,NA,yes,NA,osf.io/ycren,yes,NA,osf.io/ycren,yes,NA
+a000267,yes,NA,yes,NA,yes,NA,doi:10.7910/DVN/W2HZSO,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W2HZSO,yes,NA
+a000269,yes,NA,yes,NA,yes,NA,doi.org/10.24414/j0dx-9n36,yes,NA,www.astro.oma.be/doi/Seis_Grav/Gravity_DB.html,yes,NA
+a000270,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5284/1031492,yes,NA,archaeologydataservice.ac.uk/archives/view/romurbital_mc_2015,yes,NA
+a000272,yes,NA,yes,NA,yes,NA,osf.io/p6jfq,yes,NA,osf.io/p6jfq,yes,NA
+a000272,yes,NA,yes,NA,yes,NA,osf.io/vhme2,yes,NA,osf.io/vhme2,yes,NA
+a000273,yes,NA,yes,NA,yes,NA,osf.io/37u8s,yes,NA,osf.io/37u8s,yes,NA
+a000273,yes,NA,yes,NA,yes,NA,osf.io/tqmeh,yes,NA,osf.io/tqmeh,yes,NA
+a000275,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/Q8CSU8,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q8CSU8,yes,NA
+a000276,yes,NA,yes,NA,yes,NA,osf.io/x25ea,yes,NA,osf.io/x25ea,yes,NA
+a000279,yes,NA,yes,NA,yes,NA,osf.io/kszj7,yes,NA,osf.io/kszj7,yes,NA
+a000280,yes,NA,yes,NA,yes,NA,www.icpsr.umich.edu/icpsrweb/ICPSR/series/203,other,"the link is to the overall project page, which in turn links to many datasets","www.icpsr.umich.edu/web/ICPSR/studies/4652, https://www.icpsr.umich.edu/web/ICPSR/studies/36346",other,"Account required, may need to be from an approved institution"
+a000281,yes,NA,yes,NA,yes,NA,osf.io/rf28u,yes,NA,osf.io/rf28u,yes,NA
+a000282,yes,NA,yes,NA,yes,NA,osf.io/szvxd,yes,NA,osf.io/szvxd,yes,NA
+a000284,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.2593735,yes,NA,zenodo.org/record/2593735,yes,NA
+a000285,yes,NA,yes,NA,yes,NA,osf.io/tnjqs,yes,NA,osf.io/tnjqs,yes,NA
+a000287,yes,NA,yes,NA,yes,NA,osf.io/fctr8,yes,NA,osf.io/fctr8,yes,NA
+a000288,yes,NA,yes,NA,yes,NA,osf.io/3hu8m,yes,NA,osf.io/3hu8m,yes,NA
+a000292,yes,NA,yes,NA,yes,NA,iris-database.org/iris/app/home/detail?id=york:934328,yes,NA,www.iris-database.org/iris/app/home/detail?id=york:934328,yes,NA
+a000293,yes,NA,yes,NA,yes,NA,osf.io/rt6w2,yes,NA,osf.io/rt6w2,yes,NA
+a000294,yes,NA,yes,NA,yes,NA,osf.io/fpsu8,yes,NA,osf.io/fpsu8,yes,NA
+a000295,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data",www.iris-database.org/iris/app/home/detail?id=york:935345,other,Registration form required before data can be downloaded
+a000295,yes,NA,yes,NA,yes,NA,osf.io/57zkv,yes,NA,osf.io/57zkv,yes,NA
+a000296,yes,NA,yes,NA,yes,NA,doi.org/10.6084/m9.figshare.7271480.v1,yes,NA,figshare.com/articles/The_Co-occurrence_of_Pitch_and_Rhythm_Disorders_in_Congenital_Amusia/7271480/1,yes,NA
+a000297,yes,NA,yes,NA,yes,NA,osf.io/gzyth,yes,NA,osf.io/gzyth,yes,NA
+a000298,yes,NA,yes,NA,yes,NA,osf.io/8zeqp,yes,NA,osf.io/8zeqp,yes,NA
+a000299,yes,NA,other,"Appendix A is explicitly called ""Supplemental data"" but is just a document, not data. Actual shared data is buried in body of article text.",yes,NA,osf.io/zbu3x,yes,NA,osf.io/zbu3x,yes,NA
+a000300,yes,NA,yes,NA,yes,NA,osf.io/4rs5x,yes,NA,osf.io/4rs5x,yes,NA
+a000300,yes,NA,yes,NA,yes,NA,osf.io/9tm36,yes,NA,osf.io/9tm36,no,NA
+a000301,yes,NA,yes,NA,yes,NA,osf.io/6n894,yes,NA,osf.io/6n894,yes,NA
+a000302,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/9AWUYJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9AWUYJ,yes,NA
+a000303,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/WZV20D,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WZV20D,yes,NA
+a000305,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/LVHIYG,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVHIYG,yes,NA
+a000306,yes,NA,yes,NA,yes,NA,osf.io/k8t4b,yes,NA,osf.io/k8t4b,yes,NA
+a000309,yes,NA,yes,NA,yes,NA,doi.org/10.14264/uql.2019.12,yes,NA,espace.library.uq.edu.au/view/UQ:21a02ec,yes,NA
+a000311,yes,NA,yes,NA,yes,NA,osf.io/du5jc,yes,NA,osf.io/du5jc,yes,NA
+a000313,yes,NA,yes,NA,yes,NA,osf.io/rhju9,yes,NA,osf.io/rhju9,yes,NA
+a000314,yes,NA,yes,NA,yes,NA,osf.io/xvmr7,yes,NA,osf.io/xvmr7,yes,NA
+a000315,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/JTV6W6,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JTV6W6,yes,NA
+a000316,yes,NA,yes,NA,yes,NA,osf.io/nft78,yes,NA,osf.io/nft78,yes,NA
+a000317,yes,NA,yes,NA,yes,NA,osf.io/fsadm,yes,NA,osf.io/fsadm,yes,NA
+a000318,yes,NA,yes,NA,yes,NA,github.com/langcog/KTE,yes,NA,github.com/langcog/KTE,yes,NA
+a000319,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/P49YA,yes,NA,osf.io/p49ya,yes,NA
+a000320,yes,NA,yes,NA,yes,NA,osf.io/pr3hf,yes,NA,osf.io/pr3hf,yes,NA
+a000321,yes,NA,yes,NA,yes,NA,osf.io/qtsx2,yes,NA,osf.io/qtsx2,yes,NA
+a000322,yes,NA,yes,NA,yes,NA,osf.io/au4x3,yes,NA,osf.io/au4x3,yes,NA
+a000323,yes,NA,yes,NA,yes,NA,osf.io/we7aj,yes,NA,osf.io/we7aj,yes,NA
+a000324,yes,NA,yes,NA,yes,NA,osf.io/bmaf2,yes,NA,osf.io/bmaf2,yes,NA
+a000325,yes,NA,yes,NA,yes,NA,osf.io/kzmr5,yes,NA,osf.io/kzmr5,yes,NA
+a000325,yes,NA,yes,NA,yes,NA,osf.io/rt6un,yes,NA,osf.io/rt6un,yes,NA
+a000327,yes,NA,yes,NA,yes,NA,osf.io/5whvu,yes,NA,osf.io/5whvu,yes,NA
+a000328,yes,NA,yes,NA,yes,NA,osf.io/usfa5/?view_only=1f2e1994fc6247548499f47de64a2650,yes,NA,osf.io/usfa5/?view_only=1f2e1994fc6247548499f47de64a2650,yes,NA
+a000329,yes,NA,yes,NA,yes,NA,osf.io/gw9jh,yes,NA,osf.io/gw9jh,yes,NA
+a000330,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/WD3IUA,other,The link in the PDF is for a different study - correct link can be found on JBPA dataverse page,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XSRNRB,yes,NA
+a000331,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/ZFLG25,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZFLG25,yes,NA
+a000332,yes,NA,yes,NA,yes,NA,osf.io/5xmb2,yes,NA,osf.io/5xmb2,yes,NA
+a000333,yes,NA,yes,NA,yes,NA,osf.io/x3prf,yes,NA,osf.io/x3prf,yes,NA
+a000334,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910,other,"The url (DOI) as printed is incomplete - but other clues indicated there was likely a repo on Harvard Dataverse, and a search of that site for the title found the repo",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KUWA5X,yes,NA
+a000335,yes,NA,yes,NA,yes,NA,osf.io/6fgnq,yes,NA,osf.io/6fgnq,yes,NA
+a000336,yes,NA,yes,NA,yes,NA,osf.io/nydsz,yes,NA,osf.io/nydsz,yes,NA
+a000337,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/RW10GZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RW10GZ,yes,NA
+a000338,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/KPJUFL,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KPJUFL,yes,NA
+a000339,yes,NA,yes,NA,yes,NA,osf.io/b7qpu,yes,NA,osf.io/b7qpu,yes,NA
+a000340,yes,NA,yes,NA,yes,NA,osf.io/7a9tt,yes,NA,osf.io/7a9tt,yes,NA
+a000341,yes,NA,yes,NA,yes,NA,osf.io/d6hms,yes,NA,osf.io/d6hms,yes,NA
+a000342,yes,NA,yes,NA,yes,NA,osf.io/xyh24,yes,NA,osf.io/xyh24,yes,NA
+a000343,yes,NA,yes,NA,yes,NA,osf.io/8z2an,yes,NA,osf.io/8z2an,yes,NA
+a000344,yes,NA,yes,NA,yes,NA,osf.io/8dv5z,yes,NA,osf.io/8dv5z,yes,NA
+a000345,yes,NA,yes,NA,yes,NA,osf.io/rf3ys,yes,NA,osf.io/rf3ys,yes,NA
+a000347,yes,NA,yes,NA,yes,NA,osf.io/ha28n,yes,NA,osf.io/ha28n,yes,NA
+a000348,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/ZRZGTT,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZRZGTT,yes,NA
+a000350,yes,NA,yes,NA,yes,NA,osf.io/5gtyv,yes,NA,osf.io/5gtyv,yes,NA
+a000352,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/RLLL1V,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RLLL1V,yes,NA
+a000353,yes,NA,yes,NA,yes,NA,osf.io/bdvxs,yes,NA,osf.io/bdvxs,yes,NA
+a000354,yes,NA,yes,NA,yes,NA,osf.io/i5knh,yes,NA,osf.io/i5knh,yes,NA
+a000355,yes,NA,yes,NA,yes,NA,osf.io/7d5b5,other,Embedded link had a problem so clicking directly resulted in an error but url as written in text was OK,osf.io/7d5b5,yes,NA
+a000356,yes,NA,yes,NA,yes,NA,doi.org/10.5283/epub.38033,yes,NA,epub.uni-regensburg.de/38033,yes,NA
+a000357,yes,NA,yes,NA,yes,NA,osf.io/2jme8,yes,NA,osf.io/2jme8,yes,NA
+a000358,yes,NA,yes,NA,yes,NA,osf.io/dpsyz/?view_only=a256f1d6e5fb4d97adac2147f58811ae,yes,NA,osf.io/dpsyz/?view_only=a256f1d6e5fb4d97adac2147f58811ae,yes,NA
+a000359,yes,NA,yes,NA,yes,NA,doi.org/10.5284/1011888,yes,NA,archaeologydataservice.ac.uk/archives/view/t5_framework_2011,yes,NA
+a000361,yes,NA,yes,NA,yes,NA,osf.io/ft462,yes,NA,osf.io/ft462,yes,NA
+a000362,yes,NA,yes,NA,yes,NA,osf.io/rh9x6/?view_only=65ae8ed424e84dfda8594efa5b3aa714,yes,NA,osf.io/rh9x6/?view_only=65ae8ed424e84dfda8594efa5b3aa714,yes,NA
+a000363,yes,NA,yes,NA,yes,NA,osf.io/6akvt/files,yes,NA,osf.io/6akvt/files,yes,NA
+a000364,yes,NA,yes,NA,yes,NA,osf.io/pa8jw,yes,NA,osf.io/pa8jw,yes,NA
+a000365,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/IXWZZO,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXWZZO,yes,NA
+a000366,yes,NA,yes,NA,yes,NA,osf.io/9x6wm,yes,NA,osf.io/9x6wm,yes,NA
+a000367,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/YM4LDG,other,Link provided does not work but searching on Harvard Dataverse located the data repository,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BRRZSK,yes,NA
+a000368,yes,NA,yes,NA,yes,NA,osf.io/akp9n,yes,NA,osf.io/akp9n,yes,NA
+a000369,yes,NA,yes,NA,yes,NA,osf.io/5fbac,yes,NA,osf.io/5fbac,yes,NA
+a000371,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000372,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9KSHOE,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9KSHOE,yes,NA
+a000373,yes,NA,yes,NA,yes,NA,osf.io/4q3dc,yes,NA,osf.io/4q3dc,yes,NA
+a000376,yes,NA,yes,NA,yes,NA,osf.io/r96hg,yes,NA,osf.io/r96hg,yes,NA
+a000377,yes,NA,yes,NA,yes,NA,osf.io/da56v,yes,NA,osf.io/da56v,yes,NA
+a000377,yes,NA,yes,NA,yes,NA,osf.io/fwt65,yes,NA,osf.io/fwt65,yes,NA
+a000378,yes,NA,yes,NA,yes,NA,osf.io/b9mnr,yes,NA,osf.io/b9mnr,yes,NA
+a000379,yes,NA,yes,NA,yes,NA,osf.io/d7w8a,yes,NA,osf.io/d7w8a,yes,NA
+a000380,yes,NA,yes,NA,yes,NA,osf.io/w2434,yes,NA,osf.io/w2434,yes,NA
+a000381,yes,NA,yes,NA,yes,NA,osf.io/9dm3u,yes,NA,osf.io/9dm3u,yes,NA
+a000381,yes,NA,yes,NA,yes,NA,osf.io/dkrmw,yes,NA,osf.io/dkrmw,yes,NA
+a000382,yes,NA,yes,NA,yes,NA,osf.io/t3csz,yes,NA,osf.io/t3csz,yes,NA
+a000383,yes,NA,yes,NA,yes,NA,osf.io/uh3in,yes,NA,osf.io/uh3in,yes,NA
+a000386,yes,NA,yes,NA,yes,NA,osf.io/r483u,yes,NA,osf.io/r483u,yes,NA
+a000387,yes,NA,yes,NA,yes,NA,osf.io/wgfnm,yes,NA,osf.io/wgfnm,yes,NA
+a000388,yes,NA,yes,NA,yes,NA,doi.org/10.6084/m9.figshare.4743547.v1,yes,NA,figshare.com/articles/Stats_-_In_an_Absolute_State_xlsx/4743547/1,yes,NA
+a000389,yes,NA,yes,NA,yes,NA,osf.io/f78gs,yes,NA,osf.io/f78gs,yes,NA
+a000389,yes,NA,yes,NA,yes,NA,osf.io/kq897,yes,NA,osf.io/kq897,yes,NA
+a000389,yes,NA,yes,NA,yes,NA,www.psych.nyu.edu/westlab/lab-resources.html,yes,NA,www.psych.nyu.edu/westlab/lab-resources.html,yes,NA
+a000390,yes,NA,yes,NA,yes,NA,DOI 10.7910/DVN/SURSEO,other,"DOI provided without link, but searching via DOI resolves the url",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SURSEO,yes,NA
+a000391,yes,NA,yes,NA,other,Article contains both links and provides accession numbers to data resources without hyperlinks,European Bioinformations Institute Accession No. PRJEB11414,other,Needed to navigate to European Bioinformatics Institute website and search by accession number,www.ebi.ac.uk/ena/browser/view/PRJEB11414,yes,NA
+a000391,yes,NA,yes,NA,other,Article contains both links and provides accession numbers to data resources without hyperlinks,European Bioinformations Institute Accession No. PRJEB30873,other,Needed to navigate to European Bioinformatics Institute website and search by accession number,www.ebi.ac.uk/ena/browser/view/PRJEB30873,yes,NA
+a000391,yes,NA,yes,NA,other,Article contains both links and provides accession numbers to data resources without hyperlinks,github.com/knights-lab/douc_gut_sites,yes,NA,github.com/knights-lab/douc_gut_sites,yes,NA
+a000391,yes,NA,yes,NA,other,Article contains both links and provides accession numbers to data resources without hyperlinks,iris-database.org/iris/app/home/detail?id=york:934328,yes,NA,www.iris-database.org/iris/app/home/detail?id=york:934328,other,Registration form required before data can be downloaded
+a000392,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/RJAUNW,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RJAUNW,yes,NA
+a000393,yes,NA,yes,NA,yes,NA,osf.io/9ge7n,yes,NA,osf.io/9ge7n,yes,NA
+a000394,yes,NA,yes,NA,yes,NA,osf.io/sr9f4,yes,NA,osf.io/sr9f4,yes,NA
+a000395,yes,NA,yes,NA,yes,NA,doi.org/10.17863/CAM.31530,yes,NA,www.repository.cam.ac.uk/handle/1810/284168,yes,NA
+a000398,yes,NA,yes,NA,yes,NA,doi.org/10.1594/PANGAEA.885879,yes,NA,doi.pangaea.de/10.1594/PANGAEA.885879,yes,NA
+a000399,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5061/dryad.5t0b8,yes,NA,datadryad.org/stash/dataset/doi:10.5061/dryad.5t0b8,yes,NA
+a000400,yes,NA,yes,NA,other,Article mentions that data is available as supporting materials,doi.org/10.1002/jnr.24441,yes,NA,onlinelibrary.wiley.com/doi/full/10.1002/jnr.24441,other,"Some files exist, but in the body of the text, it is noted that raw data is available upon request"
+a000401,yes,NA,yes,NA,yes,NA,osf.io/c5ju9,yes,NA,osf.io/c5ju9,yes,NA
+a000402,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/I0VEMG,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I0VEMG,yes,NA
+a000403,yes,NA,yes,NA,yes,NA,osf.io/92xqk,yes,NA,osf.io/92xqk,yes,NA
+a000404,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVWZZLO&version=DRAFT,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVWZZLO&version=DRAFT,yes,NA
+a000406,yes,NA,yes,NA,yes,NA,osf.io/b9tse,yes,NA,osf.io/b9tse,yes,NA
+a000407,yes,NA,yes,NA,yes,NA,hdl.handle.net/10871/24754,yes,NA,ore.exeter.ac.uk/repository/handle/10871/24754,yes,NA
+a000408,yes,NA,no,NA,yes,NA,osf.io/nrf72,yes,NA,osf.io/nrf72,yes,NA
+a000409,yes,NA,yes,NA,yes,NA,doi.org/10.6084/m9.figshare.4742935.v2,yes,NA,figshare.com/articles/Materials_for_Pupillary_Responses_to_Words_That_Convey_a_Sense_of_Brightness_or_Darkness/4742935/2,yes,NA
+a000410,yes,NA,yes,NA,yes,NA,osf.io/xf7rn,yes,NA,osf.io/xf7rn,yes,NA
+a000411,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/8R3LTP,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8R3LTP,yes,NA
+a000412,yes,NA,yes,NA,yes,NA,osf.io/fzmsa,yes,NA,osf.io/fzmsa,yes,NA
+a000413,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/LD6NL8,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LD6NL8,yes,NA
+a000414,yes,NA,yes,NA,yes,NA,osf.io/eujyn,yes,NA,osf.io/eujyn,yes,NA
+a000416,yes,NA,yes,NA,yes,NA,osf.io/g3sca/wiki/home,yes,NA,osf.io/g3sca/wiki/home,yes,NA
+a000417,yes,NA,yes,NA,yes,NA,doi.org/10.1016/j.jrp.2018.02.003,yes,NA,www.sciencedirect.com/science/article/pii/S0092656618300151,no,NA
+a000418,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5284/1019856,yes,NA,archaeologydataservice.ac.uk/archives/view/scarr_eh_2013,yes,NA
+a000419,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5281/zenodo.18545,yes,NA,zenodo.org/record/18545,yes,NA
+a000420,yes,NA,yes,NA,yes,NA,catalogue.ceda.ac.uk/uuid/1d29816cee7e4fb586b80a3f7debcb8e,yes,NA,catalogue.ceda.ac.uk/uuid/1d29816cee7e4fb586b80a3f7debcb8e,yes,NA
+a000421,yes,NA,yes,NA,yes,NA,osf.io/b8c7z,yes,NA,osf.io/b8c7z,yes,NA
+a000422,yes,NA,yes,NA,yes,NA,osf.io/sgwv6,yes,NA,osf.io/sgwv6,yes,NA
+a000423,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/D5DEHM,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D5DEHM,yes,NA
+a000425,yes,NA,yes,NA,yes,NA,www.dx.doi.org/10.7910/DVN/DIDBMQ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DIDBMQ,yes,NA
+a000426,yes,NA,yes,NA,yes,NA,catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb,yes,NA,catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb,yes,NA
+a000427,yes,NA,yes,NA,yes,NA,osf.io/wcrd2,yes,NA,osf.io/wcrd2,yes,NA
+a000429,yes,NA,yes,NA,yes,NA,osf.io/4d3b9,yes,NA,osf.io/4d3b9,yes,NA
+a000429,yes,NA,yes,NA,yes,NA,reshare.ukdataservice.ac.uk/852716,yes,NA,reshare.ukdataservice.ac.uk/852716,yes,NA
+a000430,yes,NA,yes,NA,yes,NA,osf.io/nmabe,yes,NA,osf.io/nmabe,yes,NA
+a000433,yes,NA,yes,NA,yes,NA,osf.io/pnvjf,yes,NA,osf.io/pnvjf,yes,NA
+a000437,yes,NA,yes,NA,yes,NA,osf.io/5tejq,yes,NA,osf.io/5tejq,yes,NA
+a000438,yes,NA,yes,NA,yes,NA,osf.io/snfjx,yes,NA,osf.io/snfjx,yes,NA
+a000439,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/HDMGLY,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HDMGLY,yes,NA
+a000440,yes,NA,no,NA,yes,NA,dx.doi.org/10.17605/OSF.IO/ZFPMD,yes,NA,osf.io/zfpmd,yes,NA
+a000441,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/HUZGPJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HUZGPJ,yes,NA
+a000442,yes,NA,yes,NA,yes,NA,osf.io/hkzsm,yes,NA,osf.io/hkzsm,yes,NA
+a000443,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7289/V5QJ7F8R,yes,NA,data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:COAPS-SAMOS,yes,NA
+a000444,yes,NA,yes,NA,yes,NA,data.mendeley.com/datasets/f2wvbpsmyv/draft?a=e8c3968c-8b4a-47b5-a7d1-5aa120f1bc76,yes,NA,data.mendeley.com/datasets/f2wvbpsmyv/1,yes,NA
+a000446,yes,NA,yes,NA,yes,NA,osf.io/k3fj6,yes,NA,osf.io/k3fj6,yes,NA
+a000447,yes,NA,yes,NA,yes,NA,osf.io/embpx,yes,NA,osf.io/embpx,yes,NA
+a000448,yes,NA,yes,NA,yes,NA,osf.io/m573q,yes,NA,osf.io/m573q,yes,NA
+a000449,yes,NA,yes,NA,yes,NA,osf.io/krshq,yes,NA,osf.io/krshq,yes,NA
+a000450,yes,NA,yes,NA,yes,NA,osf.io/ry75j,yes,NA,osf.io/ry75j,yes,NA
+a000452,yes,NA,yes,NA,yes,NA,osf.io/arqp8,yes,NA,osf.io/arqp8,yes,NA
+a000457,yes,NA,yes,NA,yes,NA,osf.io/gjc5b,yes,NA,osf.io/gjc5b,yes,NA
+a000458,yes,NA,yes,NA,yes,NA,osf.io/huc2k,yes,NA,osf.io/huc2k,yes,NA
+a000460,yes,NA,yes,NA,yes,NA,osf.io/92vfw,yes,NA,osf.io/92vfw,yes,NA
+a000463,yes,NA,yes,NA,yes,NA,osf.io/t2wby,yes,NA,osf.io/t2wby,yes,NA
+a000464,yes,NA,yes,NA,yes,NA,neurovault.org/collections/YYMVWBOF,yes,NA,neurovault.org/collections/YYMVWBOF,yes,NA
+a000464,yes,NA,yes,NA,yes,NA,osf.io/c8gbj,yes,NA,osf.io/c8gbj,yes,NA
+a000465,yes,NA,yes,NA,yes,NA,nyu.databrary.org/volume/79,yes,NA,nyu.databrary.org/volume/79,yes,NA
+a000466,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/SEHMGR,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SEHMGR,yes,NA
+a000470,yes,NA,yes,NA,yes,NA,osf.io/h5nbu,yes,NA,osf.io/h5nbu,yes,NA
+a000471,yes,NA,yes,NA,yes,NA,osf.io/5ka94/?view_only=15c365b391ed4e4d9d38c811ea359392,yes,NA,osf.io/5ka94/?view_only=15c365b391ed4e4d9d38c811ea359392,yes,NA
+a000473,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5061/dryad.d2441,yes,NA,datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,NA
+a000474,yes,NA,yes,NA,yes,NA,osf.io/8yufm,yes,NA,osf.io/8yufm,yes,NA
+a000475,yes,NA,yes,NA,yes,NA,osf.io/qknug,yes,NA,osf.io/qknug,yes,NA
+a000476,yes,NA,yes,NA,yes,NA,osf.io/avz8g,yes,NA,osf.io/avz8g,yes,NA
+a000477,yes,NA,yes,NA,yes,NA,osf.io/yf3da,yes,NA,osf.io/yf3da,yes,NA
+a000479,yes,NA,yes,NA,yes,NA,osf.io/kce5n,yes,NA,osf.io/kce5n,yes,NA
+a000480,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/FS90RJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FS90RJ,yes,NA
+a000483,yes,NA,yes,NA,yes,NA,osf.io/tewvk,yes,NA,osf.io/tewvk,yes,NA
+a000484,yes,NA,yes,NA,yes,NA,www.oa.uni-hamburg.de/hattke-kalucza,yes,NA,www.oa.uni-hamburg.de/hattke-kalucza,yes,NA
+a000485,yes,NA,yes,NA,yes,NA,osf.io/wjxpf,yes,NA,osf.io/wjxpf,yes,NA
+a000489,yes,NA,yes,NA,yes,NA,osf.io/x8q4j,yes,NA,osf.io/x8q4j,yes,NA
+a000490,yes,NA,yes,NA,yes,NA,osf.io/24mej,yes,NA,osf.io/24mej,yes,NA
+a000490,yes,NA,yes,NA,yes,NA,osf.io/gsv84,yes,NA,osf.io/gsv84,yes,NA
+a000491,yes,NA,yes,NA,yes,NA,osf.io/pzvue,yes,NA,osf.io/pzvue,yes,NA
+a000492,yes,NA,yes,NA,yes,NA,osf.io/2zbvs/?view_only=8b56bf1e32d147a5a673f0c3494d25ff,yes,NA,osf.io/2zbvs/?view_only=8b56bf1e32d147a5a673f0c3494d25ff,yes,NA
+a000493,yes,NA,yes,NA,other,Article has a link (which is almost certainly incorrect) but also a separate accession number for the raw data with no hyperlink,BioProject Accession No. PRJNA574440,other,Needed to navigate to BioProject website and search by accession number,www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA574440,yes,NA
+a000493,yes,NA,yes,NA,other,Article has a link (which is almost certainly incorrect) but also a separate accession number for the raw data with no hyperlink,iris-database.org/iris/app/home/detail?id=york:934328,other,Embedded link had a problem so clicking directly resulted in an error but url as written in text was OK - minor edit required to replace the hyphen in the url text,www.iris-database.org/iris/app/home/detail?id=york:934328,other,Registration form required before data can be downloaded
+a000494,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000495,yes,NA,yes,NA,yes,NA,github.com/iancballard/magnitude,yes,NA,github.com/iancballard/magnitude,yes,NA
+a000495,yes,NA,yes,NA,yes,NA,openfmri.org/dataset/ds000223,yes,NA,openneuro.org/datasets/ds000223/versions/00001,yes,NA
+a000496,yes,NA,yes,NA,yes,NA,osf.io/9ua8f,yes,NA,osf.io/9ua8f,yes,NA
+a000497,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.2555766,yes,NA,zenodo.org/record/2555766,yes,NA
+a000500,yes,NA,no,NA,yes,NA,osf.io/grh8s,yes,NA,osf.io/grh8s,yes,NA
+a000501,yes,NA,yes,NA,yes,NA,iris-database.org/iris/app/home/search?query=Jung+in+press,other,"Link works, but is a search of the IRIS archive which returns no results. Searching the IRIS archive more carefully finds the correct links.","www.iris-database.org/iris/app/home/detail?id=york:935306, https://www.iris-database.org/iris/app/home/detail?id=york:935307, https://www.iris-database.org/iris/app/home/detail?id=york:935308, https://www.iris-database.org/iris/app/home/detail?id=york:935309, https://www.iris-database.org/iris/app/home/detail?id=york:935310, https://www.iris-database.org/iris/app/home/detail?id=york:935311, https://www.iris-database.org/iris/app/home/detail?id=york:935313",other,Registration form required before data can be downloaded
+a000502,yes,NA,no,NA,yes,NA,osf.io/5itqa,yes,NA,osf.io/5itqa,yes,NA
+a000502,yes,NA,no,NA,yes,NA,osf.io/8q769,yes,NA,osf.io/8q769,yes,NA
+a000503,yes,NA,yes,NA,yes,NA,osf.io/cw6y8/?view_only=24a186cebd52441ea0170ed63caf70ab,yes,NA,osf.io/cw6y8/?view_only=24a186cebd52441ea0170ed63caf70ab,yes,NA
+a000504,yes,NA,yes,NA,yes,NA,osf.io/8qzkc/?view_only=4f0b14f72e3940f38bfff87bfa2499c0,yes,NA,osf.io/8qzkc/?view_only=4f0b14f72e3940f38bfff87bfa2499c0,yes,NA
+a000505,yes,NA,yes,NA,yes,NA,osf.io/mvz3r,yes,NA,osf.io/mvz3r,yes,NA
+a000507,yes,NA,yes,NA,yes,NA,osf.io/qcdgp,yes,NA,osf.io/qcdgp,yes,NA
+a000508,yes,NA,yes,NA,yes,NA,osf.io/wmg6t,yes,NA,osf.io/wmg6t,yes,NA
+a000509,yes,NA,yes,NA,yes,NA,osf.io/rwvc4,yes,NA,osf.io/rwvc4,yes,NA
+a000510,yes,NA,yes,NA,yes,NA,osf.io/n6d9f,yes,NA,osf.io/n6d9f,yes,NA
+a000511,yes,NA,yes,NA,yes,NA,https:osf.io/mnz8j,other,"The link as provided is malformed, but is simple and straightforward to fix (add the two forward slashes). After fixed url text, link resolves correctly",osf.io/mnz8j,yes,NA
+a000512,yes,NA,yes,NA,other,"Article PDF just links to mendeley.com in general without specific details, but the actual directly links are on journal web page for article (and not in the PDF)",data.mendeley.com/datasets/n23pgm86rr/1,yes,NA,data.mendeley.com/datasets/n23pgm86rr/1,yes,NA
+a000514,yes,NA,yes,NA,yes,NA,osf.io/dwza4,yes,NA,osf.io/dwza4,yes,NA
+a000515,yes,NA,yes,NA,yes,NA,osf.io/7bujx,yes,NA,osf.io/7bujx,yes,NA
+a000516,yes,NA,yes,NA,yes,NA,osf.io/p778t,yes,NA,osf.io/p778t,yes,NA
+a000518,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data",iris-database.org/iris/app/home/detail?id=york:934567,other,Registration form required before data can be downloaded
+a000519,yes,NA,yes,NA,yes,NA,osf.io/9tgy4,yes,NA,osf.io/9tgy4,yes,NA
+a000522,yes,NA,yes,NA,yes,NA,osf.io/ajvgt,yes,NA,osf.io/ajvgt,yes,NA
+a000523,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/FPYKTP,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FPYKTP,yes,NA
+a000524,yes,NA,yes,NA,yes,NA,osf.io/mcvt7/wiki/home,yes,NA,osf.io/mcvt7/wiki/home,yes,NA
+a000525,yes,NA,no,NA,yes,NA,osf.io/x8jzb,yes,NA,osf.io/x8jzb,yes,NA
+a000527,yes,NA,yes,NA,yes,NA,doi.org/10.5285/7925ded722d743fa8259a93acc7073f2,yes,NA,catalogue.ceda.ac.uk/uuid/7925ded722d743fa8259a93acc7073f2,yes,NA
+a000529,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/SSEN5A,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SSEN5A,yes,NA
+a000530,yes,NA,yes,NA,yes,NA,osf.io/zf4tj,yes,NA,osf.io/zf4tj,yes,NA
+a000531,yes,NA,yes,NA,yes,NA,osf.io/u9bsv,yes,NA,osf.io/u9bsv,yes,NA
+a000532,yes,NA,yes,NA,other,Article mentions that data is available as supporting materials,doi.org/10.1002/jnr.24485,yes,NA,onlinelibrary.wiley.com/doi/full/10.1002/jnr.24485,other,"Files exist, and mentions that data have been provided as supplementary files, but all files are images or Word documents - not the kind of data files expected for a study like this"
+a000533,yes,NA,yes,NA,yes,NA,github.com/alexlwhite/WhiteBoyntonYeatman2019_Repository,yes,NA,github.com/alexlwhite/WhiteBoyntonYeatman2019_Repository,yes,NA
+a000534,yes,NA,yes,NA,yes,NA,osf.io/t46nw,yes,NA,osf.io/t46nw,yes,NA
+a000535,yes,NA,yes,NA,yes,NA,osf.io/rkf9p,yes,NA,osf.io/rkf9p,yes,NA
+a000538,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/OGVWDE,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OGVWDE,yes,NA
+a000539,yes,NA,yes,NA,yes,NA,osf.io/px8h3,yes,NA,osf.io/px8h3,yes,NA
+a000540,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000541,yes,NA,yes,NA,yes,NA,osf.io/zqg9y,yes,NA,osf.io/zqg9y,yes,NA
+a000543,yes,NA,yes,NA,yes,NA,osf.io/daj2p,yes,NA,osf.io/daj2p,yes,NA
+a000544,yes,NA,yes,NA,yes,NA,data.mendeley.com/datasets/48jhxswdrv/draft?a=037ef882-2002-45e8-88ad-f8ee8e7bea37,yes,NA,data.mendeley.com/datasets/48jhxswdrv/draft?a=037ef882-2002-45e8-88ad-f8ee8e7bea37,yes,NA
+a000545,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XZ0IZE,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XZ0IZE,yes,NA
+a000547,yes,NA,yes,NA,yes,NA,hdl.handle.net/1902.29/11793,yes,NA,dataverse.unc.edu/dataset.xhtml?persistentId=hdl:1902.29/11793,yes,NA
+a000548,yes,NA,yes,NA,yes,NA,osf.io/cuz8g,yes,NA,osf.io/cuz8g,yes,NA
+a000550,yes,NA,yes,NA,yes,NA,dx.doi.org/10.23668/psycharchives.2367,yes,NA,www.psycharchives.org/handle/20.500.12034/1999,yes,NA
+a000552,yes,NA,yes,NA,yes,NA,osf.io/78ukq,yes,NA,osf.io/78ukq,yes,NA
+a000553,yes,NA,yes,NA,yes,NA,osf.io/d5s2t,yes,NA,osf.io/d5s2t,yes,NA
+a000553,yes,NA,yes,NA,yes,NA,osf.io/nz3su,yes,NA,osf.io/nz3su,yes,NA
+a000553,yes,NA,yes,NA,yes,NA,osf.io/vwytd,yes,NA,osf.io/vwytd,yes,NA
+a000554,yes,NA,yes,NA,yes,NA,osf.io/u9ac3,yes,NA,osf.io/u9ac3,yes,NA
+a000556,yes,NA,yes,NA,yes,NA,osf.io/hjfw9,yes,NA,osf.io/hjfw9,yes,NA
+a000557,yes,NA,yes,NA,yes,NA,osf.io/8cd4r,yes,NA,osf.io/8cd4r,yes,NA
+a000558,yes,NA,yes,NA,yes,NA,osf.io/zuwxt,yes,NA,osf.io/zuwxt,yes,NA
+a000559,yes,NA,yes,NA,yes,NA,iris-database.org/iris/app/home/detail?id=york:932233,yes,NA,www.iris-database.org/iris/app/home/detail?id=york:932233,yes,NA
+a000560,yes,NA,yes,NA,yes,NA,osf.io/ck22q,yes,NA,osf.io/ck22q,yes,NA
+a000561,yes,NA,yes,NA,yes,NA,osf.io/ik356,yes,NA,osf.io/ik356,yes,NA
+a000561,yes,NA,yes,NA,yes,NA,osf.io/kj3r7,yes,NA,osf.io/kj3r7,yes,NA
+a000562,yes,NA,yes,NA,yes,NA,10.6084/m9.figshare.9225476,other,"This URL is malformed; the doi.org/ part is missing, it worked once corrected",figshare.com/articles/EEG_data_from_Subject_1_to_Subject_15/9225476,yes,NA
+a000562,yes,NA,yes,NA,yes,NA,10.6084/m9.figshare.9227495,other,"This URL is malformed; the doi.org/ part is missing, it worked once corrected",figshare.com/articles/EEG_data_from_Subject_16_to_Subject_30_read_me/9227495,yes,NA
+a000562,yes,NA,yes,NA,yes,NA,10.6084/m9.figshare.9249530,other,"This URL is malformed; the doi.org/ part is missing, it worked once corrected",figshare.com/articles/Experimental_Paradigm_and_Behavioural_Data_Read_Me/9249530,yes,NA
+a000563,yes,NA,yes,NA,yes,NA,osf.io/4x8mu/?view_only=753fda4b39dd449e99942875079bd400,yes,NA,osf.io/4x8mu/?view_only=753fda4b39dd449e99942875079bd400,yes,NA
+a000563,yes,NA,yes,NA,yes,NA,osf.io/b8y6h/?view_only=b2e1f32ca3cb4bdd8e643428970e213a,yes,NA,osf.io/b8y6h/?view_only=b2e1f32ca3cb4bdd8e643428970e213a,yes,NA
+a000564,yes,NA,yes,NA,yes,NA,github.com/piazzai/smj-18-19552,yes,NA,github.com/piazzai/smj-18-19552,yes,NA
+a000565,yes,NA,yes,NA,yes,NA,github.com/richarddmorey/nullHistoryAMPPS,yes,NA,github.com/richarddmorey/nullHistoryAMPPS,yes,NA
+a000566,yes,NA,yes,NA,yes,NA,thedata.harvard.edu/dvn/dv/physics,yes,NA,dataverse.harvard.edu/dataverse/physics,yes,NA
+a000567,yes,NA,yes,NA,yes,NA,osf.io/fnps3,yes,NA,osf.io/fnps3,yes,NA
+a000568,yes,NA,yes,NA,yes,NA,hdl.handle.net/10871/19257,yes,NA,ore.exeter.ac.uk/repository/handle/10871/19257,yes,NA
+a000569,yes,NA,yes,NA,yes,NA,osf.io/vh5jt,yes,NA,osf.io/vh5jt,yes,NA
+a000570,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/WGWMAV,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WGWMAV,yes,NA
+a000571,yes,NA,yes,NA,yes,NA,osf.io/vcqmd,yes,NA,osf.io/vcqmd,yes,NA
+a000572,yes,NA,yes,NA,yes,NA,osf.io/u7tkp,yes,NA,osf.io/u7tkp,yes,NA
+a000573,yes,NA,yes,NA,other,Links are on journal web page for article not in PDF,data.mendeley.com/datasets/3w48v2nbgc/2,yes,NA,data.mendeley.com/datasets/3w48v2nbgc/2,yes,NA
+a000575,yes,NA,yes,NA,yes,NA,hdl.handle.net/2374.MIA/6254,other,The provided link does not work and returns an error message saying the handle could not be found. Searching for the handle online does unambiguously locate the data repo at a different url though. This url found by searching is provided in resolved_url.,sc.lib.miamioh.edu/handle/2374.MIA/6254,yes,NA
+a000577,yes,NA,yes,NA,yes,NA,osf.io/nmt5f,yes,NA,osf.io/nmt5f,yes,NA
+a000578,yes,NA,yes,NA,yes,NA,osf.io/8bknh,yes,NA,osf.io/8bknh,yes,NA
+a000579,yes,NA,yes,NA,yes,NA,osf.io/gytpn,yes,NA,osf.io/gytpn,yes,NA
+a000579,yes,NA,yes,NA,yes,NA,osf.io/x6ehp,yes,NA,osf.io/x6ehp,yes,NA
+a000580,yes,NA,yes,NA,yes,NA,osf.io/5zuq7,yes,NA,osf.io/5zuq7,yes,NA
+a000580,yes,NA,yes,NA,yes,NA,osf.io/6n3yq,yes,NA,osf.io/6n3yq,yes,NA
+a000580,yes,NA,yes,NA,yes,NA,osf.io/g5cxj,yes,NA,osf.io/g5cxj,yes,NA
+a000580,yes,NA,yes,NA,yes,NA,osf.io/jckvq,yes,NA,osf.io/jckvq,yes,NA
+a000580,yes,NA,yes,NA,yes,NA,osf.io/siqyz,yes,NA,osf.io/siqyz,yes,NA
+a000581,yes,NA,yes,NA,yes,NA,osf.io/n8v3c,yes,NA,osf.io/n8v3c,other,OSF account with access required
+a000581,yes,NA,yes,NA,yes,NA,reshare.ukdataservice.ac.uk/852882,yes,NA,reshare.ukdataservice.ac.uk/852882,other,Registration with ReShare required
+a000582,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000583,yes,NA,yes,NA,yes,NA,osf.io/u8sdh,yes,NA,osf.io/u8sdh,yes,NA
+a000585,yes,NA,yes,NA,yes,NA,osf.io/j9aa7,yes,NA,osf.io/j9aa7,yes,NA
+a000586,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/PLLBQJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PLLBQJ,yes,NA
+a000588,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HMCRD7,other,"The link as provide is slightly awkward to work with (split over multiple line breaks, hyperlink encoding incomplete) but the text of the url is complete and correct.",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HMCRD7,yes,NA
+a000589,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/QBHGRC,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QBHGRC,yes,NA
+a000591,yes,NA,yes,NA,yes,NA,osf.io/4pdvg,yes,NA,osf.io/4pdvg,yes,NA
+a000591,yes,NA,yes,NA,yes,NA,osf.io/xytch,yes,NA,osf.io/xytch,yes,NA
+a000592,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/24885,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24885,yes,NA
+a000594,yes,NA,yes,NA,yes,NA,osf.io/xzp9s,yes,NA,osf.io/xzp9s,yes,NA
+a000595,other,"No graphical badge, but awarded badges are listed, as text",yes,NA,yes,NA,doi.org/10.17632/42djnzsw8f.2,yes,NA,data.mendeley.com/datasets/42djnzsw8f/2,yes,NA
+a000596,yes,NA,yes,NA,yes,NA,osf.io/ge2d5,yes,NA,osf.io/ge2d5,yes,NA
+a000597,yes,NA,no,NA,other,"Link on article website, not in PDF",aisel.aisnet.org/trr/vol2/iss1/4,yes,NA,aisel.aisnet.org/trr/vol2/iss1/4,yes,NA
+a000598,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XYUWYJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XYUWYJ,yes,NA
+a000601,yes,NA,yes,NA,yes,NA,osf.io/4bwq3,other,"link works, but links to an OSF Registries page which does not include any data files. But, if one visits the project that the linked project is a frozen registration of, one can find files. Additionally, the second project contains a link to analysis scripts on GitHub that is not provided in the article","osf.io/fc463/, https://github.com/arotto/lottery",other,"Could get data files from OSF, code files from Github, but Github also mentions that the user needs a US Census API key to access US Census data - this was not mentioned at any point before, and counts as data requiring registration/permission"
+a000604,yes,NA,yes,NA,yes,NA,osf.io/jazfy,yes,NA,osf.io/jazfy,yes,NA
+a000605,yes,NA,yes,NA,yes,NA,www.openicpsr.org/openicpsr/project/101920/version/V3/view,yes,NA,www.openicpsr.org/openicpsr/project/101920/version/V3/view,other,"Account required, may need to be from an approved institution"
+a000606,yes,NA,yes,NA,yes,NA,osf.io/9yt23,yes,NA,osf.io/9yt23,yes,NA
+a000608,yes,NA,yes,NA,yes,NA,osf.io/9ungb,yes,NA,osf.io/9ungb,yes,NA
+a000609,yes,NA,yes,NA,yes,NA,osf.io/96s4v,yes,NA,osf.io/96s4v,yes,NA
+a000614,yes,NA,yes,NA,yes,NA,osf.io/bktjs,yes,NA,osf.io/bktjs,yes,NA
+a000615,yes,NA,yes,NA,yes,NA,osf.io/vy62h,yes,NA,osf.io/vy62h,yes,NA
+a000616,yes,NA,yes,NA,yes,NA,osf.io/am5nh,yes,NA,osf.io/am5nh,yes,NA
+a000617,yes,NA,yes,NA,yes,NA,figshare.com/s/cccac39f891998509c85,yes,NA,figshare.com/s/cccac39f891998509c85,yes,NA
+a000618,yes,NA,yes,NA,yes,NA,dx.doi.org/10.6084/m9.figshare.1275172,yes,NA,figshare.com/articles/UAV_Aerial_Survey_Blackquarries_Hill_Long_Barrow_ST77509320_/1275172,yes,NA
+a000620,yes,NA,yes,NA,yes,NA,osf.io/cwbgv,yes,NA,osf.io/cwbgv,yes,NA
+a000621,yes,NA,yes,NA,yes,NA,osf.io/6xgfn,yes,NA,osf.io/6xgfn,yes,NA
+a000622,yes,NA,yes,NA,yes,NA,osf.io/myfg7,yes,NA,osf.io/myfg7,yes,NA
+a000624,yes,NA,yes,NA,yes,NA,dx.doi.org/10.17632/fdmshk2d5x.1,yes,NA,data.mendeley.com/datasets/fdmshk2d5x/1,yes,NA
+a000625,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2,yes,NA
+a000627,yes,NA,yes,NA,yes,NA,osf.io/x37d5,yes,NA,osf.io/x37d5,yes,NA
+a000628,yes,NA,yes,NA,yes,NA,osf.io/4qbxv,yes,NA,osf.io/4qbxv,yes,NA
+a000629,yes,NA,yes,NA,yes,NA,osf.io/473gq,yes,NA,osf.io/473gq,yes,NA
+a000629,yes,NA,yes,NA,yes,NA,osf.io/d2ncs,yes,NA,osf.io/d2ncs,yes,NA
+a000631,yes,NA,yes,NA,yes,NA,osf.io/k8nur,yes,NA,osf.io/k8nur,yes,NA
+a000634,yes,NA,yes,NA,yes,NA,osf.io/7gdxt,yes,NA,osf.io/7gdxt,yes,NA
+a000634,yes,NA,yes,NA,yes,NA,osf.io/k8pqw,yes,NA,osf.io/k8pqw,yes,NA
+a000635,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XU8ZWB,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XU8ZWB,yes,NA
+a000636,yes,NA,yes,NA,yes,NA,osf.io/7uvcp,yes,NA,osf.io/7uvcp,yes,NA
+a000637,yes,NA,yes,NA,yes,NA,osf.io/35pf6,yes,NA,osf.io/35pf6,yes,NA
+a000638,yes,NA,yes,NA,yes,NA,osf.io/59wda,yes,NA,osf.io/59wda,yes,NA
+a000638,yes,NA,yes,NA,yes,NA,osf.io/ez3ku,yes,NA,osf.io/ez3ku,yes,NA
+a000639,yes,NA,yes,NA,yes,NA,osf.io/3r2q9,yes,NA,osf.io/3r2q9,yes,NA
+a000641,yes,NA,yes,NA,yes,NA,osf.io/tgmf6,yes,NA,osf.io/tgmf6,yes,NA
+a000642,yes,NA,yes,NA,yes,NA,osf.io/5yau4,yes,NA,osf.io/5yau4,yes,NA
+a000643,yes,NA,yes,NA,yes,NA,osf.io/jxad3,yes,NA,osf.io/jxad3,yes,NA
+a000645,yes,NA,yes,NA,yes,NA,osf.io/egtrb,yes,NA,osf.io/egtrb,yes,NA
+a000646,yes,NA,yes,NA,yes,NA,osf.io/zcbp7,yes,NA,osf.io/zcbp7,yes,NA
+a000649,yes,NA,yes,NA,yes,NA,osf.io/3qskj,yes,NA,osf.io/3qskj,yes,NA
+a000650,yes,NA,yes,NA,yes,NA,osf.io/tcuap,yes,NA,osf.io/tcuap,yes,NA
+a000651,yes,NA,yes,NA,yes,NA,osf.io/sqp6z,yes,NA,osf.io/sqp6z,yes,NA
+a000652,yes,NA,yes,NA,yes,NA,osf.io/x9kqz,yes,NA,osf.io/x9kqz,yes,NA
+a000653,yes,NA,yes,NA,yes,NA,osf.io/8jy6r,yes,NA,osf.io/8jy6r,yes,NA
+a000655,yes,NA,yes,NA,yes,NA,db.humanconnectome.org,yes,NA,db.humanconnectome.org/app/template/Login.vm,other,Link directs to log in screen - seems as if login is required to access data
+a000657,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/GDFJ4N,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GDFJ4N,yes,NA
+a000658,yes,NA,yes,NA,yes,NA,osf.io/9cxwb,yes,NA,osf.io/9cxwb,yes,NA
+a000660,yes,NA,yes,NA,yes,NA,osf.io/t86zx,yes,NA,osf.io/t86zx,yes,NA
+a000663,yes,NA,yes,NA,yes,NA,osf.io/z7kq2,yes,NA,osf.io/z7kq2,yes,NA
+a000664,yes,NA,no,NA,yes,NA,osf.io/487v9/?view_only=dd53baba3ed945649cda7314fb10a957,yes,NA,osf.io/487v9/?view_only=dd53baba3ed945649cda7314fb10a957,yes,NA
+a000665,yes,NA,yes,NA,yes,NA,osf.io/8sxgu,yes,NA,osf.io/8sxgu,yes,NA
+a000665,yes,NA,yes,NA,yes,NA,osf.io/heun6,yes,NA,osf.io/heun6,yes,NA
+a000665,yes,NA,yes,NA,yes,NA,osf.io/p5fta,yes,NA,osf.io/p5fta,yes,NA
+a000667,yes,NA,yes,NA,yes,NA,osf.io/fhjyb,yes,NA,osf.io/fhjyb,yes,NA
+a000668,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/TIXGF8,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TIXGF8,yes,NA
+a000670,yes,NA,yes,NA,yes,NA,osf.io/9ej2c,yes,NA,osf.io/9ej2c,yes,NA
+a000671,yes,NA,yes,NA,yes,NA,osf.io/ftbhj,yes,NA,osf.io/ftbhj,yes,NA
+a000672,yes,NA,yes,NA,yes,NA,osf.io/73puw,yes,NA,osf.io/73puw,yes,NA
+a000673,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/HI1X4O,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HI1X4O,yes,NA
+a000674,yes,NA,yes,NA,yes,NA,bit.ly/2JI8RlP,yes,NA,osf.io/jqpnm/?view_only=c20b81f66ad34e2ea0361574002e0bce,yes,NA
+a000675,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/W1TDGZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W1TDGZ,yes,NA
+a000676,yes,NA,yes,NA,yes,NA,osf.io/fd6ue,yes,NA,osf.io/fd6ue,yes,NA
+a000678,yes,NA,other,"Standard JBPA link to ""Open data"" is there on the first page, but no URL attached. There is a link in a footnote later on.",yes,NA,dataverse.harvard.edu/dataverse/JBPA,yes,NA,dataverse.harvard.edu/dataverse/JBPA,yes,NA
+a000681,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.3371710,yes,NA,zenodo.org/record/3371710,yes,NA
+a000682,yes,NA,yes,NA,yes,NA,osf.io/7gvkt,yes,NA,osf.io/7gvkt,yes,NA
+a000683,yes,NA,yes,NA,yes,NA,archaeologydataservice.ac.uk/archives/view/urubici_na_2015,yes,NA,archaeologydataservice.ac.uk/archives/view/urubici_na_2015,yes,NA
+a000684,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/DZ1NFG,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DZ1NFG,yes,NA
+a000686,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.3548752,yes,NA,zenodo.org/record/3548752,yes,NA
+a000686,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.3548883,yes,NA,zenodo.org/record/3548883,yes,NA
+a000686,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.3548898,yes,NA,zenodo.org/record/3548898,yes,NA
+a000686,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.3548902,yes,NA,zenodo.org/record/3548902,yes,NA
+a000687,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/WCJSF,yes,NA,osf.io/wcjsf,yes,NA
+a000688,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data",iris-database.org/iris/app/home/detail?id=york:936142,other,Registration form required before data can be downloaded
+a000689,yes,NA,yes,NA,yes,NA,osf.io/6myfj,yes,NA,osf.io/6myfj,yes,NA
+a000689,yes,NA,yes,NA,yes,NA,osf.io/tk67x,yes,NA,osf.io/tk67x,yes,NA
+a000692,yes,NA,yes,NA,other,Links are on journal web page for article not in PDF,data.mendeley.com/datasets/7j6bn6tx8f/1,yes,NA,data.mendeley.com/datasets/7j6bn6tx8f/1,yes,NA
+a000694,yes,NA,yes,NA,yes,NA,osf.io/7nwa6,other,"The embedded link in the PDF is broken and includes a lot of the paragraph text following the actual url. The link as it appears in the text is correct, though.",osf.io/7nwa6,yes,NA
+a000696,yes,NA,yes,NA,yes,NA,citsci.geog.mcgill.ca,yes,NA,citsci.geog.mcgill.ca,no,NA
+a000698,yes,NA,yes,NA,yes,NA,catalogue.ceda.ac.uk/uuid/8e6cbb111cfd41a19c92aadcb2d040fd,yes,NA,catalogue.ceda.ac.uk/uuid/8e6cbb111cfd41a19c92aadcb2d040fd,yes,NA
+a000700,yes,NA,yes,NA,yes,NA,osf.io/8y2ga,yes,NA,osf.io/8y2ga,yes,NA
+a000702,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/DJ2DPZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DJ2DPZ,yes,NA
+a000703,yes,NA,yes,NA,yes,NA,doi.org/10.25592/uhhfdm.139,yes,NA,www.fdr.uni-hamburg.de/record/139,yes,NA
+a000703,yes,NA,yes,NA,yes,NA,osf.io/79gn4,yes,NA,osf.io/79gn4,yes,NA
+a000704,yes,NA,yes,NA,yes,NA,osf.io/54jd9,yes,NA,osf.io/54jd9,yes,NA
+a000705,yes,NA,yes,NA,yes,NA,osf.io/7apwg/?view_only=4f6d2e286518484e921b926332444e90,yes,NA,osf.io/7apwg/?view_only=4f6d2e286518484e921b926332444e90,yes,NA
+a000706,yes,NA,yes,NA,yes,NA,osf.io/bmpj9,yes,NA,osf.io/bmpj9,yes,NA
+a000708,yes,NA,yes,NA,yes,NA,osf.io/vkmep,yes,NA,osf.io/vkmep,yes,NA
+a000709,yes,NA,yes,NA,yes,NA,osf.io/n8spz,yes,NA,osf.io/n8spz,yes,NA
+a000710,yes,NA,yes,NA,yes,NA,osf.io/btkjw,yes,NA,osf.io/btkjw,yes,NA
+a000712,yes,NA,yes,NA,yes,NA,osf.io/2cvm5/?view_only=fac6abc8a7fd4f7ebe20df1912a0da2b,yes,NA,osf.io/2cvm5/?view_only=fac6abc8a7fd4f7ebe20df1912a0da2b,yes,NA
+a000713,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/EMF9H,yes,NA,osf.io/emf9h,yes,NA
+a000714,yes,NA,yes,NA,yes,NA,osf.io/7wazk,yes,NA,osf.io/7wazk,yes,NA
+a000716,yes,NA,yes,NA,yes,NA,osf.io/r5kcn,yes,NA,osf.io/r5kcn,yes,NA
+a000717,yes,NA,yes,NA,yes,NA,doi.org/10.18113/D3W375,yes,NA,www.datacommons.psu.edu/commonswizard/MetadataDisplay.aspx?Dataset=6171,yes,NA
+a000718,yes,NA,yes,NA,yes,NA,osf.io/cdyf9,yes,NA,osf.io/cdyf9,yes,NA
+a000718,yes,NA,yes,NA,yes,NA,osf.io/df74g,yes,NA,osf.io/df74g,yes,NA
+a000718,yes,NA,yes,NA,yes,NA,osf.io/djxyg,yes,NA,osf.io/djxyg,yes,NA
+a000718,yes,NA,yes,NA,yes,NA,osf.io/v9b7j,yes,NA,osf.io/v9b7j,yes,NA
+a000719,yes,NA,no,NA,yes,NA,osf.io/ah54c,yes,NA,osf.io/ah54c,yes,NA
+a000720,yes,NA,yes,NA,yes,NA,10.6084/m9.figshare.7854731,yes,NA,figshare.com/articles/Attachment/7854731,yes,NA
+a000721,yes,NA,yes,NA,yes,NA,osf.io/4ufvz,yes,NA,osf.io/4ufvz,yes,NA
+a000722,yes,NA,yes,NA,yes,NA,n2t.net/ark:/13030/m5bc629d,yes,NA,merritt.cdlib.org/m/ark:%2F13030%2Fm5bc629d,yes,NA
+a000723,yes,NA,yes,NA,yes,NA,osf.io/9p6t5,yes,NA,osf.io/9p6t5,yes,NA
+a000724,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/OKZMIY,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OKZMIY,yes,NA
+a000726,yes,NA,yes,NA,yes,NA,osf.io/zkfhs,yes,NA,osf.io/zkfhs,yes,NA
+a000727,yes,NA,yes,NA,yes,NA,osf.io/8n7ev,yes,NA,osf.io/8n7ev,yes,NA
+a000728,yes,NA,yes,NA,yes,NA,osf.io/r8a24,yes,NA,osf.io/r8a24,yes,NA
+a000729,yes,NA,yes,NA,yes,NA,osf.io/yvtp2,yes,NA,osf.io/yvtp2,yes,NA
+a000730,yes,NA,yes,NA,yes,NA,dx.doi.org/10.17605/osf.io/hzpgy,yes,NA,osf.io/hzpgy,yes,NA
+a000731,yes,NA,yes,NA,yes,NA,osf.io/m7sdz,yes,NA,osf.io/m7sdz,yes,NA
+a000732,yes,NA,yes,NA,yes,NA,osf.io/xp6r7,yes,NA,osf.io/xp6r7,yes,NA
+a000734,yes,NA,yes,NA,yes,NA,osf.io/gjt37,yes,NA,osf.io/gjt37,yes,NA
+a000736,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/K7OCDX,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K7OCDX,yes,NA
+a000737,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/2XP8YF,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2XP8YF,yes,NA
+a000739,yes,NA,yes,NA,yes,NA,osf.io/jd4d2,yes,NA,osf.io/jd4d2,yes,NA
+a000740,yes,NA,yes,NA,yes,NA,osf.io/vyibm/files,yes,NA,osf.io/vyibm/files,yes,NA
+a000742,yes,NA,yes,NA,yes,NA,osf.io/tn3y5,yes,NA,osf.io/tn3y5,yes,NA
+a000743,yes,NA,yes,NA,yes,NA,osf.io/7ugsk,yes,NA,osf.io/7ugsk,yes,NA
+a000745,yes,NA,yes,NA,yes,NA,hppt://www.osf.io/uqg5m/#)),other,"The embedded url and the in-text url have issues that renders a straight-up attempt to follow the link a failure. However, it is straightforward to fix the url (do not include the invalid protocol at the start and omit the invalid characters at the end) so that it works.",osf.io/uqg5m,yes,NA
+a000746,yes,NA,yes,NA,yes,NA,osf.io/ys8ct/wiki/home,yes,NA,osf.io/ys8ct/wiki/home,yes,NA
+a000747,yes,NA,yes,NA,yes,NA,osf.io/5bdwk,yes,NA,osf.io/5bdwk,yes,NA
+a000748,yes,NA,yes,NA,yes,NA,osf.io/aegr4,yes,NA,osf.io/aegr4,yes,NA
+a000749,yes,NA,yes,NA,yes,NA,osf.io/pdsmw,yes,NA,osf.io/pdsmw,yes,NA
+a000750,yes,NA,no,NA,yes,NA,osf.io.yiupc,other,"There was a typo in the URL as supplied, easily fixed",osf.io/yiupc,yes,NA
+a000750,yes,NA,no,NA,yes,NA,osf.io/4fb7d,yes,NA,osf.io/4fb7d,yes,NA
+a000753,yes,NA,yes,NA,yes,NA,osf.io/8w4vq,yes,NA,osf.io/8w4vq,yes,NA
+a000754,yes,NA,yes,NA,yes,NA,osf.io/8bqaj,yes,NA,osf.io/8bqaj,yes,NA
+a000755,yes,NA,no,NA,yes,NA,osf.io/hguz4,yes,NA,osf.io/hguz4,yes,NA
+a000757,yes,NA,yes,NA,yes,NA,osf.io/rwuya/?view_only=6e25d904b89c463992ceb267477cb5a0,yes,NA,osf.io/rwuya/?view_only=6e25d904b89c463992ceb267477cb5a0,yes,NA
+a000759,yes,NA,yes,NA,yes,NA,bit.ly/music_entropy_MMN,other,"The link resolves to https://osf.io/my6te/?view_only=3b4129763e4f4de58ef783a85ae30842, which is a view-only link to the OSF project. However, this view does not show any available files. Removing the view-only slug from the url leads to the actual project page, where files are clearly available. The standard link has been put into resolved_url.",osf.io/my6te,yes,NA
+a000760,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/PGXO5O,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGXO5O,yes,NA
+a000761,yes,NA,yes,NA,yes,NA,osf.io/qe5nw,yes,NA,osf.io/qe5nw,yes,NA
+a000764,yes,NA,yes,NA,yes,NA,doi.org/10.6084/m9.figshare.6818228.v1,yes,NA,figshare.com/articles/Contingent_attentional_engagement_stimulus-_and_goal-driven_capture_have_qualitatively_different_consequences_-_data_from_3_experiments/6818228/1,yes,NA
+a000765,yes,NA,yes,NA,yes,NA,osf.io/yck8s,yes,NA,osf.io/yck8s,yes,NA
+a000766,yes,NA,yes,NA,yes,NA,osf.io/zny2m,yes,NA,osf.io/zny2m,yes,NA
+a000767,yes,NA,yes,NA,yes,NA,osf.io/ftsrd,yes,NA,osf.io/ftsrd,yes,NA
+a000768,yes,NA,yes,NA,yes,NA,osf.io/maf3d,yes,NA,osf.io/maf3d,yes,NA
+a000769,yes,NA,yes,NA,other,Links are on journal web page for article not in PDF,data.mendeley.com/datasets/snkgkt9t4c/1,yes,NA,data.mendeley.com/datasets/snkgkt9t4c/1,yes,NA
+a000770,yes,NA,yes,NA,yes,NA,doi:10.7910/DVN/TJKIWN,other,"The given does not directly lead to repository page, but lead to a Google search result page. The correct link to data reposiitory is the first result on Googel search page.",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJKIWN,yes,NA
+a000771,yes,NA,yes,NA,yes,NA,osf.io/ycx49,yes,NA,osf.io/ycx49,yes,NA
+a000772,yes,NA,yes,NA,yes,NA,osf.io/43fmu,yes,NA,osf.io/43fmu,yes,NA
+a000773,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000775,yes,NA,yes,NA,yes,NA,osf.io/ef78n,yes,NA,osf.io/ef78n,yes,NA
+a000776,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/9IKGYY,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9IKGYY,yes,NA
+a000777,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/LWED0F,other,Link provided does not work but searching on Harvard Dataverse located the data repository,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DSDNX6,yes,NA
+a000778,yes,NA,yes,NA,yes,NA,osf.io/fc8yt,yes,NA,osf.io/fc8yt,yes,NA
+a000779,yes,NA,yes,NA,yes,NA,osf.io/g5fvw,yes,NA,osf.io/g5fvw,yes,NA
+a000780,yes,NA,yes,NA,yes,NA,osf.io/zc47d,yes,NA,osf.io/zc47d,yes,NA
+a000783,yes,NA,yes,NA,yes,NA,osf.io/gm95y,yes,NA,osf.io/gm95y,yes,NA
+a000784,yes,NA,yes,NA,yes,NA,sro.sussex.ac.uk/id/eprint/74811,yes,NA,sro.sussex.ac.uk/id/eprint/74811,yes,NA
+a000785,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data","iris-database.org/iris/app/home/detail?id=york:936215, https://github.com/izeh/l/blob/master/d.r",other,Registration form required before data can be downloaded
+a000787,yes,NA,yes,NA,yes,NA,osf.io/gm5j6,yes,NA,osf.io/gm5j6,yes,NA
+a000788,yes,NA,yes,NA,yes,NA,osf.io/z4dxa,yes,NA,osf.io/z4dxa,yes,NA
+a000789,yes,NA,yes,NA,yes,NA,osf.io/fq7mb,yes,NA,osf.io/fq7mb,yes,NA
+a000792,yes,NA,yes,NA,yes,NA,10.5285/0ceb4f85-0bbf-49f0-ab70-cfc137ab7d4d,yes,NA,catalogue.ceh.ac.uk/documents/0ceb4f85-0bbf-49f0-ab70-cfc137ab7d4d,yes,NA
+a000792,yes,NA,yes,NA,yes,NA,10.5285/3b90962e-6fc8-4251-853e-b9683e37f790,yes,NA,catalogue.ceh.ac.uk/documents/3b90962e-6fc8-4251-853e-b9683e37f790,yes,NA
+a000792,yes,NA,yes,NA,yes,NA,10.5285/5f3c1a02-d5c4-4faa-9353-e8b68ce2ace2,yes,NA,catalogue.ceh.ac.uk/documents/5f3c1a02-d5c4-4faa-9353-e8b68ce2ace2,yes,NA
+a000792,yes,NA,yes,NA,yes,NA,10.5285/e911196a-b371-47b1-968c-661eb600d83b,yes,NA,catalogue.ceh.ac.uk/documents/e911196a-b371-47b1-968c-661eb600d83b,yes,NA
+a000792,yes,NA,yes,NA,yes,NA,10.5285/f52f012d‐9f2e‐42cc‐b628‐9cdea4fa3ba0,other,Encoding issue with hyphens/dashes when copied and pasted directly from PDF,catalogue.ceh.ac.uk/documents/f52f012d-9f2e-42cc-b628-9cdea4fa3ba0,yes,NA
+a000792,yes,NA,yes,NA,yes,NA,10.5285/f6cac471-7d92-4e6d-be8a-9f7887143058,yes,NA,catalogue.ceh.ac.uk/documents/f6cac471-7d92-4e6d-be8a-9f7887143058,yes,NA
+a000793,yes,NA,yes,NA,yes,NA,doi.org/10.1016/j.evolhumbehav.2018.03.007,yes,NA,www.sciencedirect.com/science/article/abs/pii/S1090513818300072?via%3Dihub,no,NA
+a000793,yes,NA,yes,NA,yes,NA,osf.io/egjwv,yes,NA,osf.io/egjwv,yes,NA
+a000793,yes,NA,yes,NA,yes,NA,osf.io/n4hj6,yes,NA,osf.io/n4hj6,yes,NA
+a000794,yes,NA,yes,NA,yes,NA,osf.io/sy6ue,yes,NA,osf.io/sy6ue,yes,NA
+a000796,yes,NA,yes,NA,yes,NA,osf.io/pszjz,yes,NA,osf.io/pszjz,yes,NA
+a000797,yes,NA,yes,NA,yes,NA,osf.io/hymkc,yes,NA,osf.io/hymkc,yes,NA
+a000799,yes,NA,yes,NA,yes,NA,osf.io/6s8tc,yes,NA,osf.io/6s8tc,yes,NA
+a000801,yes,NA,yes,NA,yes,NA,osf.io/28ejf,yes,NA,osf.io/28ejf,yes,NA
+a000803,yes,NA,yes,NA,yes,NA,osf.io/n9xep,yes,NA,osf.io/n9xep,yes,NA
+a000804,yes,NA,yes,NA,yes,NA,osf.io/9k3sw,yes,NA,osf.io/9k3sw,yes,NA
+a000806,yes,NA,yes,NA,yes,NA,osf.io/48kyp,yes,NA,osf.io/48kyp,yes,NA
+a000807,yes,NA,yes,NA,yes,NA,osf.io/x9h8b,yes,NA,osf.io/x9h8b,yes,NA
+a000808,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/A99NUB,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/A99NUB,yes,NA
+a000810,yes,NA,yes,NA,yes,NA,osf.io/bqzpt,yes,NA,osf.io/bqzpt,yes,NA
+a000811,yes,NA,yes,NA,yes,NA,osf.io/u3byh,yes,NA,osf.io/u3byh,yes,NA
+a000812,yes,NA,yes,NA,yes,NA,osf.io/7vef5,yes,NA,osf.io/7vef5,yes,NA
+a000814,yes,NA,yes,NA,yes,NA,discover.ukdataservice.ac.uk/series/?sn=200001,yes,NA,beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200001,other,An account is required for access
+a000814,yes,NA,yes,NA,yes,NA,discover.ukdataservice.ac.uk/series/?sn=2000032,yes,NA,beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000032,other,An account is required for access
+a000816,yes,NA,yes,NA,yes,NA,osf.io/yg82m,yes,NA,osf.io/yg82m,yes,NA
+a000817,yes,NA,yes,NA,yes,NA,osf.io/z9ikh,yes,NA,osf.io/z9ikh,yes,NA
+a000818,yes,NA,yes,NA,yes,NA,osf.io/pnr8s/?view_only=75ef6bf7b5244202a504b9150061157f,yes,NA,osf.io/pnr8s/?view_only=75ef6bf7b5244202a504b9150061157f,yes,NA
+a000822,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/MTQEE1,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MTQEE1,yes,NA
+a000823,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,NA
+a000824,yes,NA,yes,NA,yes,NA,osf.io/pz4he,yes,NA,osf.io/pz4he,yes,NA
+a000826,yes,NA,yes,NA,yes,NA,osf.io/dc5t8,yes,NA,osf.io/dc5t8,yes,NA
+a000827,yes,NA,yes,NA,yes,NA,osf.io/w24dm,yes,NA,osf.io/w24dm,yes,NA
+a000828,yes,NA,yes,NA,yes,NA,osf.io/sgqsx,yes,NA,osf.io/sgqsx,yes,NA
+a000829,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/SNLKUE,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SNLKUE,yes,NA
+a000831,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000832,yes,NA,yes,NA,yes,NA,osf.io/md9fk,yes,NA,osf.io/md9fk,yes,NA
+a000833,yes,NA,yes,NA,yes,NA,osf.io/rmnk2,yes,NA,osf.io/rmnk2,yes,NA
+a000834,yes,NA,yes,NA,yes,NA,osf.io/anpbm,yes,NA,osf.io/anpbm,yes,NA
+a000837,yes,NA,yes,NA,yes,NA,osf.io/xm8dh,yes,NA,osf.io/xm8dh,yes,NA
+a000840,yes,NA,yes,NA,yes,NA,osf.io/jqkg7/#,yes,NA,osf.io/jqkg7,yes,NA
+a000842,yes,NA,yes,NA,yes,NA,osf.io/crsiz,yes,NA,osf.io/crsiz,yes,NA
+a000844,yes,NA,yes,NA,yes,NA,osf.io/3r96f,yes,NA,osf.io/3r96f,yes,NA
+a000845,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data",iris-database.org/iris/app/home/detail?id=york:935657,other,Registration form required before data can be downloaded
+a000846,yes,NA,yes,NA,yes,NA,osf.io/nfqb9,yes,NA,osf.io/nfqb9,yes,NA
+a000848,yes,NA,no,NA,yes,NA,doi.org/10.3886/E109001V5,yes,NA,www.openicpsr.org/openicpsr/project/109001/version/V5/view,other,"Account required, may need to be from an approved institution"
+a000849,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/NQOWDE,other,"Link leads to https://ezid.cdlib.org/ with a ""No such identifier."" message - searching Harvard Dataverse locates the correct data repo",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KL7J6Z,yes,NA
+a000850,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/RYNSDG,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RYNSDG,yes,NA
+a000851,yes,NA,yes,NA,yes,NA,iris-database.org/iris/app/home/detail?id=york:936220&amp;ref=search,yes,NA,www.iris-database.org/iris/app/home/detail?id=york:936220&amp;ref=search,yes,NA
+a000853,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/3DMNPE,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3DMNPE,yes,NA
+a000856,yes,NA,yes,NA,yes,NA,osf.io/fdhru,yes,NA,osf.io/fdhru,yes,NA
+a000857,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/CPVIOF,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CPVIOF,yes,NA
+a000858,yes,NA,yes,NA,yes,NA,osf.io/g8xyt,yes,NA,osf.io/g8xyt,yes,NA
+a000860,yes,NA,yes,NA,yes,NA,osf.io/trwb4,yes,NA,osf.io/trwb4,yes,NA
+a000861,yes,NA,yes,NA,yes,NA,osf.io/qh896,yes,NA,osf.io/qh896,yes,NA
+a000862,yes,NA,yes,NA,yes,NA,osf.io/x5stj,yes,NA,osf.io/x5stj,yes,NA
+a000863,yes,NA,yes,NA,yes,NA,osf.io/v4qys,yes,NA,osf.io/v4qys,yes,NA
+a000864,yes,NA,yes,NA,yes,NA,osf.io/m6vkg,yes,NA,osf.io/m6vkg,yes,NA
+a000865,yes,NA,yes,NA,yes,NA,osf.io/h7k9p/?view_only=2b0f6b3dbce2430fb41b2b85b27daf75,yes,NA,osf.io/h7k9p/?view_only=2b0f6b3dbce2430fb41b2b85b27daf75,yes,NA
+a000867,yes,NA,yes,NA,yes,NA,osf.io/dw5fm,yes,NA,osf.io/dw5fm,yes,NA
+a000872,yes,NA,yes,NA,yes,NA,osf.io/965xu,yes,NA,osf.io/965xu,yes,NA
+a000872,yes,NA,yes,NA,yes,NA,osf.io/mrq5g,yes,NA,osf.io/mrq5g,yes,NA
+a000872,yes,NA,yes,NA,yes,NA,osf.io/q8zx3,yes,NA,osf.io/q8zx3,yes,NA
+a000873,yes,NA,yes,NA,yes,NA,osf.io/hjt65,yes,NA,osf.io/hjt65,yes,NA
+a000875,yes,NA,yes,NA,yes,NA,osf.io/yub2m,yes,NA,osf.io/yub2m,yes,NA
+a000876,yes,NA,yes,NA,yes,NA,osf.io/uane6,yes,NA,osf.io/uane6,yes,NA
+a000878,yes,NA,yes,NA,yes,NA,osf.io/uqmh4,yes,NA,osf.io/uqmh4,yes,NA
+a000879,yes,NA,yes,NA,yes,NA,osf.io/chpfn,yes,NA,osf.io/chpfn,yes,NA
+a000880,yes,NA,yes,NA,yes,NA,pisa2006.acer.edu.au/downloads.php,no,Site can' be reached,NA,NA,NA
+a000882,yes,NA,yes,NA,yes,NA,osf.io/nyq9j,yes,NA,osf.io/nyq9j,yes,NA
+a000883,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/MPQQC0,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MPQQC0,yes,NA
+a000885,yes,NA,yes,NA,yes,NA,osf.io/w59au,yes,NA,osf.io/w59au,yes,NA
+a000886,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.2591593,yes,NA,zenodo.org/record/2591594,yes,NA
+a000887,yes,NA,yes,NA,yes,NA,osf.io/3xgtk,yes,NA,osf.io/3xgtk,yes,NA
+a000891,yes,NA,yes,NA,yes,NA,osf.io/e2a6h,yes,NA,osf.io/e2a6h,yes,NA
+a000892,yes,NA,yes,NA,yes,NA,dx.doi.org/10.17605/OSF.IO/JTZU8,yes,NA,osf.io/jtzu8,yes,NA
+a000893,yes,NA,yes,NA,yes,NA,osf.io/9djq5,yes,NA,osf.io/9djq5,yes,NA
+a000897,yes,NA,yes,NA,yes,NA,osf.io/khdvj,yes,NA,osf.io/khdvj,yes,NA
+a000898,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5284/1027216,yes,NA,archaeologydataservice.ac.uk/archives/view/austarch_na_2014,yes,NA
+a000899,yes,NA,yes,NA,yes,NA,osf.io/h2xpu,yes,NA,osf.io/h2xpu,yes,NA
+a000900,yes,NA,yes,NA,yes,NA,osf.io/e2yza,yes,NA,osf.io/e2yza,yes,NA
+a000901,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/GZA3GY,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GZA3GY,yes,NA
+a000902,yes,NA,yes,NA,yes,NA,osf.io/xq28a,yes,NA,osf.io/xq28a,yes,NA
+a000904,yes,NA,yes,NA,yes,NA,dataverse.nl/dvn/dv/chemosignaling,yes,NA,dataverse.nl/dataverse/chemosignaling,yes,NA
+a000905,yes,NA,yes,NA,yes,NA,osf.io/pfuyq,yes,NA,osf.io/pfuyq,yes,NA
+a000906,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/NS3NMH,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NS3NMH,yes,NA
+a000909,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/UQAIZI,other,the encoding of the hyperlink in the pdf is garbled (line break) but it is still unambiguous what the url to data is,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UQAIZI,yes,NA
+a000910,yes,NA,yes,NA,yes,NA,data.mendeley.com/datasets/xyx2x7hhtm/1,yes,NA,data.mendeley.com/datasets/xyx2x7hhtm/1,yes,NA
+a000911,yes,NA,yes,NA,yes,NA,osf.io/kxdm9,yes,NA,osf.io/kxdm9,yes,NA
+a000912,yes,NA,yes,NA,yes,NA,osf.io/csfmd,yes,NA,osf.io/csfmd,yes,NA
+a000914,yes,NA,yes,NA,yes,NA,github.com/dyurovsky/noisy-kids,yes,NA,github.com/dyurovsky/noisy-kids,yes,NA
+a000914,yes,NA,yes,NA,yes,NA,osf.io/96cx7,yes,NA,osf.io/96cx7,yes,NA
+a000915,yes,NA,yes,NA,yes,NA,osf.io/a9fmd,yes,NA,osf.io/a9fmd,yes,NA
+a000916,yes,NA,yes,NA,yes,NA,osf.io/jkktw,yes,NA,osf.io/jkktw,yes,NA
+a000918,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/ACYZIC,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ACYZIC,yes,NA
+a000919,yes,NA,yes,NA,yes,NA,osf.io/usgz3,yes,NA,osf.io/usgz3,yes,NA
+a000920,yes,NA,yes,NA,yes,NA,osf.io/zpjbg,other,the initial link lead to a page with a notice that the original repo had been retracted and replaced with a corrected version (to remove sensitive information). resolved_url has the destination of the second url with the corrected url (https://osf.io/q82nf/).,osf.io/q82nf,yes,NA
+a000923,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/MYDZNF,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MYDZNF,yes,NA
+a000924,yes,NA,yes,NA,yes,NA,osf.io/j8zge,yes,NA,osf.io/j8zge,yes,NA
+a000925,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/TJ1ZXX,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJ1ZXX,yes,NA
+a000926,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/J2FA5R,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/J2FA5R,yes,NA
+a000929,yes,NA,yes,NA,yes,NA,osf.io/nxrsj,yes,NA,osf.io/nxrsj,yes,NA
+a000930,yes,NA,yes,NA,yes,NA,osf.io/ujpyn,yes,NA,osf.io/ujpyn,yes,NA
+a000931,yes,NA,yes,NA,yes,NA,osf.io/9bsa7,yes,NA,osf.io/9bsa7,yes,NA
+a000932,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataverse/laughterperception,yes,NA,dataverse.harvard.edu/dataverse/laughterperception,yes,NA
+a000933,yes,NA,yes,NA,yes,NA,doi.org/10.5683/SP/OQDRJG,yes,NA,dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP/OQDRJG,yes,NA
+a000934,yes,NA,yes,NA,yes,NA,osf.io/j479p,yes,NA,osf.io/j479p,yes,NA
+a000935,yes,NA,yes,NA,yes,NA,osf.io/pg9ca,yes,NA,accounts.osf.io/login?service=https://osf.io/pg9ca,yes,NA
+a000936,yes,NA,yes,NA,yes,NA,osf.io/7rajd,yes,NA,osf.io/7rajd,yes,NA
+a000937,yes,NA,yes,NA,yes,NA,osf.io/7p896,yes,NA,osf.io/7p896,yes,NA
+a000938,yes,NA,yes,NA,yes,NA,osf.io/u8h5e,yes,NA,osf.io/u8h5e,yes,NA
+a000939,yes,NA,yes,NA,yes,NA,osf.io/gdyu4,yes,NA,osf.io/gdyu4,yes,NA
+a000940,yes,NA,yes,NA,yes,NA,osf.io/ea99d,yes,NA,osf.io/ea99d,yes,NA
+a000941,yes,NA,yes,NA,yes,NA,osf.io/abq5f,yes,NA,osf.io/abq5f,yes,NA
+a000942,yes,NA,yes,NA,yes,NA,zenodo.org/record/3260451?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDY5Njc5OSwiaWF0IjoxNTYyMDYwOTk2fQ.eyJkYXRhIjp7InJlY2lkIjozMjYwNDUxfSwiaWQiOjMzMzUsInJuZCI6ImFjZGU4N2JiIn0.QMXB0Y2gQu583IAgnmt_UrOn97TQUDWASIlMdMMAYZLyOxXPn1CSvdZnRan08LFfDqEfDtjFzk9IOSogj,yes,NA,zenodo.org/record/3260451?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDY5Njc5OSwiaWF0IjoxNTYyMDYwOTk2fQ.eyJkYXRhIjp7InJlY2lkIjozMjYwNDUxfSwiaWQiOjMzMzUsInJuZCI6ImFjZGU4N2JiIn0.QMXB0Y2gQu583IAgnmt_UrOn97TQUDWASIlMdMMAYZLyOxXPn1CSvdZnRan08LFfDqEfDtjFzk9IOSogj,yes,NA
+a000942,yes,NA,yes,NA,yes,NA,zenodo.org/record/3260668?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1NDA0fQ.eyJkYXRhIjp7InJlY2lkIjozMjYwNjY4fSwiaWQiOjMzNDIsInJuZCI6IjNjMTFlZWQwIn0.EXvZRFcHpIiYua7_zS5hIvmOKAYvqyAK4TWZa72nJ1l6WVAajRvLjcZchcCQ1A6qbm2PBmVJyeB5lni7k,yes,NA,zenodo.org/record/3260668?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1NDA0fQ.eyJkYXRhIjp7InJlY2lkIjozMjYwNjY4fSwiaWQiOjMzNDIsInJuZCI6IjNjMTFlZWQwIn0.EXvZRFcHpIiYua7_zS5hIvmOKAYvqyAK4TWZa72nJ1l6WVAajRvLjcZchcCQ1A6qbm2PBmVJyeB5lni7k,yes,NA
+a000942,yes,NA,yes,NA,yes,NA,zenodo.org/record/3260735?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1OTAyfQ.eyJkYXRhIjp7InJlY2lkIjozMjYwNzM1fSwiaWQiOjMzNDQsInJuZCI6ImM5YzM0NTE0In0.TkJoCSOtJPo9E0vHV_EKnlYtBplQPtWlMM6yVjLKTNOsIRZP_uqWBHlpwsEKtQ3VtRbDkKnQ79o1ZgnM_,yes,NA,zenodo.org/record/3260735?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1OTAyfQ.eyJkYXRhIjp7InJlY2lkIjozMjYwNzM1fSwiaWQiOjMzNDQsInJuZCI6ImM5YzM0NTE0In0.TkJoCSOtJPo9E0vHV_EKnlYtBplQPtWlMM6yVjLKTNOsIRZP_uqWBHlpwsEKtQ3VtRbDkKnQ79o1ZgnM_,yes,NA
+a000942,yes,NA,yes,NA,yes,NA,zenodo.org/record/3264892?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1OTE2fQ.eyJkYXRhIjp7InJlY2lkIjozMjY0ODkyfSwiaWQiOjMzNDUsInJuZCI6ImY1Mjg0MTg5In0.JgAatYQMFqETsYekePqDIE_dUDhj5h63EZ8idy0iYgaSl5RcCerHtK3LKSzH660NMI1qXFPpF5A2khkgV,yes,NA,zenodo.org/record/3264892?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1OTE2fQ.eyJkYXRhIjp7InJlY2lkIjozMjY0ODkyfSwiaWQiOjMzNDUsInJuZCI6ImY1Mjg0MTg5In0.JgAatYQMFqETsYekePqDIE_dUDhj5h63EZ8idy0iYgaSl5RcCerHtK3LKSzH660NMI1qXFPpF5A2khkgV,yes,NA
+a000942,yes,NA,yes,NA,yes,NA,zenodo.org/record/3264896?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1ODkxfQ.eyJkYXRhIjp7InJlY2lkIjozMjY0ODk2fSwiaWQiOjMzNDMsInJuZCI6IjM3ZTFmNWNiIn0.DjqnMLpuJ-rhm7f0jUguzOjrxGXOD2uOwY3BtcBPmBbgqCwT8Xx13wt1vvbcMd4ozYQO5Y7HKuoNwAJqp,yes,NA,zenodo.org/record/3264896?token=eyJhbGciOiJIUzUxMiIsImV4cCI6MTU2NDc4MzE5OSwiaWF0IjoxNTYyMTQ1ODkxfQ.eyJkYXRhIjp7InJlY2lkIjozMjY0ODk2fSwiaWQiOjMzNDMsInJuZCI6IjM3ZTFmNWNiIn0.DjqnMLpuJ-rhm7f0jUguzOjrxGXOD2uOwY3BtcBPmBbgqCwT8Xx13wt1vvbcMd4ozYQO5Y7HKuoNwAJqp,yes,NA
+a000943,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/R3GZZW,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/R3GZZW,yes,NA
+a000944,yes,NA,yes,NA,yes,NA,osf.io/hp2wx,yes,NA,osf.io/hp2wx,yes,NA
+a000945,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GGDUND,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GGDUND,yes,NA
+a000946,yes,NA,yes,NA,yes,NA,osf.io/hd6fw,yes,NA,osf.io/hd6fw,yes,NA
+a000947,yes,NA,yes,NA,yes,NA,osf.io/4492y,yes,NA,osf.io/4492y,yes,NA
+a000948,yes,NA,yes,NA,yes,NA,osf.io/677jr,other,"Link leads to a list of different OSF projects for the first author, need to select the relevant OSF project for the article",osf.io/37g64,other,"Repo only contains a PDF of the article, no auxiliary data files"
+a000949,yes,NA,yes,NA,yes,NA,osf.io/r6idy,yes,NA,osf.io/r6idy,yes,NA
+a000950,yes,NA,yes,NA,yes,NA,osf.io/32tsq,yes,NA,osf.io/32tsq,yes,NA
+a000951,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5284/1034389,yes,NA,archaeologydataservice.ac.uk/archives/view/cottamb_2015,yes,NA
+a000952,yes,NA,no,NA,yes,NA,doi.org/10.1016/j.jrp.2018.04.007,yes,NA,www.sciencedirect.com/science/article/abs/pii/S0092656618300394?via%3Dihub,yes,NA
+a000954,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/2VF2J0,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2VF2J0,yes,NA
+a000955,yes,NA,yes,NA,yes,NA,www.icpsr.umich.edu/icpsrweb/ICPSR/series/203/studies?archive=ICPSR&sortBy=7,yes,NA,www.icpsr.umich.edu/web/ICPSR/series/203/studies?archive=ICPSR&sortBy=7,other,"Account required, may need to be from an approved institution"
+a000957,yes,NA,yes,NA,yes,NA,osf.io/3wz2j,other,"there is a typo in the document, https://osf.io/3wz2j/ works and leads to the correct repository page",osf.io/3wz2j,yes,NA
+a000958,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XKC4R4,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XKC4R4,yes,NA
+a000959,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.1184869,yes,NA,zenodo.org/record/1184869,yes,NA
+a000960,yes,NA,yes,NA,yes,NA,osf.io/f2n7c,yes,NA,osf.io/f2n7c,yes,NA
+a000961,yes,NA,other,"The link to data is part of the ""Acknowledgments"" section, at the very end - but the link is directly above where the badges have been placed, so the link is adjacent to the badges without being an explicit, separate data availability statement.",yes,NA,osf.io/zwrxc,yes,NA,osf.io/zwrxc,yes,NA
+a000962,yes,NA,yes,NA,yes,NA,osf.io/qch87,yes,NA,osf.io/qch87,yes,NA
+a000963,yes,NA,yes,NA,yes,NA,osf.io/wnu9f,yes,NA,osf.io/wnu9f,yes,NA
+a000964,yes,NA,yes,NA,yes,NA,osf.io/s5pv8,yes,NA,osf.io/s5pv8,yes,NA
+a000965,yes,NA,yes,NA,yes,NA,osf.io/b45ne,yes,NA,osf.io/b45ne,yes,NA
+a000965,yes,NA,yes,NA,yes,NA,osf.io/b6n8t,yes,NA,osf.io/b6n8t,other,OSF account and permission needed to view project
+a000965,yes,NA,yes,NA,yes,NA,osf.io/et9zk,yes,NA,osf.io/et9zk,yes,NA
+a000965,yes,NA,yes,NA,yes,NA,osf.io/fs67k,yes,NA,osf.io/fs67k,other,OSF account and permission needed to view project
+a000965,yes,NA,yes,NA,yes,NA,osf.io/wfh5j,yes,NA,osf.io/wfh5j,yes,NA
+a000965,yes,NA,yes,NA,yes,NA,osf.io/z6ts7,yes,NA,osf.io/z6ts7,yes,NA
+a000966,yes,NA,yes,NA,yes,NA,osf.io/hr7vx,yes,NA,osf.io/hr7vx,yes,NA
+a000967,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/3R2QY,yes,NA,osf.io/3r2qy,yes,NA
+a000968,yes,NA,yes,NA,yes,NA,osf.io/gsxr6,yes,NA,osf.io/gsxr6,yes,NA
+a000969,yes,NA,yes,NA,yes,NA,osf.io/fyrq8,yes,NA,osf.io/fyrq8,yes,NA
+a000970,yes,NA,yes,NA,yes,NA,osf.io/zgq7m,yes,NA,osf.io/zgq7m,yes,NA
+a000971,yes,NA,yes,NA,yes,NA,osf.io/9dbsa,yes,NA,osf.io/9dbsa,yes,NA
+a000971,yes,NA,yes,NA,yes,NA,osf.io/nkfjy,yes,NA,osf.io/nkfjy,yes,NA
+a000973,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/F9ICHH,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F9ICHH,yes,NA
+a000973,yes,NA,yes,NA,yes,NA,github.com/SMAPPNYU/echo_chambers,yes,NA,github.com/SMAPPNYU/echo_chambers,yes,NA
+a000974,yes,NA,yes,NA,yes,NA,osf.io/xscvw,yes,NA,osf.io/xscvw,yes,NA
+a000976,yes,NA,yes,NA,yes,NA,osf.io/3jhr7,yes,NA,osf.io/3jhr7,yes,NA
+a000977,yes,NA,yes,NA,yes,NA,osf.io/45mxw,yes,NA,osf.io/45mxw,yes,NA
+a000979,yes,NA,yes,NA,yes,NA,osf.io/aj2fx,yes,NA,osf.io/aj2fx,yes,NA
+a000980,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA
+a000981,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/WOI8EU,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WOI8EU,yes,NA
+a000982,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/LZGQOH,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LZGQOH,yes,NA
+a000983,yes,NA,no,NA,yes,NA,osf.io/5kpbj,yes,NA,osf.io/5kpbj,yes,NA
+a000984,yes,NA,yes,NA,yes,NA,osf.io/b247s,yes,NA,osf.io/b247s,yes,NA
+a000986,yes,NA,yes,NA,yes,NA,osf.io/t26xq,yes,NA,osf.io/t26xq,yes,NA
+a000988,yes,NA,yes,NA,yes,NA,osf.io/n8wg4/?view_only=55de4fda913d450899e95c3052dcf79b,yes,NA,osf.io/n8wg4/?view_only=55de4fda913d450899e95c3052dcf79b,yes,NA
+a000989,yes,NA,yes,NA,yes,NA,osf.io/73e54,yes,NA,osf.io/73e54,yes,NA
+a000990,yes,NA,yes,NA,yes,NA,thedata.harvard.edu/dvn/dv/communication,yes,NA,dataverse.harvard.edu/dataverse/communication,yes,NA
+a000991,yes,NA,yes,NA,yes,NA,osf.io/4rmnv,yes,NA,osf.io/4rmnv,yes,NA
+a000992,yes,NA,yes,NA,yes,NA,osf.io/873fp,yes,NA,osf.io/873fp,yes,NA
+a000993,yes,NA,yes,NA,yes,NA,osf.io/72b89,yes,NA,osf.io/72b89,yes,NA
+a000996,yes,NA,no,NA,yes,NA,doi.org/10.1016/j.cortex.2019.08.018,yes,NA,www.sciencedirect.com/science/article/abs/pii/S0010945219303077?via%3Dihub,yes,NA
+a000997,yes,NA,yes,NA,yes,NA,osf.io/xmnyq,yes,NA,osf.io/xmnyq,yes,NA
+a000998,yes,NA,yes,NA,yes,NA,github.com/connorjmccabe/InterActive,yes,NA,github.com/connorjmccabe/InterActive,yes,NA
+a001000,yes,NA,yes,NA,yes,NA,osf.io/54skn/files,yes,NA,osf.io/54skn/files,yes,NA
+a001001,yes,NA,yes,NA,yes,NA,osf.io/ietwv,yes,NA,osf.io/ietwv,yes,NA
+a001003,yes,NA,yes,NA,yes,NA,osf.io/dp2aq,yes,NA,osf.io/dp2aq,yes,NA
+a001004,yes,NA,yes,NA,yes,NA,osf.io/d3xb7,yes,NA,osf.io/d3xb7,yes,NA
+a001005,yes,NA,yes,NA,yes,NA,osf.io/x8bv9/%20DOI%2010.17605/OSF.IO/X8BV9,other,link is garbled version of two separate links pointing to the same place; easy to determine the intended link,osf.io/x8bv9,yes,NA
+a001006,yes,NA,yes,NA,yes,NA,osf.io/yq5jw,yes,NA,osf.io/yq5jw,yes,NA
+a001007,yes,NA,yes,NA,yes,NA,osf.io/m64ue,yes,NA,osf.io/m64ue,yes,NA
+a001008,yes,NA,yes,NA,yes,NA,osf.io/9e3a9,yes,NA,osf.io/9e3a9,yes,NA
+a001009,yes,NA,yes,NA,yes,NA,osf.io/4chuy,yes,NA,osf.io/4chuy,yes,NA
+a001010,yes,NA,yes,NA,yes,NA,DOI 10.17605/OSF.IO/EKV2D,yes,NA,osf.io/ekv2d,yes,NA
+a001011,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/SBOMZD,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SBOMZD,yes,NA
+a001013,yes,NA,yes,NA,yes,NA,osf.io/ebhku,yes,NA,osf.io/ebhku,yes,NA
+a001014,yes,NA,yes,NA,yes,NA,osf.io/j7hdm,yes,NA,osf.io/j7hdm,yes,NA
+a001015,yes,NA,yes,NA,yes,NA,osf.io/9e5au,yes,NA,osf.io/9e5au,yes,NA
+a001016,yes,NA,no,NA,other,Links are on journal web page for article not in PDF,data.mendeley.com/datasets/46ynjsp243/1,yes,NA,data.mendeley.com/datasets/46ynjsp243/1,yes,NA
+a001016,yes,NA,no,NA,other,Links are on journal web page for article not in PDF,data.mendeley.com/datasets/hv7mxpct6f/3,yes,NA,data.mendeley.com/datasets/hv7mxpct6f/3,yes,NA
+a001017,yes,NA,yes,NA,yes,NA,doi.org/10.1016/j.jesp.2018.03.014,other,"Led to journal page for article (https://www.sciencedirect.com/science/article/abs/pii/S0022103117304857?via%3Dihub), which then linked to data and code",data.mendeley.com/datasets/hgtxmx7zpn/1,yes,NA
+a001018,yes,NA,yes,NA,yes,NA,osf.io/8xg6m,yes,NA,osf.io/8xg6m,yes,NA
+a001020,yes,NA,yes,NA,yes,NA,osf.io/rh8pv,yes,NA,osf.io/rh8pv,yes,NA
+a001023,yes,NA,yes,NA,yes,NA,osf.io/eky4s,yes,NA,osf.io/eky4s,yes,NA
+a001024,yes,NA,yes,NA,yes,NA,osf.io/9zpaj,yes,NA,osf.io/9zpaj,yes,NA
+a001025,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/DZN3S,yes,NA,osf.io/dzn3s,yes,NA
+a001025,yes,NA,yes,NA,yes,NA,osf.io/h2xry,yes,NA,osf.io/h2xry,yes,NA
+a001026,yes,NA,yes,NA,yes,NA,osf.io/wc3sj,yes,NA,osf.io/wc3sj,yes,NA
+a001027,yes,NA,yes,NA,yes,NA,doi.org/10.3886/ICPSR04652.v6,yes,NA,www.icpsr.umich.edu/web/NACDA/studies/4652/versions/V6,other,"The v6 of the files is no longer available, superceded by v7. v6 may be available upon request for replication purposes according to note on page."
+a001027,yes,NA,yes,NA,yes,NA,midus.colectica.org,yes,NA,midus.colectica.org/Account/Login,other,"Login required, no indication of whether files available"
+a001028,yes,NA,yes,NA,yes,NA,osf.io/yb9cv,yes,NA,osf.io/yb9cv,yes,NA
+a001029,yes,NA,yes,NA,yes,NA,osf.io/craky,yes,NA,osf.io/craky,yes,NA
+a001030,yes,NA,yes,NA,yes,NA,osf.io/wytek,yes,NA,osf.io/wytek,yes,NA
+a001031,yes,NA,yes,NA,yes,NA,osf.io/tv8ai,yes,NA,osf.io/tv8ai,yes,NA
+a001033,yes,NA,yes,NA,yes,NA,osf.io/bpj7m,yes,NA,osf.io/bpj7m,yes,NA
+a001034,yes,NA,yes,NA,yes,NA,osf.io/9mjtz,yes,NA,osf.io/9mjtz,yes,NA
+a001035,yes,NA,yes,NA,yes,NA,osf.io/g3dfy,yes,NA,osf.io/g3dfy,yes,NA
+a001036,yes,NA,yes,NA,yes,NA,osf.io/zxp9k,yes,NA,osf.io/zxp9k,yes,NA
+a001037,yes,NA,yes,NA,yes,NA,www.doi.org/10.17605/OSF.IO/R7CXZ,yes,NA,osf.io/r7cxz,yes,NA
+a001039,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/RYVAL1,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RYVAL1,yes,NA
+a001040,yes,NA,yes,NA,yes,NA,osf.io/yw7d9,yes,NA,osf.io/yw7d9,yes,NA
+a001041,yes,NA,yes,NA,yes,NA,osf.io/bvjny,yes,NA,osf.io/bvjny,yes,NA
+a001041,yes,NA,yes,NA,yes,NA,osf.io/z53m4,yes,NA,osf.io/z53m4,yes,NA
+a001043,yes,NA,yes,NA,yes,NA,osf.io/4vk5x,yes,NA,osf.io/4vk5x,yes,NA
+a001044,yes,NA,yes,NA,yes,NA,osf.io/qwa42/view_only=b6377f9def604d7faa4977fc9264580d,other,"URL as written led to a ""page not found"" error. Omitting the view_only slug resulted in a valid destination",osf.io/qwa42,yes,NA
+a001045,yes,NA,yes,NA,yes,NA,osf.io/vgmjs,yes,NA,osf.io/vgmjs,yes,NA
+a001047,yes,NA,yes,NA,yes,NA,osf.io/tyjpc,yes,NA,osf.io/tyjpc,yes,NA
+a001048,yes,NA,yes,NA,yes,NA,osf.io/uw2t2,yes,NA,osf.io/uw2t2,yes,NA
+a001049,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/X88LYH,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X88LYH,yes,NA
+a001050,yes,NA,yes,NA,yes,NA,osf.io/6yhmp,yes,NA,osf.io/6yhmp,yes,NA
+a001051,yes,NA,no,NA,no,NA,NA,NA,NA,NA,NA,NA
+a001052,yes,NA,yes,NA,yes,NA,osf.io/735ru,yes,NA,osf.io/735ru,yes,NA
+a001053,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/JNEQYJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNEQYJ,yes,NA
+a001055,yes,NA,yes,NA,yes,NA,osf.io/vk4hp,yes,NA,osf.io/vk4hp,yes,NA
+a001056,yes,NA,yes,NA,yes,NA,osf.io/9fdhb,yes,NA,osf.io/9fdhb,yes,NA
+a001057,yes,NA,yes,NA,yes,NA,doi:10.7910/DVN/FMJDCD,other,"The link for this DOI is malformed, but can fairly easily be corrected. Once corrected, it works",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FMJDCD,yes,NA
+a001058,yes,NA,yes,NA,yes,NA,osf.io/8wtae,yes,NA,osf.io/8wtae,yes,NA
+a001059,yes,NA,yes,NA,yes,NA,osf.io/8j7ub,yes,NA,osf.io/8j7ub,yes,NA
+a001060,yes,NA,yes,NA,yes,NA,figshare.com/s/18a543c101a17a1d5560,yes,NA,figshare.com/s/18a543c101a17a1d5560,yes,NA
+a001062,yes,NA,yes,NA,yes,NA,datadryad.org/resource/doi:10.5061/dryad.g7b40,yes,NA,datadryad.org/stash/dataset/doi:10.5061/dryad.g7b40,yes,NA
+a001063,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/KGIBK5,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KGIBK5,yes,NA
+a001066,yes,NA,yes,NA,yes,NA,reshare.ukdataservice.ac.uk/852127,yes,NA,reshare.ukdataservice.ac.uk/852127,other,"One file only available to registered users - ""safeguarded data"""
+a001067,yes,NA,other,"Each study has a section within the body of the text called ""Open Science"" which includes the links, but they are easy to miss - no special statement at start or end",yes,NA,osf.io/bdev3,yes,NA,osf.io/bdev3,yes,NA
+a001067,yes,NA,other,"Each study has a section within the body of the text called ""Open Science"" which includes the links, but they are easy to miss - no special statement at start or end",yes,NA,osf.io/v6z53,yes,NA,osf.io/v6z53,yes,NA
+a001067,yes,NA,other,"Each study has a section within the body of the text called ""Open Science"" which includes the links, but they are easy to miss - no special statement at start or end",yes,NA,osf.io/yuv2m,yes,NA,osf.io/yuv2m,yes,NA
+a001067,yes,NA,other,"Each study has a section within the body of the text called ""Open Science"" which includes the links, but they are easy to miss - no special statement at start or end",yes,NA,osf.io/zf2dp,yes,NA,osf.io/zf2dp,yes,NA
+a001068,yes,NA,yes,NA,yes,NA,osf.io/qek97,yes,NA,osf.io/qek97,yes,NA
+a001069,yes,NA,yes,NA,yes,NA,osf.io/m3neh,yes,NA,osf.io/m3neh,yes,NA
+a001070,yes,NA,yes,NA,yes,NA,osf.io/q6gbw,yes,NA,osf.io/q6gbw,yes,NA
+a001071,yes,NA,yes,NA,yes,NA,osf.io/gjp53,yes,NA,osf.io/gjp53,yes,NA
+a001072,yes,NA,yes,NA,yes,NA,osf.io/pe5d7,yes,NA,osf.io/pe5d7,yes,NA
+a001073,yes,NA,yes,NA,yes,NA,doi.org/10.17882/56796,yes,NA,www.seanoe.org/data/00456/56796,yes,NA
+a001076,yes,NA,yes,NA,yes,NA,osf.io/a63ez,yes,NA,osf.io/a63ez,yes,NA
+a001081,yes,NA,yes,NA,yes,NA,osf.io/ptmqx,yes,NA,osf.io/ptmqx,yes,NA
+a001082,yes,NA,yes,NA,yes,NA,osf.io/m3x2b,yes,NA,osf.io/m3x2b,yes,NA
+a001083,yes,NA,yes,NA,yes,NA,doi.org/10.3886/ICPSR04652.v7,yes,NA,www.icpsr.umich.edu/web/NACDA/studies/4652/version/7,yes,NA
+a001083,yes,NA,yes,NA,yes,NA,doi.org/10.3886/ICPSR36346.v7,yes,NA,www.icpsr.umich.edu/web/NACDA/studies/36346/versions/V7,yes,NA
+a001084,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/O6VHZZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O6VHZZ,yes,NA
+a001085,yes,NA,yes,NA,yes,NA,osf.io/5tfzh,yes,NA,osf.io/5tfzh,yes,NA
+a001086,yes,NA,yes,NA,yes,NA,figshare.com/articles/Fictional_First_Memories/6115676,yes,NA,figshare.com/articles/Fictional_First_Memories/6115676,yes,NA
+a001087,yes,NA,yes,NA,yes,NA,osf.io/cmw75,yes,NA,osf.io/cmw75,yes,NA
+a001087,yes,NA,yes,NA,yes,NA,osf.io/uxtq2,yes,NA,osf.io/uxtq2,yes,NA
+a001088,yes,NA,yes,NA,yes,NA,osf.io/fy5dk,yes,NA,osf.io/fy5dk,yes,NA
+a001091,yes,NA,yes,NA,yes,NA,osf.io/tu3nm,yes,NA,osf.io/tu3nm,yes,NA
+a001092,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/TR4OUK,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TR4OUK,yes,NA
+a001093,yes,NA,no,NA,yes,NA,osf.io/nmydf,yes,NA,osf.io/nmydf,yes,NA
+a001094,yes,NA,yes,NA,yes,NA,osf.io/fpdbh,other,Embedded link had a problem so clicking directly resulted in an error but url as written in text was OK,osf.io/fpdbh,yes,NA
+a001100,yes,NA,yes,NA,yes,NA,madata.bib.uni-mannheim.de/266,yes,NA,madata.bib.uni-mannheim.de/266,yes,NA
+a001102,yes,NA,yes,NA,yes,NA,osf.io/a3c8h,yes,NA,osf.io/a3c8h,yes,NA
+a001103,yes,NA,yes,NA,yes,NA,osf.io/qenhu/?view_only=a214ad4886e64dcf8a57048fbde1dfbb,yes,NA,osf.io/qenhu/?view_only=a214ad4886e64dcf8a57048fbde1dfbb,yes,NA
+a001104,yes,NA,yes,NA,yes,NA,bit.ly/2ljvoKP,yes,NA,drive.switch.ch/index.php/s/ZDfdl9pVOdkQHYn,yes,NA
+a001106,yes,NA,yes,NA,yes,NA,osf.io/pfjsd,yes,NA,osf.io/pfjsd,yes,NA
+a001107,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/FTFJTV,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FTFJTV,yes,NA
+a001109,yes,NA,yes,NA,yes,NA,osf.io/mcvt7/wiki/home,yes,NA,osf.io/mcvt7/wiki/home,yes,NA
+a001110,yes,NA,yes,NA,yes,NA,osf.io/pfh6r,yes,NA,osf.io/pfh6r,yes,NA
+a001111,yes,NA,yes,NA,yes,NA,hdl.handle.net/1959.13/1387620,yes,NA,nova.newcastle.edu.au/vital/access/manager/Repository/uon:32640,yes,NA
+a001112,yes,NA,yes,NA,yes,NA,osf.io/n2kxa,yes,NA,osf.io/n2kxa,yes,NA
+a001113,yes,NA,yes,NA,yes,NA,doi.org/10.5160/psychdata.zrce16dy99,yes,NA,www.psychdata.de/index.php?main=search&sub=browse&id=zrce16dy99&lang=ger&version=10002,other,"Agreement needs to be generated and signed, and then approval needs to be given to access data"
+a001113,yes,NA,yes,NA,yes,NA,osf.io/b8pu6,yes,NA,osf.io/b8pu6,yes,NA
+a001114,yes,NA,yes,NA,yes,NA,osf.io/axphc,yes,NA,osf.io/axphc,yes,NA
+a001115,yes,NA,yes,NA,yes,NA,osf.io/g2t36,yes,NA,osf.io/g2t36,yes,NA
+a001116,yes,NA,yes,NA,yes,NA,cancercontrol.cancer.gov/brp/hbrb/flashe.html,other,"the link is to the project home page, I had to agree to terms, and then could access the data/files page, which I've included as the resolved_url",cancercontrol.cancer.gov/brp/hbrb/flashe-study/flashe-files,other,Needed to agree to terms of use before I could download/access the files
+a001116,yes,NA,yes,NA,yes,NA,osf.io/x3jav,yes,NA,osf.io/x3jav,yes,NA
+a001118,yes,NA,yes,NA,yes,NA,osf.io/x6t4e,yes,NA,osf.io/x6t4e,yes,NA
+a001119,yes,NA,yes,NA,yes,NA,osf.io/bbf3c,yes,NA,osf.io/bbf3c,yes,NA
+a001121,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data",www.iris-database.org/iris/app/home/detail?id=york:936152,other,Registration form required before data can be downloaded
+a001121,yes,NA,yes,NA,yes,NA,osf.io/97kur,yes,NA,osf.io/97kur,yes,NA
+a001122,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/4XI0UG,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4XI0UG,yes,NA
+a001124,yes,NA,yes,NA,yes,NA,osf.io/r35tf,yes,NA,osf.io/r35tf,yes,NA
+a001125,yes,NA,yes,NA,other,Links are on journal web page for article not in PDF,data.mendeley.com/datasets/k29ty5nh48/1,yes,NA,data.mendeley.com/datasets/k29ty5nh48/1,yes,NA
+a001127,yes,NA,yes,NA,yes,NA,osf.io/pxk8z,yes,NA,osf.io/pxk8z,yes,NA
+a001129,yes,NA,yes,NA,yes,NA,osf.io/7pw8r,yes,NA,osf.io/7pw8r,yes,NA
+a001131,yes,NA,yes,NA,yes,NA,github.com/carlsonrw/layTheories_altruism,yes,NA,github.com/carlsonrw/layTheories_altruism,yes,NA
+a001132,yes,NA,yes,NA,yes,NA,osf.io/9z3nw,yes,NA,osf.io/9z3nw,yes,NA
+a001134,yes,NA,yes,NA,yes,NA,osf.io/e5r6f,yes,NA,osf.io/e5r6f,yes,NA
+a001135,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/26134,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26134,yes,NA
+a001138,yes,NA,yes,NA,yes,NA,osf.io/pdy6b,yes,NA,osf.io/pdy6b,yes,NA
+a001138,yes,NA,yes,NA,yes,NA,osf.io/project/s3chz/files/osfstorage/58920befb83f6901f40f7ec4,yes,NA,osf.io/u95vg,other,"This is explicitly a ""materials"" resource file which is not apparent from the article statement"
+a001138,yes,NA,yes,NA,yes,NA,osf.io/traf4,yes,NA,osf.io/traf4,yes,NA
+a001139,yes,NA,yes,NA,yes,NA,doi.org/10.5281/zenodo.1186639,yes,NA,zenodo.org/record/1186639,yes,NA
+a001140,yes,NA,yes,NA,yes,NA,osf.io/t28bw,yes,NA,osf.io/t28bw,yes,NA
+a001142,yes,NA,yes,NA,yes,NA,osf.io/c2gaf,yes,NA,osf.io/c2gaf,yes,NA
+a001144,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QG1DCI,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QG1DCI,yes,NA
+a001146,yes,NA,yes,NA,yes,NA,osf.io/zhf98,yes,NA,osf.io/zhf98,yes,NA
+a001147,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?id=3037337,yes,NA,dataverse.harvard.edu/dataset.xhtml?id=3037337,yes,NA
+a001148,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/WKJJ3Z,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WKJJ3Z,yes,NA
+a001149,yes,NA,yes,NA,other,Article contains both links and provides accession numbers to data resources without hyperlinks,DDBJ database accession no. DRP005397,other,Needed to navigate to Bioinformation and DDBJ Center website and search by accession number,ddbj.nig.ac.jp/DRASearch/study?acc=DRP005397,yes,NA
+a001149,yes,NA,yes,NA,other,Article contains both links and provides accession numbers to data resources without hyperlinks,www.irisdatabase.org/iris/app/home/detail?id=york:934328,other,Embedded url has an invalid character - it should be a hyphen. Fixing the hyphen makes the url behave as expected,www.iris-database.org/iris/app/home/detail?id=york:934328,other,Registration form required before data can be downloaded
+a001150,yes,NA,yes,NA,yes,NA,osf.io/g6x7f/?view_only=a780cde9131745bebce281fcd0029a9c,yes,NA,osf.io/g6x7f/?view_only=a780cde9131745bebce281fcd0029a9c,yes,NA
+a001151,yes,NA,yes,NA,yes,NA,osf.io/79sqe,yes,NA,osf.io/79sqe,yes,NA
+a001152,yes,NA,yes,NA,yes,NA,osf.io/sbntf?view_only=12aeec9cda114f6eb138064f6c45aefe,yes,NA,osf.io/sbntf?view_only=12aeec9cda114f6eb138064f6c45aefe,yes,NA
+a001154,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA
+a001155,yes,NA,yes,NA,yes,NA,osf.io/2bvt8,yes,NA,osf.io/2bvt8,yes,NA
+a001155,yes,NA,yes,NA,yes,NA,osf.io/zp76h,yes,NA,osf.io/zp76h,yes,NA
+a001157,yes,NA,yes,NA,yes,NA,osf.io/y3kzd,yes,NA,osf.io/y3kzd,yes,NA
+a001158,yes,NA,yes,NA,yes,NA,osf.io/75mau,yes,NA,osf.io/75mau,yes,NA
+a001160,yes,NA,yes,NA,yes,NA,osf.io/9KXM4,yes,NA,osf.io/9KXM4,yes,NA
+a001161,yes,NA,yes,NA,yes,NA,osf.io/ckwjx,yes,NA,osf.io/ckwjx,yes,NA
+a001163,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5284/1021668,yes,NA,archaeologydataservice.ac.uk/archives/view/elmsfarm_eh_2013,yes,NA
+a001166,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/PGCVDP,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGCVDP,yes,NA
+a001168,yes,NA,yes,NA,yes,NA,osf.io/rs32a/?view_only=1b0901ea36124e2998fe5511bee58c02,yes,NA,osf.io/rs32a/?view_only=1b0901ea36124e2998fe5511bee58c02,yes,NA
+a001170,yes,NA,yes,NA,yes,NA,osf.io/mxf5w,yes,NA,osf.io/mxf5w,yes,NA
+a001171,yes,NA,yes,NA,yes,NA,osf.io/d9jfz,yes,NA,osf.io/d9jfz,yes,NA
+a001173,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/S9MIJU,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S9MIJU,yes,NA
+a001176,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataverse/AgreementIndiff,yes,NA,dataverse.harvard.edu/dataverse/AgreementIndiff,yes,NA
+a001178,yes,NA,yes,NA,yes,NA,osf.io/t2856,yes,NA,osf.io/t2856,yes,NA
+a001179,yes,NA,yes,NA,yes,NA,osf.io/9mdxw/?view_only=976405fbcdb94ba4bdf1988684ad92bf,yes,NA,osf.io/9mdxw/?view_only=976405fbcdb94ba4bdf1988684ad92bf,yes,NA
+a001180,yes,NA,yes,NA,yes,NA,osf.io/he8s7,yes,NA,osf.io/he8s7,yes,NA
+a001181,yes,NA,yes,NA,yes,NA,osf.io/zpm9t,yes,NA,osf.io/zpm9t,yes,NA
+a001183,yes,NA,yes,NA,yes,NA,osf.io/3nkeh,yes,NA,osf.io/3nkeh,yes,NA
+a001184,yes,NA,yes,NA,yes,NA,osf.io/xg5rj/wiki/home,yes,NA,osf.io/xg5rj/wiki/home,yes,NA
+a001185,yes,NA,yes,NA,yes,NA,osf.io/g59s2,yes,NA,osf.io/g59s2,yes,NA
+a001186,yes,NA,yes,NA,yes,NA,midus.colectica.org,yes,NA,midus.colectica.org/Account/Login,other,"Login required, no indication of whether files available"
+a001187,yes,NA,yes,NA,yes,NA,osf.io/bw8sz,yes,NA,osf.io/bw8sz,yes,NA
+a001188,yes,NA,yes,NA,yes,NA,osf.io/z69fs,yes,NA,osf.io/z69fs,yes,NA
+a001190,yes,NA,yes,NA,yes,NA,osf.io/98ta4,yes,NA,osf.io/98ta4,yes,NA
+a001191,yes,NA,yes,NA,yes,NA,doi.pangaea.de/10.1594/PANGAEA.903123,yes,NA,doi.pangaea.de/10.1594/PANGAEA.903123,yes,NA
+a001194,yes,NA,yes,NA,yes,NA,osf.io/zucn5,yes,NA,osf.io/zucn5,yes,NA
+a001195,yes,NA,yes,NA,yes,NA,iris-database.org/iris/app/home/detail?id=york:934337,yes,NA,www.iris-database.org/iris/app/home/detail?id=york:934337,yes,NA
+a001196,yes,NA,yes,NA,yes,NA,osf.io/rdfm3,yes,NA,osf.io/rdfm3,yes,NA
+a001197,yes,NA,yes,NA,yes,NA,osf.io/re48w,yes,NA,osf.io/re48w,yes,NA
+a001198,yes,NA,yes,NA,yes,NA,osf.io/qqq82,yes,NA,osf.io/qqq82,yes,NA
+a001200,yes,NA,yes,NA,yes,NA,osf.io/5ybej,yes,NA,osf.io/5ybej,yes,NA
+a001201,yes,NA,yes,NA,yes,NA,osf.io/9gyvd,yes,NA,osf.io/9gyvd,yes,NA
+a001202,yes,NA,yes,NA,yes,NA,doi.org/10.17605/OSF.IO/UXYCH,yes,NA,osf.io/uxych,yes,NA
+a001206,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/6IOACK,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IOACK,yes,NA
+a001211,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/PL2XFD,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PL2XFD,yes,NA
+a001214,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/ZYRC8S,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZYRC8S,yes,NA
+a001215,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data","www.iris-database.org/iris/app/home/detail?id=york:932759, https://www.iris-database.org/iris/app/home/detail?id=york:932760, https://www.iris-database.org/iris/app/home/detail?id=york:932690",other,Registration form required before data can be downloaded
+a001215,yes,NA,yes,NA,yes,NA,osf.io/gwk45,yes,NA,osf.io/gwk45,yes,NA
+a001216,yes,NA,yes,NA,yes,NA,osf.io/ydnfe,yes,NA,osf.io/ydnfe,yes,NA
+a001217,yes,NA,yes,NA,yes,NA,osf.io/hd42c,yes,NA,osf.io/hd42c,yes,NA
+a001219,yes,NA,yes,NA,yes,NA,osf.io/ngm4h,yes,NA,osf.io/ngm4h,yes,NA
+a001220,yes,NA,yes,NA,yes,NA,osf.io/jmiwn,yes,NA,osf.io/jmiwn,yes,NA
+a001221,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/BAG0DS,other,DOI not found; data found by searching Harvard Dataverse by author name,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIQ4BV,yes,NA
+a001223,yes,NA,yes,NA,yes,NA,osf.io/tde3r,yes,NA,osf.io/tde3r,yes,NA
+a001224,yes,NA,yes,NA,yes,NA,osf.io/2ngs9/registrations,yes,NA,osf.io/2ngs9/registrations,yes,NA
+a001225,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/I1HVCJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I1HVCJ,yes,NA
+a001226,yes,NA,yes,NA,yes,NA,osf.io/nzp8t,yes,NA,osf.io/nzp8t,yes,NA
+a001227,yes,NA,yes,NA,yes,NA,osf.io/atx26,yes,NA,osf.io/atx26,yes,NA
+a001228,yes,NA,yes,NA,yes,NA,osf.io/6htsx,yes,NA,osf.io/6htsx,yes,NA
+a001229,yes,NA,yes,NA,yes,NA,osf.io/vqke2,yes,NA,osf.io/vqke2,yes,NA
+a001231,yes,NA,yes,NA,yes,NA,osf.io/esw34,yes,NA,osf.io/esw34,yes,NA
+a001232,yes,NA,yes,NA,yes,NA,osf.io/bnsqw,yes,NA,osf.io/bnsqw,yes,NA
+a001233,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/TVZQG6,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TVZQG6,yes,NA
+a001234,yes,NA,yes,NA,yes,NA,osf.io/j2rwc/?view_only=77b87eac2bf4418c9f3efcc9db9a63cd,yes,NA,osf.io/j2rwc/?view_only=77b87eac2bf4418c9f3efcc9db9a63cd,yes,NA
+a001234,yes,NA,yes,NA,yes,NA,osf.io/s63tp/?view_only=4aada77c39414fd9bc0c7cfe705a2af6,yes,NA,osf.io/s63tp/?view_only=4aada77c39414fd9bc0c7cfe705a2af6,yes,NA
+a001235,yes,NA,yes,NA,yes,NA,osf.io/49rmq,yes,NA,osf.io/49rmq,yes,NA
+a001238,yes,NA,yes,NA,yes,NA,osf.io/ut382,yes,NA,osf.io/ut382,yes,NA
+a001239,yes,NA,yes,NA,yes,NA,osf.io/dux3n,yes,NA,osf.io/dux3n,yes,NA
+a001239,yes,NA,yes,NA,yes,NA,osf.io/dux3n/?view_only=452552239590486e8793e573f6e8911a,yes,NA,osf.io/dux3n/?view_only=452552239590486e8793e573f6e8911a,yes,NA
+a001240,yes,NA,yes,NA,yes,NA,osf.io/v36a6,yes,NA,osf.io/v36a6,yes,NA
+a001243,yes,NA,yes,NA,yes,NA,osf.io/nfh28,yes,NA,osf.io/nfh28,yes,NA
+a001244,yes,NA,yes,NA,yes,NA,osf.io/5cfj6,yes,NA,osf.io/5cfj6,yes,NA
+a001245,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/OOIEAO,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OOIEAO,yes,NA
+a001246,yes,NA,yes,NA,yes,NA,osf.io/e5bvj,yes,NA,osf.io/e5bvj,yes,NA
+a001247,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data","iris-database.org/iris/app/home/detail?id=york:936419, https://www.dropbox.com/s/59czjr4u0nm1gsn/data.xlsx?dl=0, https://www.dropbox.com/s/7gqxg9spe2dx9n4/Grammar.exe?dl=0, https://www.dropbox.com/s/uasmo5werd5ebl1/Delayed.exe?dl=0",other,"Registration form required before data can be downloaded. Files were actually hosted on Dropbox: https://www.dropbox.com/s/59czjr4u0nm1gsn/data.xlsx?dl=0, https://www.dropbox.com/s/7gqxg9spe2dx9n4/Grammar.exe?dl=0, https://www.dropbox.com/s/uasmo5werd5ebl1/Delayed.exe?dl=0"
+a001248,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/STXADQ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STXADQ,yes,NA
+a001249,yes,NA,yes,NA,yes,NA,osf.io/wpf7t,yes,NA,osf.io/wpf7t,yes,NA
+a001250,yes,NA,yes,NA,yes,NA,dbk.gesis.org/DBKSearch/SDesc2.asp?no=6701,other,"As presented, link does not work, but searching from the gesis home page does locate the correct dataset",search.gesis.org/research_data/ZA6701,other,Application required to access data
+a001250,yes,NA,yes,NA,yes,NA,osf.io/wk9rp,yes,NA,osf.io/wk9rp,yes,NA
+a001252,yes,NA,yes,NA,yes,NA,osf.io/jfxtr,yes,NA,osf.io/jfxtr,yes,NA
+a001253,yes,NA,yes,NA,yes,NA,osf.io/4a6jk,yes,NA,osf.io/4a6jk,yes,NA
+a001257,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/VT4KJA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VT4KJA,yes,NA
+a001258,yes,NA,yes,NA,yes,NA,osf.io/c5bmm,yes,NA,osf.io/c5bmm,yes,NA
+a001259,yes,NA,yes,NA,yes,NA,osf.io/rstc5,yes,NA,osf.io/rstc5,yes,NA
+a001260,yes,NA,yes,NA,yes,NA,osf.io/3cmz4,yes,NA,osf.io/3cmz4,yes,NA
+a001261,yes,NA,yes,NA,yes,NA,osf.io/849kq,yes,NA,osf.io/849kq,yes,NA
+a001263,yes,NA,yes,NA,yes,NA,osf.io/tfwum/?view_only=0cc13036c196453d940a4dafc35b715c,yes,NA,osf.io/tfwum/?view_only=0cc13036c196453d940a4dafc35b715c,yes,NA
+a001264,yes,NA,yes,NA,yes,NA,osf.io/5kbx6,yes,NA,osf.io/5kbx6,yes,NA
+a001265,yes,NA,no,NA,other,Online article has direct links to files,intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.csv,yes,NA,intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.csv,yes,NA
+a001265,yes,NA,no,NA,other,Online article has direct links to files,intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.xlsx,yes,NA,intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.xlsx,yes,NA
+a001266,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/QO6EMT,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QO6EMT,yes,NA
+a001268,yes,NA,no,NA,yes,NA,osf.io/cky7g,yes,NA,osf.io/cky7g,yes,NA
+a001270,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/2E2M9Z,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2E2M9Z,yes,NA
+a001273,yes,NA,yes,NA,yes,NA,archaeologydataservice.ac.uk/archives/view/accord_ahrc_2015,yes,NA,archaeologydataservice.ac.uk/archives/view/accord_ahrc_2015,yes,NA
+a001274,yes,NA,yes,NA,yes,NA,psy.fsu.edu/~catlab/alienssoa_pub/index.php,yes,NA,psy.fsu.edu/~catlab/alienssoa_pub/index.php,yes,NA
+a001275,yes,NA,yes,NA,yes,NA,osf.io/dxvrq,yes,NA,osf.io/dxvrq,yes,NA
+a001277,yes,NA,yes,NA,yes,NA,osf.io/45gch,yes,NA,osf.io/45gch,yes,NA
+a001278,yes,NA,yes,NA,yes,NA,osf.io/bifc7,yes,NA,osf.io/bifc7,yes,NA
+a001279,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/YWZBUJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YWZBUJ,yes,NA
+a001280,yes,NA,yes,NA,yes,NA,osf.io/cxc6f,yes,NA,osf.io/cxc6f,yes,NA
+a001281,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/H13U6G,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H13U6G,yes,NA
+a001283,yes,NA,yes,NA,yes,NA,osf.io/uk5c7,yes,NA,osf.io/uk5c7,yes,NA
+a001284,yes,NA,yes,NA,yes,NA,osf.io/dqgep,yes,NA,osf.io/dqgep,yes,NA
+a001285,yes,NA,yes,NA,yes,NA,github.com/rnorouzian/i/blob/master/i.r,yes,NA,github.com/rnorouzian/i/blob/master/i.r,yes,NA
+a001285,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data","www.iris-database.org/iris/app/home/detail?id=york:935317, https://github.com/izeh/i, https://github.com/rnorouzian/i/blob/master/i.r",other,Registration form required before data can be downloaded
+a001285,yes,NA,yes,NA,yes,NA,osf.io/jxd47,yes,NA,osf.io/jxd47,yes,NA
+a001286,yes,NA,yes,NA,yes,NA,osf.io/4vx3z,yes,NA,osf.io/4vx3z,yes,NA
+a001287,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/ROLEY5,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ROLEY5,yes,NA
+a001288,yes,NA,yes,NA,yes,NA,dx.doi.org/10.17617/3.2v,yes,NA,edmond.mpdl.mpg.de/imeji/collection/64vBL2yNY36dYZQv,yes,NA
+a001289,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/JQEUBQ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQEUBQ,yes,NA
+a001290,yes,NA,yes,NA,yes,NA,osf.io/rsf86/?view_only=06347220b77940638f75e961edd10805,yes,NA,osf.io/rsf86/?view_only=06347220b77940638f75e961edd10805,yes,NA
+a001290,yes,NA,yes,NA,yes,NA,osf.io/wqr73,yes,NA,osf.io/wqr73,yes,NA
+a001291,yes,NA,yes,NA,yes,NA,osf.io/wgeum,yes,NA,osf.io/wgeum,yes,NA
+a001293,yes,NA,yes,NA,yes,NA,doi.org/10.14284/329,yes,NA,www.vliz.be/en/imis?dasid=4687&doiid=329,yes,NA
+a001293,yes,NA,yes,NA,yes,NA,doi.org/10.14284/PANGAEA.329,no,Invalid DOI,NA,NA,NA
+a001294,yes,NA,yes,NA,yes,NA,osf.io/8juyc,yes,NA,osf.io/8juyc,yes,NA
+a001295,yes,NA,yes,NA,yes,NA,osf.io/v8aih,yes,NA,osf.io/v8aih,yes,NA
+a001296,yes,NA,yes,NA,yes,NA,iris-database.org,other,"link works, but is to the generic homepage. Searching required to find actual data","iris-database.org/iris/app/home/detail?id=york:936622, https://iris-database.org/iris/app/home/detail?id=york:936623, https://iris-database.org/iris/app/home/detail?id=york:936624, https://iris-database.org/iris/app/home/detail?id=york:936625, https://iris-database.org/iris/app/home/detail?id=york:936626",other,Registration form required before data can be downloaded
+a001297,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OE9BNP,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OE9BNP,yes,NA
+a001298,yes,NA,yes,NA,yes,NA,osf.io/sd76g,yes,NA,osf.io/sd76g,yes,NA
+a001301,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/RXXQSQ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RXXQSQ,yes,NA
+a001302,yes,NA,yes,NA,yes,NA,doi:10.7910/DVN/BXXWWW,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BXXWWW,yes,NA
+a001303,yes,NA,yes,NA,yes,NA,osf.io/4exy7,yes,NA,osf.io/4exy7,yes,NA
+a001305,yes,NA,yes,NA,yes,NA,osf.io/q4n2b,yes,NA,osf.io/q4n2b,yes,NA
+a001306,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/ZSJA25,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSJA25,yes,NA
+a001308,yes,NA,yes,NA,yes,NA,osf.io/wki3y,yes,NA,osf.io/wki3y,yes,NA
+a001309,yes,NA,yes,NA,yes,NA,osf.io/chm94,yes,NA,osf.io/chm94,yes,NA
+a001310,yes,NA,yes,NA,yes,NA,osf.io/27gwb,yes,NA,osf.io/27gwb,yes,NA
+a001311,yes,NA,yes,NA,yes,NA,osf.io/4r9zs,yes,NA,osf.io/4r9zs,yes,NA
+a001313,yes,NA,yes,NA,yes,NA,osf.io/uqh5d,yes,NA,osf.io/uqh5d,yes,NA
+a001314,yes,NA,yes,NA,yes,NA,osf.io/vjacn,other,"the link works, but is merely a placeholder link to the actual data repo which is hosted on GitHub",github.com/MandyZChen/Unifying-Space-Exp,yes,NA
+a001316,yes,NA,yes,NA,yes,NA,osf.io/9cmxw,yes,NA,osf.io/9cmxw,yes,NA
+a001317,yes,NA,yes,NA,yes,NA,osf.io/j25fh,yes,NA,osf.io/j25fh,yes,NA
+a001318,yes,NA,yes,NA,yes,NA,figshare.com/articles/NPQIP_final_analysis_set/5375275/1,yes,NA,figshare.com/articles/NPQIP_final_analysis_set/5375275/1,yes,NA
+a001319,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/3DK6JA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3DK6JA,yes,NA
+a001320,yes,NA,yes,NA,yes,NA,osf.io/4e7h9,yes,NA,osf.io/4e7h9,yes,NA
+a001321,yes,NA,yes,NA,yes,NA,osf.io/dmbkw,yes,NA,osf.io/dmbkw,yes,NA
+a001326,yes,NA,yes,NA,yes,NA,osf.io/5tus8,yes,NA,osf.io/5tus8,yes,NA
+a001327,yes,NA,yes,NA,yes,NA,osf.io/fgn9y,yes,NA,osf.io/fgn9y,yes,NA
+a001328,yes,NA,yes,NA,yes,NA,osf.io/mgbck,yes,NA,osf.io/mgbck,yes,NA
+a001329,yes,NA,other,Appendix A states that supplementary data is available on journal website but the actual link to the shared data is in the body of the article.,yes,NA,osf.io/rkae4,yes,NA,osf.io/rkae4,yes,NA
+a001330,yes,NA,yes,NA,yes,NA,osf.io/s6p9v,yes,NA,osf.io/s6p9v,yes,NA
+a001331,yes,NA,yes,NA,yes,NA,osf.io/27h68,yes,NA,osf.io/27h68,yes,NA
+a001332,yes,NA,yes,NA,yes,NA,osf.io/68MES,yes,NA,osf.io/68MES,yes,NA
+a001333,yes,NA,yes,NA,yes,NA,osf.io/mtsvy,yes,NA,osf.io/mtsvy,yes,NA
+a001334,yes,NA,yes,NA,yes,NA,osf.io/2dc4p,yes,NA,osf.io/2dc4p,yes,NA
+a001336,yes,NA,yes,NA,yes,NA,osf.io/m6p82,yes,NA,osf.io/m6p82,yes,NA
+a001337,yes,NA,yes,NA,yes,NA,osf.io/reky2,yes,NA,osf.io/reky2,yes,NA
+a001338,yes,NA,yes,NA,yes,NA,osf.io/93m8y,yes,NA,osf.io/93m8y,yes,NA
+a001340,yes,NA,yes,NA,yes,NA,figshare.com/projects/Effects_of_tDCS_over_posterior_parietal_cortex_on_episodic_memory_reconsolidation/64793,yes,NA,figshare.com/projects/Effects_of_tDCS_over_posterior_parietal_cortex_on_episodic_memory_reconsolidation/64793,yes,NA
+a001341,yes,NA,yes,NA,yes,NA,osf.io/kewpu,yes,NA,osf.io/kewpu,yes,NA
+a001343,yes,NA,yes,NA,yes,NA,osf.io/xefc4,yes,NA,osf.io/xefc4,yes,NA
+a001344,yes,NA,yes,NA,yes,NA,osf.io/9yxmh,yes,NA,osf.io/9yxmh,yes,NA
+a001345,yes,NA,yes,NA,yes,NA,osf.io/ugdnv,yes,NA,osf.io/ugdnv,yes,NA
+a001346,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/FZI6NO,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FZI6NO,yes,NA
+a001348,yes,NA,yes,NA,yes,NA,osf.io/nr24b,yes,NA,osf.io/nr24b,yes,NA
+a001349,yes,NA,yes,NA,yes,NA,osf.io/rjdpc,yes,NA,osf.io/rjdpc,yes,NA
+a001350,yes,NA,yes,NA,yes,NA,osf.io/b956g,yes,NA,osf.io/b956g,yes,NA
+a001350,yes,NA,yes,NA,yes,NA,osf.io/vnkaz,yes,NA,osf.io/vnkaz,yes,NA
+a001351,yes,NA,yes,NA,yes,NA,osf.io/4kanr,yes,NA,osf.io/4kanr,yes,NA
+a001352,yes,NA,yes,NA,yes,NA,osf.io/kwvu6,yes,NA,osf.io/kwvu6,yes,NA
+a001353,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/privateurl.xhtml?token=f8d2d590-6a8e-4df2-9dca-7e3f3813c78c,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FKHGTVF&version=DRAFT,yes,NA
+a001354,yes,NA,yes,NA,yes,NA,osf.io/nvq6t,yes,NA,osf.io/nvq6t,yes,NA
+a001355,yes,NA,yes,NA,yes,NA,osf.io/b3epc,yes,NA,osf.io/b3epc,yes,NA
+a001356,yes,NA,no,NA,other,Online article has direct link to files,intarch.ac.uk/journal/issue52/3/glassdata.xls,yes,NA,intarch.ac.uk/journal/issue52/3/glassdata.xls,yes,NA
+a001358,yes,NA,yes,NA,yes,NA,osf.io/62wn9,yes,NA,osf.io/62wn9,yes,NA
+a001359,yes,NA,yes,NA,no,NA,NA,NA,NA,NA,NA,NA
+a001360,yes,NA,yes,NA,yes,NA,osf.io/e3afr,yes,NA,osf.io/e3afr,yes,NA
+a001361,yes,NA,yes,NA,yes,NA,osf.io/efjd6,yes,NA,osf.io/efjd6,yes,NA
+a001362,yes,NA,yes,NA,yes,NA,osf.io/t79ca,other,"URL links to a specific file within a larger repository. The larger repository was downloaded as a whole, rather than the single file explicitly linked to.",osf.io/wke6z,yes,NA
+a001368,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/K6ZOOW,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K6ZOOW,yes,NA
+a001369,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=https://doi.org/10.7910/DVN/GSQG1K,other,This link unsuccessfully attempts to combine the dataverse url with a doi-based url and doesn't work as printed - using the final part of the url (just the doi url) works though - https://doi.org/10.7910/DVN/GSQG1K,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GSQG1K,yes,NA
+a001370,yes,NA,yes,NA,yes,NA,osf.io/dq3w9,yes,NA,osf.io/dq3w9,yes,NA
+a001372,yes,NA,yes,NA,yes,NA,osf.io/rydzg,yes,NA,osf.io/rydzg,yes,NA
+a001374,yes,NA,yes,NA,yes,NA,osf.io/9cndv,yes,NA,osf.io/9cndv,yes,NA
+a001376,yes,NA,yes,NA,yes,NA,osf.io/txa5j,yes,NA,osf.io/txa5j,yes,NA
+a001377,yes,NA,yes,NA,yes,NA,osf.io/j2g7t,yes,NA,osf.io/j2g7t,yes,NA
+a001378,yes,NA,yes,NA,yes,NA,osf.io/cbjps,yes,NA,osf.io/cbjps,yes,NA
+a001379,yes,NA,yes,NA,yes,NA,osf.io/wkjp6,yes,NA,osf.io/wkjp6,yes,NA
+a001380,yes,NA,yes,NA,yes,NA,iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,NA,www.iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,NA
+a001381,yes,NA,yes,NA,yes,NA,osf.io/npqgz,yes,NA,osf.io/npqgz,yes,NA
+a001382,yes,NA,yes,NA,yes,NA,osf.io/zd2j9,yes,NA,osf.io/zd2j9,yes,NA
+a001385,yes,NA,yes,NA,yes,NA,osf.io/84zg3,yes,NA,osf.io/84zg3,yes,NA
+a001386,yes,NA,yes,NA,yes,NA,osf.io/exp4n,yes,NA,osf.io/exp4n,yes,NA
+a001387,yes,NA,yes,NA,yes,NA,osf.io/mytx9,yes,NA,osf.io/mytx9,yes,NA
+a001388,yes,NA,yes,NA,yes,NA,osf.io/pwy9r,yes,NA,osf.io/pwy9r,yes,NA
+a001389,yes,NA,yes,NA,yes,NA,osf.io/hrzgs,yes,NA,osf.io/hrzgs,yes,NA
+a001390,yes,NA,yes,NA,yes,NA,osf.io/93cvs,yes,NA,osf.io/93cvs,yes,NA
+a001391,yes,NA,yes,NA,yes,NA,osf.io/2nj9h,yes,NA,osf.io/2nj9h,yes,NA
+a001392,yes,NA,yes,NA,yes,NA,osf.io/jxf5q,yes,NA,osf.io/jxf5q,yes,NA
+a001393,yes,NA,yes,NA,yes,NA,osf.io/s5rfu,yes,NA,osf.io/s5rfu,yes,NA
+a001394,yes,NA,yes,NA,other,Article mentions that data is available as supporting materials and has link to web page for article,ars.els-cdn.com/content/image/1-s2.0-S0092656617301095-mmc6.zip,yes,NA,ars.els-cdn.com/content/image/1-s2.0-S0092656617301095-mmc6.zip,yes,NA
+a001394,yes,NA,yes,NA,other,Article mentions that data is available as supporting materials and has link to web page for article,ars.els-cdn.com/content/image/1-s2.0-S0092656617301095-mmc7.zip,yes,NA,ars.els-cdn.com/content/image/1-s2.0-S0092656617301095-mmc7.zip,yes,NA
+a001395,yes,NA,yes,NA,yes,NA,osf.io/2pnu6,yes,NA,osf.io/2pnu6,yes,NA
+a001397,yes,NA,yes,NA,yes,NA,osf.io/236zg,yes,NA,osf.io/236zg,yes,NA
+a001398,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/QTG6FQ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QTG6FQ,yes,NA
+a001401,yes,NA,yes,NA,yes,NA,osf.io/yh7wu,yes,NA,osf.io/yh7wu,yes,NA
+a001404,yes,NA,yes,NA,yes,NA,osf.io/hw2ac,yes,NA,osf.io/hw2ac,yes,NA
+a001405,yes,NA,yes,NA,yes,NA,osf.io/mk73j,yes,NA,osf.io/mk73j,yes,NA
+a001406,yes,NA,yes,NA,yes,NA,dx.doi.org/10.17632/7tj8hpmnmt.1,yes,NA,data.mendeley.com/datasets/7tj8hpmnmt/1,yes,NA
+a001408,yes,NA,yes,NA,yes,NA,osf.io/rgsbj,yes,NA,osf.io/rgsbj,yes,NA
+a001411,yes,NA,yes,NA,yes,NA,osf.io/bqyhd,yes,NA,osf.io/bqyhd,yes,NA
+a001412,yes,NA,yes,NA,yes,NA,osf.io/u65by,yes,NA,osf.io/u65by,yes,NA
+a001414,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XJQALC,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XJQALC,yes,NA
+a001415,yes,NA,yes,NA,yes,NA,osf.io/6j9aq,yes,NA,osf.io/6j9aq,yes,NA
+a001416,yes,NA,yes,NA,yes,NA,osf.io/24kvu,yes,NA,osf.io/24kvu,yes,NA
+a001417,yes,NA,no,NA,yes,NA,osf.io/r2ujq/?view_only-c0f24616fffa4805b09b5f552c5a466e,yes,NA,osf.io/r2ujq/?view_only-c0f24616fffa4805b09b5f552c5a466e,yes,NA
+a001418,yes,NA,yes,NA,yes,NA,github.com/abrowman/psm-jesp2017,yes,NA,github.com/abrowman/psm-jesp2017,yes,NA
+a001420,yes,NA,yes,NA,yes,NA,doi.org/10.1016/j.jesp.2019.03.009,yes,NA,www.sciencedirect.com/science/article/pii/S0022103118305997?via%3Dihub,yes,NA
+a001421,yes,NA,yes,NA,yes,NA,figshare.com/authors/Lorna_Richardson/606491,yes,NA,figshare.com/authors/Lorna_Richardson/606491,yes,NA
+a001422,yes,NA,yes,NA,yes,NA,doi.org/10.5284/1052664,yes,NA,archaeologydataservice.ac.uk/archives/view/breedon_nu_2019,yes,NA
+a001423,yes,NA,yes,NA,yes,NA,osf.io/6d3ry,yes,NA,osf.io/6d3ry,yes,NA
+a001425,yes,NA,yes,NA,yes,NA,osf.io/t7jjk,yes,NA,osf.io/t7jjk,yes,NA
+a001425,yes,NA,yes,NA,yes,NA,www.oecd.org/pisa/data/2015database,yes,NA,www.oecd.org/pisa/data/2015database,yes,NA
+a001426,yes,NA,yes,NA,yes,NA,dx.doi.org/10.5285/2503df629a8a485e8582e5150876b210,yes,NA,catalogue.ceda.ac.uk/uuid/2503df629a8a485e8582e5150876b210,yes,NA
+a001428,yes,NA,yes,NA,yes,NA,osf.io/8eqtc,yes,NA,osf.io/8eqtc,yes,NA
+a001429,yes,NA,yes,NA,yes,NA,www.tessexperiments.org/data/ferrer825.html,other,"link results in a page not found error message, but straightforward to follow links and find correct data location (replace ""data"" with ""study"" in url). Correct page leads to an OSF project",osf.io/a42yg,yes,NA
+a001430,yes,NA,yes,NA,yes,NA,data.mendeley.com/submissions/evise/edit/rh22h25sw7?submission_id=S0022-1031(17)30623-6&token=3639d213-5e0d-437d-af76-0023d5b2081a,other,"Had to edit URL to remove non-alpha characters around the ""&"" in the string. Also, this is a link to the upload page for the authors - it is not for public use!!!",data.mendeley.com/submissions/evise/edit/rh22h25sw7?submission_id=S0022-1031(17)30623-6&token=3639d213-5e0d-437d-af76-0023d5b2081a,other,"There are files listed for upload, but they are not accessible"
+a001430,yes,NA,yes,NA,yes,NA,doi.org/10.1016/j.jesp.2018.01.007,other,"This is the journal web page for the article (https://www.sciencedirect.com/science/article/abs/pii/S0022103117306236?via%3Dihub), it contains a proper link to the Mendeley repo (https://data.mendeley.com/datasets/rh22h25sw7/1)",data.mendeley.com/datasets/rh22h25sw7/1,yes,NA
+a001431,yes,NA,yes,NA,yes,NA,osf.io/dbgh6,yes,NA,osf.io/dbgh6,yes,NA
+a001432,yes,NA,yes,NA,yes,NA,osf.io/fkn8m,yes,NA,osf.io/fkn8m,yes,NA
+a001433,yes,NA,yes,NA,yes,NA,osf.io/8bjcs,yes,NA,osf.io/8bjcs,yes,NA
+a001434,yes,NA,other,"Contained within ""notes"", not standalone statement",yes,NA,osf.io/h6dwg,yes,NA,osf.io/h6dwg,yes,NA
+a001436,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/AT2FEZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AT2FEZ,yes,NA
+a001437,yes,NA,yes,NA,yes,NA,osf.io/2bfkt/?view_only=1fee156afa004d37ba3e48f189fba097,yes,NA,osf.io/2bfkt/?view_only=1fee156afa004d37ba3e48f189fba097,yes,NA
+a001439,yes,NA,yes,NA,yes,NA,osf.io/ht3gk,yes,NA,osf.io/ht3gk,yes,NA
+a001440,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/EBF7XW,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBF7XW,yes,NA
+a001441,yes,NA,yes,NA,yes,NA,osf.io/axnm6,yes,NA,osf.io/axnm6,yes,NA
+a001443,yes,NA,yes,NA,yes,NA,doi.org/10.17863/CAM.7153;the,other,"The link as copied contains a bit of extraneous text at the end ("";the""), removing this makes the url work fine. Clicking on the link directly from PDF results in an error",www.repository.cam.ac.uk/handle/1810/261918,yes,NA
+a001443,yes,NA,yes,NA,yes,NA,osf.io/7b9au,yes,NA,osf.io/7b9au,yes,NA
+a001444,yes,NA,yes,NA,yes,NA,osf.io/cd893/?view_only=5c5dd4ed81cc497d9ee1cb383da909cf,yes,NA,osf.io/cd893/?view_only=5c5dd4ed81cc497d9ee1cb383da909cf,yes,NA
+a001445,yes,NA,yes,NA,yes,NA,osf.io/e2aks,yes,NA,osf.io/e2aks,yes,NA
+a001447,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/ICISE4,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ICISE4,yes,NA
+a001448,yes,NA,yes,NA,yes,NA,osf.io/yfc5m,yes,NA,osf.io/yfc5m,yes,NA
+a001449,yes,NA,yes,NA,yes,NA,osf.io/34cd8,yes,NA,osf.io/34cd8,yes,NA
+a001450,yes,NA,yes,NA,yes,NA,osf.io/u9tk8,yes,NA,osf.io/u9tk8,yes,NA
+a001452,yes,NA,yes,NA,yes,NA,osf.io/9b4y7,yes,NA,osf.io/9b4y7,yes,NA
+a001454,yes,NA,yes,NA,yes,NA,osf.io/mrt8f,yes,NA,osf.io/mrt8f,yes,NA
+a001455,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,NA
+a001458,yes,NA,yes,NA,yes,NA,dx.doi.org/10.23668/psycharchives.790,yes,NA,www.psycharchives.org/handle/20.500.12034/584,yes,NA
+a001459,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/EL6ZCZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EL6ZCZ,yes,NA
+a001460,yes,NA,yes,NA,yes,NA,osf.io/b4nvf,yes,NA,osf.io/b4nvf,yes,NA
+a001463,yes,NA,yes,NA,yes,NA,DOI 10.17605/OSF.IO/KZ483,yes,NA,osf.io/kz483,yes,NA
+a001464,yes,NA,yes,NA,yes,NA,osf.io/h7s5j,yes,NA,osf.io/h7s5j,yes,NA
+a001465,yes,NA,yes,NA,yes,NA,osf.io/enuv3,yes,NA,osf.io/enuv3,yes,NA
+a001466,yes,NA,yes,NA,yes,NA,osf.io/register/ https://osf.io/jpbnu/?view_only = 2ba7656345b94dacaf1210e8185a5967,other,"The embedded link does not work as it is a combining of two separate urls, one of which is irrelevant, also spaces are introduced. After correcting the obvious problems with the url, the link works as expected",osf.io/jpbnu/?view_only=2ba7656345b94dacaf1210e8185a5967,yes,NA
+a001467,yes,NA,yes,NA,yes,NA,osf.io/ng9k8,yes,NA,osf.io/ng9k8,yes,NA
+a001468,yes,NA,yes,NA,yes,NA,osf.io/nav9h,yes,NA,osf.io/nav9h,yes,NA
+a001469,yes,NA,yes,NA,yes,NA,osf.io/fhegd,yes,NA,osf.io/fhegd,yes,NA
+a001470,yes,NA,yes,NA,yes,NA,osf.io/waeqn,yes,NA,osf.io/waeqn,yes,NA
+a001471,yes,NA,yes,NA,yes,NA,osf.io/92vsw/?view_only=f2b4c79786d9406fa75e7b54bc298eb4,yes,NA,osf.io/92vsw/?view_only=f2b4c79786d9406fa75e7b54bc298eb4,yes,NA
+a001472,yes,NA,yes,NA,yes,NA,openneuro.org/datasets/ds001838/versions/1.0.0,yes,NA,openneuro.org/datasets/ds001838/versions/1.0.0,other,"The link was to version 1.0.0, but there was a revised version (1.0.1) that added a DOI - no other changes it seemed. Looked at the updated version."
+a001472,yes,NA,yes,NA,yes,NA,osf.io/buqcm,yes,NA,osf.io/buqcm,yes,NA
+a001475,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/PB8X8P,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PB8X8P,yes,NA
+a001476,yes,NA,yes,NA,yes,NA,figshare.com/s/0bfe19464337b17fb326,yes,NA,figshare.com/s/0bfe19464337b17fb326,yes,NA
+a001476,yes,NA,yes,NA,yes,NA,forscenter.ch/en/our-surveys/swiss-household-panel,other,"Link as provided results in a 404 error, but the links on the website make it very easy to find the updated location of the data (link via https://forscenter.ch/projects/swiss-household-panel/)",forsbase.unil.ch/project/study-public-overview/16970/0,other,Files require an account login to access
+a001476,yes,NA,yes,NA,yes,NA,www.worldvaluessurvey.org,yes,NA,www.worldvaluessurvey.org/wvs.jsp,other,"The link is the project homepage, had to follow links to find some files to access (and it is not clear which files are relevant). Also, need to agree with terms of use before downloading (but no registration/approval required per se)."
+a001477,yes,NA,yes,NA,yes,NA,osf.io/wqnnx,yes,NA,osf.io/wqnnx,yes,NA
+a001480,yes,NA,yes,NA,yes,NA,osf.io/qtb5u,yes,NA,osf.io/qtb5u,yes,NA
+a001481,yes,NA,yes,NA,yes,NA,zenodo.org/record/1217215,yes,NA,zenodo.org/record/1217215,yes,NA
+a001482,yes,NA,yes,NA,yes,NA,osf.io/7h6cy,yes,NA,osf.io/7h6cy,yes,NA
+a001485,yes,NA,no,NA,yes,NA,osf.io/xrk6j,yes,NA,osf.io/xrk6j,yes,NA
+a001486,yes,NA,yes,NA,yes,NA,osf.io/64nzg,yes,NA,osf.io/64nzg,yes,NA
+a001487,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/LNUYXZ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LNUYXZ,yes,NA
+a001488,yes,NA,yes,NA,yes,NA,osf.io/b4cqm,yes,NA,osf.io/b4cqm,yes,NA
+a001489,yes,NA,yes,NA,yes,NA,osf.io/akbfj,yes,NA,osf.io/akbfj,yes,NA
+a001489,yes,NA,yes,NA,yes,NA,osf.io/kd8b3,yes,NA,osf.io/kd8b3,yes,NA
+a001490,yes,NA,yes,NA,yes,NA,osf.io,other,"It looks like the unique ID was left out of the url (possibly an editing error) - however, looking at the declaration reveals the intended link to data",osf.io/m75da,yes,NA
+a001493,yes,NA,yes,NA,yes,NA,hrs.isr.umich.edu/documentation?_ga=2.27770172.1038497410.1542961645-2121603621.1539110961,yes,NA,hrs.isr.umich.edu/documentation?_ga=2.27770172.1038497410.1542961645-2121603621.1539110961,other,This is an explicit metadata/data documentation resource
+a001493,yes,NA,yes,NA,yes,NA,hrsonline.isr.umich.edu/index.php?p=avail&_ga=2.193912365.1038497410.1542961645-2121603621.1539110961,yes,NA,hrsonline.isr.umich.edu/index.php?p=avail&_ga=2.193912365.1038497410.1542961645-2121603621.1539110961,other,Registration is required to access files
+a001493,yes,NA,yes,NA,yes,NA,osf.io/pn3vt,yes,NA,osf.io/pn3vt,yes,NA
+a001495,yes,NA,yes,NA,yes,NA,osf.io/5zimh,yes,NA,osf.io/5zimh,yes,NA
+a001496,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/SRPTCV,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SRPTCV,yes,NA
+a001497,yes,NA,yes,NA,yes,NA,osf.io/fitgz,yes,NA,osf.io/fitgz,yes,NA
+a001499,yes,NA,yes,NA,yes,NA,osf.io/6b4ag,yes,NA,osf.io/6b4ag,yes,NA
+a001500,yes,NA,yes,NA,yes,NA,osf.io/mpf64,yes,NA,osf.io/mpf64,yes,NA
+a001501,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/DEMP8Q,other,DOI not found; data found by searching Harvard Dataverse by author name,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NMJ4W9,yes,NA
+a001502,yes,NA,yes,NA,yes,NA,osf.io/c6wm5,yes,NA,osf.io/c6wm5,yes,NA
+a001504,yes,NA,yes,NA,yes,NA,osf.io/djzh3,yes,NA,osf.io/djzh3,yes,NA
+a001505,yes,NA,yes,NA,yes,NA,osf.io/5t6fs,yes,NA,osf.io/5t6fs,yes,NA
+a001506,yes,NA,yes,NA,yes,NA,osf.io/zg2su/files,yes,NA,osf.io/zg2su/files,yes,NA
+a001507,yes,NA,yes,NA,yes,NA,osf.io/b69g8,yes,NA,osf.io/b69g8,yes,NA
+a001509,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/GTXZ4J,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GTXZ4J,yes,NA
+a001511,yes,NA,yes,NA,yes,NA,osf.io/jqug4,yes,NA,osf.io/jqug4,yes,NA
+a001512,yes,NA,yes,NA,yes,NA,ti-nyurl.com/zvgu6hh,other,"hyphen introduced into url by line break. Clicking link directly results in an error. Once removed, link works as expected",osf.io/v8kpt/?view_only=c0217f1a298d442e92bb98bbc39465e8,yes,NA
+a001512,yes,NA,yes,NA,yes,NA,tinyurl.com/hwmo9t6,yes,NA,osf.io/f7qbp/?view_only=d03edf108c9f424ba7ba1066929a9400,yes,NA
+a001514,yes,NA,yes,NA,yes,NA,osf.io/4UBJ8,yes,NA,osf.io/4UBJ8,yes,NA
+a001514,yes,NA,yes,NA,yes,NA,osf.io/j479p,yes,NA,osf.io/j479p,yes,NA
+a001515,yes,NA,yes,NA,yes,NA,osf.io/w38qr,yes,NA,osf.io/w38qr,yes,NA
+a001516,yes,NA,yes,NA,yes,NA,osf.io/ideta,yes,NA,osf.io/ideta,yes,NA
+a001517,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/YUM3K8,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUM3K8,yes,NA
+a001518,yes,NA,yes,NA,yes,NA,osf.io/fhmyb,yes,NA,osf.io/fhmyb,yes,NA
+a001519,yes,NA,yes,NA,yes,NA,osf.io/b9pkj,yes,NA,osf.io/b9pkj,yes,NA
+a001520,yes,NA,yes,NA,yes,NA,osf.io/84xut,yes,NA,osf.io/84xut,yes,NA
+a001522,yes,NA,yes,NA,yes,NA,osf.io/ws3j9,yes,NA,osf.io/ws3j9,yes,NA
+a001523,yes,NA,yes,NA,yes,NA,osf.io/5bpr7,yes,NA,osf.io/5bpr7,yes,NA
+a001524,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XRJ43D,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XRJ43D,yes,NA
+a001525,yes,NA,yes,NA,yes,NA,osf.io/d2wur,yes,NA,osf.io/d2wur,yes,NA
+a001525,yes,NA,yes,NA,yes,NA,osf.io/yjer4,yes,NA,osf.io/yjer4,yes,NA
+a001527,yes,NA,yes,NA,yes,NA,osf.io/x7kma,yes,NA,osf.io/x7kma,yes,NA
+a001528,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/VJLVYU,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VJLVYU,yes,NA
+a001529,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/B9SCDJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B9SCDJ,yes,NA
+a001531,yes,NA,yes,NA,yes,NA,osf.io/3hm4g,yes,NA,osf.io/3hm4g,yes,NA
+a001534,yes,NA,yes,NA,yes,NA,osf.io/aqkgt,yes,NA,osf.io/aqkgt,yes,NA
+a001536,yes,NA,yes,NA,yes,NA,osf.io/5ahzj,yes,NA,osf.io/5ahzj,yes,NA
+a001538,yes,NA,yes,NA,yes,NA,osf.io/ygzx3,yes,NA,osf.io/ygzx3,yes,NA
+a001539,yes,NA,yes,NA,yes,NA,github.com/BlackHershey/blink-TS,yes,NA,github.com/BlackHershey/blink-TS,yes,NA
+a001544,yes,NA,yes,NA,yes,NA,osf.io/jp8ew,yes,NA,osf.io/jp8ew,yes,NA
+a001545,yes,NA,yes,NA,yes,NA,journals.sagepub.com/doi/suppl/10.1177/0956797618761661,yes,NA,journals.sagepub.com/doi/suppl/10.1177/0956797618761661,yes,NA
+a001545,yes,NA,yes,NA,yes,NA,nces.ed.gov/ecls/dataproducts.asp,yes,NA,nces.ed.gov/ecls/dataproducts.asp,yes,NA
+a001545,yes,NA,yes,NA,yes,NA,www.icpsr.umich.edu/icpsrweb/ICPSR/series/00233,yes,NA,www.icpsr.umich.edu/web/ICPSR/series/00233,other,Permission required to access data files
+a001547,yes,NA,yes,NA,yes,NA,osf.io/s92i4,yes,NA,osf.io/s92i4,yes,NA
+a001548,yes,NA,yes,NA,yes,NA,doi.org/10.11922/sciencedb.642,no,Redirect loop,NA,NA,NA
+a001551,yes,NA,yes,NA,yes,NA,osf.io/dnxfz,yes,NA,osf.io/dnxfz,yes,NA
+a001554,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/Y43XZR,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y43XZR,yes,NA
+a001556,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/WPVSMH,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPVSMH,yes,NA
+a001558,yes,NA,yes,NA,yes,NA,osf.io/4awze,yes,NA,osf.io/4awze,yes,NA
+a001559,yes,NA,yes,NA,yes,NA,doi.org/10.17605/osf.io/rq4fv,yes,NA,osf.io/rq4fv,yes,NA
+a001560,yes,NA,other,"No explit statement mentioning data, but contains the following (and link does contain data files): All stud-
+ies were preregistered at the Open Science Framework and materials, power calculations, and hypotheses can be found at https://osf.io/nrbjz/",yes,NA,osf.io/nrbjz,yes,NA,osf.io/nrbjz,yes,NA
+a001561,yes,NA,yes,NA,yes,NA,dx.doi:10.7910/DVN/RSD5BV,other,"The url as provided is malformed, fixing the url was easy ("":"" becomes "".org/""). Once fixed, the url resolved.",dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSD5BV,yes,NA
+a001563,yes,NA,yes,NA,yes,NA,osf.io/9uxve,yes,NA,osf.io/9uxve,yes,NA
+a001564,yes,NA,yes,NA,yes,NA,osf.io/n9sd6,yes,NA,osf.io/n9sd6,yes,NA
+a001565,yes,NA,yes,NA,yes,NA,osf.io/kvb99,yes,NA,osf.io/kvb99,yes,NA
+a001567,yes,NA,yes,NA,yes,NA,osf.io/6csnh,yes,NA,osf.io/6csnh,yes,NA
+a001568,yes,NA,yes,NA,yes,NA,figshare.com/articles/The_Road_to_Bribery_and_Corruption/3849237,yes,NA,figshare.com/articles/The_Road_to_Bribery_and_Corruption/3849237,yes,NA
+a001571,yes,NA,yes,NA,yes,NA,osf.io/4ef6t/?view_only=b6f868173bd14b81ad8e9bb73b71014d,yes,NA,osf.io/4ef6t/?view_only=b6f868173bd14b81ad8e9bb73b71014d,yes,NA
+a001572,yes,NA,yes,NA,yes,NA,osf.io/vq49b,yes,NA,osf.io/vq49b,yes,NA
+a001573,yes,NA,yes,NA,yes,NA,osf.io/8g5fy,yes,NA,osf.io/8g5fy,yes,NA
+a001576,yes,NA,yes,NA,yes,NA,osf.io/vq4ak,yes,NA,osf.io/vq4ak,yes,NA
+a001577,yes,NA,yes,NA,yes,NA,github.com/martinjpratt/ZoomAntarctica,yes,NA,github.com/martinjpratt/ZoomAntarctica,yes,NA
+a001577,yes,NA,yes,NA,yes,NA,www.usap-dc.org/view/project/p0010035,yes,NA,www.usap-dc.org/view/project/p0010035,yes,NA
+a001578,yes,NA,yes,NA,yes,NA,osf.io/8cktf,yes,NA,osf.io/8cktf,yes,NA
+a001579,yes,NA,yes,NA,yes,NA,osf.io/s4z32,yes,NA,osf.io/s4z32,yes,NA
+a001582,yes,NA,yes,NA,yes,NA,osf.io/kcp9z,yes,NA,osf.io/kcp9z,yes,NA
+a001583,yes,NA,yes,NA,yes,NA,osf.io/wxc7b,yes,NA,osf.io/wxc7b,yes,NA
+a001584,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/8KNF3I,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8KNF3I,yes,NA
+a001585,yes,NA,yes,NA,yes,NA,osf.io/3z8xa,yes,NA,osf.io/3z8xa,yes,NA
+a001586,yes,NA,yes,NA,yes,NA,osf.io/4e7hr,yes,NA,osf.io/4e7hr,yes,NA
+a001589,yes,NA,yes,NA,yes,NA,osf.io/knv6e/?view_only=00a0fed2ca434490ba087c12031239b0,yes,NA,osf.io/knv6e/?view_only=00a0fed2ca434490ba087c12031239b0,yes,NA
+a001590,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/XZFHCP,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XZFHCP,yes,NA
+a001591,yes,NA,yes,NA,yes,NA,osf.io/5vy69/?view_only=23a8c0762ef64333b1eb605010d68934,yes,NA,osf.io/5vy69/?view_only=23a8c0762ef64333b1eb605010d68934,yes,NA
+a001593,yes,NA,yes,NA,yes,NA,osf.io/4tzv3,yes,NA,osf.io/4tzv3,yes,NA
+a001594,yes,NA,yes,NA,yes,NA,osf.io/nkgza,yes,NA,osf.io/nkgza,yes,NA
+a001596,yes,NA,yes,NA,yes,NA,osf.io/tsyrj,yes,NA,osf.io/tsyrj,yes,NA
+a001597,yes,NA,yes,NA,yes,NA,osf.io/bjpe3,yes,NA,osf.io/bjpe3,yes,NA
+a001598,yes,NA,yes,NA,yes,NA,osf.io/yn5u8,yes,NA,osf.io/yn5u8,yes,NA
+a001599,yes,NA,yes,NA,yes,NA,doi.org/10.6078/M7CR5R8Z,yes,NA,opencontext.org/projects/23696274-1f6d-44ca-9697-36b9d5e3fe5d,yes,NA
+a001601,yes,NA,yes,NA,yes,NA,osf.io/cjmr7/?view_only=61020c728b0845f7ac94c9d65ae9b6e3,yes,NA,osf.io/cjmr7/?view_only=61020c728b0845f7ac94c9d65ae9b6e3,yes,NA
+a001602,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/PGGBB4,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGGBB4,yes,NA
+a001603,yes,NA,yes,NA,yes,NA,osf.io/e652h,yes,NA,osf.io/e652h,yes,NA
+a001604,yes,NA,yes,NA,yes,NA,data.mendeley.com/datasets/wynh7zs2rg/1,yes,NA,data.mendeley.com/datasets/wynh7zs2rg/1,yes,NA
+a001605,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/STOQ1Q,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STOQ1Q,yes,NA
+a001606,yes,NA,yes,NA,yes,NA,osf.io/d2ytu,yes,NA,osf.io/d2ytu,yes,NA
+a001607,yes,NA,yes,NA,yes,NA,osf.io/bx59f,yes,NA,osf.io/bx59f,yes,NA
+a001608,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/BZ9Z2D,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BZ9Z2D,yes,NA
+a001609,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/AGIMGY,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AGIMGY,yes,NA
+a001610,yes,NA,yes,NA,yes,NA,osf.io/8cwgx,yes,NA,osf.io/8cwgx,yes,NA
+a001611,yes,NA,yes,NA,yes,NA,osf.io/bdnqr,other,Link auto redirects to GitHub page,crumplab.github.io/EntropyTyping,yes,NA
+a001613,yes,NA,yes,NA,yes,NA,osf.io/4m2bq,yes,NA,osf.io/4m2bq,yes,NA
+a001614,yes,NA,yes,NA,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MVGYWG,no,Asks for a login,NA,NA,NA
+a001615,yes,NA,yes,NA,yes,NA,osf.io/vj9ts,yes,NA,osf.io/vj9ts,yes,NA
+a001618,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/8ZJBLI,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8ZJBLI,yes,NA
+a001619,yes,NA,yes,NA,yes,NA,osf.io/stv79,yes,NA,osf.io/stv79,yes,NA
+a001621,yes,NA,yes,NA,yes,NA,dx.doi.org/10.6084/m9.figshare.c.3468495.v2,yes,NA,figshare.com/collections/Mental_Representations_of_Welfare_Recipients/3468495/2,yes,NA
+a001622,yes,NA,yes,NA,yes,NA,osf.io/yiupc,yes,NA,osf.io/yiupc,yes,NA
+a001623,yes,NA,yes,NA,yes,NA,osf.io/vjwsg,yes,NA,osf.io/vjwsg,yes,NA
+a001624,yes,NA,yes,NA,yes,NA,osf.io/xqvkb,yes,NA,osf.io/xqvkb,yes,NA
+a001627,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/QSXDUN,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSXDUN,yes,NA
+a001628,yes,NA,yes,NA,yes,NA,osf.io/7gy85,yes,NA,osf.io/7gy85,yes,NA
+a001628,yes,NA,yes,NA,yes,NA,osf.io/bxj9d,yes,NA,osf.io/bxj9d,yes,NA
+a001633,yes,NA,yes,NA,yes,NA,osf.io/xz3ap,yes,NA,osf.io/xz3ap,yes,NA
+a001634,yes,NA,yes,NA,yes,NA,hrsonline.isr.umich.edu,yes,NA,hrsonline.isr.umich.edu,other,Registration is required to access files
+a001634,yes,NA,yes,NA,yes,NA,midus.colectica.org,yes,NA,midus.colectica.org/Account/Login,other,"Login required, no indication of whether files available"
+a001635,yes,NA,yes,NA,yes,NA,osf.io/psfwz,yes,NA,osf.io/psfwz,yes,NA
+a001637,yes,NA,yes,NA,yes,NA,doi.org/10.7910/DVN/KYI9AR,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KYI9AR,yes,NA
+a001639,yes,NA,yes,NA,yes,NA,osf.io/hekts,yes,NA,osf.io/hekts,yes,NA
+a001640,yes,NA,yes,NA,yes,NA,osf.io/t43sb,yes,NA,osf.io/t43sb,yes,NA
+a001641,yes,NA,yes,NA,yes,NA,osf.io/2xg9u,yes,NA,osf.io/2xg9u,yes,NA
+a001642,yes,NA,yes,NA,yes,NA,osf.io/nquws/files,yes,NA,osf.io/nquws/files,yes,NA
+a001644,yes,NA,yes,NA,yes,NA,osf.io/f54qe,yes,NA,osf.io/f54qe,yes,NA
+a001645,yes,NA,yes,NA,yes,NA,osf.io/bpwf8,yes,NA,osf.io/bpwf8,yes,NA
+a001646,yes,NA,yes,NA,yes,NA,osf.io/83v4u,yes,NA,osf.io/83v4u,yes,NA
+a001647,yes,NA,yes,NA,yes,NA,osf.io/vhcu8,yes,NA,osf.io/vhcu8,yes,NA
+a001648,yes,NA,yes,NA,yes,NA,osf.io/2qncf,yes,NA,osf.io/2qncf,yes,NA
+a001649,yes,NA,yes,NA,yes,NA,osf.io/5qd94,yes,NA,osf.io/5qd94,yes,NA
+a001651,yes,NA,yes,NA,yes,NA,osf.io/mw3rb,yes,NA,osf.io/mw3rb,yes,NA
+a001653,yes,NA,yes,NA,yes,NA,osf.io/5t0b7,yes,NA,osf.io/5t0b7,yes,NA
+a001654,yes,NA,yes,NA,yes,NA,figshare.com/articles/Mapping_the_Structure_of_the_Archaeological_Web/1008911,yes,NA,figshare.com/articles/Mapping_the_Structure_of_the_Archaeological_Web/1008911,yes,NA
+a001655,yes,NA,yes,NA,yes,NA,osf.io/2cv4x/?view_only=d192b6df6a7b4c1ea49d19e819330f80,yes,NA,osf.io/2cv4x/?view_only=d192b6df6a7b4c1ea49d19e819330f80,yes,NA
+a001658,yes,NA,yes,NA,yes,NA,dx.doi.org/10.17605/OSF.IO/MGBVC,yes,NA,osf.io/mgbvc,yes,NA
+a001659,yes,NA,yes,NA,yes,NA,osf.io/yedsz,yes,NA,osf.io/yedsz,yes,NA
+a001660,yes,NA,yes,NA,yes,NA,osf.io/nqas7,yes,NA,osf.io/nqas7,yes,NA
+a001661,yes,NA,yes,NA,yes,NA,dx.doi.org/10.7910/DVN/WPKTKJ,yes,NA,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPKTKJ,yes,NA
+a001662,yes,NA,yes,NA,yes,NA,osf.io/qwy4b,yes,NA,osf.io/qwy4b,yes,NA
+a001663,yes,NA,yes,NA,yes,NA,osf.io/ceqth,yes,NA,osf.io/ceqth,yes,NA

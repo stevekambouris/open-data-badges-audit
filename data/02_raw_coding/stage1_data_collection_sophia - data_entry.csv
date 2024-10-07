@@ -1,0 +1,440 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+demo01,steve,2020-04-02,yes,,yes,,yes,,1,1,http://tiny.cc/l4wacz,yes,,https://osf.io/g3h52/?view_only=None,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+demo02,steve,2020-04-02,yes,,yes,,yes,,1,1,osf.io/uh3in,yes,,https://osf.io/uh3in/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro01,Sophia,2020-04-02,yes,,yes,,yes,,1,1,https://osf.io/n6pfz,yes,,https://osf.io/n6pfz/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data. There were two mentions to the data, but had the same URL."
+intro02,Sophia,2020-04-02,yes,,yes,,yes,,1,1,https://nyu.databrary.org/volume/79,yes,,https://nyu.databrary.org/volume/79,yes,,Databrary,yes,,no,Lead to a page whih said 'something went wrong',"There was a link to ""supplementary data"" at the journal's website. "
+intro03,Sophia,2020-04-02,yes,,yes,,yes,,1,1,https://osf.io/9w8pg/,yes,,https://osf.io/9w8pg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro04,Sophia,2020-04-02,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5061/dryad.d2441,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,,Dryad,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+intro05,Sophia,2020-04-02,yes,,yes,,yes,,1,1,http://thedata.harvard.edu/dvn/dv/PainData,yes,,https://dataverse.harvard.edu/dataverse/PainData,yes,,Harvard Dataverse Network,yes,,yes,,"I had to click on a second link to get the specific data for this paper. There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data."
+intro06,Sophia,2020-04-02,yes,,other,The statement refers to all 'coded' data,yes,,1,1,osf.io/zw6jg/,yes,,https://osf.io/zw6jg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro07,Sophia,2020-04-02,yes,,yes,,yes,,1,1,osf.io/8jxsr/,yes,,https://osf.io/8jxsr/,yes,,OSF,yes,,other,"was able to download the data and programs files, but the raw data file was too big","There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+intro08,Sophia,2020-04-02,yes,,yes,,yes,,2,1,http://doi.org/10.3886/ICPSR04652.v6,yes,,https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4652/version/6,yes,,National Archive of Computerized Data on Aging,yes,,other,the website offered different types of file download - I selected 'documentation only' option,the data was updated in the archive since use within the article. 
+intro08,Sophia,2020-04-02,yes,,yes,,yes,,2,2,http://midus.colectica.org/,yes,,https://midus.colectica.org/Account/Login,other,needed a login - don't know,,other,needed a login - don't know,no,,needed a login
+intro09,Sophia,2020-04-02,yes,,yes,,yes,,1,1,https://osf.io/xehfu/,yes,,https://osf.io/xehfu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro10,Sophia,2020-04-02,yes,,yes,,yes,,1,1,http://pisa2006.acer.edu.au/downloads.php,no,Site cannot be reached' warning,http://pisa2006.acer.edu.au/downloads.php,no,,,no,,no,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000001,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/d2jwb,yes,,https://osf.io/d2jwb,yes,,OSF,no,,no,,OSF page was empty
+a000005,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/h7av3/?view_only=64a45a1b7def4d95b1231e35df6a2c78,yes,,https://osf.io/h7av3/?view_only=64a45a1b7def4d95b1231e35df6a2c78,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000081,Sophia,2020-04-04,yes,,yes,,yes,,4,1,https://osf.io/x7pgq/,yes,,https://osf.io/x7pgq/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000081,Sophia,2020-04-04,yes,,yes,,yes,,4,2,https://osf.io/q9jy3/,yes,,https://osf.io/q9jy3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000081,Sophia,2020-04-04,yes,,yes,,yes,,4,3,https://osf.io/cdev3/,yes,,https://osf.io/cdev3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000081,Sophia,2020-04-04,yes,,yes,,yes,,4,4,https://osf.io/uj2dr/,yes,,https://osf.io/uj2dr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000109,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/2ckz9/,yes,,https://osf.io/2ckz9/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000139,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/vsnj3/,yes,,https://osf.io/vsnj3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000158,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://doi.org/10.17632/yrpjzfmzpz.3,yes,,https://data.mendeley.com/datasets/yrpjzfmzpz/3,yes,,Mendeley,yes,,yes,,I didn't have any problems with this article
+a000159,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/t6gwf/,yes,,https://osf.io/t6gwf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000214,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/8aw9r/,yes,,https://osf.io/8aw9r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000244,Sophia,2020-04-04,yes,,no,,no,,0,,,,,,,,,,,,,Couldn't find any references to open data
+a000294,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/fpsu8/,yes,,https://osf.io/fpsu8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000358,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/dpsyz/?view_only1⁄4a256f1d6e5fb4d97adac2147f58811ae,yes,,https://osf.io/dpsyz/?view_only=a256f1d6e5fb4d97adac2147f58811ae,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000362,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/rh9x6/?view_only=65ae8ed424e84dfda8594efa5b3aa714,yes,,https://osf.io/rh9x6/?view_only=65ae8ed424e84dfda8594efa5b3aa714,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000377,Sophia,2020-04-04,yes,,yes,,yes,,2,1,https://osf.io/fwt65/,yes,,https://osf.io/fwt65/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000377,Sophia,2020-04-04,yes,,yes,,yes,,2,2,https://osf.io/da56v/,yes,,https://osf.io/da56v/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000410,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/xf7rn/,yes,,https://osf.io/xf7rn/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000544,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://data.mendeley.com/datasets/48jhxswdrv/draft?a=037ef882-2002-45e8-88ad-f8ee8e7bea37,yes,,https://data.mendeley.com/datasets/48jhxswdrv/draft?a=037ef882-2002-45e8-88ad-f8ee8e7bea37,yes,,Mendeley,yes,,yes,,I didn't have any problems with this article
+a000569,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/vh5jt,yes,,https://osf.io/vh5jt,yes,,OSF,no,,no,,OSF page was empty
+a000687,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/WCJSF,yes,,https://osf.io/wcjsf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000724,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/OKZMIY,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OKZMIY,yes,,Harvard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000757,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://osf.io/rwuya/?view_only=6e25d904b89c463992ceb267477cb5a0,yes,,https://osf.io/rwuya/?view_only=6e25d904b89c463992ceb267477cb5a0,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000904,Sophia,2020-04-04,yes,,yes,,yes,,1,1,https://dataverse.nl/dataverse/chemosignaling,yes,,https://dataverse.nl/dataverse/chemosignaling,yes,,Dutch Dataverse Network,yes,,no,File was over 100MB and three of the files were not able to be accessed without permission.,
+a000948,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/677jr/,yes,,https://osf.io/677jr/,yes,,OSF,yes,,yes,,"The data file was a pdf with graphs but no raw data. Other than that, I didn't have any problems with this article."
+a000992,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/873fp/,yes,,https://osf.io/873fp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001015,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/9e5au/,yes,,https://osf.io/9e5au,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001051,Sophia,2020-04-05,yes,,other,has a reference and link to supplementary data,yes,,1,1,https://doi.org/10.1016/j.jesp.2019.03.007,yes,,https://www.sciencedirect.com/science/article/abs/pii/S0022103118304426?via%3Dihub,yes,,Science Direct,no,,no,,"The link to supplementary data leads to a short article, which didn't link to any other sites that seemed to contain data. "
+a001058,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/8wtae/,yes,,https://osf.io/8wtae/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001072,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/pe5d7/,yes,,https://osf.io/pe5d7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001091,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/tu3nm/,yes,,https://osf.io/tu3nm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001110,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/pfh6r/,yes,,https://osf.io/pfh6r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001125,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://www.elsevier.com/journals/journal-of-experimental-social-psychology/0022-1031/guide-for-authors,yes,,https://www.elsevier.com/journals/journal-of-experimental-social-psychology/0022-1031/guide-for-authors,yes,,Elsevier,no,lead to a information page for authors,no,,no links
+a001154,Sophia,2020-04-05,yes,,other,states that all data required could be found on the American Journal of Political Science network in the Harvard Dataverse Network,no,,0,,,,,,,,,,,,,no links
+a001183,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/3nkeh/,yes,,https://osf.io/3nkeh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001190,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/98ta4/,yes,,https://osf.io/98ta4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001349,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/rjdpc/,yes,,https://osf.io/rjdpc,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001385,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/84zg3/,yes,,https://osf.io/84zg3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001416,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/24kvu/,yes,,https://osf.io/24kvu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001443,Sophia,2020-04-05,yes,,yes,,yes,,2,1,https://osf.io/7b9au/,yes,,https://osf.io/7b9au/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001443,Sophia,2020-04-05,yes,,yes,,yes,,2,2,https://doi.org/10.17863/CAM.7153,yes,,https://www.repository.cam.ac.uk/handle/1810/261918,yes,,"Apollo, University of Cambridge",yes,,yes,,I didn't have any problems with this article
+a001450,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/u9tk8/,yes,,https://osf.io/u9tk8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001476,Sophia,2020-04-05,yes,,yes,,yes,,2,1,http://www.worldvaluessurvey.org/,yes,,http://www.worldvaluessurvey.org/wvs.jsp,yes,,World Values Survey,no,links to the general homepage for the repository,,,links to the general homepage for the repository
+a001476,Sophia,2020-04-05,yes,,yes,,yes,,2,2,https://forscenter.ch/en/our-surveys/swiss-household-panel/,no,error 404',,,,,,,,,
+a001607,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/bx59f/,yes,,https://osf.io/bx59f/,yes,,OSF,yes,,yes,,links to the general homepage for the repository
+a001659,Sophia,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/yedsz/,yes,,https://osf.io/yedsz/,yes,,OSF,yes,,other,"I was able to download 2 out of the three files, the third was over 200MB",I didn't have any problems with this article
+a000239,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/I4KVD1,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I4KVD1,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000259,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/SZ9YXZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZ9YXZ,yes,,Harvard Dataverse Network,yes,,yes,,"4 out of the 12 files required permission to access. Otherwise, I didn't have problems with this article."
+a000287,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/fctr8/,yes,,https://osf.io/fctr8/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000301,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/6n894/,yes,,https://osf.io/6n894/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000311,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/du5jc/,yes,,https://osf.io/du5jc/,yes,,OSF,yes,,no,files over 100MB,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000341,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/d6hms/,yes,,https://osf.io/d6hms/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000347,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/ha28n/,yes,,https://osf.io/ha28n/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000371,Sophia,2020-04-07,yes,,yes,,no,article says all data is available on the American Journal of Political Science on the Harvard Dataverse Network,,,,,,,,,,,,,,article says all data is available on the American Journal of Political Science on the Harvard Dataverse Network
+a000429,Sophia,2020-04-07,yes,,yes,,yes,,2,1,http://reshare.ukdataservice.ac.uk/852716/,yes,,http://reshare.ukdataservice.ac.uk/852716/,yes,,UK Data Service,yes,,no,required a sign in,required a sign in
+a000429,Sophia,2020-04-07,yes,,yes,,yes,,2,2,https://osf.io/4d3b9,yes,,https://osf.io/4d3b9,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000471,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/5ka94/?view_only=15c365b391ed4e4d9d38c811ea359392,yes,,https://osf.io/5ka94/?view_only=15c365b391ed4e4d9d38c811ea359392,yes,,OSF,yes,,yes,,"There were mutilple links to research materials, and one link for research data."
+a000490,Sophia,2020-04-07,yes,,yes,,yes,,2,1,https://osf.io/gsv84/,yes,,https://osf.io/gsv84/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000490,Sophia,2020-04-07,yes,,yes,,yes,,2,2,https://osf.io/24mej/,yes,,https://osf.io/24mej/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000541,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/zqg9y/,yes,,https://osf.io/zqg9y/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000567,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/fnps3,yes,,https://osf.io/fnps3,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000568,Sophia,2020-04-07,yes,,yes,,yes,,1,1,http://hdl.handle.net/10871/19257,yes,,https://ore.exeter.ac.uk/repository/handle/10871/19257,yes,,Open Research Exeter,yes,,yes,,I didn't have any problems with this article
+a000578,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/8bknh/,yes,,https://osf.io/8bknh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000614,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/bktjs/,yes,,https://osf.io/bktjs/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000625,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYA1S2,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000628,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/4qbxv,yes,,https://osf.io/4qbxv,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000665,Sophia,2020-04-07,yes,,yes,,yes,,3,1,https://osf.io/heun6/,yes,,https://osf.io/heun6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000665,Sophia,2020-04-07,yes,,yes,,yes,,3,2,https://osf.io/8sxgu/,yes,,https://osf.io/8sxgu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000665,Sophia,2020-04-07,yes,,yes,,yes,,3,3,https://osf.io/p5fta/,yes,,https://osf.io/p5fta/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000672,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/73puw/,yes,,https://osf.io/73puw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000740,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/vyibm/files/,yes,,https://osf.io/vyibm/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000759,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/my6te/?view_only=3b4129763e4f4de58ef783a85ae30842,yes,,https://osf.io/my6te/?view_only=22333945e4824ca196f4aee4a31ba925,yes,,OSF,yes,,other,"only was able to download the first zip file, the second was greater than 100MB",I didn't have any problems with this article
+a000760,Sophia,2020-04-07,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/PGXO5O,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGXO5O,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000767,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/ftsrd/,yes,,https://osf.io/ftsrd/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000851,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://www.iris-database.org/iris/app/home/detail?id=york:936220&amp;ref=search/,yes,,https://www.iris-database.org/iris/app/home/detail?id=york:936220&amp;ref=search/,yes,,IRIS,yes,,yes,,I didn't have any problems with this article
+a000971,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/nkfjy/,yes,,https://osf.io/nkfjy/,yes,,OSF,yes,,no,files were over 500MB,I didn't have any problems with this article
+a000980,Sophia,2020-04-08,yes,,no,couldn't find any reference to open data,,,,,,,,,,,,,,,,
+a001069,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/m3neh/,yes,,https://osf.io/m3neh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001094,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/fpdbh/%2013Identifiers,no,"""page not found""",,,,,,,,,
+a001173,Sophia,2020-04-08,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/S9MIJU,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S9MIJU,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001215,Sophia,2020-04-08,yes,,yes,,yes,,2,1,https://osf.io/gwk45/,yes,,https://osf.io/gwk45/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001215,Sophia,2020-04-08,yes,,yes,,yes,,2,2,https://www.iris-database.org/iris/app/home/index,yes,,https://www.iris-database.org/iris/app/home/index,yes,,IRIS,no,links to the general IRIS homepage,,,
+a001250,Sophia,2020-04-08,yes,,yes,,yes,,2,1,https://dbk.gesis.org/DBKSearch/SDesc2asp?no=6701,no,404 Not found',,,,,,,,,
+a001250,Sophia,2020-04-08,yes,,yes,,yes,,2,2,https://osf.io/wk9rp/,yes,,https://osf.io/wk9rp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001326,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/5tus8/,yes,,https://osf.io/5tus8/,yes,,OSF,yes,,no,files were much over 100MB,I didn't have any problems with this article
+a001355,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/b3epc/,yes,,https://osf.io/b3epc/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001360,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/e3afr/,yes,,https://osf.io/e3afr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001454,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/mrt8f/,yes,,https://osf.io/mrt8f/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a001467,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/ng9k8/,yes,,https://osf.io/ng9k8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001515,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/w38qr,yes,,https://osf.io/w38qr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001579,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/s4z32/,yes,,https://osf.io/s4z32/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001651,Sophia,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/mw3rb/,yes,,https://osf.io/mw3rb/,yes,,OSF,yes,,other,was able to download 2/3 files. The other was over 100MB.,
+a000043,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/tmdvn/,yes,,https://osf.io/tmdvn/,yes,,OSF,yes,,other,over 100MB,I didn't have any problems with this article
+a000149,Sophia,2020-04-10,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/7TA47E,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7TA47E,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000211,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/8gyns/,yes,,https://osf.io/8gyns/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000212,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/cu8jv/,yes,,https://osf.io/cu8jv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000235,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/8rbvz/,yes,,https://osf.io/8rbvz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000267,Sophia,2020-04-10,yes,,yes,,yes,,1,1,doi:10.7910/DVN/W2HZSO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W2HZSO,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000343,Sophia,2020-04-10,yes,,yes,,yes,,1,1,1https://osf.io/8z2an,yes,,https://osf.io/8z2an,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000345,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/rf3ys/,yes,,https://osf.io/rf3ys/,yes,,OSF,yes,,other,was able to download one zip file but the second was over 100MB,I didn't have any problems with this article
+a000367,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/YM4LDG,no,"""DOI Not Found' error",https://doi.org/10.7910/DVN/YM4LDG,,,,,,,,
+a000391,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://www.iris-database.org/iris/app/home/detail?id=york:934328,yes,,https://www.iris-database.org/iris/app/home/detail?id=york:934328,yes,,IRIS Database,yes,,yes,,I didn't have any problems with this article
+a000392,Sophia,2020-04-10,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/RJAUNW,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RJAUNW,yes,,Harvard Dataverse Network,yes,,other,over 100MB file,I didn't have any problems with this article
+a000447,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/embpx/,yes,,https://osf.io/embpx/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000548,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/cuz8g,yes,,https://osf.io/cuz8g,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000550,Sophia,2020-04-10,yes,,yes,,yes,,1,1,http://dx.doi.org/10.23668/psycharchives.2367,yes,,https://www.psycharchives.org/handle/20.500.12034/1999,yes,,PhyscArchives,yes,,yes,,I didn't have any problems with this article
+a000743,Sophia,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/7ugsk/,yes,,https://osf.io/7ugsk/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000772,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/43fmu/,yes,,https://osf.io/43fmu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000818,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/pnr8s/?view_only=75ef6bf7b5244202a504b9150061157f,yes,,https://osf.io/pnr8s/?view_only=75ef6bf7b5244202a504b9150061157f,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000875,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/yub2m,yes,,https://osf.io/yub2m,yes,,OSF,yes,,yes,,"there was a second link in the article but it led only to the materials and procedures, not the data, and was therefore not included"
+a000900,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/e2yza/,yes,,https://osf.io/e2yza/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000965,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/b6n8t/,yes,,https://accounts.osf.io/login?service=https://osf.io/b6n8t/,yes,,OSF,other,requres an OSF sign in account,,,required an account
+a001035,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/g3dfy/,no,OSF page not found' error,,,,,,,,,page not found
+a001166,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/PGCVDP,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGCVDP,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001168,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/rs32a/?view_only=1b0901ea36124e2998fe5511bee58c02,yes,,https://osf.io/rs32a/?view_only=1b0901ea36124e2998fe5511bee58c02,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001226,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/nzp8t,yes,,https://osf.io/nzp8t,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001321,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/dmbkw/,yes,,https://osf.io/dmbkw,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001374,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/9cndv/,yes,,https://osf.io/9cndv,yes,,OSF,yes,,yes,,"there was a second link in the article but it led only to the materials and procedures, not the data, and was therefore not included"
+a001378,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/cbjps/,yes,,https://osf.io/cbjps,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001388,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/pwy9r/,yes,,https://osf.io/pwy9r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001393,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/s5rfu/,yes,,https://osf.io/s5rfu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001440,Sophia,2020-04-11,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/EBF7XW.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBF7XW,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001458,Sophia,2020-04-11,yes,,yes,,yes,,1,1,http://dx.doi.org/10.23668/psycharchives.790,yes,,https://www.psycharchives.org/handle/20.500.12034/584,yes,,PsychArchives,yes,,yes,,I didn't have any problems with this article
+a001466,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/register/%20https://osf.io/jpbnu/?view_only%20=%202ba7656345b94dacaf1210e8185a5967,no,"""OSF Page not found"" error",,,,,,,,,page not found
+a001502,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/c6wm5/,yes,,https://osf.io/c6wm5/,yes,,OSF,yes,,yes,,"there was a second link in the article but it led only to the materials and procedures, not the data, and was therefore not included"
+a001512,Sophia,2020-04-11,yes,,yes,,yes,,2,1,http://tinyurl.com/hwmo9t6,yes,,https://osf.io/f7qbp/?view_only=d03edf108c9f424ba7ba1066929a9400,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001512,Sophia,2020-04-11,yes,,yes,,yes,,2,2,http://tinyurl.com/zvgu6hh,yes,,https://osf.io/v8kpt/?view_only=c0217f1a298d442e92bb98bbc39465e8,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001559,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://doi.org/10.17605/osf.io/rq4fv,yes,,https://osf.io/rq4fv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001578,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/8cktf/,yes,,https://osf.io/8cktf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001585,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/3z8xa/,yes,,https://osf.io/3z8xa/,yes,,OSF,yes,,other,data was over 100MB,I didn't have any problems with this article
+a001611,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/bdnqr/,yes,,https://osf.io/bdnqr/,yes,,OSF,yes,,yes,,"there was a link to supplementary data, but this was not included"
+a001615,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/vj9ts/,yes,,https://osf.io/vj9ts/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001622,Sophia,2020-04-11,yes,,yes,,yes,,1,1,https://osf.io/yiupc/,yes,,https://osf.io/yiupc/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000061,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/w2xsr/,yes,,https://osf.io/w2xsr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000089,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/3htpj/,yes,,https://osf.io/3htpj/,yes,,OSF,yes,,yes,,"There was a separate link for design and analysis plans, but this was not included. "
+a000127,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/ezqft/,yes,,https://osf.io/ezqft/,yes,,OSF,yes,,yes,,There was a separate link for the materials which was not inlcuded here. 
+a000170,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/23gc4/,yes,,https://osf.io/23gc4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000221,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/syjhd/,yes,,https://osf.io/syjhd/,yes,,OSF,yes,,other,data file over 100MB,I didn't have any problems with this article
+a000238,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/7190MT,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7190MT,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000295,Sophia,2020-04-16,yes,,yes,,yes,,2,1,https://osf.io/57zkv/,yes,,https://osf.io/57zkv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000295,Sophia,2020-04-16,yes,,yes,,yes,,2,2,https://www.iris-database.org,yes,,https://www.iris-database.org/iris/app/home/index;jsessionid=DEF914500691025AF1156FF411BEC760,yes,,IRIS Database,no,This links to the general homepage of the repository,,,I didn't have any problems with this article
+a000298,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/8zeqp/,yes,,https://osf.io/8zeqp/,yes,,OSF,yes,,yes,,There was a separate link for experiment materials which was not included. 
+a000344,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/8dv5z,yes,,https://osf.io/8dv5z,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000433,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/pnvjf/,yes,,https://osf.io/pnvjf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000463,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/t2wby/,yes,,https://osf.io/t2wby/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000489,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/x8q4j/,yes,,https://osf.io/x8q4j,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000491,Sophia,2020-04-16,yes,,yes,,yes,,1,1,1https://osf.io/pzvue/,yes,,https://osf.io/pzvue/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000565,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://github.com/richarddmorey/nullHistoryAMPPS,yes,,https://github.com/richarddmorey/nullHistoryAMPPS,yes,,GitHub,yes,,yes,,I didn't have any problems with this article
+a000734,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/gjt37,yes,,https://osf.io/gjt37,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000778,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/fc8yt/,yes,,https://osf.io/fc8yt,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000789,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/fq7mb/,yes,,https://osf.io/fq7mb/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000850,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/RYNSDG,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RYNSDG,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000901,Sophia,2020-04-16,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/GZA3GY,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GZA3GY,yes,,Harvard Dataverse Network,yes,,other,files over 100MB,I didn't have any problems with this article
+a000902,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/xq28a/,yes,,https://osf.io/xq28a/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000950,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/32tsq/,yes,,https://osf.io/32tsq/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000988,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/n8wg4/?view_only=55de4fda913d450899e95c3052dcf79b,yes,,https://osf.io/n8wg4/?view_only=55de4fda913d450899e95c3052dcf79b,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001020,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/rh8pv/,yes,,https://osf.io/rh8pv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001082,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/m3x2b/,yes,,https://osf.io/m3x2b/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001100,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://madata.bib.uni-mannheim.de/266/,yes,,https://madata.bib.uni-mannheim.de/266/,yes,,Mannheim Research Data Repository,yes,,no,"When I clicked on the files, they opened the data on a blank webpage, but I wasn't able to download the data as a separate file.",
+a001146,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/zhf98/,yes,,https://osf.io/zhf98/,yes,,OSF,yes,,yes,,"There were two other OSF links, but they led to the pre-registration documents. "
+a001195,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://www.iris-database.org/iris/app/home/detail?id=york:934337,yes,,https://www.iris-database.org/iris/app/home/detail?id=york:934337,yes,,IRIS Database,yes,,yes,,I didn't have any problems with this article
+a001211,Sophia,2020-04-16,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/PL2XFD,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PL2XFD,yes,,Harvard Dataverse Network,yes,,other,data files over 100MB,I didn't have any problems with this article
+a001223,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/tde3r/,yes,,https://osf.io/tde3r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001244,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/5cfj6/,yes,,https://osf.io/5cfj6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001261,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/849kq/,yes,,https://osf.io/849kq/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001266,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/QO6EMT,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QO6EMT,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001268,Sophia,2020-04-16,yes,,yes,,no,The statement says that the raw data is available on the Open Science Framework but no links are provided.,,,,,,,,,,,,,,
+a001277,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/45gch/,yes,,https://osf.io/45gch/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001283,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/uk5c7/,yes,,https://osf.io/uk5c7/,yes,,OSF,yes,,yes,,"There is a link for the experiment materials, but this was not included."
+a001344,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/9yxmh/,yes,,https://osf.io/9yxmh/,yes,,OSF,yes,,yes,,"There was also a link to supplementary materials, but this was disregarded."
+a001348,Sophia,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/nr24b/,yes,,https://osf.io/nr24b/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001519,Sophia,2020-04-16,yes,,yes,,yes,,1,1,osf.io/b9pkj/,yes,,https://osf.io/b9pkj,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001605,Sophia,2020-04-16,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/STOQ1Q,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/STOQ1Q,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001634,Sophia,2020-04-16,yes,,yes,,yes,,2,1,http://midus.colectica.org,yes,,https://midus.colectica.org/Account/Login,yes,,Colectica,other,requires a log in,no,,
+a001634,Sophia,2020-04-16,yes,,yes,,yes,,2,2,http://hrsonline.isr.umich.edu/,yes,,http://hrsonline.isr.umich.edu/,other,"Seems to be a website just for the data from the ""Health and Retirement Study"" by the University of Michigan",,other,the link leads to a general homepage for the health and retirement study,no,,
+a000010,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/6yhmp/,yes,,https://osf.io/6yhmp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000031,Sophia,2020-04-17,yes,,yes,,yes,,2,1,http://five.dartmouth.edu/datasets,yes,,http://five.dartmouth.edu/datasets,yes,,FIVES Project,other,requires a log in,,,
+a000031,Sophia,2020-04-17,yes,,yes,,yes,,2,2,https://doi.org/10.25540/3wd8-dffw.,yes,,https://scholarbank.nus.edu.sg/handle/10635/150104,yes,,NUS Libraries,yes,,other,"only allows me to view the files, but not download them",
+a000040,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/fkmbh/,yes,,https://osf.io/fkmbh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000044,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/2pgtj/,yes,,https://osf.io/2pgtj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000054,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/hgcet/,yes,,https://osf.io/hgcet/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000066,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/dtgaa/,yes,,https://osf.io/dtgaa/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000106,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/CQXHTH,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CQXHTH,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000112,Sophia,2020-04-17,yes,,yes,,no,,,,,,,,,,,,,,,Contained no links to data
+a000164,Sophia,2020-04-17,yes,,yes,,yes,,1,1,osf.io/28gxz,yes,,https://osf.io/28gxz/,yes,,OSF,yes,,other,"one of the files was able to be downloaded, but the other was over 100MB",
+a000297,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/gzyth,yes,,https://osf.io/gzyth,yes,,OSF,yes,,yes,,"Two links were given, but one led only to the experiment materials, not data, and was therefore not included."
+a000321,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/qtsx2/,yes,,https://osf.io/qtsx2/,yes,,OSF,yes,,yes,,There were links to materials and supplementary data but these were not included.
+a000334,Sophia,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910,yes,,https://dx.doi.org/10.7910,yes,,OSF,no,Leads to a DOI Name Values page,,,
+a000348,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/ZRZGTT,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZRZGTT,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000364,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/pa8jw/,yes,,https://osf.io/pa8jw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000368,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/akp9n/,yes,,https://osf.io/akp9n/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000575,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://sc.lib.miamioh.edu/handle/2374.MIA/6254,yes,,https://sc.lib.miamioh.edu/handle/2374.MIA/6254,yes,,Miami University Libraries,yes,,yes,,I didn't have any problems with this article
+a000586,Sophia,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/PLLBQJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PLLBQJ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000617,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://figshare.com/s/cccac39f891998509c85,yes,,https://figshare.com/s/cccac39f891998509c85,yes,,Figshare,yes,,yes,,I didn't have any problems with this article
+a000678,Sophia,2020-04-17,yes,,no,,,,,,,,,,,,,,,,,
+a000719,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/ah54c/,yes,,https://osf.io/ah54c/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000777,Sophia,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/LWED0F,no,"""DOI not found"" page",,,,,,,,,
+a000827,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/w24dm/,yes,,https://osf.io/w24dm,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000863,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/v4qys/,yes,,https://osf.io/v4qys/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000876,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/uane6/,yes,,https://osf.io/uane6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000947,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/4492y,yes,,https://osf.io/4492y,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000957,Sophia,2020-04-17,yes,,yes,,yes,,1,1,http://www.osf_.io/3wz2j,other,"there is a typo in the document, https://osf.io/3wz2j/ works and leads to the correct repository page",https://osf.io/3wz2j/,yes,,OSF,yes,,other,"the main data file was over 100MB, but the other two were able to be downloaded.",
+a001055,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/vk4hp/,yes,,https://osf.io/vk4hp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001093,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/nmydf/,yes,,https://osf.io/nmydf/,yes,,OSF,yes,,other,"one of the two files was over 100MB, but the other file was able to be downloaded",I didn't have any problems with this article
+a001221,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/BAG0DS,no,"""DOI not found"" page",,,,,,,,,
+a001274,Sophia,2020-04-17,yes,,yes,,yes,,1,1,https://psy.fsu.edu/~catlab/alienssoa_pub/index.php,yes,,https://psy.fsu.edu/~catlab/alienssoa_pub/index.php,yes,,Florida State University Directory,yes,,other,"2 out of the 3 files were able to be downloaded, but I was not allowed access to one zip file",I didn't have any problems with this article
+a001308,Sophia,2020-04-18,yes,,yes,,yes,,2,1,https://osf.io/wki3y/,yes,,https://osf.io/wki3y/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001308,Sophia,2020-04-18,yes,,yes,,yes,,2,2,https://osf.io/wki3y/,yes,,https://osf.io/wki3y/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001337,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://osf.io/reky2/,yes,,https://osf.io/reky2,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001353,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/privateurl.xhtml?token=f8d2d590-6a8e-4df2-9dca-7e3f3813c78c,yes,,https://dataverse.harvard.edu/dataset.xhtml;jsessionid=abd175de461ee2e2360cb9c5e62e?persistentId=doi%3A10.7910%2FDVN%2FKHGTVF&version=DRAFT,yes,,Harvard Dataverse Network,yes,,yes,,There was a link to supplementary data that was not included.
+a001459,Sophia,2020-04-18,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/EL6ZCZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EL6ZCZ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001509,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/GTXZ4J,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GTXZ4J,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001534,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://osf.io/aqkgt/,yes,,https://osf.io/aqkgt/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001618,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/8ZJBLI.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8ZJBLI,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001641,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://osf.io/2xg9u/,yes,,https://osf.io/2xg9u/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001642,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://osf.io/nquws/files/,yes,,https://osf.io/nquws/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001648,Sophia,2020-04-18,yes,,yes,,yes,,1,1,https://osf.io/2qncf/,yes,,https://osf.io/2qncf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000024,Sophia,2020-04-20,yes,,yes,,yes,,2,1,https://osf.io/jrmk4/,yes,,https://osf.io/jrmk4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000024,Sophia,2020-04-20,yes,,yes,,yes,,2,2,https://osf.io/z68ku/,yes,,https://osf.io/z68ku/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000026,Sophia,2020-04-20,yes,,no,,,,,,,,,,,,,,,,,
+a000047,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/g3rnt/,yes,,https://osf.io/g3rnt/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000056,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/2b9hn/,yes,,https://osf.io/2b9hn,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000256,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/39vsg/,yes,,https://osf.io/39vsg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000284,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://doi.org/10.5281/zenodo.2593735,yes,,https://zenodo.org/record/2593735,yes,,Zenodo,yes,,yes,,I didn't have any problems with this article
+a000305,Sophia,2020-04-20,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/LVHIYG,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVHIYG,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000306,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/k8t4b/,yes,,https://osf.io/k8t4b/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000319,Sophia,2020-04-20,yes,,yes,,yes,,1,1,http://doi.org/10.17605/OSF.IO/P49YA,yes,,https://osf.io/p49ya/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000474,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/8yufm,yes,,https://osf.io/8yufm,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000560,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/ck22q/,yes,,https://osf.io/ck22q/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000639,Sophia,2020-04-20,yes,,other,"the article only had the words ""Open data"" which itself was a hyperlink. Does this count as a ""statement?""",yes,,1,1,https://osf.io/3r2q9/,yes,,https://osf.io/3r2q9/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000664,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/487v9/?view_only=dd53baba3ed945649cda7314fb10a957,yes,,https://osf.io/487v9/?view_only=dd53baba3ed945649cda7314fb10a957,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000673,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/HI1X4O,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HI1X4O,yes,,Harvard Dataverse Network,yes,,other,zip file was over 100MB,I didn't have any problems with this article
+a000728,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/r8a24/,yes,,https://osf.io/r8a24/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000769,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://doi.org/10.1016/j.jesp.2017.12.003,yes,,https://www.sciencedirect.com/science/article/abs/pii/S0022103117301658?via%3Dihub#ec-research-data,yes,,ScienceDirect,yes,,yes,,"The link for this entry was listed under ""Supplementary data"". However, the link led to a repository page with the article data."
+a000812,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/7vef5/,yes,,https://osf.io/7vef5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000845,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://www.iris-database.org,yes,,https://www.iris-database.org/iris/app/home/index;jsessionid=922D67DCE96ADC3EEBE163426726A9DC,yes,,IRIS Database,other,the link led to the IRIS homepage,,,I didn't have any problems with this article
+a000940,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/ea99d/,yes,,https://osf.io/ea99d/,yes,,OSF,yes,,other,one of the files was over 100MB so only one file was put into the data folder,I didn't have any problems with this article
+a000964,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/s5pv8/,yes,,https://osf.io/s5pv8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001007,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/m64ue/,yes,,https://osf.io/m64ue/,yes,,OSF,yes,,other,both of the files were over 100MB,I didn't have any problems with this article
+a001045,Sophia,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/vgmjs/,yes,,https://osf.io/vgmjs/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001062,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://datadryad.org/stash/dataset/doi:10.5061/dryad.g7b40,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.g7b40,yes,,Dryad,yes,,yes,,I didn't have any problems with this article
+a001115,Sophia,2020-04-22,yes,,yes,,yes,,1,1,osf.io/g2t36,yes,,https://osf.io/g2t36/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001140,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/t28bw/,yes,,https://osf.io/t28bw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001279,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/YWZBUJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YWZBUJ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001313,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/uqh5d/,yes,,https://osf.io/uqh5d/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001361,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/efjd6/,yes,,https://osf.io/efjd6/,yes,,OSF,yes,,other,file over 100MB,I didn't have any problems with this article
+a001391,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/2nj9h/,yes,,https://osf.io/2nj9h/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001437,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/2bfkt/?view_only=1fee156afa004d37ba3e48f189fba097,yes,,https://osf.io/2bfkt/?view_only=1fee156afa004d37ba3e48f189fba097,yes,,OSF,yes,,other,files over 100MB ,I didn't have any problems with this article
+a001455,Sophia,2020-04-22,yes,,other,article had the phrase 'Open data' which was the hyperlink to the data,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001485,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/xrk6j/,yes,,https://osf.io/xrk6j/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001505,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/5t6fs/,yes,,https://osf.io/5t6fs/,yes,,OSF,yes,,yes,,There was another link for the article's materials but this was not included/
+a001522,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/ws3j9/,yes,,https://osf.io/ws3j9/,yes,,OSF,yes,,other,all experiment files were over 100MB,I didn't have any problems with this article
+a001586,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/4e7hr/,yes,,https://osf.io/4e7hr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001597,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/bjpe3/,yes,,https://osf.io/bjpe3,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001602,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/PGGBB4,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGGBB4,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001644,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/f54qe/,yes,,https://osf.io/f54qe,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001645,Sophia,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/bpwf8,yes,,https://osf.io/bpwf8,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000011,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://www.ukbiobank.ac.uk/,yes,,https://www.ukbiobank.ac.uk/,yes,,UK BioBank,other,leads to the repository home page,no,,"There was another link to ""data scripts"" but this led to an OSF page with the code used to process the data, and was excluded."
+a000019,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/YVE8F,yes,,https://osf.io/yve8f/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000020,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://reshare.ukdataservice.ac.uk/852658/,yes,,http://reshare.ukdataservice.ac.uk/852658/,yes,,UK Data Service,yes,,yes,,I didn't have any problems with this article
+a000035,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/9tu5r/,yes,,https://osf.io/9tu5r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000057,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/pqf9r/,yes,,https://osf.io/pqf9r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000169,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/4cg2s/,yes,,https://osf.io/4cg2s/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000276,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/x25ea/,yes,,https://osf.io/x25ea/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000300,Sophia,2020-04-24,yes,,yes,,yes,,2,1,https://osf.io/4rs5x/,yes,,https://osf.io/4rs5x/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000300,Sophia,2020-04-24,yes,,yes,,yes,,2,2,https://osf.io/9tm36/,no,"""Resource deleted""",,,,,,,,,I didn't have any problems with this article
+a000331,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/ZFLG25,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZFLG25,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000352,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/RLLL1V,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RLLL1V,yes,,Harvard Dataverse Network,yes,,other,file over 100MB,I didn't have any problems with this article
+a000363,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/6akvt/files/,yes,,https://osf.io/6akvt/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000497,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://zenodo.org/record/2555766,yes,,https://zenodo.org/record/2555766,yes,,Zenodo,yes,,yes,,I didn't have any problems with this article
+a000503,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/cw6y8/?view_only=24a186cebd52441ea0170ed63caf70ab,yes,,https://osf.io/cw6y8/?view_only=24a186cebd52441ea0170ed63caf70ab,yes,,OSF,yes,,yes,,There was another link for materials but this was excluded.
+a000507,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/qcdgp/,yes,,https://osf.io/qcdgp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000534,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/t46nw/,yes,,https://osf.io/t46nw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000572,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/u7tkp/,yes,,https://osf.io/u7tkp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000646,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/zcbp7/,yes,,https://osf.io/zcbp7,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000775,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/ef78n/,yes,,https://osf.io/ef78n/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000787,Sophia,2020-04-24,no,I couldn't see the badge anywhere,yes,,yes,,1,1,https://osf.io/gm5j6/,yes,,https://osf.io/gm5j6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000943,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/R3GZZW.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/R3GZZW,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000955,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/203/studies?archive=ICPSR&sortBy=7,yes,,https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/203/studies?archive=ICPSR&sortBy=7,yes,,ICPSR,yes,,other,"2 out of the 4 files were over 100MB, the other two gave different options for the type of file wanted (e.g. documentation only. Some file types such as SAS required a log in. I was able to download the 'documentation only' files for these two.",
+a000960,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/f2n7c/,yes,,https://osf.io/f2n7c/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000996,Sophia,2020-04-24,yes,,yes,,no,,,,,,,,,,,,,,,
+a001030,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/wytek/,yes,,https://osf.io/wytek/,yes,,OSF,yes,,other,file was over 100MB,I didn't have any problems with this article
+a001066,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://reshare.ukdataservice.ac.uk/852127/,yes,,http://reshare.ukdataservice.ac.uk/852127/,yes,,UK Data Service,yes,,other,one out of the three files required log in access,I didn't have any problems with this article
+a001138,Sophia,2020-04-24,yes,,yes,,yes,,3,1,https://osf.io/traf4/,yes,,https://osf.io/traf4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001138,Sophia,2020-04-24,yes,,yes,,yes,,3,2,https://osf.io/pdy6b/,yes,,https://osf.io/pdy6b/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001138,Sophia,2020-04-24,yes,,yes,,yes,,3,3,https://osf.io/project/s3chz/files/osfstorage/58920befb83f6901f40f7ec4/,yes,,https://osf.io/u95vg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001228,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/6htsx/,yes,,https://osf.io/6htsx/,yes,,OSF,yes,,other,file was over 100MB,I didn't have any problems with this article
+a001340,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://figshare.com/projects/Effects_of_tDCS_over_posterior_parietal_cortex_on_episodic_memory_reconsolidation/64793,yes,,https://figshare.com/projects/Effects_of_tDCS_over_posterior_parietal_cortex_on_episodic_memory_reconsolidation/64793,yes,,Figshare,yes,,yes,,I didn't have any problems with this article
+a001341,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/kewpu/,yes,,https://osf.io/kewpu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001368,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/K6ZOOW,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K6ZOOW,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001434,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/h6dwg/,yes,,https://osf.io/h6dwg,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001460,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/b4nvf/,yes,,https://osf.io/b4nvf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001506,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/zg2su/files/,yes,,https://osf.io/zg2su/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001536,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/5ahzj/,yes,,https://osf.io/5ahzj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001554,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/Y43XZR,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Y43XZR,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001558,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/4awze/,yes,,https://osf.io/4awze/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001561,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://dx.doi:10.7910/DVN/RSD5BV,other,"The link didn't work, but when I changed the colon to .org, it worked.",https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSD5BV,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001596,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/tsyrj/,yes,,https://osf.io/tsyrj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001646,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/83v4u/,yes,,https://osf.io/83v4u/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001662,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/qwy4b,yes,,https://osf.io/qwy4b,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000036,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/g9yrc/,yes,,https://osf.io/g9yrc/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000064,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/jpxat/quickfiles/,yes,,https://osf.io/jpxat/quickfiles/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000077,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://bit.ly/2mLcXyu,yes,,https://osf.io/ygy5e/?view_only=eca3d2740b3d4db38e9db0c67083861b,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000080,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/4x8tn/,yes,,https://osf.io/4x8tn/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000093,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/uyadw/,yes,,https://osf.io/uyadw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000096,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/9246v/,yes,,https://osf.io/9246v/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000144,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/EZSJ1S,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EZSJ1S,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000167,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/b45vq/,yes,,https://osf.io/b45vq/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000207,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/bx8zv/,yes,,https://osf.io/bx8zv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000250,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/TZRNKD,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TZRNKD,yes,,Harvard Dataverse Network,yes,,other,zip file was over 100MB,I didn't have any problems with this article
+a000264,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/kszge/,yes,,https://osf.io/kszge/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000302,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/9AWUYJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9AWUYJ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000313,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/rhju9/,yes,,https://osf.io/rhju9/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000328,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/usfa5/?view_only=1f2e1994fc6247548499f47de64a2650,yes,,https://osf.io/usfa5/?view_only=1f2e1994fc6247548499f47de64a2650,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000483,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/tewvk/,yes,,https://osf.io/tewvk/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000514,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/dwza4/,yes,,https://osf.io/dwza4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000682,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/7gvkt/,yes,,https://osf.io/7gvkt/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000688,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://iris-database.org,yes,,https://iris-database.org/iris/app/home/index;jsessionid=7C12F018F2CB4D304C0F4F45AB231D2D,yes,,IRIS repository,other,led to the IRIS homepage,no,,I didn't have any problems with this article
+a000832,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/md9fk/,yes,,https://osf.io/md9fk/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000857,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/CPVIOF,yes,,http://doi.org/10.7910/DVN/CPVIOF.,yes,,Harvard Dataverse Network,yes,,other,xip file was over 100MB,I didn't have any problems with this article
+a000872,Sophia,2020-04-24,yes,,yes,,yes,,3,1,https://osf.io/mrq5g/,yes,,https://osf.io/mrq5g/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000872,Sophia,2020-04-24,yes,,yes,,yes,,3,2,https://osf.io/965xu/,yes,,https://osf.io/965xu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000872,Sophia,2020-04-24,yes,,yes,,yes,,3,3,https://osf.io/q8zx3/,yes,,https://osf.io/q8zx3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000949,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/r6idy/,yes,,https://osf.io/r6idy,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000958,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/XKC4R4,yes,,https://doi.org/10.7910/DVN/XKC4R4.,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001003,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/dp2aq,yes,,https://osf.io/dp2aq,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001008,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/9e3a9/,yes,,https://osf.io/9e3a9/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001024,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/9zpaj/,yes,,https://osf.io/9zpaj/,yes ,,OSF,yes,,yes,,I didn't have any problems with this article
+a001070,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/q6gbw/,yes,,https://osf.io/q6gbw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001084,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/O6VHZZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O6VHZZ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001088,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/fy5dk,yes,,https://osf.io/fy5dk,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001201,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/9gyvd/,yes,,https://osf.io/9gyvd/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001225,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/I1HVCJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I1HVCJ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001398,Sophia,2020-04-24,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/QTG6FQ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QTG6FQ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001452,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/9b4y7/,yes,,https://osf.io/9b4y7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001471,Sophia,2020-04-24,yes,,yes,,yes,,1,1,https://osf.io/92vsw/?view_only=f2b4c79786d9406fa75e7b54bc298eb4,yes,,https://osf.io/92vsw/?view_only=f2b4c79786d9406fa75e7b54bc298eb4,yes,,OSF,other,leads to a general homepage of 'Health and Retirement Studies Documentation',no,,
+a001493,Sophia,2020-04-24,yes,,yes,,yes,,2,1,http://hrsonline.isr.umich.edu/index.php?p=avail&_ga=2.193912365.1038497410.1542961645-2121603621.1539110961,yes,,http://hrsonline.isr.umich.edu/index.php?p=avail&_ga=2.193912365.1038497410.1542961645-2121603621.1539110961,yes,,University of Michigan library,yes,,other,files are all over 100MB,I didn't have any problems with this article
+a001493,Sophia,2020-04-24,yes,,yes,,yes,,2,2,https://osf.io/pn3vt/,yes,,https://osf.io/pn3vt/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001496,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/SRPTCV,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SRPTCV,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001511,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/jqug4/,yes,,https://osf.io/jqug4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001568,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://figshare.com/articles/The_Road_to_Bribery_and_Corruption/3849237,yes,,https://figshare.com/articles/The_Road_to_Bribery_and_Corruption/3849237,yes,,Figshare,yes,,yes,,I didn't have any problems with this article
+a001577,Sophia,2020-04-26,yes,,yes,,yes,,2,1,https://www.usap-dc.org/view/project/p0010035,yes,,https://www.usap-dc.org/view/project/p0010035,yes,,U.S Antarctic Program Data Centre,yes,,other,"some of the files were only available to be downloaded on request, and some of the files were over 100MB, so I downloaded the ones I could :)",I didn't have any problems with this article
+a001577,Sophia,2020-04-26,yes,,yes,,yes,,2,2,https://github.com/martinjpratt/ZoomAntarctica,yes,,https://github.com/martinjpratt/ZoomAntarctica,yes,,Github,yes,,other,zip file over 100MB,I didn't have any problems with this article
+a001639,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/hekts/,yes,,https://osf.io/hekts/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000017,Sophia,2020-04-26,yes,,yes,,yes,,1,1,osf.io/yw9us,yes,,https://osf.io/yw9us/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000018,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLWQY9,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLWQY9,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000030,Sophia,2020-04-26,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/ZSYWHO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSYWHO,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000038,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/6ayhs/,yes,,https://osf.io/6ayhs/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000045,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/u2xct/,yes,,https://osf.io/u2xct/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000097,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/tqzkd/,yes,,https://osf.io/tqzkd/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000099,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/6e7tb/,yes,,https://osf.io/6e7tb/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000147,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/cwenz/,yes,,https://osf.io/cwenz/,yes,,OSF,yes,,other,1 out of the 4 files was 100MB,I didn't have any problems with this article
+a000192,Sophia,2020-04-26,yes,,yes,,yes,,2,1,https://osf.io/B2478/,yes,,https://osf.io/B2478/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000192,Sophia,2020-04-26,yes,,yes,,yes,,2,2,https://osf.io/G4C7Z,yes,,https://osf.io/G4C7Z,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000194,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/6wxgf,yes,,https://osf.io/6wxgf,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000215,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/kfdca/,yes,,https://osf.io/kfdca,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000223,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/ybu6r/,yes,,https://osf.io/ybu6r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000279,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/kszj7/,yes,,https://osf.io/kszj7,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000285,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/tnjqs/,yes,,https://osf.io/tnjqs/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000318,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://github.com/langcog/KTE,yes,,https://github.com/langcog/KTE,yes,,Github,yes,,other,file over 100MB,I didn't have any problems with this article
+a000338,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/KPJUFL,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KPJUFL,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000400,Sophia,2020-04-26,yes,,yes,,no,,,,,,,,,,,,,,,
+a000437,Sophia,2020-04-26,yes,,yes,,yes,,1,1,osf.io/5tejq/,yes,,https://osf.io/5tejq/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000480,Sophia,2020-04-26,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/FS90RJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FS90RJ,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000484,Sophia,2020-04-26,yes,,yes,,other,"the article has the phrase ""open data"" which itself is a hyperlink",1,1,https://www.oa.uni-hamburg.de/hattke-kalucza,yes,,https://www.oa.uni-hamburg.de/hattke-kalucza,yes,,University of Hamburg Open Access Portal,yes,,yes,,I didn't have any problems with this article
+a000508,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/wmg6t,yes,,https://osf.io/wmg6t,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000540,Sophia,2020-04-26,yes,,no,,,,,,,,,,,,,,,,,
+a000597,Sophia,2020-04-26,yes,,no,,,,,,,,,,,,,,,,,
+a000745,Sophia,2020-04-26,yes,,yes,,yes,,1,1,osf.io/uqg5m/,yes,,https://osf.io/uqg5m/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000764,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://figshare.com/articles/Contingent_attentional_engagement_stimulus-_and_goal-driven_capture_have_qualitatively_different_consequences_-_data_from_3_experiments/6818228/1,yes,,https://figshare.com/articles/Contingent_attentional_engagement_stimulus-_and_goal-driven_capture_have_qualitatively_different_consequences_-_data_from_3_experiments/6818228/1,yes,,Figshare,yes,,yes,,I didn't have any problems with this article
+a000807,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/x9h8b/,yes,,https://osf.io/x9h8b/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000867,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/dw5fm/,yes,,https://osf.io/dw5fm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000929,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/nxrsj/,yes,,https://osf.io/nxrsj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000993,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/72b89/,yes,,https://osf.io/72b89/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001071,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/gjp53/,yes,,https://osf.io/gjp53/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001171,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/d9jfz/,yes,,https://osf.io/d9jfz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001198,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/qqq82/,yes,,https://osf.io/qqq82/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001275,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/dxvrq,yes,,https://osf.io/dxvrq,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001332,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/68MES/,yes,,https://osf.io/68MES/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001441,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/axnm6/,yes,,https://osf.io/axnm6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001497,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/fitgz/,yes,,https://osf.io/fitgz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001572,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/vq49b/,yes,,https://osf.io/vq49b/,yes,,OSF,yes,,other,file was over 100MB,I didn't have any problems with this article
+a001601,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/cjmr7/?view_only=61020c728b0845f7ac94c9d65ae9b6e3,yes,,https://osf.io/cjmr7/?view_only=61020c728b0845f7ac94c9d65ae9b6e3,yes,,OSF,yes,,other,one out of the three files was over 100MB,I didn't have any problems with this article
+a001628,Sophia,2020-04-26,yes,,yes,,yes,,2,1,https://osf.io/bxj9d/,yes,,https://osf.io/bxj9d/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001628,Sophia,2020-04-26,yes,,yes,,yes,,2,2,https://osf.io/7gy85,yes,,https://osf.io/7gy85,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001655,Sophia,2020-04-26,yes,,yes,,yes,,1,1,https://osf.io/2cv4x/?view_only=d192b6df6a7b4c1ea49d19e819330f80,yes,,https://osf.io/2cv4x/?view_only=d192b6df6a7b4c1ea49d19e819330f80,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000004,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/4sqn3/,yes,,https://osf.io/4sqn3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000051,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://ckan-rdm.up.pt/dataset/i3s-2019-001,yes,,https://ckan-rdm.up.pt/dataset/i3s-2019-001,yes,,University of Porto Repository,yes,,yes,,I didn't have any problems with this article
+a000153,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/du9ws/,yes,,https://osf.io/du9ws/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000185,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/38apk/?view_only=66833d11e36f4af8a17e56d45ac5e379,yes,,https://osf.io/38apk/?view_only=66833d11e36f4af8a17e56d45ac5e379,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000187,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/c4wn8/,yes,,https://osf.io/c4wn8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000217,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/wk3ve/,yes,,https://osf.io/wk3ve/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000236,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/q9kd3/,yes,,https://osf.io/q9kd3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000258,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/9q23j/,yes,,https://osf.io/9q23j/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000339,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/b7qpu/,yes,,https://osf.io/b7qpu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000387,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/wgfnm/,yes,,https://osf.io/wgfnm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000408,Sophia,2020-04-27,yes,,yes,,yes,,1,1,osf.io/nrf72,yes,,https://osf.io/wgfnm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000422,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/sgwv6/files/,yes,,https://osf.io/sgwv6/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000509,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/rwvc4/,yes,,https://osf.io/rwvc4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000523,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/FPYKTP,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FPYKTP,yes,,Harvard Dataverse Network,yes,,other,File was over 100MB,I didn't have any problems with this article
+a000573,Sophia,2020-04-27,yes,,yes,,no,Says it's on the JESP website.,,,,,,,,,,,,,,
+a000604,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/jazfy/,yes,,https://osf.io/jazfy/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000627,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/x37d5/,yes,,https://osf.io/x37d5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000694,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/7nwa6/,yes,,https://osf.io/7nwa6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000739,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/jd4d2/,yes,,https://osf.io/jd4d2/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000770,Sophia,2020-04-27,yes,,yes,,yes,,1,1,http://doi:10.7910/DVN/TJKIWN,other,"Redirect notice', but the link http://doi.og/10.7910/DVN/TJKIWN works",https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJKIWN,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000773,Sophia,2020-04-27,yes,,no,,no,,,,,,,,,,,,,,,
+a000776,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/9IKGYY,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9IKGYY,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a000779,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/g5fvw/,yes,,https://osf.io/g5fvw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000837,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/xm8dh/,yes,,https://osf.io/xm8dh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000856,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/fdhru/,yes,,https://osf.io/fdhru/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000882,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/nyq9j/,yes,,https://osf.io/nyq9j/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000973,Sophia,2020-04-27,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/F9ICHH,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/F9ICHH,yes,,Harvard Dataverse Network,yes,,other,file was 100MB,I didn't have any problems with this article
+a001000,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/54skn/files/,yes,,https://osf.io/54skn/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001006,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/yq5jw/,yes,,https://osf.io/yq5jw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001031,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/tv8ai/,yes,,https://osf.io/tv8ai/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001049,Sophia,2020-04-27,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/X88LYH,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X88LYH,yes,,Harvard Dataverse Network,yes,,yes,,I didn't have any problems with this article
+a001131,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://github.com/carlsonrw/layTheories_altruism,yes,,https://github.com/carlsonrw/layTheories_altruism,yes,,Github,yes,,yes,,I didn't have any problems with this article
+a001294,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/8juyc/,yes,,https://osf.io/8juyc/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001296,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://iris-database.org,yes,,https://iris-database.org/iris/app/home/index,yes,,IRIS Database,other,link is for the IRIS database home page,no,,I didn't have any problems with this article
+a001439,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/ht3gk/,yes,,https://osf.io/ht3gk/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001490,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/,yes,,https://osf.io/,yes,,OSF,other,link leads to the OSF homepage,no,,I didn't have any problems with this article
+a001523,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/5bpr7/,yes,,https://osf.io/5bpr7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001573,Sophia,2020-04-27,yes,,yes,,yes,,1,1,osf.io/8g5fy,yes,,https://osf.io/8g5fy,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001609,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/AGIMGY,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AGIMGY,yes,,Harvard Dataverse Network,yes,,other,file was over 100MB,I didn't have any problems with this article
+a001619,Sophia,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/stv79/,yes,,https://osf.io/stv79/,yes,,OSF,yes,,yes,,I didn't have any problems with this article

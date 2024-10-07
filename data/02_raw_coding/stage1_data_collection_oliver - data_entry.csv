@@ -1,0 +1,321 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+demo01,steve,2020-04-02,yes,,yes,,yes,,1,1,http://tiny.cc/l4wacz,yes,,https://osf.io/g3h52/?view_only=None,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+demo02,steve,2020-04-02,yes,,yes,,yes,,1,1,osf.io/uh3in,yes,,https://osf.io/uh3in/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro01,oliver,2020-04-02,yes,,yes,,yes,,1,1,osf.io/n6pfz/,yes,,https://osf.io/n6pfz/,yes,,OSF,yes,,yes,,OD & OM badge shares the same link.
+intro02,oliver,2020-04-02,yes,,yes,,yes,,1,1,nyu.databrary.org/volume/79,yes,,https://nyu.databrary.org/volume/79,yes,,Databrary,yes,,other,">1GB file, did not attempt",I didn't have any problems with this article
+intro03,oliver,2020-04-02,yes,,yes,,yes,,1,1,osf.io/9w8pg/,yes,,https://osf.io/9w8pg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro04,oliver,2020-04-02,yes,,yes,,yes,,1,1,datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,,DRYAD,yes,,yes,,I didn't have any problems with this article
+intro05,oliver,2020-04-02,yes,,yes,,yes,,1,1,thedata.harvard.edu/dvn/dv/PainData,yes,,http://thedata.harvard.edu/dvn/dv/PainData,other,Harvard version of Dataverse,Dataverse,other,Yes. Replication data also present.,yes,,"There are 2 datasets - one for original, and one for replication. As a result, link is to landing page as I could not choose one direct doi link over the other."
+intro06,oliver,2020-04-02,yes,,no,,yes,,1,1,osf.io/zw6jg/,yes,,https://osf.io/zw6jg/,yes,,OSF,yes,,yes,,"OSF link buried in PDF, no statement, only footnote - found with CTRL-F"
+intro07,oliver,2020-04-02,yes,,yes,,yes,,1,1,osf.io/8jxsr/,yes,,https://osf.io/8jxsr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro08,oliver,2020-04-02,yes,,yes,,yes,,2,1,doi.org/10.3886/ICPSR04652.v6,other,"Outdated link. Redirects you to landing page where you click ""V7""",https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4652/versions/V7,other,"Seems to be repository - however, is specialised/obscure. UMich version of NACDA, which is tied to ICPSR. TBC",NACDA,yes,,other,Highly stratified files. Need NACDA membership to download.,"Many datasets, and each dataset have several segements within. Was not able to test a download without NACDA membership - it is beyond UoM affiliate partnerships. There are 2 links, but only 1 takes you to a dataset."
+intro09,oliver,2020-04-02,yes,,yes,,yes,,1,1,osf.io/xehfu/,yes,,https://osf.io/xehfu/,yes,,OSF,yes,,partial,"Many files. Tested one. Was successful, able to download from host.","Many datasets, and highly stratified within each. Can only download as zip file for each dataset - not the entire collection."
+intro10,oliver,2020-04-02,yes,,yes,,yes,,1,1,pisa2006.acer.edu.au/downloads.php,no,Dead link. Server could not be found.,Not resolved,other,N/A,N/A,no,,other,Could not access site.,Dead link
+a000045,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/u2xct/,yes,,https://osf.io/u2xct/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000050,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/2wjgn,yes,,https://osf.io/2wjgn/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000074,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/t9c52/,yes,,https://osf.io/t9c52,yes,,OSF,yes,,yes,,Link takes some time to redirect. OSF website design was different than usual.
+a000077,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/ygy5e/,yes,,https://osf.io/ygy5e/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000083,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/rmjtg,yes,,http://osf.io/rmjtg,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000145,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/cwq75/,yes,,http://osf.io/cwq75/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000176,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/5ybhd/,yes,,https://osf.io/5ybhd/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000214,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/8aw9r/,yes,,https://osf.io/8aw9r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000323,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/we7aj/,yes,,http://osf.io/we7aj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000371,oliver,2020-04-04,yes,,other,"Mentions ""replication materials"" on Dataverse (Harvard specific version) but they seem to have omitted references to a source such as a link",no,,0,,,,,,,,,,,,,"Possibility of finding dataset if manually search Harvard Dataverse - however, beyond remit of UoM partnerships"
+a000376,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/r96hg/,yes,,http://osf.io/r96hg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000448,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/m573q/,yes,,https://osf.io/m573q/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000530,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/zf4tj/,yes,,https://osf.io/zf4tj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000563,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/4x8mu,yes,,https://osf.io/4x8mu/,yes,,OSF,yes,,other,"Zip file did download, but computer could not extract zip file",Potentially corrupted file
+a000595,oliver,2020-04-04,other,"No graphical badge, but awarded badges are listed, as text",yes,,yes,,1,1,osf.io/yn7bm,yes,,https://osf.io/yn7bm,yes,,OSF,yes,,yes,,No data badge. But journal does have link to working OSF site with downloadable files
+a000653,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/8jy6r/,yes,,https://osf.io/8jy6r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000703,oliver,2020-04-04,yes,,yes,,yes,,1,1,osf.io/79gn4/,yes,,https://osf.io/79gn4/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 2 batches of zip files - connection to host was successful, documents downloaded.",Zip files could not be extracted
+a000706,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/bmpj9/,yes,,https://osf.io/bmpj9,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000761,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/qe5nw/,yes,,https://osf.io/qe5nw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000817,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/z9ikh/,yes,,https://osf.io/z9ikh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000893,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/9djq5/,yes,,https://osf.io/9djq5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000997,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/xmnyq,yes,,https://osf.io/xmnyq,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a001036,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/zxp9k/,yes,,https://osf.io/zxp9k/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001044,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/qwa42/,yes,,https://osf.io/qwa42,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a001048,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/uw2t2,yes,,https://osf.io/uw2t2,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001052,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/735ru/,yes,,https://osf.io/735ru/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001119,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/bbf3c/,yes,,https://osf.io/bbf3c/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001198,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/qqq82,yes,,https://osf.io/qqq82/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001291,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/tvyxz,yes,,https://osf.io/tvyxz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001305,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/q4n2b,yes,,https://osf.io/q4n2b,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001317,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/j25fh/,yes,,https://osf.io/j25fh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001352,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/kwvu6,yes,,https://osf.io/kwvu6,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a001368,oliver,2020-04-07,yes,,yes,,yes,,1,1,dx.doi.org/10.7910/DVN/K6ZOOW,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K6ZOOW,other,Harvard version of Dataverse,,yes,,yes,,I didn't have any problems with this article
+a001454,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/tvyxz,yes,,https://osf.io/tvyxz/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a001489,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/akbfj,yes,,https://osf.io/akbfj/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001497,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/fitgz,yes,,https://osf.io/fitgz/,yes,,OSF,yes,,other,"Downloaded successfully. Lots of stratified files, did partial download. Zip files could not be extracted",Zip files could not be extracted
+a001523,oliver,2020-04-07,yes,,yes,,yes,,1,1,osf.io/5bpr7,yes,,https://osf.io/5bpr7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001526,oliver,2020-04-07,no,,yes,,no,,0,,,,,,other,Harvard version of Dataverse,,,,,,"Makes reference to Harvard version of Dataverse, but no link"
+a001528,oliver,2020-04-07,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/VJLVYU,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VJLVYU,other,Harvard version of Dataverse,,yes,,yes,,I didn't have any problems with this article
+a001608,oliver,2020-04-07,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/BZ9Z2D,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BZ9Z2D,other,Harvard version of Dataverse,,yes,,yes,,I didn't have any problems with this article
+a000025,oliver,2020-04-09,yes,,yes,,yes,,1,1,osf.io/kz53g/,yes,,https://osf.io/kz53g/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000071,oliver,2020-04-09,yes,,yes,,yes,,1,1,osf.io/856cs/,yes,,https://osf.io/856cs/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000084,oliver,2020-04-09,yes,,yes,,yes,,1,1,osf.io/54yzr/,yes,,https://osf.io/54yzr/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000093,oliver,2020-04-09,yes,,yes,,yes,,1,1,osf.io/uyadw/,yes,,https://osf.io/uyadw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000134,oliver,2020-04-09,yes,,yes,,yes,,1,1,osf.io/b8zft/,yes,,https://osf.io/b8zft/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000216,oliver,2020-04-09,yes,,other,Footnote,yes,,1,1,osf.io/9nq3c/,yes,,https://osf.io/9nq3c/,yes,,OSF,yes,,yes,,"Data availability statement is located in a footnote. It didn't have it own paragraph that explictly gave permission. Only a link and ""data located"" which gives implicit permission."
+a000242,oliver,2020-04-09,yes,,yes,,yes,,1,1,osf.io/adrwv/,yes,,https://osf.io/adrwv/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000259,oliver,2020-04-09,yes,,yes,,yes,,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZ9YXZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SZ9YXZ,other,Harvard version of Dataverse,,yes,,partial,"Tried to download all files as part of 1 zip. Site didn't allow me to download all 12 files as 3 files had restricted access. Proceeded to download without those 3 files which was a success (host ok, files ok)",Restricted files
+a000299,oliver,2020-04-09,yes,,yes,,yes,,1,1,doi.org/10.1016/j.jesp.2019.04.008,other,Recursive loop,Not resolved,,,,,,,,"Link takes you to main publication page. Same DOI link is on there, but when clicked, it leads to the same website again. Doesn't take you to dataset."
+a000300,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/4rs5x/,yes,,https://osf.io/4rs5x/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000324,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/bmaf2/,yes,,https://osf.io/bmaf2/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000363,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/6akvt/files/,yes,,https://osf.io/6akvt/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000414,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/eujyn/,yes,,https://osf.io/eujyn/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000501,oliver,2020-04-21,yes,,yes,,yes,,1,1,iris-database.org/iris/app/home/search?query=Jung+in+press,other,Link did not lead to dataset,https://www.iris-database.org/iris/app/home/search?query=Jung+in+press,yes,,IRIS,no,,,,"Link is broken/expired, did not lead to page with dataset"
+a000557,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/8cd4r/,yes,,https://osf.io/8cd4r/,yes,,OSF,yes,,partial,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000581,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/n8v3c/,other,Link led to sign-in page requiring OSF membership,,yes,,OSF,,,,,"Required OSF membership sign-in, could not access file dataset"
+a000585,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/j9aa7/,yes,,https://osf.io/j9aa7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000732,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/xp6r7/,yes,,https://osf.io/xp6r7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000775,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/ef78n/,yes,,https://osf.io/ef78n/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000799,oliver,2020-04-21,no,,no,,,,,,,,,,,,,,,,,"No badge/statement. Vague link to sagepub, which landed on a generic page - not a specific dataset "
+a000828,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/sgqsx/,yes,,https://osf.io/sgqsx/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000920,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/zpjbg,no,"Link withdrawn - registration removed due to containing sensitive user info. Link redirected to landing page containing new link that lead to original dateset, but without the sensitive user info.",https://osf.io/q82nf/,yes,,OSF,yes,,yes,,No problems otherwise
+a000930,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/ujpyn/,yes,,https://osf.io/ujpyn/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000976,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/3jhr7/,yes,,https://osf.io/3jhr7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001010,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/EKV2D/,yes,,https://osf.io/EKV2D/,yes,,OSF,yes,,yes,,"Link wasn't standalone, was combined with DOI. No problems otherwise."
+a001016,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/cgzav/,yes,,https://osf.io/srcfa/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001087,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/uxtq2/,yes,,https://osf.io/uxtq2/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001194,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/zucn5/,yes,,https://osf.io/zucn5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001278,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/bifc7/,yes,,https://osf.io/bifc7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001332,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/68MES/,yes,,https://osf.io/68MES/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001380,oliver,2020-04-21,yes,,yes,,yes,,1,1,iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,,https://www.iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,,IRIS,yes,,yes,,"Check tickbox ""I do not wish to be contacted"" to bypass email requirement"
+a001408,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/rgsbj/,yes,,https://osf.io/rgsbj/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001416,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/24kvu/,yes,,https://osf.io/24kvu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001417,oliver,2020-04-21,yes,,other,"Mentioned incidentally, not explicit standalone statement",yes,,1,1,osf.io/r2ujq,yes,,https://osf.io/r2ujq/,yes,,OSF,yes,,yes,,Link was buried
+a001429,oliver,2020-04-21,yes,,yes,,yes,,1,1,tessexperiments.org/data/ferrer825.html,other,"Link does work, but when you click ""download"" it leads you to OSF link - see resolved URL",https://osf.io/a42yg/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001434,oliver,2020-04-21,yes,,other,"Contained within ""notes"", not standalone statement",yes,,1,1,osf.io/njaxk,yes,,https://osf.io/njaxk/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001444,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/cd893,yes,,https://osf.io/cd893,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001477,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/wqnnx,yes,,https://osf.io/wqnnx,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001480,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/qtb5u/,yes,,https://osf.io/qtb5u/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001591,oliver,2020-04-21,yes,,yes,,yes,,1,1,osf.io/5vy69,yes,,https://osf.io/5vy69/?view_only=23a8c0762ef64333b1eb605010d68934,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000007,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/wds5y/,yes,,https://osf.io/wds5y/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000063,oliver,2020-04-22,yes,,yes,,yes,,2,2,osf.io with /ucn6q/ and /wb2yv/,,,https://osf.io/ucn6q/ and https://osf.io/wb2yv/,yes,,OSF,yes,,yes,,2 links
+a000101,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/etrcd/,yes,,https://osf.io/etrcd/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000130,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/pr39h/,yes,,https://osf.io/pr39h/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000140,oliver,2020-04-22,no,,no,,,,,,,,,,,,,,,,,No badge/statement.
+a000188,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/zg427/,yes,,https://osf.io/zg427/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000280,oliver,2020-04-22,yes,,yes,,yes,,1,1,icpsr.umich.edu/icpsrweb/ICPSR/series/203,yes,,https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36346,yes,,ICPSR,yes,,yes,,Need to search paper title within initial ICPSR link Michigan to get to resolved URL
+a000288,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/3hu8m/,,,https://osf.io/3hu8m/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000329,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/gw9jh/,yes,,https://osf.io/gw9jh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000342,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/xyh24/,yes,,https://osf.io/xyh24/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000355,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/7d5b5,no,"""Page not found""",Could not be resolved,,,,,,,,Link did not work
+a000364,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/pa8jw/,yes,,https://osf.io/pa8jw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000560,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/ck22q/,yes,,https://osf.io/ck22q/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000582,oliver,2020-04-22,yes,,yes,,no,,,,,,,,,,,,,,,Mentions there is data on Harvard Dataverse - but beyond remit of UoM student account to be able to search for it.
+a000583,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/u8sdh/,yes,,https://osf.io/u8sdh/,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a000728,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/r8a24/,yes,,https://osf.io/r8a24/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000742,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/tn3y5/,yes,,https://osf.io/tn3y5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000769,oliver,2020-04-22,yes,,yes,,yes,,1,1,doi.org/10.1016/j.jesp.2017.12.003.,,,https://data.mendeley.com/datasets/snkgkt9t4c/1,yes,,DOI,yes,,yes,,"Doi link leads to general landing page with the data, but Mendeley is more direct as it bundles the data into a zip file."
+a000831,oliver,2020-04-22,yes,,yes,,yes,,1,1,dx.doi.org/10.1016/j.jesp.2017.09.002,other,Redirects,https://www.sciencedirect.com/science/article/abs/pii/S0022103117302135?via%3Dihub,yes,,DOI / ScienceDirect,other,"Makes reference to ""supplementary"" data but cannot be found",,,"DOI link redirects to SD landing page where you cannot click on ""supplementary data"" to view or download"
+a000931,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/9bsa7/,,,https://osf.io/9bsa7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000970,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/zgq7m,yes,,https://osf.io/zgq7m/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001034,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/9mjtz/,yes,,https://osf.io/9mjtz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001043,oliver,2020-04-22,yes,,yes,,yes,,1,1,osf.io/4vk5x,yes,,https://osf.io/4vk5x/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001056,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/9fdhb/,yes,,https://osf.io/9fdhb/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001118,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/x6t4e/,yes,,https://osf.io/x6t4e/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001180,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/he8s7/,yes,,https://osf.io/he8s7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001186,oliver,2020-04-23,yes,,yes,,other,"No direct link to dataset, only general landing pages on OSF and Sagepub",4,,,,,,,,,,,,,"Dataset could possibly be found if you manually searched title on Sagepub - however, beyond remit of UoM student account"
+a001187,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/bw8sz/,yes,,https://osf.io/bw8sz/,yes,,OSF,yes,,yes,,Paper is a subset of a collection of papers
+a001200,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/5ybej/,yes,,https://osf.io/5ybej/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001246,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/e5bvj,yes,,https://osf.io/e5bvj,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001258,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/c5bmm/,yes,,https://osf.io/c5bmm/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001327,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/fgn9y,yes,,https://osf.io/fgn9y/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001360,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/e3afr/,yes,,https://osf.io/e3afr/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001377,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/j2g7t/,yes,,https://osf.io/j2g7t/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001378,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/cbjps,yes,,https://osf.io/cbjps/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001397,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/2x3ju/,yes,,https://osf.io/2x3ju/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001423,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/6d3ry/,yes,,https://osf.io/6d3ry/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001463,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/KZ483/,yes,,https://osf.io/KZ483/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001564,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/n9sd6/,yes,,https://osf.io/n9sd6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001649,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/5qd94/,yes,,https://osf.io/5qd94/,yes,,OSF,yes,,other,File > 100MB,No problems otherwise
+a000041,oliver,2020-04-23,yes,,yes,,yes,,1,1,OSF.IO/GDTPM,yes,,https://osf.io/gdtpm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000067,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/nm8vf/,yes,,https://osf.io/nm8vf/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000072,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/56yz7/,yes,,https://osf.io/56yz7/,yes,,OSF,yes,,other,File > 100MB,No problems otherwise
+a000208,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/3c4ue/,yes,,https://osf.io/3c4ue/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000231,oliver,2020-04-23,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/9SF3TI,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9SF3TI,yes,,Harvard version of Dataverse,yes,,other,File > 100MB,No problems otherwise
+a000245,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/29ytr,yes,,https://osf.io/29ytr/files,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000294,oliver,2020-04-23,yes,,yes,,yes,,1,1,journals.sagepub.com/doi/%20suppl/10.1177/0956797619826972,yes,,https://journals.sagepub.com/doi/suppl/10.1177/0956797619826972,yes,,SAGE,no,,,,"""Supplementary material"" only has PDF. ""Figures and tables greyed out""."
+a000368,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/akp9n/,yes,,https://osf.io/akp9n/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000492,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/2zbvs,yes,,https://osf.io/2zbvs/?view_only=8b56bf1e32d147a5a673f0c3494d25ff,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000547,oliver,2020-04-23,yes,,yes,,yes,,1,1,hdl.handle.net/1902.29/11793,yes,,https://dataverse.unc.edu/dataset.xhtml?persistentId=hdl:1902.29/11793,yes,,Dataverse,yes,,yes,,I didn't have any problems with this article
+a000559,oliver,2020-04-23,yes,,yes,,yes,,1,1,iris-database.org/iris/app/home/detail?id=york:932233,yes,,https://www.iris-database.org/iris/app/home/detail?id=york:932233,yes,,IRIS,yes,,yes,,"Zip file contains single HTML file, which then shows you data via an internet browser rather than being actual data files"
+a000594,oliver,2020-04-23,yes,,yes,,yes,,1,1,osf.io/xzp9s/,yes,,https://osf.io/xzp9s/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000631,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/k8nur/,yes,,https://osf.io/k8nur/,yes,,OSF,yes,,other,File > 100MB,No problems otherwise
+a000689,oliver,2020-04-24,yes,,yes,,yes,,2,,osf.io/6myfj/ and osf.io/tk67x/,yes,,osf.io/6myfj/ and osf.io/tk67x/,yes,,OSF,yes,,yes,,There are 2 links. One for main dataset. The other for supplmentary material.
+a000719,oliver,2020-04-24,yes,,other,"Mentioned incidentally, not explicit standalone data",yes,,1,1,osf.io/ah54c/,yes,,https://osf.io/ah54c/,yes,,OSF,yes,,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000730,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/hzpgy/,yes,,https://osf.io/hzpgy/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000755,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/hguz4/,yes,,https://osf.io/hguz4,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000801,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/28ejf/,yes,,https://osf.io/28ejf/,yes,,OSF,yes,,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000899,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/h2xpu,yes,,https://osf.io/h2xpu,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000906,oliver,2020-04-24,yes,,yes,,yes,,1,1,dx.doi.org/10.7910/DVN/NS3NMH,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NS3NMH,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000969,oliver,2020-04-24,yes,,yes,,yes,,3,,osf.io/dteh2 and osf.io/dp2u7 and osf.io/spqbw,yes,,"Refer to L154, cannot paste 3x http link and keep them separate",yes,,OSF,yes,,yes,,Paper did 3 experiments. Had seperate dataset for each experiment.
+a001013,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/ebhku/,yes,,https://osf.io/ebhku/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001041,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/bvjny/,yes,,https://osf.io/bvjny/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001063,oliver,2020-04-24,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/KGIBK5.,yes,,https://doi.org/10.7910/DVN/KGIBK5.,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001082,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/m3x2b,yes,,https://osf.io/m3x2b,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001093,oliver,2020-04-24,yes,,other,"Under ""methods"" OSF dataset is discussed as ""registered"", but does not specifically mention data availability or give explicit permission",yes,,1,1,osf.io/nmydf,yes,,https://osf.io/nmydf/,yes,,OSF,yes,,other,File > 100MB,No problems otherwise
+a001181,oliver,2020-04-24,yes,,yes,,yes,,1,1,osf.io/zpm9t/,yes,,https://osf.io/zpm9t/,yes,,OSF,yes,,other,File > 100MB,No problems otherwise
+a001226,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/nzp8t/,yes,,https://osf.io/nzp8t,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001249,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/tvyxz,yes,,https://osf.io/tvyxz/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001286,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/4vx3z/,yes,,https://osf.io/4vx3z/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001406,oliver,2020-04-25,yes,,yes,,yes,,1,1,dx.doi.org/10.17632/7tj8hpmnmt.1,yes,,https://data.mendeley.com/datasets/7tj8hpmnmt/1,yes,,Mendeley,yes,,yes,,I didn't have any problems with this article
+a001431,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/dbgh6/,yes,,https://osf.io/dbgh6/,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a001448,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/yfc5m/,yes,,https://osf.io/yfc5m/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001487,oliver,2020-04-25,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/LNUYXZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LNUYXZ,yes,,Harvard version of Dataverse,yes,,other,"Lots of stratified files.Tested 1 file - connection to host was successful, documents downloaded.",No problems otherwise
+a001517,oliver,2020-04-25,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/YUM3K8,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YUM3K8,yes,,Harvard version of Dataverse,yes,,other,"Lots of stratified files.Tested 1 file - connection to host was successful, documents downloaded.",No problems otherwise
+a001594,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/nkgza,yes,,https://osf.io/nkgza/files/,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a001611,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/bdnqr/,yes,,https://osf.io/bdnqr/ and https://crumplab.github.io/EntropyTyping/,other,,OSF,yes,,yes,,"All data seemingly on OSF, but it contains a redirect to an external site (by data owner) that also holds data"
+a001637,oliver,2020-04-25,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/KYI9AR,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KYI9AR,yes,,Harvard version of Dataverse,yes,,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a001653,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/5t0b7/,yes,,https://osf.io/5t0b7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001663,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/ceqth/,yes,,https://osf.io/ceqth/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000001,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/d2jwb/,yes,,https://osf.io/d2jwb/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000013,oliver,2020-04-25,yes,,yes,,yes,,1,1,thedata.harvard.edu/dvn/dv/lzav/faces/study/StudyPage.xhtml?globalId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000015,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/f3dh6/,yes,,https://osf.io/f3dh6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000031,oliver,2020-04-25,yes,,yes,,yes,,3,,osf.io/tvyxz/files and five.dartmouth.edu/datasetsand and doi-org.ezp.lib.unimelb.edu.au/10.25540/3wd8-dffw ,other,OSF files page found indirectly after searching. Dartmouth requires signup. Unimelb DOI redirects to NUS.,https://osf.io/tvyxz/files/,yes,,OSF,yes,,yes,,"Multiple links, lack of cohesiveness - double check to ensure OSF has all relevant data"
+a000143,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/8cq5f/,yes,,https://osf.io/8cq5f/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000182,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/emk5j/,yes,,https://osf.io/emk5j/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000229,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/7c9bw/,yes,,https://osf.io/7c9bw/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000239,oliver,2020-04-25,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/I4KVD1,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I4KVD1,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000260,oliver,2020-04-25,yes,,yes,,yes,,1,1,fcon_1000.projects.nitrc.org/indi/enhanced/access.html,other,,http://fcon_1000.projects.nitrc.org/indi/enhanced/access.html,no,Proprietary website. ,,other,"Article claims data is accessible in given link, but I could not see any clear links to download data. Hyperlinks that could lead to such data has a paywall - beyond remit of UoM student account.",,,Could not find data.
+a000390,oliver,2020-04-25,yes,,yes,,other,Article gave DOI number. I found link via Googling DOI number.,1,1,doi:10.7910/DVN/SURSEO,,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SURSEO,yes,,Harvard version of Dataverse,yes,,yes,,No problems otherwise
+a000430,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/nmabe/,yes,,https://osf.io/nmabe/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000500,oliver,2020-04-25,yes,,yes,,yes,,1,1,osf.io/rstc5/,yes,,https://osf.io/rstc5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000502,oliver,2020-04-25,no,,no,,,,,,,,,,,,,,,,,"No data badge/statement. But is a short report, not full study."
+a000533,oliver,2020-04-25,yes,,yes,,yes,,1,1,github.com/alexlwhite/WhiteBoyntonYeatman2019_Repository,yes,,https://github.com/alexlwhite/WhiteBoyntonYeatman2019_Repository,no,Github,,yes,,yes,,No problems otherwise
+a000605,oliver,2020-04-26,yes,,yes,,yes,,1,1,openicpsr.org/openicpsr/project/101920/,yes,,https://www.openicpsr.org/openicpsr/project/101920/version/V3/view;jsessionid=8880F94EFA229911DF631AB6B1249B04,yes,,ICPSR,yes,,other,Download requires account,No problems otherwise
+a000629,oliver,2020-04-26,yes,,yes,,yes,,2,,osf.io/d2ncs for exp1 and osf.io/473gq for exp2,yes,,osf.io/d2ncs and osf.io/473gq,yes,,OSF,yes,,yes,Success in both links,2 links for 2 sets of data
+a000636,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/tvyxz/,yes,,https://osf.io/tvyxz/wiki/home/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000783,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/tvyxz/,yes,,https://osf.io/tvyxz/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000806,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/48kyp/,yes,,https://osf.io/48kyp/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000823,oliver,2020-04-26,yes,,yes,,yes,,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000876,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/uane6/,yes,,https://osf.io/uane6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000902,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/xq28a/,yes,,https://osf.io/xq28a/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000932,oliver,2020-04-26,yes,,yes,,yes,,1,1,dataverse.harvard.edu/dataverse/laughterperception,yes,,https://dataverse.harvard.edu/dataverse/laughterperception,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000944,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/hp2wx/,yes,,https://osf.io/hp2wx/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001007,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/m64ue,yes,,https://osf.io/m64ue/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001011,oliver,2020-04-26,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/SBOMZD,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SBOMZD,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001107,oliver,2020-04-26,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/FTFJTV,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FTFJTV,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001144,oliver,2020-04-26,yes,,other,"Page mentions ""open data"" under ""supplements""",other,Open data badge icon is hyperlink,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QG1DCI,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QG1DCI,yes,,Harvard version of Dataverse,yes,,yes,,"Data badge/statement is extremely condensed, perhaps to the point that the data is ""open data"" is not obvious"
+a001147,oliver,2020-04-26,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?id=3037337,no,,"Could not resolve URL as outside remit of UoM student account, but this may be a way of finding it via manually searching Harvard Dataverse:  |  doi:10.1177/0956797617728270",yes,,Harvard version of Dataverse,,,,,"Manually search DOI on Harvard Dataverse, as found in resolved_url"
+a001190,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/98ta4/,yes,,https://osf.io/98ta4/,yes,,OSF,yes,,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a001223,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/tde3r/,yes,,https://osf.io/tde3r/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001247,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/tvyxz/,yes,,https://osf.io/tvyxz/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001263,oliver,2020-04-26,yes,,other,"Yes there is a data availability statement, but it says permission is limited due to privacy reasons as it involves photos of participants, hence files are limited",yes,,1,1,osf.io/tfwum/,yes,,osf.io/tfwum/? view_only¼0cc13036c196453d940a4dafc35b715c,yes,,OSF,yes,,other,Files >100 MB,Limited data availability
+a001326,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/5tus8/,yes,,https://osf.io/5tus8/files/,yes,,OSF,yes,,other,Files >100 MB,No problems otherwise
+a001395,oliver,2020-04-26,yes,,yes,,yes,,2,,osf.io/2pnu6/ and osf.io/arphg/,yes,,osf.io/2pnu6/ and osf.io/arphg/,yes,,OSF,yes,,yes,,2 links for 2 sets of data
+a001411,oliver,2020-04-26,yes,,yes,,yes,,1,1,osf.io/bqyhd/,yes,,https://osf.io/bqyhd/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001455,oliver,2020-04-26,yes,,other,"Page mentions ""open data"" under ""supplements""",yes,,1,1,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BFSGZI,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001458,oliver,2020-04-26,yes,,yes,,yes,,1,1,dx.doi.org/10.23668/psycharchives.790,yes,,https://www.psycharchives.org/handle/20.500.12034/584,yes,,PsychArchives,yes,,yes,,I didn't have any problems with this article
+a001485,oliver,2020-04-26,yes,,no,"""To find data"" in footnote, no mention of open practices",yes,,1,1,osf.io/xrk6j/,yes,,https://osf.io/xrk6j/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001635,oliver,2020-04-26,yes,,no,,yes,,1,1,osf.io/psfwz/,yes,,https://osf.io/psfwz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000003,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/myqn9/,yes,,https://osf.io/myqn9/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000121,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/cgydx/,yes,,https://osf.io/cgydx/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000122,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/j5zyf/,yes,,https://osf.io/j5zyf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000221,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/syjhd/,yes,,https://osf.io/syjhd/,yes,,OSF,yes,,other,Files >100 MB,No problems otherwise
+a000235,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/8rbvz/,yes,,https://osf.io/8rbvz/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000281,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/rf28u/,yes,,https://osf.io/rf28u/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000330,oliver,2020-04-27,yes,,no,,yes,,1,1,doi.org/10.7910/DVN/WD3IUA,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WD3IUA,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000365,oliver,2020-04-27,yes,,yes,,yes,,1,1,dx.doi.org/10.7910/DVN/IXWZZO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXWZZO,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000372,oliver,2020-04-27,yes,,yes,,yes,,1,1,journals.sagepub.com/doi/suppl/10.1177/0956797618822798,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9KSHOE,yes,,Harvard version of Dataverse,yes,,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000411,oliver,2020-04-27,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/8R3LTP,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8R3LTP,yes,,Harvard version of Dataverse,yes,,other,"Lots of stratified files.Tested 1 batch of zip files - connection to host was successful, documents downloaded.",No problems otherwise
+a000419,oliver,2020-04-27,yes,,yes,,yes,,1,1,dx.doi.org/10.5281/zenodo.18545,yes,,https://zenodo.org/record/18545,no,,,yes,,yes,,Files in external data hosting site
+a000458,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/huc2k/,yes,,https://osf.io/huc2k/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000545,oliver,2020-04-27,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/XZ0IZE,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XZ0IZE,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000558,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/zuwxt/,yes,,https://osf.io/zuwxt/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000637,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/35pf6/,yes,,https://osf.io/35pf6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000672,oliver,2020-04-27,no,,other,"""Supplemental material"" at bottom - but no mention of ""open"" data/pratices. Link itself does not lead to a data file.",,,,,,,,,,,,,,,,
+a000684,oliver,2020-04-27,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/DZ1NFG,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DZ1NFG,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000718,oliver,2020-04-27,yes,,yes,,yes,,4,,"osf.io/cdyf9, osf.io/djxyg, Study 1: osf.io/df74g and Study 2: osf.io/v9b7j",yes,,"http://osf.io/cdyf9 http://osf.io/djxyg, Study 1: http://osf.io/df74g and Study 2: http://osf.io/v9b7j.",yes,,OSF,yes,,other,"Mixed. Some zip files opened, others ""operation not permitted""",Multiple OSF links for multiple studies. Not all zip files can be extracted.
+a000720,oliver,2020-04-27,yes,,yes,,no,"Stated as ""10.6084/m9.figshare.7854731"" I Googled it, and dx.doi should have been a precursor. However, it is not clear if this found Google link is linked to the study.",,,,other,,,,,,,,,,No clear link
+a000759,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/my6te,yes,,https://osf.io/my6te/files/?view_only=3b4129763e4f4de58ef783a85ae30842,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000771,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/ycx49/,yes,,https://osf.io/ycx49/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000789,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/fq7mb/,yes,,https://osf.io/fq7mb/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000796,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/pszjz/,yes,,https://osf.io/pszjz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000827,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/w24dm/,yes,,https://osf.io/w24dm/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000925,oliver,2020-04-27,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/TJ1ZXX,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJ1ZXX,yes,,Harvard version of Dataverse,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000937,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/7p896,yes,,https://osf.io/7p896,yes,,OSF,yes,,other,"Lots of stratified files.Tested 1 single file - connection to host was successful, documents downloaded.",No problems otherwise
+a000948,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/677jr/,other,"Leads to ""public profile"" page with multiple sets of data for multiple studies. No direct link to data associated with study.","Not clear which sets are related to study, as they share overlapping characteristics",yes,,OSF,,,,,OSF link does not directly lead to data associated with study
+a000998,oliver,2020-04-27,yes,,yes,,yes,,1,1,github.com/connorjmccabe/InterActive,yes,,,no,,,yes,,yes,,"Github, not repository. Dataset does not clearly indicate association with the study"
+a001062,oliver,2020-04-27,yes,,yes,,yes,,1,1,datadryad.org/resource/doi:10.5061/dryad.g7b40,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.g7b40,yes,,DRYAD,yes,,yes,,I didn't have any problems with this article
+a001148,oliver,2020-04-27,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/WKJJ3Z,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WKJJ3Z,yes,,Harvard version of Dataverse,yes,,other,"Lots of stratified files.Tested 1 single file - connection to host was successful, documents downloaded.",No problems otherwise
+a001217,oliver,2020-04-27,yes,,yes,,yes,,2,,Study 1 (https://osf.io/hd42c/) Study 2 (https://osf.io/hd42c/),yes,,https://osf.io/hd42c/ and https://osf.io/hd42c/,yes,,OSF,yes,,yes,,2 OSF links
+a001227,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/atx26/,yes,,https://osf.io/atx26/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001328,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/mgbck/,yes,,https://osf.io/mgbck/,yes,,OSF,yes,,other,Files >100 MB,No problems otherwise
+a001336,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/m6p82/,yes,,https://osf.io/m6p82/,yes,,OSF,yes,,other,Files >100 MB,No problems otherwise
+a001394,oliver,2020-04-27,yes,,yes,,yes,,1,1,doi.org/10.1016/j.jrp.2017.11.003,other,Leads to main page on ScienceDirect,,yes,,ScienceDirect,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001405,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/a58tk/,yes,,https://osf.io/a58tk/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001432,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/fkn8m/,yes,,https://osf.io/fkn8m/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001440,oliver,2020-04-27,yes,,yes,,yes,,1,1,dx.doi.org/10.7910/DVN/EBF7XW,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBF7XW,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001465,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/enuv3/,yes,,https://osf.io/enuv3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001538,oliver,2020-04-27,yes,,yes,,yes,,1,1,osf.io/ygzx3/,yes,,https://osf.io/ygzx3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000016,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/cp76s/,yes,,osf.io/cp76s/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000047,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/tvyxz/,yes,,https://osf.io/tvyxz/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000119,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/3ymbu/,yes,,https://osf.io/3ymbu/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000146,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/j8wdv,yes,,https://osf.io/j8wdv,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000152,oliver,2020-04-28,yes,,yes,,yes,,1,1,dx.doi.org//10.17632/948rskffhd.2,yes,,https://data.mendeley.com/datasets/948rskffhd/2,yes,,Mendeley,yes,,yes,,I didn't have any problems with this article
+a000211,oliver,2020-04-28,other,,,,,,,,,,,,,,,,,,,"PDF not accessible without signup, which is beyond remit of UoM partnership. Word document is available, but is a short report without formatting/statements."
+a000273,oliver,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/tqmeh/ and https://osf.io/37u8s/,yes,,https://osf.io/tqmeh/ and https://osf.io/37u8s/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000388,oliver,2020-04-28,yes,,yes,,yes,,1,1,doi.org/10.6084/m9.figshare.4743547.v1,yes,,https://figshare.com/articles/Stats_-_In_an_Absolute_State_xlsx/4743547/1,yes,,OSF,yes,,yes,,Presented as Excel file only
+a000449,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/krshq/,yes,,https://osf.io/krshq/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000489,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/x8q4j,yes,,https://osf.io/x8q4j,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000529,oliver,2020-04-28,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/SSEN5A,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SSEN5A,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000580,oliver,2020-04-28,yes,,yes,,yes,,5,,"https://osf.io/jckvq/, https://osf.io/6n3yq/, https://osf.io/5zuq7/, https://osf.io/g5cxj/ and https://osf.io/siqyz/",,,"https://osf.io/jckvq/, https://osf.io/6n3yq/, https://osf.io/5zuq7/, https://osf.io/g5cxj/ and https://osf.io/siqyz/",yes,,OSF,yes,,yes,,5 OSF links
+a000650,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/tcuap/,yes,,https://osf.io/tcuap/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000658,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/9cxwb/,yes,,https://osf.io/9cxwb/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000676,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/fd6ue/,yes,,https://osf.io/fd6ue/,yes,,OSF,yes,,yes,,Info buried deep into p59. Found via Ctrl-F. No problems otherwise.
+a000743,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/7ugsk/,yes,,https://osf.io/7ugsk/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000748,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/aegr4/,yes,,https://osf.io/aegr4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000750,oliver,2020-04-28,other,,,,,,,,,,,,,,,,,,,"PDF not accessible without signup, which is beyond remit of UoM partnership."
+a000777,oliver,2020-04-28,yes,,yes,,yes,,1,1,dx.doi.org/10.7910/DVN/LWED0F,no,,Could not resolve,,,,,,,,Link does not work
+a000814,oliver,2020-04-28,yes,,yes,,yes,,2,,beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200001 and beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000032,yes,,,yes,,UK Data Service,yes,,other,"Required signin. Is also file by file, not bundled into zip",Needs membership to download data
+a000846,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/nfqb9,yes,,https://osf.io/nfqb9,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001004,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/d3xb7/,yes,,https://osf.io/d3xb7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001050,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/6yhmp/,yes,,https://osf.io/6yhmp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001125,oliver,2020-04-28,yes,,yes,,other,Only link with data statement leads to general page - not data linked to study,1,1,elsevier.com/journals/journal-of-experimental-social-psychology/ 0022-1031/guide-for-authors.,other,"Works, but does not lead to data",Could not resolve,,,,,,,,No link to data
+a001127,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/pxk8z/,yes,,https://osf.io/pxk8z/,yes,,OSF,yes,,other,File >100MB,No problems otherwise
+a001140,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/t28bw/,yes,,https://osf.io/t28bw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001151,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/79sqe/,yes,,https://osf.io/79sqe/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001183,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/3nkeh/,yes,,https://osf.io/3nkeh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001420,oliver,2020-04-28,yes,,yes,,yes,,1,1,doi.org/10.1016/j.jesp.2019.03.009,yes,,https://www.sciencedirect.com/science/article/abs/pii/S0022103118305997?via%3Dihub,yes,,Science Direct,no,,,,"Study mentions ""supplmentary data"" in data statement. Link leads to general page, but ""supplmentary data"" cannot be clicked on."
+a001449,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/34cd8,yes,,https://osf.io/34cd8/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001450,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/u9tk8/,yes,,https://osf.io/u9tk8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001470,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/waeqn/,yes,,https://osf.io/waeqn/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001524,oliver,2020-04-28,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/XRJ43D,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XRJ43D,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001556,oliver,2020-04-28,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/WPVSMH,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPVSMH,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001586,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/4e7hr/,yes,,https://osf.io/4e7hr/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001602,oliver,2020-04-28,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/PGGBB4,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGGBB4,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a001606,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/d2ytu/,yes,,https://osf.io/d2ytu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001607,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/bx59f/,yes,,https://osf.io/bx59f/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001644,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/f54qe,yes,,https://osf.io/f54qe,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001648,oliver,2020-04-28,yes,,yes,,yes,,1,1,osf.io/2qncf/,yes,,https://osf.io/2qncf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000073,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/6zdnh/,yes,,https://osf.io/6zdnh/files/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000082,oliver,2020-04-29,yes,,other,"Embedded within ""notes""",yes,,1,1,osf.io/anc5m/,yes,,https://osf.io/anc5m/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a000103,oliver,2020-04-29,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/VEPHLS,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VEPHLS,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000104,oliver,2020-04-29,yes,,yes,,yes,,1,1,thedata.harvard.edu/dvn/dv/kenswan.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28095,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000154,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/usdq8,yes,,https://osf.io/usdq8/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000164,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/28gxz/,yes,,https://osf.io/28gxz/files/,yes,,OSF,yes,,other,File >100 MB,No problems otherwise
+a000181,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/jkbm9/,yes,,https://osf.io/jkbm9/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000196,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/9v34x,yes,,https://osf.io/9v34x,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000197,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/946vb/,yes,,https://osf.io/946vb/files/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000238,oliver,2020-04-29,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/7190MT,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7190MT,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000334,oliver,2020-04-29,yes,,yes,,yes,,1,1,dx.doi.org/10.7910,yes,,https://dx.doi.org/10.7910,yes,,DOI,other,"No visible ""download button"". Just hyperlinks that display data on internet page itself. Not clear that it is associated with study either.",,,"No files, not clear if associated with study"
+a000337,oliver,2020-04-29,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/RW10GZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RW10GZ,yes,,Harvard version of Dataverse,yes,,yes,,I didn't have any problems with this article
+a000460,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/92vfw/,yes,,https://osf.io/92vfw/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000470,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/h5nbu/,yes,,https://osf.io/h5nbu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000518,oliver,2020-04-29,yes,,yes,,other,Only has one OSF link - but is the general homepage at osf.io/tvyxz/,,,,,,,,,,,,,,No OSF link to data
+a000532,oliver,2020-04-29,yes,,yes,,other,Only has one OSF link - but is the general homepage at osf.io/tvyxz/,,,,,,,,,,,,,,No OSF link to data. Same as above - but they are separate studies with same issue - just a coincidence
+a000539,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/px8h3/,yes,,https://osf.io/px8h3/,yes,,OSF,yes,,other,File >100 MB,No problems otherwise
+a000617,oliver,2020-04-29,yes,,yes,,yes,,1,1,figshare.com/s/cccac39f891998509c85,other,"Error message - file can't be previewed, but can download directly",https://figshare.com/s/cccac39f891998509c85,other,Figshare,,yes,,yes,,No problems otherwise
+a000714,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/7wazk/,yes,,https://osf.io/7wazk/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000721,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/4ufvz/,yes,,https://osf.io/4ufvz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000811,oliver,2020-04-29,yes,,yes,,yes,,2,,osf.io/u3byh and osf.io/h49y7,yes,,osf.io/u3byh and osf.io/h49y7,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000864,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/m6vkg/,yes,,https://osf.io/m6vkg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000918,oliver,2020-04-29,yes,,yes,,yes,,1,1,doi.org/10.7910/DVN/ACYZIC,yes,,dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ACYZIC,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001018,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/8xg6m/,yes,,https://osf.io/8xg6m/,yes,,OSF,yes,,other,"Downloaded successfully, but zip file could not be extracted - operation not permitted",Zip files could not be extracted
+a001026,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/wc3sj/,yes,,https://osf.io/wc3sj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001059,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/8j7ub/,yes,,https://osf.io/8j7ub/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001060,oliver,2020-04-29,yes,,yes,,yes,,1,1,figshare.com/s/18a543c101a17a1d5560,yes,,https://figshare.com/s/18a543c101a17a1d5560,yes,,OSF,yes,,yes,,"PDF only, which display data, than raw data files"
+a001178,oliver,2020-04-29,yes,,yes,,yes,,1,1,osf.io/t2856/,yes,,https://osf.io/t2856/,yes,,OSF,yes,,yes,,I didn't have any problems with this article

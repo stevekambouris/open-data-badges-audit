@@ -1,0 +1,179 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+demo01,steve,2020-04-02,yes,,yes,,yes,,1,1,http://tiny.cc/l4wacz,yes,,https://osf.io/g3h52/?view_only=None,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+demo02,steve,2020-04-02,yes,,yes,,yes,,1,1,osf.io/uh3in,yes,,https://osf.io/uh3in/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro01,Aniruddah,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/n6pfz,yes,,https://osf.io/n6pfz/,yes,,OSF,yes,,yes,,"Link to ""supplementary materials"" was provided, but explicity link to open data was given the higher priority in this case."
+intro02,Aniruddah,2020-04-07,yes,,yes,,yes,,1,1,https://nyu.databrary.org/volume/79,yes,,https://nyu.databrary.org/volume/79,yes,,Databrary,yes,,no,,"Link to download the data from the explicitly cited repo did not work, plus download size was quoted to be more than 1GB."
+intro03,Aniruddah,2020-04-07,yes,,yes,,yes,,1,1,https://osf.io/9w8pg/,yes,,https://osf.io/9w8pg/,yes,,OSF,yes,,yes,,No mention to any supplementary data or materials. Clear article to work through.
+intro04,Aniruddah,2020-04-07,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5061/dryad.d2441,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,,Dryad,yes,,yes,,"Again, like most psychology articles, supplementary data is provided in SAGE Journals, but it does not seem to be of primary importance."
+intro05,Aniruddah,2020-04-07,yes,,yes,,yes,,1,,http://thedata.harvard.edu/dvn/dv/PainData,yes,,https://dataverse.harvard.edu/dataverse/PainData,yes,,Harvard Dataverse,yes,,yes,,"Here, the repo link contained two different data sets, and intuition via cross-referencing data set and article publishing dates helped identify which data set to download."
+intro06,Aniruddah,2020-04-07,yes,,yes,,yes,,1,1,osf.io/zw6jg/,yes,,https://osf.io/zw6jg/,yes,,OSF,yes,,yes,,"The mention of the data repo link was vague compared to other articles, but seemed to be the best link in the article."
+intro07,Aniruddah,2020-04-08,yes,,yes,,yes,,1,1,osf.io/8jxsr/.,yes,,https://osf.io/8jxsr/,yes,,OSF,yes,,other,File download is taking too long,"No other problems with this article, except that the file download is taking too long (over an hour), assuming that final download size may be more than 100MB."
+intro08,Aniruddah,2020-04-08,yes,,yes,,yes,,1,1,http://doi.org/10.3886/ICPSR04652.v6,yes,,https://www.icpsr.umich.edu/web/NACDA/studies/4652/versions/V7,yes,,ICPSR (Inter-university Consortium for Political and Social Research,yes,,yes,,"Two links were provided in this article, but both lead to the same data repository - ICPSR - and hence only one link is chosen here."
+intro09,Aniruddah,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/xehfu/,yes,,https://osf.io/xehfu/,yes,,OSF,yes,,yes,,No problems with article.
+intro10,Aniruddah,2020-04-08,yes,,yes,,yes,,1,1,http://pisa2006.acer.edu.au/downloads.php,no,Link redirects to an IP address that cannot be found,http://pisa2006.acer.edu.au/downloads.php,,,,,,,,"The data repo link listed in the open practices disclosure pdf under the supplementary materials page for this article in SAGE journals is the same as this link, and hence, no other explicity link seems to indicate to the data."
+a000003,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,osf.io/myqn9,yes,,https://osf.io/myqn9/,yes,,OSF,yes,,yes,,No issues with this article.
+a000101,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/etrcd/,yes,,https://osf.io/etrcd/,yes,,OSF,yes,,yes,,No issues with this article.
+a000175,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/BPON3K,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BPON3K,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000181,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/jkbm9/,yes,,https://osf.io/jkbm9/,yes,,OSF,yes,,yes,,No issues with this article.
+a000187,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/C4WN8,yes,,https://osf.io/c4wn8/,yes,,OSF,yes,,yes,,"The repository has lots of additional material which may be relevant to admin details of the project, but only the folder with the data files have been downloaded"
+a000215,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/kfdca/,yes,,https://osf.io/kfdca,yes,,OSF,yes,,yes,,"As always, links to open materials have been ignored, and only those that reference to data have been coded in."
+a000217,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/wk3ve/.,yes,,https://osf.io/wk3ve/,yes,,OSF,yes,,yes,,No issues with this article.
+a000223,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/ybu6r,yes,,https://osf.io/ybu6r/,yes,,OSF,yes,,yes,,No issues with this article.
+a000285,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/tnjqs/,yes,,https://osf.io/tnjqs/,yes,,OSF,yes,,yes,,No issues with this article.
+a000309,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.14264/uql.2019.12,yes,,https://espace.library.uq.edu.au/view/UQ:21a02ec,yes,,UQ eSpace,yes,,other,Total download size breaches the 100MB threshold.,"The repository was a new one. The files required seperate download. Some files were small a(1MB), others were way bigger(10GB). Considering zipping all of them together would not reduce file size below 100MB, file was not downloaded. No other appropriate source of data other then this either."
+a000316,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/nft78/,yes,,https://osf.io/nft78/,yes,,OSF,yes,,yes,,No issues with this article.
+a000322,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,osf.io/au4x3,yes,,https://osf.io/au4x3/,yes,,OSF,yes,,yes,,No issues with this article.
+a000331,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/ZFLG25,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZFLG25,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000353,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://osf.io/bdvxs/,yes,,https://osf.io/bdvxs,yes,,OSF,yes,,yes,,No issues with this article.
+a000523,Aniruddah,2020-04-16,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/FPYKTP,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FPYKTP,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000532,Aniruddah,2020-04-21,yes,,yes,,other,,1,1,https://doi.org/10.1002/jnr.24485,yes,,https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.24485,no,,,yes,,yes,,"This article does not have any explicitly mentioned link to the data, however supplementary materials have been mentioned, which have been downloaded individually and zipped into one file, although the materials were not from a recognized repository, rather a journal database."
+a000538,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/OGVWDE,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OGVWDE,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000554,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/u9ac3/,yes,,https://osf.io/u9ac3/,yes,,OSF,yes,,yes,,No issues with this article.
+a000622,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/myfg7,yes,,https://osf.io/myfg7,yes,,OSF,yes,,yes,,No issues with this article.
+a000675,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/W1TDGZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W1TDGZ,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000727,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,osf.io/8n7ev,yes,,https://osf.io/8n7ev/,yes,,OSF,yes,,yes,,No issues with this article.
+a000742,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/tn3y5/,yes,,https://osf.io/tn3y5/,yes,,OSF,yes,,yes,,No issues with this article.
+a000810,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/bqzpt/,yes,,https://osf.io/bqzpt/,yes,,OSF,yes,,yes,,No issues with this article.
+a000879,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/chpfn/,yes,,https://osf.io/chpfn,yes,,OSF,yes,,yes,,No issues with this article.
+a000977,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/45mxw/,yes,,https://osf.io/45mxw,yes,,OSF,yes,,yes,,No issues with this article.
+a001011,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/SBOMZD,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SBOMZD,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001018,Aniruddah,2020-04-21,yes,,yes,,yes,,1,1,https://osf.io/8xg6m/,yes,,https://osf.io/8xg6m/,yes,,OSF,yes,,yes,,No issues with this article.
+a001112,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/n2kxa/,yes,,https://osf.io/n2kxa/,yes,,OSF,yes,,yes,,No issues with this article.
+a001130,Aniruddah,2020-04-22,yes,,no,,no,,,,,,,,,,,,,,,"This article has no mention of open practices or data availability, rather the author has quoted several websites from which he referenced the data used in his article."
+a001150,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/g6x7f/?view_only=a780cde9131745bebce281fcd0029a9c.,yes,,https://osf.io/g6x7f/?view_only=a780cde9131745bebce281fcd0029a9c,yes,,OSF,yes,,yes,,No issues with this article.
+a001201,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/9gyvd/,yes,,https://osf.io/9gyvd/,yes,,OSF,yes,,yes,,No issues with this article.
+a001311,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,osf.io/4r9zs,yes,,https://osf.io/4r9zs/,yes,,OSF,yes,,yes,,"Like a few other articles, this article linked to a repository which had lots of other files related to the article, but only those listed under 'data' in the repository have been identified and downloaded."
+a001330,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,osf.io/s6p9v,yes,,https://osf.io/s6p9v/,yes,,OSF,yes,,yes,,"Unlike other articles, the data availability statement only appeared in the Notes section at the end of the article, together with the link to the repository."
+a001382,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,osf.io/zd2j9/,yes,,https://osf.io/zd2j9/files/,yes,,OSF,yes,,yes,,No issues with this article.
+a001423,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/6d3ry/,yes,,https://osf.io/6d3ry/,yes,,OSF,yes,,yes,,No issues with this article.
+a001488,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/b4cqm/,yes,,https://osf.io/b4cqm/,yes,,OSF,yes,,yes,,No issues with this article.
+a001531,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/3hm4g/,yes,,https://osf.io/3hm4g/,yes,,OSF,yes,,yes,,No issues with this article.
+a001547,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,http://osf.io/s92i4/,yes,,https://osf.io/s92i4,yes,,OSF,yes,,yes,,No issues with this article.
+a001646,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/83v4u,yes,,https://osf.io/83v4u/,yes,,OSF,yes,,yes,,No issues with this article.
+a001661,Aniruddah,2020-04-22,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/WPKTKJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPKTKJ,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000025,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/kz53g/,yes,,https://osf.io/kz53g/,yes,,OSF,yes,,yes,,No issues with this article.
+a000026,Aniruddah,2020-05-01,yes,,no,,no,,,,,,,,,,,,,,,"This article has cited several webpages from where it referenced data, but these weren't necessarily data repositories, so were not considered."
+a000159,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/t6gwf/,yes,,https://osf.io/t6gwf/,yes,,OSF,yes,,yes,,No issues with this article.
+a000165,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/uwzsb,yes,,https://osf.io/uwzsb/,yes,,OSF,yes,,yes,,No issues with this article.
+a000174,Aniruddah,2020-05-01,yes,,yes,,yes,,2,1,osf.io/msphv,yes,,https://osf.io/msphv/,yes,,OSF,yes,,yes,,This was the first article to validly have two seperate links to data.
+a000174,Aniruddah,2020-05-01,yes,,yes,,yes,,2,2,osf.io/yegrv,yes,,https://osf.io/yegrv/,yes,,OSF,yes,,yes,,This was the first article to validly have two seperate links to data.
+a000177,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,http://osf.io/r3eca,yes,,https://osf.io/r3eca,yes,,OSF,yes,,yes,,No issues with this article.
+a000306,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/k8t4b/,yes,,https://osf.io/k8t4b/,yes,,OSF,yes,,yes,,No issues with this article.
+a000333,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/x3prf,yes,,https://osf.io/x3prf/,yes,,OSF,yes,,yes,,"Close call, with the download size of the .zip file being 99.5MB"
+a000399,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5061/dryad.5t0b8,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.5t0b8,yes,,Dryad,yes,,other,,Download size exceed 100MB.
+a000402,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/I0VEMG,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/I0VEMG,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000414,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/eujyn,yes,,https://osf.io/eujyn/,yes,,OSF,yes,,yes,,No issues with this article.
+a000442,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/hkzsm/,yes,,https://osf.io/hkzsm/,yes,,OSF,yes,,yes,,No issues with this article.
+a000501,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://www.iris-database.org/iris/app/home/search?query5Jung1in1press,yes,,https://www.iris-database.org/iris/app/home/search?query=Jung+in+press,yes,,IRIS Digital Repository,no,,,,"The redirected link does not contain any hint of the data files, and seems like account needs to be created anyway, so would not have been possible to get data."
+a000519,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/9tgy4/,yes,,https://osf.io/9tgy4/,yes,,OSF,yes,,yes,,No issues with this article.
+a000556,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/hjfw9/,yes,,https://osf.io/hjfw9/,yes,,OSF,yes,,yes,,No issues with this article.
+a000571,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/vcqmd/,yes,,https://osf.io/vcqmd/,yes,,OSF,yes,,yes,,No issues with this article.
+a000585,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/j9aa7/,yes,,https://osf.io/j9aa7/,yes,,OSF,yes,,yes,,No issues with this article.
+a000665,Aniruddah,2020-05-01,yes,,yes,,yes,,3,1,https://osf.io/heun6/,yes,,https://osf.io/heun6/,yes,,OSF,yes,,yes,,"This article had three valid OSF links, and within the three links, only the directories having to do with data were downloaded."
+a000665,Aniruddah,2020-05-01,yes,,yes,,yes,,3,2,https://osf.io/8sxgu/,yes,,https://osf.io/8sxgu/,yes,,OSF,yes,,yes,,
+a000665,Aniruddah,2020-05-01,yes,,yes,,yes,,3,3,https://osf.io/p5fta/,yes,,https://osf.io/p5fta/,yes,,OSF,yes,,yes,,
+a000704,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/54jd9/,yes,,https://osf.io/54jd9,yes,,OSF,yes,,yes,,No issues with this article.
+a000710,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/btkjw,yes,,https://osf.io/btkjw/,yes,,OSF,yes,,yes,,No issues with this article.
+a000716,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/r5kcn/,yes,,https://osf.io/r5kcn/,yes,,OSF,yes,,yes,,"Here it was possible to download data and materials together as one zip file. In these kind of situations, insisting file size doesn't cross 100MB, both were downloaded together."
+a000824,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/pz4he/,yes,,https://osf.io/pz4he/,yes,,OSF,yes,,yes,,No issues with this article.
+a000892,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,http://dx.doi.org/10.17605/OSF.IO/JTZU8,yes,,https://osf.io/jtzu8/,yes,,OSF,yes,,yes,,No issues with this article.
+a000905,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/pfuyq,yes,,https://osf.io/pfuyq,yes,,OSF,yes,,yes,,"Again, only those listed as data were downloaded from the linked repository."
+a000945,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GGDUND,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GGDUND,yes,,Harvard Dataverse,yes,,yes,,"This article had two distinct links to harvard dataverse, but only the one leading to possible data used for the article is downloaded,"
+a000974,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/xscvw/,yes,,https://osf.io/xscvw/,yes,,OSF,yes,,yes,,No issues with this article.
+a001069,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/m3neh/,yes,,https://osf.io/m3neh/,yes,,OSF,yes,,yes,,No issues with this article.
+a001166,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/PGCVDP,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGCVDP,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001197,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/re48w,yes,,https://osf.io/re48w,yes,,OSF,yes,,yes,,No issues with this article.
+a001243,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/nfh28/,yes,,https://osf.io/nfh28/,yes,,OSF,yes,,yes,,No issues with this article.
+a001260,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/3cmz4/,yes,,https://osf.io/3cmz4,yes,,OSF,yes,,yes,,"This article had three variations of the same study, and hence three different data sets under one link. All three data sets for the three variations have been seen to be valid and downloaded as per usual."
+a001277,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/45gch/,yes,,https://osf.io/45gch/,yes,,OSF,yes,,yes,,No issues with this article.
+a001289,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/JQEUBQ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JQEUBQ,yes,,Harvard Dataverse,yes,,partial,,"The dataset for this article had some restricted pdfs that could not be downloaded, but as it is listed under dataset in harvard dataverse, considering it to be a data source. Hence listing download success as partial."
+a001291,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/wgeum,yes,,https://osf.io/wgeum/,yes,,OSF,yes,,yes,,No issues with this article.
+a001298,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/sd76g/,yes,,https://osf.io/sd76g/,yes,,OSF,yes,,yes,,No issues with this article.
+a001334,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,http://osf.io/2dc4p,yes,,https://osf.io/2dc4p/,yes,,OSF,yes,,yes,,No issues with this article.
+a001346,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/FZI6NO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FZI6NO,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001376,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/txa5j/,yes,,https://osf.io/txa5j/,yes,,OSF,yes,,yes,,"Once again, only the data portion from the repository has been downloaded."
+a001414,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/XJQALC,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XJQALC,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001598,Aniruddah,2020-05-01,yes,,yes,,yes,,1,1,https://osf.io/yn5u8/,yes,,https://osf.io/yn5u8/,yes,,OSF,yes,,yes,,No issues with this article.
+a000040,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/fkmbh/,yes,,https://osf.io/fkmbh/,yes,,OSF,yes,,yes,,No issues with this article.
+a000089,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/3htpj/,yes,,https://osf.io/3htpj/,yes,,OSF,yes,,yes,,No issues with this article.
+a000131,Aniruddah,2020-05-11,yes,,yes,,yes,,2,1,https://osf.io/p97fk/,yes,,https://osf.io/p97fk/,yes,,OSF,yes,,yes,,"This article has 4 studies, three of which have data sets linked within OSF, and one from Harvard Dataverse."
+a000131,Aniruddah,2020-05-11,yes,,yes,,yes,,2,2,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26910,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26910,yes,,Harvard Dataverse,yes,,yes,,
+a000142,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/WD3IUA,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WD3IUA,yes,,Harvard Dataverse,yes,,yes,,The link in the article leading to the repository was copied from under the link location of the actual hyperlink in the article.
+a000163,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/d8wvt/.,yes,,https://osf.io/d8wvt,yes,,OSF,yes,,yes,,No issues with this article.
+a000256,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/39vsg/,yes,,https://osf.io/39vsg/,yes,,OSF,yes,,yes,,No issues with this article.
+a000401,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/c5ju9,yes,,https://osf.io/c5ju9/,yes,,OSF,yes,,yes,,No issues with this article.
+a000403,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/92xqk/,yes,,https://osf.io/92xqk/,yes,,OSF,yes,,yes,,No issues with this article.
+a000413,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/LD6NL8,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LD6NL8,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000427,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/wcrd2/,yes,,https://osf.io/wcrd2/,yes,,OSF,yes,,yes,,No issues with this article.
+a000446,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/k3fj6/,yes,,https://osf.io/k3fj6/,yes,,OSF,yes,,other,,Download size exceeded 100MB.
+a000447,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/embpx/,yes,,https://osf.io/embpx/,yes,,OSF,yes,,yes,,No issues with this article.
+a000452,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/arqp8/,yes,,https://osf.io/arqp8/,yes,,OSF,yes,,other,,Download size exceeded 100MB.
+a000561,Aniruddah,2020-05-11,yes,,yes,,yes,,2,1,https://osf.io/ik356/,yes,,https://osf.io/ik356/,yes,,OSF,yes,,yes,,"Here two links were provided, and not being able to infer which may act as the data, both links were listed, and the respective files downloaded."
+a000561,Aniruddah,2020-05-11,yes,,yes,,yes,,2,2,https://osf.io/kj3r7/,yes,,https://osf.io/kj3r7/,yes,,OSF,yes,,yes,,
+a000563,Aniruddah,2020-05-11,yes,,yes,,yes,,2,1,https://osf.io/4x8mu/?view_only=753fda4b39dd449e99942875079bd400,yes,,https://osf.io/4x8mu/?view_only=753fda4b39dd449e99942875079bd400,yes,,OSF,yes,,yes,,"Here there were again two links in the article, and both seemed to be relevant sources of data, and are both listed henceforth. Multiple download files in one source, as again, article had seperate studies with seperate data sets."
+a000563,Aniruddah,2020-05-11,yes,,yes,,yes,,2,2,https://osf.io/b8y6h/?view_only=b2e1f32ca3cb4bdd8e643428970e213a,yes,,https://osf.io/b8y6h/?view_only=b2e1f32ca3cb4bdd8e643428970e213a,yes,,OSF,yes,,yes,,
+a000568,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,http://hdl.handle.net/10871/19257,yes,,https://ore.exeter.ac.uk/repository/handle/10871/19257,yes,,Open Research Exeter (ORE),yes,,yes,,New repository.
+a000643,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/jxad3/,yes,,https://osf.io/jxad3,yes,,OSF,yes,,yes,,No issues with this article.
+a000645,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/egtrb,yes,,https://osf.io/egtrb,yes,,OSF,yes,,yes,,No issues with this article.
+a000726,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/zkfhs/,yes,,https://osf.io/zkfhs/,yes,,OSF,yes,,yes,,No issues with this article.
+a000883,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/MPQQC0,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MPQQC0,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000891,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/e2a6h/,yes,,https://osf.io/e2a6h/,yes,,OSF,yes,,yes,,"The link in this article had 6 zip files which had to be downloaded seperately. As it was tough to differentiate what may be important from what may not be, all six files were zipped and downloaded."
+a000912,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/csfmd/,yes,,https://osf.io/csfmd/,yes,,OSF,yes,,yes,,No issues with this article.
+a000916,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://osf.io/jkktw,yes,,https://osf.io/jkktw/,yes,,OSF,yes,,yes,,No issues with this article.
+a000926,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/J2FA5R,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/J2FA5R,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000982,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/LZGQOH,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LZGQOH,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001001,Aniruddah,2020-05-11,yes,,yes,,yes,,1,1,http://osf.io/ietwv/,yes,,https://osf.io/ietwv/,yes,,OSF,yes,,yes,,No issues with this article.
+a001048,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/uw2t2/,yes,,https://osf.io/uw2t2,yes,,OSF,yes,,yes,,No issues with this article.
+a001104,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://bit.ly/2ljvoKP,yes,,https://drive.switch.ch/index.php/s/ZDfdl9pVOdkQHYn,yes,,SWITCHdrive,yes,,yes,,New repository.
+a001160,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/9KXM4/,yes,,https://osf.io/9KXM4/,yes,,OSF,yes,,yes,,No issues with this article.
+a001161,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/ckwjx/,yes,,https://osf.io/ckwjx/,yes,,OSF,yes,,yes,,No issues with this article.
+a001244,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/5cfj6/,yes,,https://osf.io/5cfj6/,yes,,OSF,yes,,yes,,No issues with this article.
+a001252,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/jfxtr,yes,,https://osf.io/jfxtr/,yes,,OSF,yes,,yes,,No issues with this article.
+a001351,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/4kanr/,yes,,https://osf.io/4kanr,yes,,OSF,yes,,yes,,No issues with this article.
+a001380,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,http://www.iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,,https://www.iris-database.org/iris/app/home/detail?id=york:935928&amp;ref=search,yes,,IRIS Digital Repository,yes,,yes,,No issues with this article.
+a001404,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,osf.io/hw2ac,yes,,https://osf.io/hw2ac/,yes,,OSF,yes,,no,,File download is taking too long.
+a001417,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/r2ujq/?view_onlyc0f24616fffa4805b09b5f552c5a466e,yes,,https://osf.io/r2ujq/?view_only-c0f24616fffa4805b09b5f552c5a466e,yes,,OSF,yes,,yes,,No issues with this article.
+a001444,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/cd893/?view_only=5c5dd4ed81cc497d9ee1cb383da909cf,yes,,https://osf.io/cd893/?view_only=5c5dd4ed81cc497d9ee1cb383da909cf,yes,,OSF,yes,,yes,,No issues with this article.
+a001584,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/8KNF3I,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8KNF3I,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001589,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/knv6e/?view_only=00a0fed2ca434490ba087c12031239b0,yes,,https://osf.io/knv6e/?view_only=00a0fed2ca434490ba087c12031239b0,yes,,OSF,yes,,yes,,No issues with this article.
+a001603,Aniruddah,2020-05-13,yes,,yes,,yes,,1,1,https://osf.io/e652h/,yes,,https://osf.io/e652h/,yes,,OSF,yes,,yes,,Only the data component in the repository was downloaded.
+a000019,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/YVE8F,yes,,https://osf.io/yve8f/,yes,,OSF,yes,,yes,,No issues with this article.
+a000043,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,osf.io/tmdvn,yes,,https://osf.io/tmdvn/,yes,,OSF,yes,,no,,"Download was taking longer then 20 minutes, so voided."
+a000090,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/e9mhc/,yes,,https://osf.io/e9mhc,yes,,OSF,yes,,no,,Download size bigger then 100MB.
+a000118,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,osf.io/b5sar,yes,,https://osf.io/b5sar/,yes,,OSF,yes,,yes,,No issues with this article.
+a000136,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/9d6t4/,yes,,https://osf.io/9d6t4/,yes,,OSF,yes,,yes,,No issues with this article.
+a000188,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/zg427/,yes,,https://osf.io/zg427/,yes,,OSF,yes,,yes,,"Again, only the link leading to a data repository was selected."
+a000329,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/gw9jh/,yes,,https://osf.io/gw9jh/,yes,,OSF,yes,,yes,,No issues with this article.
+a000339,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/b7qpu/,yes,,https://osf.io/b7qpu/,yes,,OSF,yes,,yes,,No issues with this article.
+a000343,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/8z2an/,yes,,https://osf.io/8z2an,yes,,OSF,yes,,yes,,No issues with this article.
+a000364,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/pa8jw/,yes,,https://osf.io/pa8jw/,yes,,OSF,yes,,yes,,No issues with this article.
+a000411,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/8R3LTP,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8R3LTP,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a000422,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/sgwv6/,yes,,https://osf.io/sgwv6,yes,,OSF,yes,,yes,,No issues with this article.
+a000484,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://www.oa.uni-hamburg.de/hattke-kalucza,yes,,https://www.oa.uni-hamburg.de/hattke-kalucza,yes,,University of Hamburg OA,yes,,yes,,New repository type.
+a000518,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://iris-database.org,yes,,https://iris-database.org/iris/app/home/index,yes,,IRIS Digital Repository,yes,,yes,,"Redirects to home page of IRIS, but searching for authors leads to paper, and hence there are files that were downloaded."
+a000638,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/59wda/,yes,,https://osf.io/59wda/,yes,,OSF,yes,,other,,Download size bigger then 100MB.
+a000639,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/3r2q9/,yes,,https://osf.io/3r2q9/,yes,,OSF,yes,,yes,,No issues with this article.
+a000759,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,http://bit.ly/music_entropy_MMN,yes,,https://osf.io/my6te/?view_only=3b4129763e4f4de58ef783a85ae30842,yes,,OSF,yes,,yes,,No issues with this article.
+a000794,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/sy6ue/,yes,,https://osf.io/sy6ue/,yes,,OSF,yes,,yes,,No issues with this article.
+a000796,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/pszjz/.,yes,,https://osf.io/pszjz/,yes,,OSF,yes,,yes,,No issues with this article.
+a000845,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://www.iris-database.org,yes,,https://www.iris-database.org/iris/app/home/index,yes,,IRIS Digital Repository,yes,,yes,,"Redirects to home page of IRIS, but searching for authors leads to paper, and hence there are files that were downloaded."
+a000948,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/677jr/,yes,,https://osf.io/677jr/,yes,,OSF,yes,,yes,,"Link does not redirect to data directly, but rather have to open another link to get to the data files."
+a000976,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,osf.io/3jhr7,yes,,https://osf.io/3jhr7/,yes,,OSF,yes,,yes,,No issues with this article.
+a001055,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/vk4hp/,yes,,https://osf.io/vk4hp/,yes,,OSF,yes,,yes,,No issues with this article.
+a001125,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://www.elsevier.com/journals/journal-of-experimental-social-psychology/0022-1031/guide-for-authors,yes,,https://www.elsevier.com/journals/journal-of-experimental-social-psychology/0022-1031/guide-for-authors,no,,"Elsevier, which in itself is not a data repository.",no,,,,"The link to elsevier has no hint as to where to find the data. Upon further checking, the data does exist in Mendeley Data repository, but as the link did not redirect anywhere in Mendeley, files were not downloaded."
+a001158,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/75mau/,yes,,https://osf.io/75mau/,yes,,OSF,yes,,yes,,No issues with this article.
+a001211,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/PL2XFD,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PL2XFD,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001231,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/esw34/,yes,,https://osf.io/esw34/,yes,,OSF,yes,,yes,,No issues with this article.
+a001245,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/OOIEAO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OOIEAO,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001279,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/YWZBUJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YWZBUJ,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001306,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/ZSJA25,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSJA25,yes,,Harvard Dataverse,yes,,yes,,No issues with this article.
+a001333,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/mtsvy/,yes,,https://osf.io/mtsvy/,yes,,OSF,yes,,yes,,No issues with this article.
+a001361,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/efjd6/,yes,,https://osf.io/efjd6/,yes,,OSF,yes,,other,,Download size bigger then 100MB.
+a001445,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/e2aks/,yes,,https://osf.io/e2aks/,yes,,OSF,yes,,yes,,No issues with this article.
+a001449,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/34cd8/,,,https://osf.io/34cd8/files/,yes,,OSF,yes,,yes,,No issues with this article.
+a001500,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,osf.io/mpf64,yes,,https://osf.io/mpf64/,yes,,OSF,yes,,yes,,No issues with this article.
+a001507,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,osf.io/b69g8,yes,,https://osf.io/b69g8/,yes,,OSF,yes,,yes,,No issues with this article.
+a001526,Aniruddah,2020-05-15,yes,,yes,,no,,,,,,,,,,,,,,,"Article mentions data files available in Harvard Dataverse, but no link to repository."
+a001559,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://doi.org/10.17605/osf.io/rq4fv,yes,,https://osf.io/rq4fv/,yes,,OSF,yes,,yes,,No issues with this article.
+a001564,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/n9sd6/,yes,,https://osf.io/n9sd6/,yes,,OSF,yes,,yes,,No issues with this article.
+a001591,Aniruddah,2020-05-15,yes,,yes,,yes,,1,1,https://osf.io/5vy69/?view_only=23a8c0762ef64333b1eb605010d68934,yes,,https://osf.io/5vy69/?view_only=23a8c0762ef64333b1eb605010d68934,yes,,OSF,yes,,yes,,No issues with this article.

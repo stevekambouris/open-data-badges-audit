@@ -1,0 +1,407 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+a001935,EG,30/5/2024,yes,NA,yes,NA,other,"Link provided for Study 1 only, this row, contact provided for study 2.",1,1,https://doi.org/10.34894/9UIPH4,yes,NA,https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/9UIPH4,yes,NA,DataverseNL,NA,NA,NA,NA,Link for study 1 only: 'Data and materials for Study 2 can be obtained from M. J. Crockett (molly.crock ett@yale.edu)'
+a002246,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://hdl.handle.net/1903/21495,yes,NA,https://drum.lib.umd.edu/items/adbd4dd2-a118-4d87-a4ba-509374d1dc94,yes,NA,Digital Repository at the University of Maryland (DRUM),yes,NA,yes,NA,Supposedly ' access to the data is limited to qualified researchers' but I was able to locate this without doing anything special. May have already been logged into SSO perhaps.
+a002142,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5061/dryad.6hdr7sr2k,yes,NA,https://datadryad.org/stash/dataset/doi:10.5061/dryad.6hdr7sr2k,yes,NA,Dryad,yes,NA,yes,NA,NA
+a002163,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.25397/eur.17179514,yes,NA,https://datarepository.eur.nl/articles/dataset/Datasets_and_code_of_the_paper_A_personal_model_of_trumpery_Linguistic_deception_detection_in_a_real-world_high-stakes_setting_/17179514,yes,NA,Erasmus University of Rotterdam research repository,yes,NA,yes,NA,NA
+a001861,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.6084/m9.figshare.11409447.v1,yes,NA,https://figshare.com/articles/dataset/Dissociating_representations_of_time_and_number_in_reinforcement_rate_learning_by_GluA1_AMPAR_subunit_deletion_in_mice/11409447/1,yes,NA,figshare,yes,NA,yes,NA,NA
+a002179,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.6084/m9.figshare.c.5630842.v2,yes,NA,https://figshare.com/collections/Datasets_The_language_of_social_touch_is_intuitive_and_quantifiable/5630842/2,yes,NA,figshare,yes,NA,other,Extremely large file size,NA
+a001672,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://github.com/alexandradecker/lapses-and-memory-,yes,NA,https://github.com/alexandradecker/lapses-and-memory-,yes,NA,GitHub,yes,NA,yes,NA,NA
+a001987,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://github.com/emoriebeck/behavior-prediction,yes,NA,https://github.com/emoriebeck/behavior-prediction,yes,NA,GitHub,yes,NA,yes,NA,NA
+a001887,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://github.com/shan0903/ThreePiglet2022,yes,NA,https://github.com/shan0903/ThreePiglets2022,yes,NA,GitHub,yes,NA,yes,NA,NA
+a002032,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FQ8MIL,yes,NA,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FQ8MIL,yes,NA,Harvard Dataverse,yes,NA,yes,NA,NA
+a001780,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,3,https://hrsdata.isr.umich.edu/data-products/rand-hrs-archived-data-products,other,"Biannual data products that get overwritten wen new longitudinal data is added. Page not found error, but on link 2 the 2020 file can be found which has the entire longitudinal dataset from 2016 plus the additional new data.",https://hrsdata.isr.umich.edu/data-products/rand-hrs-longitudinal-file-2020,yes,NA,Health and Retirement Study,other,"Biannual data products that get overwritten wen new longitudinal data is added. Page not found error for link_url, but on link 2 the 2020 file can be found which has the entire longitudinal dataset from 2016 plus the additional new data.",other,login account required,This is a specific link given to a specific data product: randhrs1992_2016v1_archive_STATA longitudinal data file for 2016.
+a001780,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,1,https://hrs.isr.umich.edu/data-products,yes,NA,https://hrs.isr.umich.edu/data-products,yes,NA,HRS Portal,other,This is a general link given to the data repository for this study. Specifc links for the data products used in each of the studies are provided in additional rows.,other,"No files at this link given,This is a general link given to the data repository for this study. Specifc links for the data products used in each of the studies are provided in additional rows.",This is a general link given to the data repository for this study. Specifc links for the data products used in each of the studies are provided in additional rows. Data come from the University of Michigan's Institute of Social Research HRS Data Products Page
+a001780,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,2,https://hrsdata.isr.umich.edu/data-products/rand?_ga=2,yes,NA,https://hrsdata.isr.umich.edu/data-products/rand?_ga=2,yes,NA,HRS Portal,yes,NA,other,login account required,"This is a specific link given to specific data products: RAND HRS Fat Files for years 2006, 2008, 2010, 2012, 2014, 2016;  h06f3a_STATA, h08f3a_STATA, hd10f5f_ STATA, h12f3a_STATA, h14f2b_STATA, h16f2b_STATA."
+a002145,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://www.humanconnectome.org/contact-us,yes,NA,https://www.humanconnectome.org/contact-us,no,NA,Human Connectome Project,other,data available on request via resolved url form,NA,NA,Human Connectome Project data set through the Human Connectome Project team
+a002168,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://www.icpsr.umich.edu/web/ICPSR/series/203/studies?archive=ICPSR&sortBy=7,yes,NA,https://www.icpsr.umich.edu/web/ICPSR/series/203/studies?archive=ICPSR&sortBy=7,yes,NA,ICPSR,yes,NA,other,login account or institutional access required,NA
+a002204,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.3886/ICPSR37353.v1,yes,NA,https://www.icpsr.umich.edu/web/ICPSR/studies/37353/versions/V1,yes,NA,ICPSR,other,ICPSR does not hold the data for this study and therefore there are no files available to download from ICPSR. They may be available externally by contacting the data owners.,other,ICPSR does not hold the data for this study and therefore there are no files available to download from ICPSR. They may be available externally by contacting the data owners.,NA
+a001807,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://www.lissdata.nl/,yes,NA,https://www.lissdata.nl/,yes,NA,"Longitudinal Internet Studies for the Social Sciences (LISS) panel administered by Centerdata (Tilburg University, The Netherlands)",other,Researchers who would like to request access to the data can contact Centerdata (https://www.lissdata.nl/).,NA,NA,"Study 2 used data of the Longitudinal Internet Studies for the Social Sciences (LISS) panel administered by Centerdata (Tilburg University, The Netherlands).  Access requires contacting the organisation at the URL"
+a002236,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://midus.wisc.edu/data/index.php,yes,NA,https://midus.wisc.edu/data/index.php,yes,NA,Midlife in the United States (MIDUS) study,other,"Data actually is not hosted on this website, there's a link to the ICPSR repository MIDUS  study page given ' Midlife in the United States (MIDUS) study'. Since data availability statement did not specify which dataset to use, but found specific mention of studies whose data files could be located at each study link.",other,Account required,"Strange case. 1. Data actually is not hosted on this website, there's a link to the ICPSR repository MIDUS  study page given ' Midlife in the United States (MIDUS) study'  2. Was not clear from data availability statement exactly WHICH datasets from the MIDUS study the authors used."
+a002072,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4u69g,other,Forbidden. User has restricted access to this page,https://accounts.osf.io/login?service=https://osf.io/4u69g/,yes,NA,OSF,other,Forbidden. User has restricted access to this page. Must request access.,no,NA,NA
+a001733,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ecdrt/,other,Forbidden. User has restricted access to this page,https://accounts.osf.io/login?service=https://osf.io/ecdrt/,yes,NA,OSF,other,Forbidden. User has restricted access to this page. Must request access.,no,NA,Article has been retracted
+a002207,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,1,https://archive.vn/e5vCe,yes,NA,https://archive.vn/e5vCe,other,webpage archive,NA,other,File is a web archive of a report which contains tables of data. I assume authors copied and pasted the tables to use as their data.,other,document cannot be downloaded but table text can be copied and pasted,Simulation 1: 'Data for Simulation 1 were obtained from https://archive .vn/e5vCe and https://www.payscale.com/data/racial- wage-gap-for-men and are archived at https://osf.io/ kcn63/ '
+a002219,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,http://brm.psychonomic-journals.org/content/supplemental,no,This Account has been suspended. Contact your hosting provider for more information.',https://brm.psychonomic-journals.org/cgi-sys/suspendedpage.cgi,NA,NA,NA,NA,NA,NA,NA,All data and code have been made publicly available via OSF and can be accessed at https://osf.io/jfxaz. Word- frequency norms from the SUBTLEXUS corpus are publicly available at http://brm.psychonomic-journals.org/content/ supplemental.
+a001692,EG,13/4/2024,yes,NA,yes,NA,yes,NA,2,1,https://subscribe.billboard.com,other,subscription fee required to access,https://www.billboard.com/subscribe/,other,repository but also offers additioanl services,NA,other,only available for purchase,NA,NA,"This link is for study 1 in paper, which uses data requiring a monetary fee. Statement from author: ""Billboard chart rankings data for Study 1 are available at https://subscribe.billboard.com for a small fee. Users are not permitted to retransmit, disclose, or distribute the Bill- board chart-rankings data."""
+a002207,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,2,https://www.payscale.com/data/racial-wage-gap-for-men,yes,NA,https://www.payscale.com/research-and-insights/racial-wage-gap-for-men/,other,webpage with interactive data visualisations that can be downloaded,NA,other,Interactive figure output,other,"interactive figure output, that can be downloaded as pdf image or powerpoint",Simulation 1: 'Data for Simulation 1 were obtained from https://archive .vn/e5vCe and https://www.payscale.com/data/racial- wage-gap-for-men and are archived at https://osf.io/ kcn63/'
+a002166,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://nda.nih.gov/study.html?id=851,yes,NA,https://nda.nih.gov/study.html?id=851,yes,NA,National Institute of Mental Health Data Archive,other,permission required,NA,NA,Data can be accessed on request to repository.
+a001986,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/23ekf/,yes,NA,https://osf.io/23ekf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002135,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/23zvb/,yes,NA,https://osf.io/23zvb/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001800,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/24ewh,yes,NA,https://osf.io/24ewh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001718,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/25rpx/,yes,NA,https://osf.io/25rpx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001890,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/26w4u,yes,NA,https://osf.io/26w4u/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002256,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/28g3j,yes,NA,https://osf.io/28g3j/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001673,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2avtu/,yes,NA,https://osf.io/2avtu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001814,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2b9vr/,yes,NA,https://osf.io/2b9vr/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001727,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2f8yn/?view_only=8ac1f586d72f4a33af6ff84a5c44227b,yes,NA,https://osf.io/2f8yn/?view_only=8ac1f586d72f4a33af6ff84a5c44227b,yes,NA,OSF,yes,NA,yes,NA,NA
+a002119,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2fg5w/,yes,NA,https://osf.io/2fg5w/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001874,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2fmg9/,yes,NA,https://osf.io/2fmg9/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001851,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2gaem,yes,NA,https://osf.io/2gaem/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002058,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2kv5r/,yes,NA,https://osf.io/2kv5r/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001657,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2mh48/,yes,NA,https://osf.io/2mh48/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001713,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2sv5r,yes,NA,https://osf.io/2sv5r/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002205,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/2xgyf/,yes,NA,https://osf.io/2xgyf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002031,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/32jsy/,yes,NA,https://osf.io/32jsy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001722,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3ahkf,yes,NA,https://osf.io/3ahkf/,yes,yes,OSF Registries,yes,NA,yes,NA,NA
+a002154,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3e9s6,yes,NA,https://osf.io/3e9s6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002203,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3efgd/,yes,NA,https://osf.io/3efgd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001946,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3f8hy,yes,NA,https://osf.io/3f8hy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002120,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3g8zf,yes,NA,https://osf.io/3g8zf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001922,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3kj6u,yes,NA,https://osf.io/3kj6u/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001872,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3mbwu,yes,NA,https://osf.io/3mbwu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001988,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3q52t/,yes,NA,https://osf.io/3q52t/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002125,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3q5zg,yes,NA,https://osf.io/3q5zg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002167,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3rb6u,yes,NA,https://osf.io/3rb6u/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002004,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/3U587,yes,NA,https://osf.io/3u587/,yes,NA,OSF Registries,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001720,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3um4k,yes,NA,https://osf.io/3um4k/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001900,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3vfas/,yes,NA,https://osf.io/3vfas/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001942,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3z6kw/,yes,NA,https://osf.io/3z6kw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001771,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3zg2k,yes,NA,https://osf.io/3zg2k/,yes,NA,OSF Registries,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002106,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/3zwxc/,yes,NA,https://osf.io/3zwxc/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001707,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/432u7/,yes,NA,https://osf.io/432u7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002151,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/43hzk,yes,NA,https://osf.io/43hzk/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001926,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/45gyk/,yes,NA,https://osf.io/45gyk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002221,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/48g2s/,yes,NA,https://osf.io/48g2s/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002128,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/49v5z/,yes,NA,https://osf.io/49v5z/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002200,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4agk8/,yes,NA,https://osf.io/4agk8/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002077,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4d9u6/,yes,NA,https://osf.io/4d9u6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001903,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4nfmk,yes,NA,https://osf.io/4nfmk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001968,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/4sw2t/,yes,NA,https://osf.io/4sw2t/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001806,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4tdx5/,yes,NA,https://osf.io/4tdx5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001984,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4tgxy/,yes,NA,https://osf.io/4tgxy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001951,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4tmsu,yes,NA,https://osf.io/4tmsu/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002216,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4ucrd,yes,NA,https://osf.io/4ucrd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001755,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/4zrq8/,yes,NA,https://osf.io/4zrq8/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001910,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/524en/,yes,NA,https://osf.io/524en/,yes,NA,OSF Registries,yes,NA,yes,NA,Sample C
+a002009,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5es7n/,yes,NA,https://osf.io/5es7n/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001762,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5v7sg/,yes,NA,https://osf.io/5v7sg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001795,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5vysk/,yes,NA,https://osf.io/5vysk/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002012,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5x3ft/,yes,NA,https://osf.io/5x3ft/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001854,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5xfsm/,yes,NA,https://osf.io/5xfsm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002130,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/5y4z6/,yes,NA,https://osf.io/5y4z6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002038,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/637sa,yes,NA,https://osf.io/637sa/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002070,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/638pe,yes,NA,https://osf.io/638pe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002117,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/64ct2,yes,NA,https://osf.io/64ct2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001826,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/684uy/,yes,NA,https://osf.io/684uy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001944,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6a9je/,yes,NA,https://osf.io/6a9je/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001837,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/6DE2B,yes,NA,https://osf.io/6de2b/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002030,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/6DR7Y,yes,NA,https://osf.io/6dr7y/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001676,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6fk9a/,yes,NA,https://osf.io/6fk9a/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002107,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6r4zy/,yes,NA,https://osf.io/6r4zy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002162,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6t3du,yes,NA,https://osf.io/6t3du/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001810,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,1,https://osf.io/6x3fs/,yes,NA,https://osf.io/6x3fs/,yes,NA,OSF,other,The data sets used in the present study are listed in Table 1 in the supplemental material at https://osf.io/6x3fs/. Requests to access the data should be directed to the rel- evant authors.'The data sets used in the present study are listed in Table 1 in the supplemental material at https://osf.io/6x3fs/. Requests to access the data should be directed to the rel- evant authors.,yes,NA,"This is a meta-analysis. This row lists the metadata for the studies included in the data analysis. As per files_exist_other, authors direct reader to contact authors of references listed in Table 1."
+a002068,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/6zxc5,yes,NA,https://osf.io/6zxc5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001778,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/7236z,yes,NA,https://osf.io/7236z/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001796,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/72q3w/,yes,NA,https://osf.io/72q3w/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001427,EG,12/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/78cqx/,yes,NA,https://osf.io/78cqx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001929,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7bfy9/,yes,NA,https://osf.io/7bfy9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001898,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7btfq/,yes,NA,https://osf.io/7btfq/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001824,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7cmwf/,yes,NA,https://osf.io/7cmwf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001768,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7d3xh/,yes,NA,https://osf.io/7d3xh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001752,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7drza,yes,NA,https://osf.io/7drza/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001843,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7j6kh/,yes,NA,https://osf.io/7j6kh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001957,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/7jfbp,yes,NA,https://osf.io/7jfbp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001774,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7jm53/,yes,NA,https://osf.io/7jm53/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001884,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7sbpk/,yes,NA,https://osf.io/7sbpk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001674,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7tfqz,yes,NA,https://osf.io/7tfqz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001993,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/7xbyf/,yes,NA,https://osf.io/7xbyf/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001724,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/82zuc/,yes,NA,https://osf.io/82zuc/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002037,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/847df/,yes,NA,https://osf.io/847df/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002150,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/84yhe/,yes,NA,https://osf.io/84yhe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001772,EG,30/5/2024,yes,NA,yes,NA,other,link not provided for study 1 and pilot study.,1,1,https://osf.io/84ztd/,yes,NA,https://osf.io/84ztd/,yes,NA,OSF,other,Data not provided for study 1 and for pilot study.,yes,NA,Link only given for studies 2:4. Data for studies 1 and the pilot study did not have a link.
+a002233,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/85kwv,yes,NA,https://osf.io/85kwv/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001829,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/86tbg/,yes,NA,https://osf.io/86tbg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001781,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/87rbg/,yes,NA,https://osf.io/87rbg/,yes,NA,OSF,yes,NA,yes,NA,Study 1 Data: Psychological Science Accelerator 001
+a001886,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/89zmj/,yes,NA,https://osf.io/89zmj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001987,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/8ebyx/,yes,NA,https://osf.io/8ebyx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002147,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8h52v,yes,NA,https://osf.io/8h52v/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002008,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8ntuc/,yes,NA,https://osf.io/8ntuc/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002121,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8v6u9/,yes,NA,https://osf.io/8v6u9/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002226,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/8vgm2,yes,NA,https://osf.io/8vgm2/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001911,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/92vn6/,yes,NA,https://osf.io/92vn6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002227,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/92zvr,yes,NA,https://osf.io/92zvr/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001695,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/948zd/,yes,NA,https://osf.io/948zd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001950,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/94r87/,yes,NA,https://osf.io/94r87/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001883,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/952mv,yes,NA,https://osf.io/952mv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001964,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/9cges,yes,NA,https://osf.io/9cges/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001747,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/9DBX3,yes,NA,https://osf.io/9dbx3/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002092,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9fapj/,yes,NA,https://osf.io/9fapj/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001954,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9gnkc/,yes,NA,https://osf.io/9gnkc/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002182,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9jaf6,yes,NA,https://osf.io/9jaf6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001862,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9jrpu,yes,NA,https://osf.io/9jrpu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001919,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9kz2g,yes,NA,https://osf.io/9kz2g/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001793,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9v3gk/,yes,NA,https://osf.io/9v3gk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001683,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9wfsr/,yes,NA,https://osf.io/9wfsr/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001818,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/9xun6/,yes,NA,https://osf.io/9xun6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001965,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/A6Y7R,yes,NA,https://osf.io/a6y7r/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001679,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/a89tu/,yes,NA,https://osf.io/a89tu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002011,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/a8sd4,yes,NA,https://osf.io/a8sd4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002230,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/a95kv/,yes,NA,https://osf.io/a95kv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001934,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/amry5/files/,yes,NA,https://osf.io/amry5/files/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002006,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/aps8h/,yes,NA,https://osf.io/aps8h/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001820,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/aqku2/,yes,NA,https://osf.io/aqku2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001867,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/aqng6/,yes,NA,https://osf.io/aqng6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001815,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/arjzw/,yes,NA,https://osf.io/arjzw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001712,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/aur2t,yes,NA,https://osf.io/aur2t/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001841,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bc3wn/,yes,NA,https://osf.io/bc3wn/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001711,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bdcsx/,yes,NA,https://osf.io/bdcsx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001715,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bjx5m/,yes,NA,https://osf.io/bjx5m/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001947,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bkuwt,yes,NA,https://osf.io/bkuwt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002073,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bnsyj/,yes,NA,https://osf.io/bnsyj/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001791,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bnwdv/,yes,NA,https://osf.io/bnwdv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001902,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bpavz/files,yes,NA,https://osf.io/bpavz/files,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002172,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bu6zr/,yes,NA,https://osf.io/bu6zr/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002104,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bw69r/,yes,NA,https://osf.io/bw69r/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001757,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/bxgn4,yes,NA,https://osf.io/bxgn4/,yes,NA,OSF,yes,NA,yes,NA,"This is a reanalysis of the authors earlier work with a new dataset, after another published reanalysis found conflicting findings to the original study. This row has the link to the original dataset from: Quoidbach, J., Taquet, M., Desseilles, M., de Montjoye, Y.-A., & Gross, J. J. (2019). Happiness and social behavior."
+a001809,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/bxgn4,yes,NA,https://osf.io/bxgn4/,yes,NA,OSF,yes,NA,yes,NA,"Data for the original study: (Quoidbach et al., 2019)"
+a001849,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/byjef/,yes,NA,https://osf.io/byjef/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001801,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/c3wju/,yes,NA,https://osf.io/c3wju/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002014,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/c7t6k,yes,NA,https://osf.io/c7t6k/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001714,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/c7yrv,yes,NA,https://osf.io/c7yrv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002249,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/c9pqd/,yes,NA,https://osf.io/c9pqd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001736,EG,30/5/2024,yes,NA,other,Open Data badge displayed but text says received open materials badge under 'open practices' subsection.,other,Link for simulation code is given. No link to data supplied.,1,1,https://osf.io/c9urf,yes,NA,https://osf.io/c9urf/,yes,NA,OSF,yes,NA,yes,NA,"TODO Received open data badge, but open practices statement says received badge for open materials. Link to simulation code given. Which at a glance seems to be code that generates data. Have coded links and data statement as other."
+a002053,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/cbxjh,yes,NA,https://osf.io/cbxjh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002255,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/cdftx,yes,NA,https://osf.io/cdftx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001702,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/cvekx/,yes,NA,https://osf.io/cvekx/,yes,yes,OSF Registries,yes,NA,yes,NA,NA
+a001691,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/cyusp,yes,NA,https://osf.io/cyusp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001692,EG,13/4/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/d2xbu,yes,NA,https://osf.io/d2xbu/,yes,NA,OSF,yes,NA,yes,NA,"This link is for the remaining open data in studies, study 1 - study 5."
+a001709,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/d4pmg/,yes,NA,https://osf.io/d4pmg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001773,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/d5rnu/,yes,NA,https://osf.io/d5rnu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001730,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/d6j4u/,yes,NA,https://osf.io/d6j4u/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001967,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/d7ght/,yes,NA,https://osf.io/d7ght/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001767,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/dbn7e/,yes,NA,https://osf.io/dbn7e/,yes,NA,OSF,yes,NA,yes,NA,Study 1 Data
+a002146,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/dc2p6/,yes,NA,https://osf.io/dc2p6/,yes,NA,OSF,other,"Data, materials, and analysis code for Studies 1a and 1b; Studies 2a, 2b, and 2c; and Study 4 have been made pub- licly available via OSF",yes,NA,"Data for other studies not included. Data was scraped from online review websites, but not shared."
+a001910,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/dnf2t/,yes,NA,https://osf.io/dnf2t/,yes,NA,OSF Registries,yes,NA,yes,NA,Samples A & B
+a002076,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/dytxs/,yes,NA,https://osf.io/dytxs/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001821,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/dzc7v,yes,NA,https://osf.io/dzc7v/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001767,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/dzw5b/,yes,NA,https://osf.io/dzw5b/,yes,NA,OSF,yes,NA,yes,NA,Study 2 Data
+a001945,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,osf.io/e2kc6/,yes,NA,https://osf.io/e2kc6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001770,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/e3a2k/,yes,NA,https://osf.io/e3a2k/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002042,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/e4mbv,yes,NA,https://osf.io/e4mbv/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002187,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/e5jwt,yes,NA,https://osf.io/e5jwt/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001881,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/e72ka,yes,NA,https://osf.io/e72ka/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001873,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/e8xnz/,yes,NA,https://osf.io/e8xnz/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002153,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ea67f/,yes,NA,https://osf.io/ea67f/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002111,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/egz64,yes,NA,https://osf.io/egz64/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002254,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/erjq9/,yes,NA,https://osf.io/erjq9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001664,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/euvwt,yes,NA,https://osf.io/euvwt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002173,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ewjrs/,yes,NA,https://osf.io/ewjrs/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001948,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/exz4p/,yes,NA,https://osf.io/exz4p/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002190,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/F6QSK,yes,NA,https://osf.io/f6qsk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002210,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/f9sh3,yes,NA,https://osf.io/f9sh3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002178,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/fbdgs/,yes,NA,https://osf.io/fbdgs/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001960,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/fbm7s/,yes,NA,https://osf.io/fbm7s/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001857,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/fcg8b/,yes,NA,https://osf.io/fcg8b/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001735,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/fcwx3,yes,NA,https://osf.io/fcwx3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001781,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/fj9bd/,yes,NA,https://osf.io/fj9bd/,yes,NA,OSF,yes,NA,yes,NA,Study 2 Data: All data for Study 2 were obtained from the study by Zickfeld and colleagues (2021)
+a002195,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/fnh9u/,yes,NA,https://osf.io/fnh9u/,yes,NA,OSF,yes,NA,yes,NA,Preregistered Direct Replications (PDRs) 1
+a002022,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/fqm84,yes,NA,https://osf.io/fqm84/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001904,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ftxsc/,yes,NA,https://osf.io/ftxsc/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002247,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/fwypd/,yes,NA,https://osf.io/fwypd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001928,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/fwz2r/,yes,NA,https://osf.io/fwz2r/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001742,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/fyvbh,yes,NA,https://osf.io/fyvbh/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002052,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/g2cbe/,yes,NA,https://osf.io/g2cbe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001753,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/g69m4,yes,NA,https://osf.io/g69m4/,yes,NA,OSF,yes,NA,yes,NA,Separate links given. Experiment 2 Link
+a001694,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gb5cn/,yes,NA,https://osf.io/gb5cn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001812,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gb7js/,yes,NA,https://osf.io/gb7js/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001738,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gjh3c,yes,NA,https://osf.io/gjh3c/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002181,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gn92m/,yes,NA,https://osf.io/gn92m/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002044,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/guqrm,yes,NA,https://osf.io/guqrm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002066,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gx5tr/,yes,NA,https://osf.io/gx5tr/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001997,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gz9a3,yes,NA,https://osf.io/gz9a3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001991,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/gzq9k,yes,NA,https://osf.io/gzq9k/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001716,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/h79kd,yes,NA,https://osf.io/h79kd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002155,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/h7uqv/,yes,NA,https://osf.io/h7uqv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002174,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hc8n4/,yes,NA,https://osf.io/hc8n4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002248,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hdq7a/,yes,NA,https://osf.io/hdq7a/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002018,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hfb6r,yes,NA,https://osf.io/hfb6r/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002005,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hm7cw,yes,NA,https://osf.io/hm7cw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001696,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hmt9a/,yes,NA,https://osf.io/hmt9a/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001744,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hs32y/,yes,NA,https://osf.io/hs32y/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001916,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hua8v/,yes,NA,https://osf.io/hua8v/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001693,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hw3gy,yes,NA,https://osf.io/hw3gy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002156,EG,30/5/2024,yes,NA,yes,NA,other,"Data missing for study 1: 'In Study 1, we used large-scale, proprietary data from a real-world company'",1,1,https://osf.io/hyk97/,yes,NA,https://osf.io/hyk97/,yes,NA,OSF,yes,NA,yes,NA,"Only some data shared, and details for that first dataset aren't provided."
+a002123,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/hyn8q/,yes,NA,https://osf.io/hyn8q/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002131,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/j67c3/,yes,NA,https://osf.io/j67c3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002055,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/j6bkc/,yes,NA,https://osf.io/j6bkc/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001810,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,3,https://osf.io/j6r7h/,yes,NA,https://osf.io/j6r7h/,yes,NA,OSF,yes,NA,yes,NA,This is a meta-analysis. Author description of this data file:  'Data transformed into daily behav- ioral profiles are available at https://osf.io/j6r7h/.'
+a002231,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/je4h7/,yes,NA,https://osf.io/je4h7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002219,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/jfxaz,yes,NA,https://osf.io/jfxaz/,yes,NA,OSF,yes,NA,yes,NA,All data and code have been made publicly available via OSF and can be accessed at https://osf.io/jfxaz. Word-frequency norms from the SUBTLEXUS corpus are publicly available at http://brm.psychonomic-journals.org/content/supplemental.
+a001983,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jghq4/,yes,NA,https://osf.io/jghq4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002159,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jmv94,yes,NA,https://osf.io/jmv94/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002059,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jnmda,yes,NA,https://osf.io/jnmda/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002001,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jrtfn/,yes,NA,https://osf.io/jrtfn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001785,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jrtqw/,yes,NA,https://osf.io/jrtqw/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002180,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jsqpd,yes,NA,https://osf.io/jsqpd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001853,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jv7wt,yes,NA,https://osf.io/jv7wt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002090,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jxczq/,yes,NA,https://osf.io/jxczq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001822,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/jys6u/,yes,NA,https://osf.io/jys6u/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002023,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/k2dbf/,yes,NA,https://osf.io/k2dbf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002069,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/k3jsk,yes,NA,https://osf.io/k3jsk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001915,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/k5fb2/,yes,NA,https://osf.io/k5fb2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002207,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,3,https://osf.io/kcn63/,yes,NA,https://osf.io/kcn63/,yes,NA,OSF,yes,NA,yes,NA,Simulation 1: datasets both archived at this OSf link: 'Data for Simulation 1 were obtained from https://archive .vn/e5vCe and https://www.payscale.com/data/racial- wage-gap-for-men and are archived at https://osf.io/ kcn63/'
+a001734,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kcvgy/,yes,NA,https://osf.io/kcvgy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001839,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kd6hu/,yes,NA,https://osf.io/kd6hu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001913,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ke2f5/,yes,NA,https://osf.io/ke2f5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001739,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kefqp/,yes,NA,https://osf.io/kefqp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001775,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kg7wb/,yes,NA,https://osf.io/kg7wb/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002095,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kgmpy,yes,NA,https://osf.io/kgmpy/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001848,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/kj4tr,yes,NA,https://osf.io/kj4tr/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002098,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/km8c9/,yes,NA,https://osf.io/km8c9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001844,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kmau4,yes,NA,https://osf.io/kmau4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001888,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kp2qx/,yes,NA,https://osf.io/kp2qx/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001846,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kq247/,yes,NA,https://osf.io/kq247/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002002,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/kqux5,yes,NA,https://osf.io/kqux5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001971,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ks5tr/,yes,NA,https://osf.io/ks5tr/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002112,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/m6rgw,yes,NA,https://osf.io/m6rgw/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001728,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/m74tj/,yes,NA,https://osf.io/m74tj/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001699,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/m8trh/,yes,NA,https://osf.io/m8trh/,yes,NA,OSF,other,Link only has data for studies 1 and 2 but data for additional meta-analysis has not been included.,yes,NA,Unclear weather additional meta-analysis data has been provided or not. It seems from the data availability statement that only the original studies in this paper have archived data.
+a002250,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mbx96/,yes,NA,https://osf.io/mbx96/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002026,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/me7w4/,yes,NA,https://osf.io/me7w4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001697,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/MFZG4/,yes,NA,https://osf.io/MFZG4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001794,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mghr6/,yes,NA,https://osf.io/mghr6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002043,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mj9ux/,yes,NA,https://osf.io/mj9ux/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002234,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mjrpy,yes,NA,https://osf.io/mjrpy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002080,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mnv5j,yes,NA,https://osf.io/mnv5j/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001995,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mp4nu,yes,NA,https://osf.io/mp4nu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001831,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mtsqv/,yes,NA,https://osf.io/mtsqv/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001779,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mygt2/,yes,NA,https://osf.io/mygt2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001932,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/mys79,yes,NA,https://osf.io/mys79/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002134,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ncdt2,yes,NA,https://osf.io/ncdt2/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001956,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/nrhu2/,yes,NA,https://osf.io/nrhu2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002047,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/p5xed,yes,NA,https://osf.io/p5xed/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002165,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/pf97d/,yes,NA,https://osf.io/pf97d/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001980,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/pm7v9,yes,NA,https://osf.io/pm7v9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001918,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/pq3ky/,yes,NA,https://osf.io/pq3ky/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002244,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/q69cm,yes,NA,https://osf.io/q69cm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001972,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/q7vj9/,yes,NA,https://osf.io/q7vj9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001807,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/qctkx/,yes,NA,https://osf.io/qctkx/,yes,NA,OSF,yes,NA,yes,NA,Study 1 Data
+a002054,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qcvr6,yes,NA,https://osf.io/qcvr6/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001827,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qeku3/,yes,NA,https://osf.io/qeku3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002110,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/qfjk9,yes,NA,https://osf.io/qfjk9/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002139,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qnye7,yes,NA,https://osf.io/qnye7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001703,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qsdfp/,yes,NA,https://osf.io/qsdfp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001799,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qsxp8/,yes,NA,https://osf.io/qsxp8/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002183,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qw4b3/,yes,NA,https://osf.io/qw4b3/,yes,NA,OSF,yes,NA,yes,NA,Authors specifically say processed data is shared. 'All processed data and analysis scripts have been made publicly available'
+a001958,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/qywh4/,yes,NA,https://osf.io/qywh4/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002035,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/r3z7p/,yes,NA,https://osf.io/r3z7p/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002114,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/r5eqy/,yes,NA,https://osf.io/r5eqy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001840,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/r64cu/,yes,NA,https://osf.io/r64cu/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001789,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/r7bes/,yes,NA,https://osf.io/r7bes/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001949,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/r84uz/,yes,NA,https://osf.io/r84uz/,yes,NA,OSF,y,NA,yes,NA,NA
+a002239,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/raqcp/,yes,NA,https://osf.io/raqcp/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002157,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rb2wc/,yes,NA,https://osf.io/rb2wc/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001675,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rkfq5/,yes,NA,https://osf.io/rkfq5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001871,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rtx5j/,yes,NA,https://osf.io/rtx5j/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002096,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ruxmk,yes,NA,https://osf.io/ruxmk/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001894,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rv8pe/,yes,NA,https://osf.io/rv8pe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001751,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rvzna/,yes,NA,https://osf.io/rvzna/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002201,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rx3e6/,yes,NA,https://osf.io/rx3e6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002078,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/rzevn,yes,NA,https://osf.io/rzevn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002024,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/s2md8/,yes,NA,https://osf.io/s2md8/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002169,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/s8xk9/,yes,NA,https://osf.io/s8xk9/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001776,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/s94ge/,yes,NA,https://osf.io/s94ge/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001169,EG,12/4/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/sd265/,yes,NA,https://osf.io/sd265/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001901,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/sg3vd/,yes,NA,https://osf.io/sg3vd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002252,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/sgqav,yes,NA,https://osf.io/sgqav/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002057,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/sk3pw/,yes,NA,https://osf.io/sk3pw/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001784,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/sq9td,yes,NA,https://osf.io/sq9td/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002085,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/sz2fe/,yes,NA,https://osf.io/sz2fe/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001808,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/sz8yt/,yes,NA,https://osf.io/sz8yt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002206,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/t3ek6/,yes,NA,https://osf.io/t3ek6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002251,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/t69jd/,yes,NA,https://osf.io/t69jd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001763,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tav35/,yes,NA,https://osf.io/tav35/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001880,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tb9c6,yes,NA,https://osf.io/tb9c6/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001729,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tgn7f/,yes,NA,https://osf.io/tgn7f/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001667,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tnhez,yes,NA,https://osf.io/tnhez/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001920,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tq92h/,yes,NA,https://osf.io/tq92h/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a001990,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/tr868/,yes,NA,https://osf.io/tr868/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001002,EG,12/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/udrjg/,yes,NA,https://osf.io/udrjg/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001174,EG,12/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/udxqp/,yes,NA,https://osf.io/udxqp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002074,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uhbx5/,yes,NA,https://osf.io/uhbx5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001989,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ujhn9/,yes,NA,https://osf.io/ujhn9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a000291,EG,12/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uncbt/,yes,NA,https://osf.io/uncbt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002109,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uskbm/,yes,NA,https://osf.io/uskbm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001830,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uyv64/,yes,NA,https://osf.io/uyv64/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001678,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uzmb9/,yes,NA,https://osf.io/uzmb9/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001680,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/uzncm/,yes,NA,https://osf.io/uzncm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001753,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://osf.io/v3stn,yes,NA,https://osf.io/v3stn/,yes,NA,OSF,yes,NA,yes,NA,Separate links given. Experiment 1 Link
+a001698,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/v4dx7/,yes,NA,https://osf.io/v4dx7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001787,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vcydf/,yes,NA,https://osf.io/vcydf/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001685,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/ve837/,yes,NA,https://osf.io/ve837/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002100,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vf9s2/,yes,NA,https://osf.io/vf9s2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002220,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vfd2n/,yes,NA,https://osf.io/vfd2n/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002060,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vfdrt/,yes,NA,https://osf.io/vfdrt/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002223,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vtf6d/,yes,NA,https://osf.io/vtf6d/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002063,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/vtpf8,yes,NA,https://osf.io/vtpf8/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002099,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/w2xu8/,yes,NA,https://osf.io/w2xu8/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001978,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/w3qrn/,yes,NA,https://osf.io/w3qrn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001845,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/w4kht/,yes,NA,https://osf.io/w4kht/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002083,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/w8skp/,yes,NA,https://osf.io/w8skp/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001966,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wg6de/,yes,NA,https://osf.io/wg6de/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001668,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/whzcx/,yes,NA,https://osf.io/whzcx/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002093,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wk345/,yes,NA,https://osf.io/wk345/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001710,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wn2yb/,yes,NA,https://osf.io/wn2yb/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001836,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wt4e5/,yes,NA,https://osf.io/wt4e5/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001893,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wtpmd/,yes,NA,https://osf.io/wtpmd/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002041,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,http://osf.io/wumry,yes,NA,https://osf.io/wumry/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001998,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/wzsx6,yes,NA,https://osf.io/wzsx6/,yes,NA,OSF Registries,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001769,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/x5493,yes,NA,https://osf.io/x5493/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002094,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/x79pm,yes,NA,https://osf.io/x79pm/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002213,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xbp2f/?view_only=d6b110b808454c4f85820777ea80438d,yes,NA,https://osf.io/xbp2f/?view_only=d6b110b808454c4f85820777ea80438d,yes,NA,OSF,yes,NA,yes,NA,view only link but can still downloafrom browser
+a001938,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xdpku,yes,NA,https://osf.io/xdpku/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002127,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xgwzf/,yes,NA,https://osf.io/xgwzf/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001865,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xhnsy,yes,NA,https://osf.io/xhnsy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002061,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xk78c/,yes,NA,https://osf.io/xk78c/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001930,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xm7pw,yes,NA,https://osf.io/xm7pw/,yes,NA,OSF Registries,yes,NA,yes,NA,NA
+a002185,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xn8g7/,yes,NA,https://osf.io/xn8g7/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001810,EG,30/5/2024,yes,NA,yes,NA,yes,NA,3,2,https://osf.io/xvd6s/,yes,NA,https://osf.io/xvd6s/,yes,NA,OSF,yes,NA,yes,NA,"This is a meta-analysis. Author description of this data file: 'The distributions of coefficients derived from our data processing, alongside annotated analysis scripts, are publicly available via OSF and can be accessed at https://osf.io/xvd6s/.'"
+a002195,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://osf.io/xwzpc/,yes,NA,https://osf.io/xwzpc/,yes,NA,OSF,yes,NA,yes,NA,Preregistered Direct Replications (PDRs) 2
+a001745,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/xzke7/,yes,NA,https://osf.io/xzke7/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001976,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/y3ud7,yes,NA,https://osf.io/y3ud7/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001805,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/y4dms,yes,NA,https://osf.io/y4dms/,yes,NA,OSF Registries,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002087,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/y76p2,yes,NA,https://osf.io/y76p2/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001977,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/y8kp3/,yes,NA,https://osf.io/y8kp3/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002010,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/y9s3k/,yes,NA,https://osf.io/y9s3k/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001798,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/yazn6/,yes,NA,https://osf.io/yazn6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002007,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/yf7a6/,yes,NA,https://osf.io/yf7a6/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001687,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/yra56/,yes,NA,https://osf.io/yra56/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001748,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/yuta6,yes,NA,https://osf.io/yuta6/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001677,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/z28rq,yes,NA,https://osf.io/z28rq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001708,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/z2bsa/,yes,NA,https://osf.io/z2bsa/,yes,yes,OSF Registries,yes,NA,yes,NA,NA
+a001682,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/z2der/,yes,NA,https://osf.io/z2der/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001905,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/z2nvy/,yes,NA,https://osf.io/z2nvy/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001917,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/z3cmn/,yes,NA,https://osf.io/z3cmn/,yes,NA,OSF,yes,NA,yes,NA,NA
+a002000,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.17605/OSF.IO/Z6D7J,yes,NA,https://osf.io/z6d7j/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001959,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/zdc8t/,yes,NA,https://osf.io/zdc8t/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001912,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/zep2b,yes,NA,https://osf.io/zep2b/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001940,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/zjqxd/,yes,NA,https://osf.io/zjqxd/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a002149,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/zpsyf/,yes,NA,https://osf.io/zpsyf/,yes,NA,OSF,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.
+a001907,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/zr52m/,yes,NA,https://osf.io/zr52m/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001759,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://osf.io/zu8fq/,yes,NA,https://osf.io/zu8fq/,yes,NA,OSF,yes,NA,yes,NA,NA
+a001858,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://researchbox.org/190,yes,NA,https://researchbox.org/190,yes,NA,Research Box,yes,NA,yes,NA,NA
+a002238,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://researchbox.org/322,yes,NA,https://researchbox.org/322,yes,NA,Research Box,yes,NA,yes,NA,NA
+a001963,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://researchbox.org/372,yes,NA,https://researchbox.org/372,yes,NA,Research Box,yes,NA,yes,NA,NA
+a001863,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://researchbox.org/527,yes,NA,https://researchbox.org/527,yes,NA,Research Box,yes,NA,yes,NA,NA
+a001792,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://researchbox.org/801,yes,NA,https://researchbox.org/801,yes,NA,Research Box,yes,NA,yes,NA,NA
+a002209,EG,30/5/2024,NA,NA,NA,NA,yes,NA,1,1,www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page,yes,NA,https://www.nyc.gov:443/site/nypd/stats/reports-analysis/stopfrisk.page,yes,NA,"Stop, Question and Frisk Data",yes,NA,yes,NA,Simulation 2 and 3
+a001757,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://apps.who.int/healthinfo/systems/surveydata/index.php/catalog/sage,yes,NA,https://apps.who.int/healthinfo/systems/surveydata/index.php/catalog/sage,yes,NA,Study on Global AGEing and Adult Health (SAGE),yes,NA,other,license required to download,"This is a reanalysis of the authors earlier work with a new dataset, after another published reanalysis found conflicting findings to the original study. This row has the link for the new dataset. Which is WHO SAGE (Wave 1) from the SAGE dataset.  Link_number 2 corresponds to authors' data"
+a001816,EG,30/5/2024,yes,NA,yes,NA,yes,NA,6,1,https://doi.org/10.6103/SHARE.w1.600,yes,NA,https://share-eric.eu/data/data-documentation/waves-overview/wave-1,yes,NA,"Survey of Health, Ageing and Retirement in Europe (SHARE)",yes,NA,yes,NA,SHARELIFE Wave 1
+a001816,EG,30/5/2024,yes,NA,yes,NA,yes,NA,6,2,https://doi.org/10.6103/SHARE.w2.600,yes,NA,https://share-eric.eu/data/data-documentation/waves-overview/wave-2,yes,NA,"Survey of Health, Ageing and Retirement in Europe (SHARE)",yes,NA,yes,NA,SHARELIFE Wave 2
+a001816,EG,30/5/2024,yes,NA,yes,NA,yes,NA,6,3,https://doi.org/10.6103/SHARE.w3.600,yes,NA,https://share-eric.eu/data/data-documentation/waves-overview/wave-3,yes,NA,"Survey of Health, Ageing and Retirement in Europe (SHARE)",yes,NA,yes,NA,SHARELIFE Wave 3
+a001816,EG,30/5/2024,yes,NA,yes,NA,yes,NA,6,4,https://doi.org/10.6103/SHARE.w4.600,yes,NA,https://share-eric.eu/data/data-documentation/waves-overview/wave-4,yes,NA,"Survey of Health, Ageing and Retirement in Europe (SHARE)",yes,NA,yes,NA,SHARELIFE Wave 4
+a001816,EG,30/5/2024,yes,NA,yes,NA,yes,NA,6,5,https://doi.org/10.6103/SHARE.w5.600,yes,NA,https://share-eric.eu/data/data-documentation/waves-overview/wave-5,yes,NA,"Survey of Health, Ageing and Retirement in Europe (SHARE)",yes,NA,yes,NA,SHARELIFE Wave 5
+a001816,EG,30/5/2024,yes,NA,yes,NA,yes,NA,6,6,https://doi.org/10.6103/SHARE.w6.600,yes,NA,https://share-eric.eu/data/data-documentation/waves-overview/wave-6,yes,NA,"Survey of Health, Ageing and Retirement in Europe (SHARE)",yes,NA,yes,NA,SHARELIFE Wave 6
+a002017,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://forsbase.unil.ch/datasets/dataset-public-detail/15126/2060/,yes,NA,https://www.swissubase.ch/en/catalogue/studies/13018/15126/datasets/888/1861/overview,yes,NA,SWISSUbase,yes,NA,other,login required,can see individual files and metadata but can't download without login
+a002193,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.34973/x6fy-4q26,yes,NA,https://data.ru.nl/collections/di/dccn/DSC_3018045.01_001,yes,NA,The Radboud Repository (formerly known as Donders Repository),yes,NA,other,must login with orcid ID or account  to download. Have successfully downloaded,NA
+a001891,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://madata.bib.uni-mannheim.de/330/,yes,NA,https://madata.bib.uni-mannheim.de/330/,yes,NA,University of Mannheim Research Data Repository (MADATA),yes,NA,NA,yes,NA
+a002145,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,1,https://doi.org/10.14264/38dde15,yes,NA,https://espace.library.uq.edu.au/view/UQ:38dde15,yes,NA,UQ espace,yes,NA,yes,NA,The Queensland Twin IMaging study data
+a001169,EG,12/4/2024,yes,NA,yes,NA,yes,NA,2,2,http://www.worldvaluessurvey.org/,yes,NA,https://www.worldvaluessurvey.org/wvs.jsp,yes,NA,World Values Survey,other,link provided by authors is generic. Must navigate through website to find exact file. Unclear which files theyhave used from link provided.,NA,NA,NA
+a001813,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.3543572,yes,NA,https://zenodo.org/records/3543572,yes,NA,Zenodo,yes,NA,yse,NA,NA
+a001943,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.3763401,yes,NA,https://zenodo.org/records/3763401,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a002253,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.4416158,yes,NA,https://zenodo.org/records/4416158,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a001719,EG,13/4/2024,yes,NA,yes,NA,yes,NA,1,1,http://doi.org/10.5281/zenodo.4965716,yes,NA,https://zenodo.org/records/4965716,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a002040,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.5121876,yes,NA,https://zenodo.org/records/5121876,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a001996,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.6015645,yes,NA,https://zenodo.org/records/6015645,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a002088,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.6394559,yes,NA,https://zenodo.org/records/6394559,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a001968,EG,30/5/2024,yes,NA,yes,NA,yes,NA,2,2,https://zenodo.org/record/6614685,yes,NA,https://zenodo.org/records/6614685,yes,NA,Zenodo,yes,NA,yes,NA,NA
+a001743,EG,30/5/2024,yes,NA,yes,NA,yes,NA,1,1,https://doi.org/10.5281/zenodo.6972620,yes,NA,https://zenodo.org/records/6972620,yes,NA,Zenodo,yes,NA,yes,NA,Data availability statement written in main text rather than in additional section before references. Badge image presented at end of where standalone statement expected to be.

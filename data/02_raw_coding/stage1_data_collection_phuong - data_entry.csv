@@ -1,0 +1,191 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+demo01,steve,2020-04-02,yes,,yes,,yes,,1,1,http://tiny.cc/l4wacz,yes,,https://osf.io/g3h52/?view_only=None,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+demo02,steve,2020-04-02,yes,,yes,,yes,,1,1,osf.io/uh3in,yes,,https://osf.io/uh3in/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro01,phuong,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/n6pfz/,yes,,https://osf.io/n6pfz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro02,phuong,2020-04-06,yes,,yes,,yes,,1,1,https://nyu.databrary.org/volume/79,yes,,https://nyu.databrary.org/volume/79,yes,,Databrary,yes,,partial,cannot dowload all folders as zip,
+intro03,phuong,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/9w8pg/,yes,,https://osf.io/9w8pg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro04,phuong,2020-04-06,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5061/dryad.d2441,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,,DRYAD,yes,,yes,,I didn't have any problems with this article
+intro05,phuong,2020-04-06,yes,,yes,,yes,,1,1,http://thedata.harvard.edu/dvn/dv/PainData,yes,,https://dataverse.harvard.edu/dataverse/PainData,yes,,Harvard Dataverse,yes,,yes,,The link points to a page containing datatsets from 2 different research papers
+intro06,phuong,2020-04-06,yes,,yes,,yes,,1,1,osf.io/zw6jg/,yes,,https://osf.io/zw6jg/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro07,phuong,2020-04-06,yes,,yes,,yes,,1,1,osf.io/8jxsr/,yes,,https://osf.io/8jxsr/,yes,,OSF,yes,,yes,,The data statement and link were put in the footnote
+intro08,phuong,2020-04-06,yes,,yes,,yes,,2,1,http://doi.org/10.3886/ICPSR04652.v6,yes,,https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4652/version/6,other,I'm not sure if it is repository,NACDA,yes,,other,files are larger than 100MB,
+intro08,phuong,2020-04-06,yes,,yes,,yes,,2,2,https://midus.colectica.org/,yes,,https://midus.colectica.org/,other,I'm not sure if it is repository,MIDUS,yes,,other,files are larger than 100MB,
+intro09,phuong,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/xehfu/,yes,,https://osf.io/xehfu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro10,phuong,2020-04-06,yes,,yes,,yes,,1,1,http://pisa2006.acer.edu.au/downloads.php,no,this site can't be reached,http://pisa2006.acer.edu.au/downloads.php,,,,,,,,
+a000005,phuong,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/h7av3/?view_only=64a45a1b7def4d95b1231e35df6a2c78,yes,,https://osf.io/h7av3/?view_only=64a45a1b7def4d95b1231e35df6a2c78,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000057,phuong,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/pqf9r/,yes,,https://osf.io/pqf9r/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000148,phuong,2020-04-08,yes,,yes,,yes,,2,1,https://osf.io/9ncmb/?view_only=bd72d104795542d0b761f664cb8adda6,yes,,https://osf.io/9ncmb/?view_only=bd72d104795542d0b761f664cb8adda6,yes,,OSF,yes,,yes,,There were 2 datasets for 2 studies 
+a000009,phuong,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/x3ypv/,yes,,https://osf.io/x3ypv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000148,phuong,2020-04-08,yes,,yes,,yes,,2,2,https://osf.io/hqyzp/?view_only=d3a4b3858088415094e169f65b7d76d7,yes,,https://osf.io/hqyzp/?view_only=d3a4b3858088415094e169f65b7d76d7,yes,,OSF,yes,,yes,,There were 2 datasets for 2 studies 
+a000174,phuong,2020-04-08,yes,,yes,,yes,,2,1,osf.io/msphv,yes,,https://osf.io/msphv/,yes,,OSF,yes,,yes,,There were 2 datasets for 2 studies 
+a000174,phuong,2020-04-08,yes,,yes,,yes,,2,2,osf.io/yegrv,yes,,https://osf.io/yegrv/,yes,,OSF,yes,,yes,,There were 2 datasets for 2 studies 
+a000236,phuong,2020-04-08,yes,,yes,,yes,,1,1,osf.io/q9kd3/,yes,,https://osf.io/q9kd3/,yes,,OSF,yes,,yes,,The data statement and link were put in footnote
+a000335,phuong,2020-04-08,yes,,yes,,yes,,1,1,osf.io/6fgnq,yes,,https://osf.io/6fgnq/,yes,,OSF,yes,,yes,,The data badge was not put on the first page of the article
+a000387,phuong,2020-04-08,yes,,yes,,yes,,1,1,https://osf.io/wgfnm/,yes,,https://osf.io/wgfnm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000425,phuong,2020-04-08,yes,,yes,,yes,,1,1,"www.dx.doi.org/10.7910/
+DVN/DIDBMQ",yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DIDBMQ,yes,,Harvard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000508,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/wmg6t,yes,,https://osf.io/wmg6t,yes,,OSF,yes,,yes,,The link didn't point directly to page containing data files
+a000515,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/7bujx/,yes,,https://osf.io/wgfnm/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000545,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/XZ0IZE.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XZ0IZE,yes,,Harvard Dataverse,yes,,yes,,The data badge was in black and white
+a000605,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://www.openicpsr.org/openicpsr/project/101920/version/V3/view,yes,,https://www.openicpsr.org/openicpsr/project/101920/version/V3/view,yes,,ICPSR,yes,,other,an account was required to access the data,
+a000620,phuong,2020-04-09,yes,,yes,,yes,,2,1,"https://osf.io/cwbgv/,%20https://AsPredicted.org/gepya.pdf",no,Page not found,"https://osf.io/cwbgv/,%20https://AsPredicted.org/gepya.pdf",,,,,,,,no data have been collected for this study yet
+a000620,phuong,2020-04-09,yes,,yes,,yes,,2,2,https://AsPredicted.org/gepya.pdf ,no,Page not found,"https://osf.io/cwbgv/,%20https://AsPredicted.org/gepya.pdf",,,,,,,,no data have been collected for this study yet
+a000627,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/x37d5/,yes,,https://osf.io/x37d5/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000642,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/5yau4,yes,,https://osf.io/5yau4,yes,,OSF,yes,,yes,,The link didn't point directly to page containing data files
+a000688,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://iris-database.org,yes,,https://iris-database.org/iris/app/home/index;jsessionid=5905D5F3E14607BE2F189A7E919C416B,yes,,IRIS,yes,,other,an account was required to access the data,
+a000760,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/PGXO5O.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PGXO5O,yes,,Harvard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000780,phuong,2020-04-09,yes,,yes,,yes,,1,1,osf.io/zc47d/,yes,,https://osf.io/zc47d/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000814,phuong,2020-04-09,yes,,yes,,yes,,2,1,http://discover.ukdataservice.ac.uk/series/?sn=200001,yes,,https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200001,yes,,UK Data Service,yes,,other,an account was required to access the data,2 links were for data of 2 studies
+a000814,phuong,2020-04-09,yes,,yes,,yes,,2,2,http://discover.ukdataservice.ac.uk/series/?sn=2000032,yes,,https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=2000032,yes,,UK Data Service,yes,,other,an account was required to access the data,2 links were for data of 2 studies
+a000930,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/ujpyn/,yes,,https://osf.io/ujpyn/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000968,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/gsxr6/,yes,,https://osf.io/gsxr6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000997,phuong,2020-04-09,yes,,yes,,yes,,1,1,https://osf.io/xmnyq,yes,,https://osf.io/xmnyq,yes,,OSF,yes,,other,files are larger than 100MB,The link didn't point directly to page containing data files
+a001003,phuong,2020-04-10,yes,,yes,,yes,,1,1,osf.io/dp2aq,yes,,https://osf.io/dp2aq,yes,,OSF,yes,,yes,,The link didn't point directly to page containing data files
+a001005,phuong,2020-04-10,yes,,yes,,yes,,1,1,"https://osf.io/x8bv9/ DOI 10.17605/
+OSF.IO/X8BV9",no,Page not found,https://osf.io/x8bv9/%20DOI%2010.17605/OSF.IO/X8BV9,,,,,,,,
+a001028,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/yb9cv/,,,https://osf.io/yb9cv/,yes,,OSF,yes,,yes,,"There was link to original data - this link was ignored, as there was an explicit link to the open data "
+a001091,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/tu3nm/,yes,,https://osf.io/yb9cv/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001185,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/g59s2,yes,,https://osf.io/g59s2,yes,,OSF,yes,,other,files are larger than 100MB,The link didn't point directly to page containing data files
+a001235,phuong,2020-04-10,yes,,yes,,yes,,1,1,osf.io/b4cgq,yes,,https://osf.io/b4cgq,yes,,OSF,yes,,yes,,The link didn't point directly to page containing data files
+a001306,phuong,2020-04-10,yes,,no,,yes,,1,1,https://doi.org/10.7910/DVN/ZSJA25,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSJA25,yes,,Harvard Dataverse,yes,,yes,,The data badge was in black and white
+a001347,phuong,2020-04-10,no,,no,,yes,,1,1,https://osf.io/6a34,yes,,https://osf.io/6a34q,yes,,OSF,yes,,yes,,There weren't data badge and statement
+a001381,phuong,2020-04-10,yes,,yes,,yes,,1,1,osf.io/npqgz/,yes,,https://osf.io/npqgz/,yes,,OSF,yes,,other,files are larger than 100MB,I didn't have any problems with this article
+a001464,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/h7s5j/,yes,,https://osf.io/h7s5j/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001465,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/enuv3/,yes,,https://osf.io/enuv3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001467,phuong,2020-04-10,yes,,yes,,yes,,1,1,osf.io/ng9k8/,yes,,https://osf.io/ng9k8/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001525,phuong,2020-04-10,yes,,yes,,yes,,2,1,https://osf.io/yjer4/,yes,,https://osf.io/yjer4/,yes,,OSF,yes,,other,file couln't be unzipped,
+a001525,phuong,2020-04-10,yes,,yes,,yes,,2,2,https://osf.io/d2wur,yes,,https://osf.io/d2wur,yes,,OSF,yes,,yes,,
+a001593,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/4tzv3/,yes,,https://osf.io/4tzv3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001600,phuong,2020-04-10,yes,,no,,no,,0,,,,,,,,,,,,,There weren't data statement and link
+a001606,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://osf.io/d2ytu/,yes,,https://osf.io/d2ytu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001658,phuong,2020-04-10,yes,,yes,,yes,,1,1,https://dx.doi.org/10.17605/OSF.IO/MGBVC,yes,,https://osf.io/mgbvc,yes,,OSF,yes,,yes,,The link in 'Open Practice' section isn't correct
+a000018,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLWQY9,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLWQY9,yes,,Havard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000072,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/56yz7,yes,,https://osf.io/56yz7.,yes,,OSF,yes,,other,files are larger than 100MB,
+a000075,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/p8f7w/,yes,,https://osf.io/p8f7w/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000085,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/zudxp/,yes,,https://osf.io/zudxp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000100,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/Z6SDM,yes,,https://osf.io/z6sdm/,yes,,OSF,yes,,yes,,The data link was put in the heater of the 1st page
+a000118,phuong,2020-04-15,yes,,yes,,yes,,1,1,osf.io/c8c6c/,yes,,https://osf.io/c8c6c/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000121,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/cgydx/,yes,,https://osf.io/cgydx/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000203,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/c5kme/,yes,,https://journals.sagepub.com/page/pss/suppl/data-supplements,yes,,OSF,yes,,yes,,The hyperlink was not correct
+a000266,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/ycren/,yes,,https://osf.io/ycren/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000302,phuong,2020-04-15,yes,,no,,yes,,1,1,https://doi.org/10.7910/DVN/9AWUYJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9AWUYJ,yes,,Havard Dataverse,yes,,yes,,The data badge was in black and white
+a000315,phuong,2020-04-15,yes,,no,,yes,,1,1,https://doi.org/10.7910/DVN/JTV6W6,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JTV6W6,yes,,Havard Dataverse,yes,,yes,,The data badge was in black and white
+a000327,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/5whvu,yes,,https://osf.io/5whvu,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000355,phuong,2020-04-15,yes,,yes,,yes,,1,1,https://osf.io/7d5b5/,other,The hyperlink was not correct,https://osf.io/7d5b5/%20and%20https://osf.io/jbfbp/,yes,,OSF,yes,,yes,,The hyperlink was not correct
+a000419,phuong,2020-04-17,yes,,yes,,yes,,1,1,"http://dx.doi.org/10.5281/
+zenodo.18545",other,The hyperlink was not correct,https://zenodo.org/record/18545#.XpmYS9MzZp8,yes,,OSF,yes,,yes,,The hyperlink was not correct
+a000437,phuong,2020-04-17,yes,,yes,,yes,,1,1,osf.io/5tejq/,yes,,https://osf.io/5tejq/,yes,,OSF,yes,,yes,,No hyperlink
+a000485,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/wjxpf/,yes,,https://osf.io/wjxpf/,yes,,OSF,yes,,other,files are larger than 100MB,Only raw data available
+a000525,phuong,2020-04-17,yes,,no,,no,,0,,,,,,,,,,,,,
+a000556,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/hjfw9/,yes,,https://osf.io/hjfw9/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000564,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://github.com/piazzai/smj-18-19552,yes,,https://github.com/piazzai/smj-18-19552,other,I'm not sure if GitHub a repository,GitHub,yes,,yes,,
+a000566,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataverse/physics,other,The hyperlink wasn't included,https://dataverse.harvard.edu/dataverse/physics,yes,,Havard Dataverse,yes,,yes,,
+a000572,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/u7tkp/,yes,,https://osf.io/u7tkp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000604,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/jazfy/,yes,,https://osf.io/jazfy/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000641,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/tgmf6/,yes,,https://osf.io/tgmf6/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000651,phuong,2020-04-17,yes,,yes,,yes,,1,1,osf.io/sqp6z/,yes,,https://osf.io/sqp6z/,yes,,OSF,yes,,other,files are larger than 100MB,
+a000694,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/7nwa6,other,The hyperlink was not correct,https://osf.io/7nwa6,yes,,OSF,yes,,yes,,
+a000704,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/54jd9,yes,,https://osf.io/54jd9,yes,,OSF,yes,,yes,,The link didn't directly point to the data files
+a000755,phuong,2020-04-17,yes,,no,,yes,,1,1,https://osf.io/hguz4/,yes,,https://osf.io/hguz4/,yes,,OSF,yes,,yes,,The data link was put in the footnote
+a000811,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/u3byh/,yes,,https://osf.io/u3byh/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000833,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/rmnk2/,yes,,https://osf.io/rmnk2/,yes,,OSF,yes,,yes,,The data link was put in the footnote and the badge was in black & white
+a000857,phuong,2020-04-17,yes,,no,,yes,,1,1,http://doi.org/10.7910/DVN/CPVIOF.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CPVIOF,yes,,OSF,yes,,other,files are larger than 100MB,The data badge was in black and white
+a000886,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.5281/zenodo.2591593,yes,,https://zenodo.org/record/2591594#.XprpU9MzZp8,yes,,Zenodo,yes,,other,files are larger than 100MB,
+a001228,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/6htsx/,yes,,https://osf.io/6htsx/,yes,,OSF,yes,,other,files are larger than 100MB,
+a001290,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/rsf86/?view_only=06347220b77940638f75e961edd10805,yes,,https://osf.io/rsf86/?view_only=06347220b77940638f75e961edd10805,yes,,OSF,yes,,yes,,There was another link to open data but for a different experiment
+a001309,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/chm94/,yes,,https://osf.io/chm94/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001389,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/hrzgs/,yes,,https://osf.io/hrzgs/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001401,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/yh7wu/,yes,,https://osf.io/yh7wu/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001404,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/hw2ac/,yes,,https://osf.io/hw2ac/,yes,,OSF,yes,,yes,,The hyperlink wasn't included
+a001472,phuong,2020-04-17,yes,,yes,,yes,,2,1,https://openneuro.org/datasets/ds001838/versions/1.0.0,yes,,https://openneuro.org/datasets/ds001838/versions/1.0.0,yes,,Open Neuro,yes,,other,files are larger than 100MB,
+a001472,phuong,2020-04-17,yes,,yes,,yes,,2,2,https://osf.io/buqcm/,yes,,https://osf.io/buqcm/,yes,,OSF,yes,,yes,,
+a001520,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/84xut/,yes,,https://osf.io/84xut/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001594,phuong,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/nkgza/,yes,,https://osf.io/nkgza/,yes,,OSF,yes,,other,files are larger than 100MB,
+a000012,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/njea2,yes,,https://osf.io/njea2,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000033,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/h67mx/,yes,,https://osf.io/h67mx/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000046,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/dkqfn/,yes,,https://osf.io/dkqfn/,yes,,OSF,yes,,other,files are larger than 100MB,
+a000141,phuong,2020-04-20,yes,,yes,,yes,,1,1,osf.io/7tssz/,yes,,https://osf.io/7tssz/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000186,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/92ahy/,yes,,https://osf.io/92ahy/,yes,,OSF,yes,,other,files are larger than 100MB,
+a000243,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://datadryad.org/stash/dataset/doi:10.5061/dryad.q88sm,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.q88sm,yes,,DRYAD,yes,,yes,,I didn't have any problems with this article
+a000257,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/f23tn/?view_only=eb1aad8f01004d02934d872717bf9db1,yes,,https://osf.io/f23tn/?view_only=eb1aad8f01004d02934d872717bf9db1,yes,,OSF,yes,,other,files are larger than 100MB,
+a000293,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/rt6w2/,yes,,https://osf.io/rt6w2/,yes,,OSF,yes,,other,files are larger than 100MB,Hyperlink wasn't included
+a000298,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/8zeqp/,yes,,https://osf.io/8zeqp/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000320,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/pr3hf/,yes,,https://osf.io/pr3hf/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000322,phuong,2020-04-20,yes,,yes,,yes,,1,1,osf.io/au4x3/,yes,,https://osf.io/au4x3/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000341,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/d6hms/,yes,,https://osf.io/d6hms/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000361,phuong,2020-04-20,yes,,yes,,yes,,1,1,https://osf.io/ft462/,yes,,https://osf.io/ft462/,yes,,OSF,yes,,other,files are larger than 100MB,
+a000377,phuong,2020-04-20,yes,,yes,,yes,,2,1,https://osf.io/fwt65/,yes,,https://osf.io/fwt65/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000377,phuong,2020-04-20,yes,,yes,,yes,,2,2,https://osf.io/da56v/,yes,,https://osf.io/da56v/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000601,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/4bwq3/,yes,,https://osf.io/4bwq3/,yes,,OSF,yes,,yes,,"can download the zip file, but seem nothing inside"
+a000622,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/myfg7,yes,,https://osf.io/myfg7,yes,,OSF,yes,,yes,,the link didn't directly point to data files
+a000724,phuong,2020-04-22,yes,,no,,yes,,1,1,https://doi.org/10.7910/DVN/OKZMIY.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OKZMIY,yes,,Havard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000732,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/xp6r7/,yes,,https://osf.io/xp6r7/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000817,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/z9ikh/,yes,,https://osf.io/z9ikh/,yes,,OSF,yes,,yes,,There are 2 links but same hyperlink to data
+a000862,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/x5stj/,yes,,https://osf.io/x5stj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000935,phuong,2020-04-22,yes,,yes,,yes,,1,1,osf.io/pg9ca,yes,,https://accounts.osf.io/login?service=https://osf.io/pg9ca/,yes,,OSF,yes,,other,an account was required to download,
+a000989,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/73e54/,yes,,https://osf.io/73e54/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001009,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/4chuy/,yes,,https://osf.io/4chuy/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001058,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/8wtae/,yes,,https://osf.io/8wtae/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001083,phuong,2020-04-22,yes,,yes,,yes,,2,1,https://doi.org/10.3886/ICPSR04652.v7,yes,,https://www.icpsr.umich.edu/web/NACDA/studies/4652/version/7,other,I'm not sure if NACDA is repository ,NACDA,yes,,yes,,
+a001083,phuong,2020-04-22,yes,,yes,,yes,,2,2,https://doi.org/10.3886/ICPSR36346.v7,yes,,https://www.icpsr.umich.edu/web/NACDA/studies/36346/versions/V7,other,I'm not sure if NACDA is repository ,NACDA,yes,,other,an account was required to download,
+a001102,phuong,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/a3c8h/,yes,,https://osf.io/a3c8h/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001121,phuong,2020-04-22,yes,,yes,,yes,,2,1,https://www.iris-database.org,yes,,https://www.iris-database.org/iris/app/home/index;jsessionid=BCC4E26B54081126854A7D004E749974,yes,,IRIS,no,,,,
+a001121,phuong,2020-04-22,yes,,yes,,yes,,2,1,https://osf.io/97kur/,yes,,https://osf.io/97kur/,yes,,OSF,yes,,yes,,
+a001146,phuong,2020-04-23,yes,,yes,,yes,,3,1,https://osf.io/zhf98/,yes,,https://osf.io/zhf98/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001146,phuong,2020-04-23,yes,,yes,,yes,,3,2,https://osf.io/vtyg4/,yes,,https://osf.io/vtyg4/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001146,phuong,2020-04-23,yes,,yes,,yes,,3,3,https://osf.io/jh47m/,yes,,https://osf.io/jh47m/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001168,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/rs32a/?view_only=1b0901ea36124e2998fe5511bee58c02,yes,,https://osf.io/rs32a/?view_only=1b0901ea36124e2998fe5511bee58c02,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001202,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/uxych/,yes,,https://osf.io/uxych/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001216,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/ydnfe/,yes,,https://osf.io/ydnfe/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001220,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/jmiwn/,yes,,https://osf.io/jmiwn/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a001232,phuong,2020-04-23,yes,,yes,,yes,,2,1,https://osf.io/bnsqw,yes,,https://osf.io/bnsqw,yes,,OSF,yes,,yes,,the link didn't directly point to data files
+a001232,phuong,2020-04-23,yes,,yes,,yes,,2,2,https://osf.io/hg5s7,yes,,https://osf.io/hg5s7,yes,,OSF,yes,,yes,,the link didn't directly point to data files
+a001239,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/dux3n/,yes,,https://osf.io/dux3n/,yes,,OSF,yes,,other,files are larger than 100MB,
+a001257,phuong,2020-04-23,yes,,no,,yes,,1,1,http://dx.doi.org/10.7910/DVN/VT4KJA.,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VT4KJA,yes,,Havard Dataverse,yes,,yes,data badge was in black and white,
+a001314,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/vjacn/,yes,,https://osf.io/vjacn/files/,yes,,OSF,yes,,yes,,"can download the zip file, but seem nothing inside"
+a001320,phuong,2020-04-23,yes,,yes,,yes,,1,1,osf.io/4e7h9/,yes,,https://osf.io/4e7h9/,yes,,OSF,yes,,yes,,the link didn't directly point to data files
+a001512,phuong,2020-04-23,yes,,yes,,yes,,2,1,http://tinyurl.com/hwmo9t6,other,the hyperlink was incorrect,http://ti-nyurl.com/zvgu6hh,,,,,,,,
+a001512,phuong,2020-04-23,yes,,yes,,yes,,2,2,http://tinyurl.com/zvgu6hh,other,the hyperlink was incorrect,http://ti-nyurl.com/zvgu6hh,,,,,,,,
+a001526,phuong,2020-04-23,no,,no,,no,,,,,,,,,,,,,,,
+a001633,phuong,2020-04-23,yes,,yes,,yes,,1,1,https://osf.io/xz3ap/,yes,,https://osf.io/xz3ap/,yes,,OSF,yes,,other,files are larger than 100MB,
+a000029,phuong,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/k67ba/,yes,,https://osf.io/k67ba/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000037,phuong,2020-04-27,yes,,yes,,yes,,1,1,http://hdl.handle.net/11633/aabxbkd7.,yes,,https://data.donders.ru.nl/collections/di/dccn/DSC_3018026.01_234?1,yes,,Donders,yes,,other,an account was required to download,
+a000044,phuong,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/2pgtj/,yes,,https://osf.io/2pgtj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000061,phuong,2020-04-27,yes,,yes,,yes,,1,1,https://osf.io/w2xsr/,yes,,https://osf.io/w2xsr/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000183,phuong,2020-04-27,yes,,no,,yes,,1,1,https://osf.io/h6ckw/?view_only=ca786be8956247acae8ce79343a409a0,yes,,https://osf.io/h6ckw/?view_only=ca786be8956247acae8ce79343a409a0,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000232,phuong,2020-04-27,yes,,yes,,yes,,2,1,https://osf.io/rfc6r,yes,,https://osf.io/rfc6r,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000232,phuong,2020-04-27,yes,,yes,,yes,,2,2,https://osf.io/bfefu,yes,,https://osf.io/bfefu,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000275,phuong,2020-04-27,yes,,no,,yes,,1,1,http://dx.doi.org/10.7910/DVN/Q8CSU8,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q8CSU8,yes,,Harvard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000305,phuong,2020-04-27,yes,,no,,yes,,1,1,http://dx.doi.org/10.7910/DVN/LVHIYG,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LVHIYG,yes,,Harvard Dataverse,yes,,yes,,I didn't have any problems with this article
+a000319,phuong,2020-04-27,yes,,yes,,yes,,1,1,http://doi.org/10.17605/OSF.IO/P49YA,yes,,https://osf.io/p49ya/,yes,,OSF,yes,,yes,,The data badge was in black and white
+a000321,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/qtsx2/,yes,,https://osf.io/qtsx2/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000409,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://doi.org/10.6084/m9_.figshare.4742935.v2,no,Not found,,,,,,,,,
+a000522,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/ajvgt/,yes,,https://osf.io/ajvgt/,yes,,OSF,yes,,yes,,The link didn't directly point to data files
+a000609,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/96s4v/,yes,,https://osf.io/96s4v/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000664,phuong,2020-04-28,yes,,no,,yes,,1,1,https://osf.io/487v9/?view_only=dd53baba3ed945649cda7314fb10a957,yes,,https://osf.io/487v9/?view_only=dd53baba3ed945649cda7314fb10a957,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000749,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/pdsmw,yes,,https://osf.io/pdsmw,yes,,OSF,yes,,yes,,The link didn't directly point to data files
+a000754,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/8bqaj/,yes,,https://osf.io/8bqaj/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000765,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/yck8s/,yes,,https://osf.io/yck8s/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000766,phuong,2020-04-28,yes,,yes,,yes,,1,1,https://osf.io/zny2m/,yes,,https://osf.io/zny2m/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+a000784,phuong,2020-04-28,yes,,yes,,yes,,1,1,http://sro.sussex.ac.uk/id/eprint/74811/,yes,,http://sro.sussex.ac.uk/id/eprint/74811/,yes,,Sussex Research Online,yes,,yes,,I didn't have any problems with this article
+a000793,,,,,,,,,,,,,,,,,,,,,,
+a000822,,,,,,,,,,,,,,,,,,,,,,
+a000863,,,,,,,,,,,,,,,,,,,,,,
+a000934,,,,,,,,,,,,,,,,,,,,,,
+a000936,,,,,,,,,,,,,,,,,,,,,,
+a000952,,,,,,,,,,,,,,,,,,,,,,
+a000971,,,,,,,,,,,,,,,,,,,,,,
+a000977,,,,,,,,,,,,,,,,,,,,,,
+a000986,,,,,,,,,,,,,,,,,,,,,,
+a001020,,,,,,,,,,,,,,,,,,,,,,
+a001040,,,,,,,,,,,,,,,,,,,,,,
+a001132,,,,,,,,,,,,,,,,,,,,,,
+a001240,,,,,,,,,,,,,,,,,,,,,,
+a001287,,,,,,,,,,,,,,,,,,,,,,
+a001358,,,,,,,,,,,,,,,,,,,,,,
+a001388,,,,,,,,,,,,,,,,,,,,,,
+a001477,,,,,,,,,,,,,,,,,,,,,,
+a001481,,,,,,,,,,,,,,,,,,,,,,
+a001567,,,,,,,,,,,,,,,,,,,,,,
+a001590,,,,,,,,,,,,,,,,,,,,,,
+a001647,,,,,,,,,,,,,,,,,,,,,,

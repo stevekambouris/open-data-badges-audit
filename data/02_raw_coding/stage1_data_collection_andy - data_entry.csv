@@ -1,0 +1,126 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+demo01,steve,2020-04-02,yes,,yes,,yes,,1,1,http://tiny.cc/l4wacz,yes,,https://osf.io/g3h52/?view_only=None,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+demo02,steve,2020-04-02,yes,,yes,,yes,,1,1,osf.io/uh3in,yes,,https://osf.io/uh3in/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro01,andy,2020-04-07,yes,,yes,,yes,,1,1,http://osf.io/n6pfz,yes,,https://osf.io/n6pfz/,yes,,OSF,yes,,yes,,Also has open materials badge and links to supplementary material.
+intro02,andy,,,,,,,,,,,,,,,,,,,,,
+intro03,andy,,,,,,,,,,,,,,,,,,,,,
+intro04,andy,,,,,,,,,,,,,,,,,,,,,
+intro05,andy,,,,,,,,,,,,,,,,,,,,,
+intro06,andy,,,,,,,,,,,,,,,,,,,,,
+intro07,andy,,,,,,,,,,,,,,,,,,,,,
+intro08,andy,,,,,,,,,,,,,,,,,,,,,
+intro09,andy,,,,,,,,,,,,,,,,,,,,,
+intro10,andy,,,,,,,,,,,,,,,,,,,,,
+a000048,andy,2020-04-22,yes,,yes,,yes,,2,1,https://osf.io/cpmfk/,yes,,https://osf.io/cpmfk/,yes,,OSF,yes,,yes,,This is the original data collected for another project. The downloaded files contain data collected between 2004-2019. Study used data from 2004-2017. Data files are also available by individual year.
+a000048,andy,2020-04-22,yes,,yes,,yes,,2,2,https://osf.io/ufxny/,yes,,https://osf.io/ufxny/,yes,,OSF,yes,,yes,,This linked to the study data with syntax and codebook. 
+a000098,andy,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/nft5c,yes,,https://osf.io/nft5c/,yes,,OSF,yes,,yes,,
+a000115,andy,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/m35b8/,yes,,https://osf.io/m35b8/,yes,,OSF,yes,,yes,,
+a000136,andy,2020-04-22,yes,,yes,,yes,,1,1,https://osf.io/9d6t4/,yes,,https://osf.io/9d6t4/,yes,,OSF,yes,,yes,,
+a000142,andy,2020-10-27,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/WD3IUA,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WD3IUA,yes,,Harvard Dataverse,yes,,yes,,No issues
+a000143,andy,2020-10-27,yes,,yes,,yes,,1,1,https://osf.io/8cq5f/,yes,,https://osf.io/8cq5f/,yes,,OSF,yes,,yes,,No issues
+a000146,andy,2020-10-27,yes,,yes,,yes,,1,1,http://www.osf.io/xf7rn,yes,,https://osf.io/xf7rn/,yes,,OSF,yes,,yes,,No issues
+a000182,andy,2020-10-27,yes,,yes,,yes,,1,1,https://osf.io/emk5j,yes,,https://osf.io/emk5j/,yes,,OSF,yes,,yes,,No issues
+a000188,andy,2020-10-27,yes,,yes,,yes,,1,1,https://osf.io/zg427/,yes,,https://osf.io/zg427/,yes,,OSF,yes,,yes,,No issues
+a000197,andy,2020-10-27,yes,,yes,,yes,,1,1,https://osf.io/946vb/,yes,,https://osf.io/946vb/,yes,,OSF,yes,,yes,,No issues
+a000330,andy,2020-10-27,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/WD3IUA,other,"Link goes to Harvard Datverse repository for a different article (Grimmelikhuijsen, 2019).",https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WD3IUA,yes,,Harvard Dataverse,yes,,yes,,Link to different article repository. Search for author's name on Harvard Dataverse found the correct repository and files at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XSRNRB. Appears to be an overlap in volume and issue number between the 2 papers.
+a000380,andy,2020-10-27,yes,,yes,,yes,,1,1,https://osf.io/w2434/,yes,,https://osf.io/w2434/,yes,,OSF,yes,,yes,,No issues
+a000393,andy,2020-11-05,yes,,yes,,yes,,1,1,http://osf.io/9ge7n,yes,,https://osf.io/9ge7n,yes,,OSF,other, - with data files,yes,,Link to main OSF page https://osf.io/vkjsf/
+a000444,andy,2020-11-05,yes,,yes,,yes,,1,1,https://data.mendeley.com/datasets/f2wvbpsmyv/draft?a=e8c3968c-8b4a-47b5-a7d1-5aa120f1bc76.,yes,,https://data.mendeley.com/datasets/f2wvbpsmyv/1,yes,,Mendeley Data,yes,,yes,,No issues
+a000518,andy,2020-11-09,yes,,yes,,yes,,1,1,https://iris-database.org,other,Link to IRIS homepage only,https://iris-database.org/iris/app/home/index;jsessionid=59ED1A2954384E1119412245521AD575,yes,,IRIS,yes,,yes,,Had to search repository for correct files.
+a000540,andy,2020-11-09,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/TMCNQ,yes,,https://osf.io/tmcnq/,yes,,OSF,yes,,yes,,2019 article is Stage 1 Registered Report with links only to the pre-registration. Links to data are from the 2020 Stage 2 Full article.
+a000570,andy,2020-11-09,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/WGWMAV,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WGWMAV,yes,,Harvard Dataverse,yes,,yes,,No issues
+a000631,andy,2020-11-09,yes,,yes,,yes,,1,1,https://osf.io/k8nur/,yes,,https://osf.io/k8nur/,yes,,OSF,yes,,yes,,No issues
+a000714,andy,2020-11-11,yes,,yes,,yes,,1,1,https://osf.io/7wazk/,yes,,https://osf.io/7wazk/,yes,,OSF,yes,,yes,,No issues
+a000861,andy,2020-11-11,yes,,yes,,yes,,1,1,https://osf.io/qh896/,yes,,https://osf.io/qh896/,yes,,OSF,yes,,yes,,No issues
+a000962,andy,2020-11-11,yes,,yes,,yes,,1,1,https://osf.io/qch87/,yes,,https://osf.io/qch87/,yes,,OSF,yes,,yes,,No issues
+a000963,andy,2020-11-11,yes,,yes,,yes,,1,1,http://journals.sagepub.com/doi/suppl/10.1177/0956797618818484,yes,,https://journals.sagepub.com/doi/suppl/10.1177/0956797618818484,no,,,no,,,,Link goes to online article. No data files.
+a001030,andy,2020-11-11,yes,,yes,,yes,,1,1,https://osf.io/wytek/,yes,,https://osf.io/wytek/,yes,,OSF,yes,,yes,,No issues
+a001114,andy,2020-11-11,yes,,yes,,yes,,1,1,https://osf.io/axphc/,yes,,https://osf.io/axphc,yes,,OSF,yes,,yes,,No issues
+a001149,andy,2020-11-11,yes,,yes,,yes,,1,1,https://www.iris‐database.org/iris/app/home/detail?id=york:934328,no,Link appears to be broken,,,,,,,,,Data availability statement says files are also available from DDBJ but no link provided.
+a001171,andy,2020-11-11,yes,,yes,,yes,,1,1,https://osf.io/d9jfz/,yes,,https://osf.io/d9jfz/,yes,,OSF,yes,,yes,,No issues
+a001220,andy,2020-11-12,yes,,yes,,yes,,1,1,https://osf.io/jmiwn/,yes,,https://osf.io/jmiwn/,yes,,OSF,yes,,yes,,No issues
+a001238,andy,2020-11-12,yes,,yes,,yes,,1,1,https://osf.io/ut382/,yes,,https://osf.io/ut382/,yes,,OSF,yes,,yes,,No issues
+a001240,andy,2020-11-12,yes,,yes,,yes,,1,1,https://osf.io/v36a6/,yes,,https://osf.io/v36a6/,yes,,OSF,yes,,yes,,No issues
+a001346,andy,2020-11-12,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/FZI6NO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FZI6NO,yes,,Harvard Dataverse,yes,,yes,,No issues
+a001362,andy,2020-11-12,yes,,yes,,yes,,1,1,https://osf.io/t79ca/,yes,,https://osf.io/t79ca/,yes,,OSF,yes,,yes,,No issues
+a001390,andy,2020-11-12,yes,,yes,,yes,,1,1,osf.io/93cvs,yes,,https://osf.io/93cvs/,yes,,OSF,yes,,yes,,No issues
+a001405,andy,2020-11-16,yes,,yes,,yes,,1,1,https://osf.io/mk73j/,yes,,https://osf.io/mk73j/,yes,,OSF,yes,,yes,,No issues
+a001415,andy,2020-11-16,yes,,yes,,yes,,1,1,https://osf.io/6j9aq/,yes,,https://osf.io/6j9aq/,yes,,OSF,yes,,yes,,No issues
+a001445,andy,2020-11-16,yes,,yes,,yes,,1,1,https://osf.io/e2aks/,yes,,https://osf.io/e2aks/,yes,,OSF,yes,,yes,,No issues
+a001470,andy,2020-11-16,yes,,yes,,yes,,1,1,https://osf.io/waeqn/,yes,,https://osf.io/waeqn,yes,,OSF,yes,,yes,,No issues
+a001487,andy,2020-11-16,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/LNUYXZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LNUYXZ,yes,,Harvard Dataverse,yes,,yes,,No issues
+a001500,andy,2020-11-16,yes,,yes,,yes,,1,1,osf.io/mpf64,yes,,https://osf.io/mpf64/,yes,,OSF,yes,,yes,,No issues
+a001529,andy,2020-11-16,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/B9SCDJ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B9SCDJ,yes,,Harvard Dataverse,yes,,yes,,No issues
+a001655,andy,2020-11-16,yes,,yes,,yes,,1,1,https://osf.io/2cv4x/?view_only.d192b6df6a7b4c1ea49d19e819330f80.,yes,,https://osf.io/2cv4x/?view_only=d192b6df6a7b4c1ea49d19e819330f80,yes,,OSF,yes,,yes,,No issues
+a000032,andy,2020-07-16,yes,,yes,,yes,,1,1,https://doi.org/10.6096/MISTRALS-HyMeX.1406,yes,,https://mistrals.sedoo.fr/HyMeX/?editDatsId=1406,other,Repository for a specific research program only,,yes,,other,Need a a password to login to download,
+a000116,andy,2020-07-16,yes,,yes,,yes,,1,1,https://osf.io/gzytb/,yes,,https://osf.io/gzytb/,yes,,OSF,yes,,yes,,
+a000117,andy,2020-07-17,yes,,yes,,yes,,1,1,http://archaeologydataservice.ac.uk/archives/view/greylit/,yes,,https://archaeologydataservice.ac.uk/archives/view/greylit/,yes,,Archaeology Data Service,no,,,,Data referred to here is no longer available in this format. It seems to have been incorporated into a larger bibliographic structure.
+a000162,andy,2020-07-17,yes,,yes,,yes,,1,1,https://doi.pangaea.de/10.1594/PANGAEA.896587,yes,,https://doi.pangaea.de/10.1594/PANGAEA.896587,yes,,PANGAEA,yes,,yes,,
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,1,https://doi.org/10.6092/SNAP.cbbba251c17b55c737836768c8737589,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.cbbba251c17b55c737836768c8737589,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,2,https://doi.org/10.6092/SNAP.10b2260a0617627002d437ea6a3df022,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.10b2260a0617627002d437ea6a3df022,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,3,https://doi.org/10.6092/SNAP.f56b827cffb9f0e99603c6ef4074de73,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.f56b827cffb9f0e99603c6ef4074de73,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,4,https://doi.org/10.6092/SNAP.580bf950a46873e44295a7e29d66f077,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.580bf950a46873e44295a7e29d66f077,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,5,https://doi.org/10.6092/SNAP.6bbca96b0a7b0a5c3b0be4b4312f837c,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.6bbca96b0a7b0a5c3b0be4b4312f837c,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,6,https://doi.org/10.6092/SNAP.93d8a7ad5841c7380c9656779ae3425d,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.93d8a7ad5841c7380c9656779ae3425d,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,7,https://doi.org/10.6092/SNAP.4a66da6e800423b1a51babcd917805c1,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.4a66da6e800423b1a51babcd917805c1,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000171,andy,2020-08-04,yes,,yes,,yes,,8,8,https://doi.org/10.6092/SNAP.b2f9e5768dcc2aa0922f24967920d9ab,yes,,https://snap.ogs.trieste.it/cache/index.jsp?doi=10.6092/SNAP.b2f9e5768dcc2aa0922f24967920d9ab,yes,,SNAP,yes,,partial,"Over 30 files, downloaded first",
+a000210,andy,2020-08-05,yes,,yes,,yes,,1,1,https://doi.pangaea.de/10.1594/PANGAEA.885886,yes,,https://doi.pangaea.de/10.1594/PANGAEA.885886,yes,,PANGAEA,yes,,yes,,No issues
+a000227,andy,2020-08-05,yes,,yes,,yes,,3,1,https://doi.org/10.23684/odi-2017-00957,yes,,https://open.canada.ca/data/en/dataset/e7484a20-99fa-4989-945b-3031d670d285,yes,,Open Government Canada,yes,,yes,,No issues
+a000227,andy,2020-08-05,yes,,yes,,yes,,3,2,https://doi.org/10.23684/odi-2017-00959,yes,,https://open.canada.ca/data/en/dataset/c1a63ce9-6b76-414b-937e-135fae08cea2,yes,,Open Government Canada,yes,,yes,,No issues
+a000227,andy,2020-08-05,yes,,yes,,yes,,3,3,https://doi.org/10.23684/odi-2017-00958,yes,,https://open.canada.ca/data/en/dataset/150566dc-7f3b-4ba7-b65a-16f35b947a57,yes,,Open Government Canada,yes,,yes,,No issues
+a000269,andy,2020-08-05,yes,,yes,,yes,,1,1,https://doi.org/10.24414/ j0dx-9n36,yes,,https://www.astro.oma.be/doi/Seis_Grav/Gravity_DB.html,yes,,Royal Observatory of Belgium,yes,,yes,,No issues
+a000270,andy,2020-08-05,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5284/1031492,yes,,https://archaeologydataservice.ac.uk/archives/view/romurbital_mc_2015/,yes,,Archaeology Data Service,yes,,yes,,No issues
+a000359,andy,2020-08-05,yes,,yes,,yes,,1,1,https://doi.org/10.5284/1011888,yes,,https://archaeologydataservice.ac.uk/archives/view/t5_framework_2011/,yes,,Archaeology Data Service,yes,,partial,"Hundreds of files organised into seven sections, downloaded one file from each section",
+a000394,andy,2020-08-05,yes,,yes,,yes,,1,1,https://osf.io/sr9f4/,yes,,https://osf.io/sr9f4/,yes,,OSF,yes,,yes,,No issues
+a000395,andy,2020-08-07,yes,,yes,,yes,,1,1,https://doi.org/10.17863/CAM.31530,yes,,https://www.repository.cam.ac.uk/handle/1810/284168,yes,,Apollo (University of Cambridge),yes,,yes,,No issues
+a000398,andy,2020-08-07,yes,,yes,,yes,,1,1,https://doi.org/10.1594/PANGAEA.885879,yes,,https://doi.pangaea.de/10.1594/PANGAEA.885879,yes,,PANGAEA,yes,,yes,,No issues
+a000418,andy,2020-08-07,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5284/1019856,yes,,https://archaeologydataservice.ac.uk/archives/view/scarr_eh_2013/,yes,,Archaeology Data Service,yes,,yes,,Unclear (to me at least) what the data actually consists of
+a000420,andy,2020-08-07,yes,,yes,,yes,,1,1,https://catalogue.ceda.ac.uk/uuid/1d29816cee7e4fb586b80a3f7debcb8e,yes,,https://catalogue.ceda.ac.uk/uuid/1d29816cee7e4fb586b80a3f7debcb8e,yes,,The CEDA Archive,yes,,yes,,No issues
+a000426,andy,2020-08-07,yes,,yes,,yes,,1,1,http://catalogue.ceda.ac.uk/uuid/4dc84 50d88 9a491 ebb20 e724d ebe2dfb,yes,,https://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb,yes,,The CEDA Archive,yes,,other,Account required for access,
+a000443,andy,2020-08-07,yes,,yes,,yes,,1,1,https://dx.doi.org/10.7289/V5QJ7F8R,yes,,https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:COAPS-SAMOS,yes,,NCEI (NOAA),yes,,partial,"Ongoing project with hundreds of files, downloaded a sample to check",
+a000494,andy,2020-08-07,yes,,yes,,no,,,,,,,,,,,,,,,No links to data
+a000527,andy,2020-08-07,yes,,yes,,yes,,1,1,https://doi.org/10.5285/7925d ed722 d743f a8259 a93ac c7073f2,yes,,https://catalogue.ceda.ac.uk/uuid/7925ded722d743fa8259a93acc7073f2,yes,,The CEDA Archive,yes,,other,Some files timed out,
+a000618,andy,2020-08-07,yes,,yes,,yes,,1,1,http://dx.doi.org/10.6084/m9.figshare.1275172,yes,,https://figshare.com/articles/UAV_Aerial_Survey_Blackquarries_Hill_Long_Barrow_ST77509320_/1275172,yes,,figshare,yes,,partial,Over 100MB of data files,
+a000681,andy,2020-08-07,yes,,yes,,yes,,1,1,https://doi.org/10.5281/zenodo.3371710,yes,,https://zenodo.org/record/3371710#.Xy1cjGovPUo,yes,,Zenodo,yes,,partial,Over 100MB of data files,
+a000683,andy,2020-08-25,yes,,yes,,yes,,1,1,http://archaeologydataservice.ac.uk/archives/view/urubici_na_2015/,yes,,https://archaeologydataservice.ac.uk/archives/view/urubici_na_2015/,yes,,Archaeology Data Service,yes,,partial,Over 100MB of data files,No issues
+a000686,andy,2020-08-25,yes,,yes,,yes,,4,1,https://doi.org/10.5281/zenodo.3548752,yes,,https://zenodo.org/record/3548752#.X0Rba9MvOqA,yes,,Zenodo,yes,,yes,,No issues
+a000686,andy,2020-08-25,yes,,yes,,yes,,4,2,https://doi.org/10.5281/zenodo.3548883,yes,,https://zenodo.org/record/3548883#.X0Rbh9MvOqA,yes,,Zenodo,yes,,yes,,No issues
+a000686,andy,2020-08-25,yes,,yes,,yes,,4,3,https://doi.org/10.5281/zenodo.3548898,yes,,https://zenodo.org/record/3548898#.X0RbydMvOqA,yes,,Zenodo,yes,,yes,,No issues
+a000686,andy,2020-08-25,yes,,yes,,yes,,4,4,https://doi.org/10.5281/zenodo.3548902,yes,,https://zenodo.org/record/3548902#.X0Rb49MvOqA,yes,,Zenodo,yes,,yes,,No issues
+a000696,andy,2020-08-25,yes,,yes,,yes,,1,1,https://citsci.geog.mcgill.ca,yes,,https://citsci.geog.mcgill.ca/,no,,,no,,,,The linked site is the project website
+a000698,andy,2020-08-31,yes,,yes,,yes,,1,1,http://catalogue.ceda.ac.uk/uuid/8e6cbb111cfd41a19c92aadcb2d040fd,yes,,https://catalogue.ceda.ac.uk/uuid/8e6cbb111cfd41a19c92aadcb2d040fd,yes,,The CEDA Archive,yes,,yes,,No issues
+a000717,andy,2020-08-31,yes,,yes,,yes,,1,1,https://doi.org/10.18113/D3W375,yes,,http://www.datacommons.psu.edu/commonswizard/MetadataDisplay.aspx?Dataset=6171,yes,,datacommons@psu,yes,,partial,Over 100MB of data files,No issues
+a000792,andy,2020-08-31,yes,,yes,,yes,,6,1,10.5285/5f3c1a02-d5c4-4faa-9353-e8b68ce2ace2,yes,,https://catalogue.ceh.ac.uk/documents/5f3c1a02-d5c4-4faa-9353-e8b68ce2ace2,yes,,UK Centre for Ecology & Hydrology,yes,,other,Account required to access data,"DOIs only, not URLs; account required to access data"
+a000792,andy,2020-08-31,yes,,yes,,yes,,6,2,10.5285/e911196a-b371-47b1-968c-661eb600d83b,yes,,https://catalogue.ceh.ac.uk/documents/e911196a-b371-47b1-968c-661eb600d83b,yes,,UK Centre for Ecology & Hydrology,yes,,other,Account required to access data,"DOIs only, not URLs; account required to access data"
+a000792,andy,2020-08-31,yes,,yes,,yes,,6,3,10.5285/0ceb4f85-0bbf-49f0-ab70-cfc137ab7d4d,yes,,https://catalogue.ceh.ac.uk/documents/0ceb4f85-0bbf-49f0-ab70-cfc137ab7d4d,yes,,UK Centre for Ecology & Hydrology,yes,,other,Account required to access data,"DOIs only, not URLs; account required to access data"
+a000792,andy,2020-08-31,yes,,yes,,yes,,6,4,10.5285/f52f012d‐9f2e‐42cc‐b628‐9cdea4fa3ba0,yes,,https://catalogue.ceh.ac.uk/documents/f52f012d-9f2e-42cc-b628-9cdea4fa3ba0,yes,,UK Centre for Ecology & Hydrology,yes,,other,Account required to access data,"DOIs only, not URLs; account required to access data"
+a000792,andy,2020-08-31,yes,,yes,,yes,,6,5,10.5285/f6cac471-7d92-4e6d-be8a-9f7887143058,yes,,https://catalogue.ceh.ac.uk/documents/f6cac471-7d92-4e6d-be8a-9f7887143058,yes,,UK Centre for Ecology & Hydrology,yes,,other,Account required to access data,"DOIs only, not URLs; account required to access data"
+a000792,andy,2020-08-31,yes,,yes,,yes,,6,6,10.5285/3b90962e-6fc8-4251-853e-b9683e37f790,yes,,https://catalogue.ceh.ac.uk/documents/3b90962e-6fc8-4251-853e-b9683e37f790,yes,,UK Centre for Ecology & Hydrology,yes,,other,Account required to access data,"DOIs only, not URLs; account required to access data"
+a000829,andy,2020-08-31,yes,,yes,,yes,,1,1,http://doi.org/10.7910/DVN/SNLKUE,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SNLKUE,yes,,Harvard Dataverse,yes,,yes,,No issues
+a000839,andy,2020-08-31,yes,,no,,no,,,,,,,,,,,,,,,Theoretical paper
+a000898,andy,2020-08-31,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5284/1027216,yes,,https://archaeologydataservice.ac.uk/archives/view/austarch_na_2014/,yes,,Archaeology Data Service,yes,,yes,,No issues
+a000933,andy,2020-08-31,yes,,yes,,yes,,1,1,https://doi.org/10.5683/SP/OQDRJG,yes,,https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP/OQDRJG,yes,,Scholars Portal Dataverse,yes,,other,Account required to access data,Account required to access data
+a000951,andy,2020-08-31,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5284/1034389,yes,,https://archaeologydataservice.ac.uk/archives/view/cottamb_2015/,yes,,Archaeology Data Service,yes,,yes,,No issues
+a000959,andy,2020-08-31,yes,,yes,,yes,,1,1,https://doi.org/10.5281/zenodo.1184869,yes,,https://zenodo.org/record/1184869#.X00I6dMvPOQ,yes,,Zenodo,yes,,yes,,No issues
+a001037,andy,2020-08-31,yes,,yes,,yes,,1,1,http://www.doi.org/10.17605/OSF.IO/R7CXZ,yes,,https://osf.io/r7cxz/,yes,,OSF,yes,,yes,,No issues
+a001073,andy,2020-08-31,yes,,yes,,yes,,1,1,https://doi.org/10.17882/56796,yes,,https://www.seanoe.org/data/00456/56796/,yes,,SEANOE,yes,,partial,Over 100MB of data files,No issues
+a001111,andy,2020-08-31,yes,,yes,,yes,,1,1,http://hdl.handle.net/1959.13/1387620,yes,,https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:32640,yes,,NOVA,yes,,yes,,No issues
+a001139,andy,2020-08-31,yes,,yes,,yes,,1,1,https://doi.org/10.5281/zenodo.1186639,yes,,https://zenodo.org/record/1186639#.X00OMdMvPOQ,yes,,Zenodo,yes,,partial,Over 100MB of data files,No issues
+a001163,andy,2020-08-31,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5284/1021668,yes,,https://archaeologydataservice.ac.uk/archives/view/elmsfarm_eh_2013/,yes,,Archaeology Data Service,yes,,partial,Over 100MB of data files,No issues
+a001184,andy,2020-08-31,yes,,yes,,yes,,1,1,https://osf.io/xg5rj/wiki/home/,yes,,https://osf.io/xg5rj/wiki/home/,yes,,OSF,yes,,yes,,No issues
+a001191,andy,2020-08-31,yes,,yes,,yes,,1,1,https://doi.pangaea.de/10.1594/PANGAEA.903123,yes,,https://doi.pangaea.de/10.1594/PANGAEA.903123,yes,,PANGAEA,yes,,yes,,No issues
+a001265,andy,2020-08-31,yes,,no,,other,Direct links to data,2,1,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.xlsx,yes,,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.xlsx,no,,,yes,,yes,,"Online article, data files on journal website"
+a001265,andy,2020-08-31,yes,,no,,other,Direct links to data,2,2,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.csv,yes,,https://intarch.ac.uk/journal/issue45/4/TerrainCoefficientDataTable.csv,no,,,yes,,yes,,"Online article, data files on journal website"
+a001273,andy,2020-08-31,yes,,yes,,yes,,1,1,http://archaeologydataservice.ac.uk/archives/view/accord_ahrc_2015/,yes,,https://archaeologydataservice.ac.uk/archives/view/accord_ahrc_2015/,yes,,Archaeology Data Service,yes,,partial,Over 10MB of data files,"Appears to be a project hub, with links to sub-projects"
+a001293,andy,2020-08-31,yes,,yes,,yes,,2,1,https://doi.org/10.14284/329,yes,,http://www.vliz.be/en/imis?dasid=4687&doiid=329,yes,,VLIZ,yes,,yes,,"More recent data files also available with differenct DOI, also successfully downloaded"
+a001293,andy,2020-08-31,yes,,yes,,yes,,2,2,https://doi.org/10.14284/PANGAEA.329,no,Invalid DOI,,,,,,,,,Very similar to resolved URL
+a001356,andy,2020-08-31,yes,,no,,other,Direct links to data,1,1,https://intarch.ac.uk/journal/issue52/3/glassdata.xls,yes,,https://intarch.ac.uk/journal/issue52/3/glassdata.xls,no,,,yes,,yes,,"Online article, data files on journal website"
+a001421,andy,2020-10-15,yes,,yes,,yes,,1,1,http://figshare.com/authors/Lorna_Richardson/606491,yes,,https://figshare.com/authors/Lorna_Richardson/606491,yes,,Figshare,yes,,yes,,"Link to author's personal Figshare page, had to find files from context of paper"
+a001422,andy,2020-10-15,yes,,yes,,yes,,1,1,https://doi.org/10.5284/1052664,yes,,https://archaeologydataservice.ac.uk/archives/view/breedon_nu_2019/,yes,,Archaeology Data Service,yes,,yes,,Multiple files arranged by data type
+a001426,andy,2020-10-22,yes,,yes,,yes,,1,1,https://dx.doi.org/10.5285/2503df629a8a485e8582e5150876b210,yes,,https://catalogue.ceda.ac.uk/uuid/2503df629a8a485e8582e5150876b210,yes,,The CEDA Archive,yes,,other,Account required to access data,Account required to access data
+a001436,andy,2020-10-22,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/AT2FEZ,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AT2FEZ,yes,,Harvard Dataverse,yes,,yes,,No issues
+a001548,andy,2020-10-22,yes,,yes,,yes,,1,1,https://doi.org/10.11922/sciencedb.642,no,Redirect loop,,,,,,,,,
+a001599,andy,2020-10-22,yes,,yes,,yes,,1,1,https://doi.org/10.6078/M7CR5R8Z,yes,,https://opencontext.org/projects/23696274-1f6d-44ca-9697-36b9d5e3fe5d,yes,,Open Context,yes,,yes,,202 individual data sets; linked in csv file
+a001654,andy,2020-10-22,yes,,yes,,yes,,1,1,http://dx.doi.org/10.6084/m9.figshare.1008911,yes,,https://figshare.com/articles/dataset/Mapping_the_Structure_of_the_Archaeological_Web/1008911,yes,,Figshare,yes,,yes,,No issues
+a001338,andy,2020-10-27,yes,,yes,,yes,,1,1,https://osf.io/93m8y/,yes,,https://osf.io/93m8y/,yes,,OSF,yes,,yes,,No issues
+a001614,andy,2020-10-27,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MVGYWG,no,Asks for a login,,,,,,,,,Login required. DOI and author search return no results

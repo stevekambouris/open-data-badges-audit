@@ -1,0 +1,161 @@
+article_id,coder_initials,date_coded,has_data_badge,has_data_badge_other,data_availability_statement,data_availability_statement_other,article_has_links,article_has_links_other,number_of_links,link_number,link_url,link_work,link_work_noother,resolved_url,is_repository,is_repository_other,repository_name,files_exist,files_exist_other,download_success,download_success_other,notes
+demo01,steve,2020-04-02,yes,,yes,,yes,,1,1,http://tiny.cc/l4wacz,yes,,https://osf.io/g3h52/?view_only=None,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+demo02,steve,2020-04-02,yes,,yes,,yes,,1,1,osf.io/uh3in,yes,,https://osf.io/uh3in/,yes,,OSF,yes,,yes,,I didn't have any problems with this article
+intro01,adrian,2020-04-03,yes,,yes,,yes,,1,1,https://osf.io/n6pfz/,yes,,https://osf.io/n6pfz/,yes,,OSF,yes,,yes,,Links were easy to find
+intro02,adrian,2020-04-03,yes,,yes,,yes,,1,1,https://nyu.databrary.org/volume/79,yes,,https://nyu.databrary.org/volume/79,yes,,Databrary,yes,,no,,"Error message ""Something went wrong"" shown when trying to download files"
+intro03,adrian,2020-04-03,yes,,yes,,yes,,1,1,https://osf.io/9w8pg/,yes,,https://osf.io/9w8pg/,yes,,OSF,yes,,yes,,Links were easy to find
+intro04,adrian,2020-04-03,yes,,yes,,yes,,1,1,http://dx.doi.org/10.5061/dryad.d2441,yes,,https://datadryad.org/stash/dataset/doi:10.5061/dryad.d2441,yes,,Dryad,yes,,yes,,Links were easy to find
+intro05,adrian,2020-04-03,yes,,yes,,yes,,1,1,http://thedata.harvard.edu/dvn/dv/PainData,yes,,https://dataverse.harvard.edu/dataverse/PainData,yes,,Dataverse,yes,,yes,,Dataverse contained 2 different folders for separate projects. Actual data was in 2nd folder. Redirected site for 2nd folder was 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27813'
+intro06,adrian,2020-04-03,yes,,yes,,yes,,1,1,https://osf.io/zw6jg/,yes,,https://osf.io/zw6jg/,yes,,OSF,yes,,yes,,Links were less obvious
+intro07,adrian,2020-04-03,yes,,yes,,yes,,1,1,https://osf.io/8jxsr/,yes,,https://osf.io/8jxsr/,yes,,OSF,yes,,yes,,Download took very long time
+intro08,adrian,2020-04-03,yes,,yes,,yes,,2,1,http://doi.org/10.3886/ICPSR04652.v6,yes,,https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4652/version/6,yes,,ICPSR,other,Data had been updated to V7. Link to updated data provided and downloaded.,yes,,"2 links were given, but one (http://midus.colectica.org/) required a login so was ignored. Downloaded data was for updated study (V7) done in 2017"
+intro09,adrian,2020-04-03,yes,,yes,,yes,,1,1,https://osf.io/xehfu/,yes,,https://osf.io/xehfu/,yes,,OSF,yes,,yes,,Links were easy to find
+intro10,adrian,2020-04-03,yes,,yes,,yes,,1,1,http://pisa2006.acer.edu.au/downloads.php,no,Site can' be reached,,,,,,,,,Link did not work
+a000013,adrian,2020-04-05,yes,,yes,,yes,,1,1,http://thedata.harvard.edu/dvn/dv/lzav/faces/study/StudyPage.xhtml?globalId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27740&studyListingIndex=3_81dd3734f5b119094c28f53886bc,yes,,Dataverse,yes,,yes,,Ok
+a000132,adrian,2020-04-05,yes,,yes,,yes,,2,1,http://www.pairfam.de/en/data/data-access/,yes,,https://www.pairfam.de/index.php,no,,,no,,,,Article had 2 links - This link was in German and did not have files for download
+a000132,adrian,2020-04-05,yes,,yes,,yes,,2,2,https://osf.io/z6ryh/,yes,,https://osf.io/z6ryh/,yes,,OSF,yes,,yes,,Article had 2 links - This link was ok
+a000154,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/usdq8/,yes,,https://osf.io/usdq8/,yes,,OSF,yes,,yes,,Files were not as obvious
+a000168,adrian,2020-04-05,yes,,yes,,yes,,1,1,http://doi.org/10.3886/ICPSR21600.v17,yes,,https://www.icpsr.umich.edu/web/DSDR/studies/21600/version/17,yes,,ICPSR,other,Data had been updated to V21. Link to updated data provided and downloaded.,yes,,Files were hard to find and took a long time to download. File size was 143MB so did not upload to Drive
+a000191,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/3mftr/,yes,,https://osf.io/3mftr/,yes,,OSF,yes,,yes,,Ok
+a000192,adrian,2020-04-05,yes,,yes,,yes,,2,1,https://osf.io/B2478,yes,,https://osf.io/B2478,yes,,OSF,yes,,yes,,Article had 2 links - This link contained 'Data'
+a000192,adrian,2020-04-05,yes,,yes,,yes,,2,2,https://osf.io/G4C7Z/,yes,,https://osf.io/G4C7Z/,yes,,OSF,yes,,yes,,Article had 2 links - This link contained 'Materials'
+a000207,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/bx8zv/,yes,,https://osf.io/bx8zv/,yes,,OSF,yes,,yes,,"Link was not obvious to find. There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000216,adrian,2020-04-05,yes,,no,,yes,,1,1,https://osf.io/9nq3c/,yes,,https://osf.io/9nq3c/,yes,,OSF,yes,,yes,,Link was buried in a footnote and hard to find. There was no availbility statement
+a000386,adrian,2020-04-05,yes,,yes,,yes,,1,1,http://www.osf.io/r483u,yes,,http://www.osf.io/r483u,yes,,OSF,yes,,yes,,Ok
+a000410,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/xf7rn/,yes,,https://osf.io/xf7rn/,yes,,OSF,yes,,yes,,Ok
+a000412,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/fzmsa/,yes,,https://osf.io/fzmsa/,yes,,OSF,yes,,yes,,Link was in a footnote and hard to find
+a000531,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/u9bsv/,yes,,https://osf.io/u9bsv/,yes,,OSF,yes,,yes,,Ok
+a000553,adrian,2020-04-05,yes,,yes,,yes,,4,1,https://osf.io/tvuer/,yes,,https://osf.io/tvuer/,yes,,OSF,yes,,yes,,Article had 4 links - This link contained 'Registered materials and protocols'
+a000553,adrian,2020-04-05,yes,,yes,,yes,,4,2,https://osf.io/d5s2t,yes,,https://osf.io/d5s2t,yes,,OSF,yes,,yes,,Article had 4 links - This link contained 'Registered data entry template'
+a000553,adrian,2020-04-05,yes,,yes,,yes,,4,3,https://osf.io/vwytd/,yes,,https://osf.io/vwytd/,yes,,OSF,yes,,yes,,Article had 4 links - This link contained 'Open data'
+a000553,adrian,2020-04-05,yes,,yes,,yes,,4,4,https://osf.io/nz3su/,yes,,https://osf.io/nz3su/,yes,,OSF,yes,,yes,,Article had 4 links - This link contained 'Open analysis'
+a000567,adrian,2020-04-05,yes,,yes,,yes,,1,1,https://osf.io/fnps3/,yes,,https://osf.io/fnps3/,yes,,OSF,yes,,yes,,Ok
+a000580,adrian,2020-04-05,yes,,yes,,yes,,5,1,https://osf.io/jckvq/,yes,,https://osf.io/jckvq/,yes,,OSF,yes,,yes,,Article had 5 links - This file was a excel sheet
+a000580,adrian,2020-04-05,yes,,yes,,yes,,5,2,https://osf.io/6n3yq/,yes,,https://osf.io/6n3yq/,yes,,OSF,yes,,yes,,Article had 5 links - Zip file
+a000580,adrian,2020-04-05,yes,,yes,,yes,,5,3,https://osf.io/5zuq7/,yes,,https://osf.io/5zuq7/,yes,,OSF,yes,,yes,,Article had 5 links - This was a Programming file
+a000580,adrian,2020-04-05,yes,,yes,,yes,,5,4,https://osf.io/g5cxj/,yes,,https://osf.io/g5cxj/,yes,,OSF,yes,,yes,,Article had 5 links - This was a Word file
+a000580,adrian,2020-04-05,yes,,yes,,yes,,5,5,https://osf.io/siqyz/,yes,,https://osf.io/siqyz/,yes,,OSF,yes,,yes,,Article had 5 links - Zip file
+a000583,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/u8sdh/,yes,,https://osf.io/u8sdh/,yes,,OSF,yes,,other,File >100MB,File was very large (>100MB) so not uploaded to Drive
+a000616,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/am5nh/,yes,,https://osf.io/am5nh/,yes,,OSF,yes,,yes,,Ok
+a000653,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/8jy6r/,yes,,https://osf.io/8jy6r/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data""  - this link was ignored, as there was an explicit link to the open data"
+a000667,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/fhjyb/,yes,,https://osf.io/fhjyb,yes,,OSF,yes,,yes,,Ok
+a000705,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/7apwg/?view_only=4f6d2e286518484e921b926332444e90,yes,,https://osf.io/7apwg/?view_only=4f6d2e286518484e921b926332444e90,yes,,OSF,yes,,yes,,Data badge was at the end of article. Links were not obvious
+a000718,adrian,2020-04-06,yes,,yes,,yes,,4,1,https://osf.io/cdyf9/,yes,,https://osf.io/cdyf9/,yes,,OSF,yes,,yes,,Article had 4 links. All files downloaded
+a000718,adrian,2020-04-06,yes,,yes,,yes,,4,2,https://osf.io/djxyg/,yes,,https://osf.io/djxyg/,yes,,OSF,yes,,yes,,Article had 4 links. All files downloaded
+a000718,adrian,2020-04-06,yes,,yes,,yes,,4,3,https://osf.io/df74g/,yes,,https://osf.io/df74g/files/,yes,,OSF,yes,,yes,,Article had 4 links. All files downloaded
+a000718,adrian,2020-04-06,yes,,yes,,yes,,4,4,https://osf.io/v9b7j/,yes,,https://osf.io/v9b7j/files/,yes,,OSF,yes,,yes,,Article had 4 links. All files downloaded
+a000787,adrian,2020-04-06,no,,yes,,yes,,1,1,http://osf.io/gm5j6,yes,,http://osf.io/gm5j6,yes,,OSF,yes,,yes,,Article didn't have data badge. Data statement and links were buried in footnotes and hard to find
+a000796,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/pszjz/,yes,,https://osf.io/pszjz/,yes,,OSF,yes,,yes,,Ok
+a000816,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/yg82m/,yes,,https://osf.io/yg82m/,yes,,OSF,yes,,yes,,Ok
+a000910,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://data.mendeley.com/datasets/xyx2x7hhtm/1,yes,,https://data.mendeley.com/datasets/xyx2x7hhtm/1,yes,,Mendeley,yes,,yes,,Ok
+a000986,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/t26xq/,yes,,https://osf.io/t26xq/,yes,,OSF,yes,,yes,,Ok
+a001008,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/9e3a9/,yes,,https://osf.io/9e3a9/,yes,,OSF,yes,,yes,,File larger than average (45MB)
+a001015,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/9e5au/,yes,,https://osf.io/9e5au/,yes,,OSF,yes,,yes,,Ok
+a001059,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/8j7ub/,yes,,https://osf.io/8j7ub/,yes,,OSF,yes,,yes,,Links were hard to find
+a001110,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/pfh6r/,yes,,https://osf.io/pfh6r/,yes,,OSF,yes,,yes,,Ok
+a001186,adrian,2020-04-06,yes,,yes,,yes,,1,1,http://midus.colectica.org,yes,,https://midus.colectica.org/Account/Login,other,Subscription based repository,Midus,other,Needed login,,,Link led to login page which required login. Could not access any files.
+a001206,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/6IOACK,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6IOACK,yes,,Dataverse,yes,,yes,,Availability statement wasn't very clear
+a001245,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/OOIEAO,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OOIEAO,yes,,Dataverse,yes,,yes,,Availability statement wasn't very clear
+a001250,adrian,2020-04-06,yes,,yes,,yes,,2,1,https://dbk.gesis.org/DBKSearch/SDesc2.asp?no=6701,no,URL not found,,,,,,,,,Article had 2 links - This URL not found
+a001250,adrian,2020-04-06,yes,,yes,,yes,,2,2,https://osf.io/wk9rp/,yes,,https://osf.io/wk9rp/,yes,,OSF,yes,,yes,,Article had 2 links - This link ok
+a001285,adrian,2020-04-06,yes,,yes,,yes,,3,1,https://osf.io/jxd47/,yes,,https://osf.io/jxd47/,yes,,OSF,yes,,yes,,Downloaded file was an R program
+a001285,adrian,2020-04-06,yes,,yes,,yes,,3,2,https://www.iris-database.org,yes,,https://www.iris-database.org/iris/app/home/index;jsessionid=842A061272EFFFBB029516227029FD6F,yes,,Iris,no,,,,This was the general Iris welcome page. No files found.
+a001285,adrian,2020-04-06,yes,,yes,,yes,,3,3,https://github.com/rnorouzian/i/blob/master/i.r,yes,,https://github.com/rnorouzian/i/blob/master/i.r,yes,,Github,no,,,,No file found. Page was long wall of text (Looks like an R program)
+a001352,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/kwvu6/,yes,,https://osf.io/kwvu6/,yes,,OSF,yes,,other,File >100MB,File was very large (>100MB) so not uploaded to Drive
+a001376,adrian,2020-04-06,yes,,yes,,yes,,2,1,https://osf.io/esj5f/,yes,,https://osf.io/esj5f/,yes,,OSF,yes,,yes,,This link led to a specific PDF document
+a001376,adrian,2020-04-06,yes,,yes,,yes,,2,2,https://osf.io/txa5j/,yes,,https://osf.io/txa5j/,yes,,OSF,yes,,yes,,This link had all files for this project
+a001482,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://osf.io/7h6cy/,yes,,https://osf.io/7h6cy/,yes,,OSF,yes,,yes,,Ok
+a001501,adrian,2020-04-06,yes,,yes,,yes,,1,1,https://dx.doi.org/10.7910/DVN/DEMP8Q,no,DOI not found,,,,,,,,,Error: DOI not found
+a001653,adrian,2020-04-06,yes,,yes,,yes,,1,1,http://osf.io/5t0b7,yes,,http://osf.io/5t0b7,yes,,OSF,yes,,yes,,Files were downloaded as 4 separate zip files
+a000090,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/e9mhc/,yes,,https://osf.io/e9mhc,yes,,OSF,yes,,other,File >100MB,File was very large (>100MB) so not uploaded to Drive
+a000105,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/4zwsd/,yes,,https://osf.io/4zwsd/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000244,adrian,2020-04-14,yes,,no,Only link is given. No statement,other,"Link listed as ""Open data"". The actual link URL is not written out",1,1,Open data,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z5RSKK,yes,,Dataverse,yes,,yes,,"There was just a link called ""Open Data"" under its ""Supplement"" section"
+a000276,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/x25ea/,yes,,https://osf.io/x25ea/,yes,,OSF,yes,,yes,,"There were 3 other links for the data and analysis plans for each study (Study 1, 2, 3) individually, but these were ignored since the first link contained all data and materials already"
+a000282,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/szvxd/,yes,,https://osf.io/szvxd/,yes,,OSF,yes,,yes,,Ok
+a000313,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/rhju9/,yes,,https://osf.io/rhju9/,yes,,OSF,yes,,yes,,Link was not obvious to find
+a000317,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/fsadm/,yes,,https://osf.io/fsadm/,yes,,OSF,yes,,yes,,Link was abit harder to find
+a000373,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/4q3dc/,yes,,https://osf.io/4q3dc/,yes,,OSF,yes,,yes,,Ok
+a000413,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/LD6NL8,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LD6NL8,yes,,Dataverse,yes,,yes,,Ok
+a000421,adrian,2020-04-14,yes,,yes,,yes,,2,1,https://osf.io/ua5pk/,yes,,https://osf.io/ua5pk,yes,,OSF,yes,,other,File size >100MB,Pre-registered data. File not uploaded as too big
+a000421,adrian,2020-04-14,yes,,yes,,yes,,2,2,https://osf.io/b8c7z/,yes,,https://osf.io/b8c7z/,yes,,OSF,yes,,yes,,Procedure data
+a000439,adrian,2020-04-14,yes,,yes,,yes,,2,1,http://dx.doi.org/10.7910/DVN/HDMGLY,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HDMGLY,yes,,Dataverse,yes,,yes,,Excel file
+a000439,adrian,2020-04-14,yes,,yes,,yes,,2,2,http://dx.doi.org/10.7910/DVN/8N3H88,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8N3H88,yes,,Dataverse,yes,,yes,,Doc file
+a000450,adrian,2020-04-14,yes,,yes,,yes,,2,1,https://osf.io/ry75j/,yes,,https://osf.io/ry75j/,yes,,OSF,yes,,yes,,Ok
+a000450,adrian,2020-04-14,yes,,yes,,yes,,2,2,https://osf.io/zsbwt/,yes,,https://osf.io/zsbwt/,yes,,OSF,yes,,yes,,Preregistration data
+a000581,adrian,2020-04-14,yes,,yes,,yes,,2,1,http://reshare.ukdataservice.ac.uk/852882/,yes,,http://reshare.ukdataservice.ac.uk/852882/,yes,,ReShare,other,Require login,,,Study 1 and 2 data. Could not access as login required
+a000581,adrian,2020-04-14,yes,,yes,,yes,,2,2,https://osf.io/n8v3c/,yes,,https://accounts.osf.io/login?service=https://osf.io/n8v3c/,yes,,OSF,other,Require login,,,Study 3 data. Could not access as login required
+a000596,adrian,2020-04-14,other,Data badge was a small logo in the appendix at the end,yes,,yes,,1,1,https://osf.io/ge2d5/,yes,,https://osf.io/ge2d5/,yes,,OSF,yes,,yes,,"Data badge hidden at the end. 2 links were given, but they were the same URL"
+a000646,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/zcbp7/,yes,,https://osf.io/zcbp7/,yes,,OSF,yes,,other,Download >15mins,"Download took too long, did not upload to Drive"
+a000655,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://db.humanconnectome.org/,yes,,https://db.humanconnectome.org/app/template/Login.vm,yes,,Connectome db,other,Require login,,,Could not access as login needed
+a000726,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/zkfhs/,yes,,https://osf.io/zkfhs/,yes,,OSF,yes,,yes,,Ok
+a000761,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/qe5nw/,yes,,https://osf.io/qe5nw/,yes,,OSF,yes,,yes,,Ok
+a000764,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://doi.org/10.6084/m9.figshare.6818228.v1,yes,,https://figshare.com/articles/Contingent_attentional_engagement_stimulus-_and_goal-driven_capture_have_qualitatively_different_consequences_-_data_from_3_experiments/6818228/1,yes,,figshare,yes,,yes,,Excel file
+a000773,adrian,2020-04-14,yes,,no,,no,,,,,,,,,,,,,,,"Article has data badge but no statement or any links given. The following disclaimer was found in the footnotes: ""Given the potentially identifying information inherent in personal narratives, the
+transcripts cannot be made public, though interested scholars should contact Dan
+McAdams (dmca@northwestern.edu) to discuss access"
+a000799,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/6s8tc/,yes,,https://osf.io/6s8tc/,yes,,OSF,yes,,yes,,Data badge not prominent
+a000823,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETM4LW,yes,,Dataverse,yes,,yes,,
+a000856,adrian,2020-04-14,yes,,yes,,yes,,2,1,https://osf.io/t7ej9/,yes,,https://osf.io/t7ej9/,yes,,OSF,yes,,other,File >100MB,Image files. File too big so did not upload
+a000856,adrian,2020-04-14,yes,,yes,,yes,,2,2,https://osf.io/fdhru/,yes,,https://osf.io/fdhru/,yes,,OSF,yes,,yes,,Data files
+a000878,adrian,2020-04-14,yes,,yes,,yes,,1,1,http://www.osf.io/uqmh4/,yes,,http://www.osf.io/uqmh4/,yes,,OSF,yes,,other,File >100MB,"File not uploaded as too large. There were 5 other individualised links for each study, but these were ignored since the first link already contained all data"
+a000919,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/usgz3/,yes,,https://osf.io/usgz3/,yes,,OSF,yes,,yes,,Ok
+a000924,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/j8zge/,yes,,https://osf.io/j8zge/,yes,,OSF,yes,,yes,,Ok
+a000935,adrian,2020-04-14,yes,,yes,,yes,,1,1,http://osf.io/pg9ca,yes,,https://accounts.osf.io/login?service=https://osf.io/pg9ca/,yes,,OSF,yes,,other,Login required,Could not access as login needed
+a000966,adrian,2020-04-14,yes,,yes,,yes,,2,1,https://osf.io/fjqtu/,yes,,https://osf.io/fjqtu/,yes,,OSF,yes,,yes,,Preregistration data
+a000966,adrian,2020-04-14,yes,,yes,,yes,,2,2,https://osf.io/hr7vx/,yes,,https://osf.io/hr7vx/,yes,,OSF,yes,,other,File >100MB,Additional materials. File too large not uploaded to Drive
+a001094,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/fpdbh,yes,,https://osf.io/fpdbh,yes,,OSF,yes,,yes,,Link was not very coded properly. Had to manually type it out in browser
+a001102,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/a3c8h/,yes,,https://osf.io/a3c8h/,yes,,OSF,yes,,yes,,Ok
+a001187,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/bw8sz/,yes,,https://osf.io/bw8sz/,yes,,OSF,yes,,yes,,Ok
+a001215,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/gwk45/,yes,,https://osf.io/gwk45/,yes,,OSF,yes,,yes,,Ok
+a001350,adrian,2020-04-14,yes,,yes,,yes,,2,1,https://osf.io/vnkaz/,yes,,https://osf.io/vnkaz/,yes,,OSF,yes,,yes,,Data files
+a001350,adrian,2020-04-14,yes,,yes,,yes,,2,2,https://osf.io/b956g/,yes,,https://osf.io/b956g/,yes,,OSF,yes,,yes,,Analysis Models
+a001394,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://doi.org/10.1016/j.jrp.2017.11.003,yes,,https://www.sciencedirect.com/science/article/abs/pii/S0092656617301095?via%3Dihub,other,Journal's website at ScienceDirect,,yes,,yes,,Only supplementary data found
+a001443,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/7b9au,yes,,https://osf.io/7b9au,yes,,OSF,yes,,yes,,Ok
+a001504,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/djzh3/,yes,,https://osf.io/djzh3/,yes,,OSF,yes,,yes,,Ok
+a001518,adrian,2020-04-14,yes,,yes,,yes,,1,1,http://osf.io/fhmyb,yes,,http://osf.io/fhmyb,yes,,OSF,yes,,yes,,Ok
+a001544,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/jp8ew/,yes,,https://osf.io/jp8ew/,yes,,OSF,yes,,yes,,Ok
+a001583,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/wxc7b/,yes,,https://osf.io/wxc7b/,yes,,OSF,yes,,yes,,Ok
+a001613,adrian,2020-04-14,yes,,yes,,yes,,1,1,https://osf.io/4m2bq/,yes,,https://osf.io/4m2bq/,yes,,OSF,yes,,yes,,Ok
+a000049,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/DTFR60,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DTFR60,yes,,Dataverse,yes,,yes,,Ok
+a000152,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org//10.17632/948rskffhd.2,yes,,https://data.mendeley.com/datasets/948rskffhd/2,yes,,Mendeley,yes,,yes,,"There is a statement at the beginning ""All data can be accessed at http://dx.doi.org/10.17632/948rskﬀhd.1."" but this link did not work. Overall ok as another link given under ""Open Practices"" section"
+a000157,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/EWRXPU,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EWRXPU,yes,,Dataverse,yes,,yes,,Ok
+a000177,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://osf.io/r3eca,yes,,http://osf.io/r3eca,yes,,OSF,yes,,yes,,Ok
+a000183,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/h6ckw/?view_only=ca786be8956247acae8ce79343a409a0,yes,,https://osf.io/h6ckw/?view_only=ca786be8956247acae8ce79343a409a0,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000303,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/WZV20D,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WZV20D,yes,,Dataverse,yes,,yes,,Ok
+a000325,adrian,2020-04-17,yes,,yes,,yes,,2,1,https://osf.io/rt6un,yes,,https://osf.io/rt6un,yes,,OSF,yes,,yes,,Study 1
+a000325,adrian,2020-04-17,yes,,yes,,yes,,2,2,https://osf.io/kzmr5/,yes,,https://osf.io/kzmr5/,yes,,OSF,yes,,yes,,Study 2
+a000332,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/5xmb2/,yes,,https://osf.io/5xmb2/,yes,,OSF,yes,,yes,,"There was link to ""supplementary data"" at the journal's website - this link was ignored, as there was an explicit link to the open data"
+a000354,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/i5knh/,yes,,https://osf.io/i5knh/,yes,,OSF,yes,,yes,,Ok
+a000404,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVWZZLO&version=DRAFT,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVWZZLO&version=DRAFT,yes,,Dataverse,yes,,yes,,
+a000409,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.6084/m9.figshare.4742935.v2,yes,,https://figshare.com/articles/Materials_for_Pupillary_Responses_to_Words_That_Convey_a_Sense_of_Brightness_or_Darkness/4742935/2,yes,,Figshare,yes,,other,File >100MB,File 375MB. Did not upload to Drive
+a000458,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/huc2k/,yes,,https://osf.io/huc2k/,yes,,OSF,yes,,yes,,Ok
+a000477,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/yf3da/,yes,,https://osf.io/yf3da/,yes,,OSF,yes,,other,File >100MB,Did not upload to Drive
+a000634,adrian,2020-04-17,yes,,yes,,yes,,2,1,https://osf.io/k8pqw/,yes,,https://osf.io/k8pqw/,yes,,OSF,yes,,yes,,Links were fused together as a hyperlink. Had to copy and paste each manually
+a000634,adrian,2020-04-17,yes,,yes,,yes,,2,2,https://osf.io/7gdxt/,yes,,https://osf.io/7gdxt/,yes,,OSF,yes,,yes,,Links were fused together as a hyperlink. Had to copy and paste each manually
+a000689,adrian,2020-04-17,yes,,yes,,yes,,2,1,https://osf.io/6myfj/,yes,,https://osf.io/6myfj/,yes,,OSF,yes,,yes,,Data
+a000689,adrian,2020-04-17,yes,,yes,,yes,,2,2,https://osf.io/tk67x/,yes,,https://osf.io/tk67x/,yes,,OSF,yes,,yes,,Materials
+a000709,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/n8spz,yes,,https://osf.io/n8spz,yes,,OSF,yes,,yes,,Ok
+a000739,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/jd4d2/,yes,,https://osf.io/jd4d2/,yes,,OSF,yes,,yes,,Ok
+a000753,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/8w4vq/,yes,,https://osf.io/8w4vq/,yes,,OSF,yes,,yes,,Ok
+a000784,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://sro.sussex.ac.uk/id/eprint/74811,yes,,http://sro.sussex.ac.uk/id/eprint/74811/,other,University of Sussex SRO,University of Sussex SRO,yes,,yes,,Excel file
+a000822,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/MTQEE1,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MTQEE1,yes,,Dataverse,yes,,yes,,Ok
+a000858,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/g8xyt/,yes,,https://osf.io/g8xyt/,yes,,OSF,yes,,yes,,Ok
+a000883,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/MPQQC0,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MPQQC0,yes,,Dataverse,yes,,yes,,Ok
+a000892,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org/10.17605/OSF.IO/JTZU8,yes,,https://osf.io/jtzu8/,yes,,OSF,yes,,yes,,Ok
+a000918,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/ACYZIC,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ACYZIC,yes,,Dataverse,yes,,yes,,Ok
+a000934,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/j479p/,yes,,https://osf.io/j479p/,yes,,OSF,yes,,other,,Ok
+a001017,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.1016/j.jesp.2018.03.014,yes,,https://www.sciencedirect.com/science/article/abs/pii/S0022103117304857?via%3Dihub,other,Journal's website at ScienceDirect,,other,Redirected to Mendeley Data,yes,,"ScienceDirect link led to another link to download the files at MendeleyData with link ""https://data.mendeley.com/datasets/hgtxmx7zpn/1"". Files downloaded ok from Mendeley"
+a001092,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/TR4OUK,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TR4OUK,yes,,Dataverse,yes,,yes,,Ok
+a001135,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://dx.doi.org/10.7910/DVN/26134,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26134,yes,,Dataverse,yes,,yes,,Ok
+a001179,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/9mdxw/?view_only=976405fbcdb94ba4bdf1988684ad92bf,yes,,https://osf.io/9mdxw/?view_only=976405fbcdb94ba4bdf1988684ad92bf,yes,,OSF,yes,,yes,,Link was a bit hard to find
+a001181,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/zpm9t/,yes,,https://osf.io/zpm9t/,yes,,OSF,yes,,other,File >100MB,Not uploaded to Drive
+a001202,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.17605/OSF.IO/UXYCH,yes,,https://osf.io/uxych/,yes,,OSF,yes,,yes,,Ok
+a001270,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/2E2M9Z,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2E2M9Z,yes,,Dataverse,yes,,yes,,Ok
+a001281,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://doi.org/10.7910/DVN/H13U6G,yes,,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H13U6G,yes,,Dataverse,yes,,yes,,Ok
+a001333,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/mtsvy/,yes,,https://osf.io/mtsvy/,yes,,OSF,yes,,yes,,Ok
+a001345,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/ugdnv/,yes,,https://osf.io/ugdnv/,yes,,OSF,yes,,yes,,Ok
+a001354,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/nvq6t/,yes,,https://osf.io/nvq6t/,yes,,OSF,yes,,yes,,Ok
+a001359,adrian,2020-04-17,yes,,yes,,no,,,,,,,,,,,,,,,"There is a statement but no link. Full statement reads ""The data, code, and any additional materials required to replicate all analyses in this article are available on the American Journal ofPolitical Science Dataverse within the Harvard Dataverse Network, at:"""
+a001432,adrian,2020-04-17,yes,,yes,,yes,,1,1,https://osf.io/fkn8m/,yes,,https://osf.io/fkn8m/,yes,,OSF,yes,,yes,,Ok
+a001507,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://www.osf.io/b69g8,yes,,http://www.osf.io/b69g8,yes,,OSF,yes,,yes,,Ok
+a001573,adrian,2020-04-17,yes,,yes,,yes,,1,1,http://osf.io/8g5fy,yes,,http://osf.io/8g5fy,yes,,OSF,yes,,yes,,Ok
